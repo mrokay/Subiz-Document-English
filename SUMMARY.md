@@ -3,12 +3,12 @@
 * Trang Home
 * Subiz Overview
   * What is Subiz?
-  * [Tour the Subiz and Service Packages](subiz-overview/tour-the-subiz-and-service-packages.md)
-* Getting Started with Subiz
-  * Setting up interaction environments
+  * [Explore packages and features](subiz-overview/tour-the-subiz-and-service-packages.md)
+* Getting Started
+  * Intergrating with Subiz
   * How to use Subiz
   * Working on Subiz
-* Optimise the use of Subiz
+* Using advanced Subiz
   * How to enhance interactions
   * Managing data
   * Improving Customer experience
@@ -16,9 +16,6 @@
   * Marketing with Subiz
 * Reports
   * General reports
-  * Conversation-based reports
-  * Tag-based reports
-  * User-based reports
   * Evaluating the use of Subiz
 * Payment
   * Payment

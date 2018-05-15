@@ -1,4 +1,4 @@
-# Tour the Subiz and Service Packages
+# Explore packages and features
 
 ## Getting Super Powers
 
