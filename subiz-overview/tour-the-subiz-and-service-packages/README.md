@@ -1,4 +1,4 @@
-# Explore packages and features
+# Exploring packages and features
 
 ## Getting Super Powers
 
