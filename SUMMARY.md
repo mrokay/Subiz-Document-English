@@ -44,7 +44,7 @@
 * Using advanced Subiz
   * [How to enhance interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
-    * Untitled
+    * Sending messages to user automatically
     * Untitled
     * Untitled
     * Untitled
