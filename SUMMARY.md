@@ -14,7 +14,7 @@
     * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/README.md)
       * Installing Subiz on Websites
       * [Setting Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/setting-subiz-chat-widget.md)
-      * Customizing Subiz Chat widget
+      * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/customizing-subiz-chat-widget.md)
       * Website integration errors?
     * Integrating Email on Subiz
       * Email Integration
