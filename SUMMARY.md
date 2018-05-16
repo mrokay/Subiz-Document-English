@@ -33,7 +33,7 @@
     * Distributing conversations
       * [Rule- distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
-      * Managing rule's lists
+      * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
   * Working on Subiz
     * My user
     * What to do every morning?
