@@ -18,7 +18,7 @@
       * Website integration errors?
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz/README.md)
       * Email Integration
-    * Integrating Fanpage Facebook on Subiz
+    * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz/README.md)
       * Facebook Integration
     * Optimizing interactive channels
       * Download Subiz app
