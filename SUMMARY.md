@@ -16,10 +16,8 @@
       * [Setting Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/setting-subiz-chat-widget.md)
       * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/customizing-subiz-chat-widget.md)
       * Website integration errors?
-    * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz/README.md)
-      * Email Integration
-    * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz/README.md)
-      * Facebook Integration
+    * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
+    * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * Optimizing interactive channels
       * Download Subiz app
       * Untitled
@@ -27,7 +25,7 @@
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
       * Agents
-      * Invite a new Agent
+      * [Invite a new Agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-a-new-agent.md)
       * Change Agent profiles
       * Create agents group
       * Guiding a new agent
