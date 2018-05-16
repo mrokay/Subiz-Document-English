@@ -24,7 +24,7 @@
       * Managing business profiles/ business profile setting
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
-      * Agents
+      * [Agents](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
       * [Invite a new Agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-a-new-agent.md)
       * Change Agent profiles
       * Create agents group
