@@ -45,11 +45,13 @@
   * [How to enhance interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * Sending messages to user automatically
+    * Asking for email address automatically
     * Untitled
     * Untitled
     * Untitled
-    * Untitled
-  * [Managing data](optimise-the-use-of-subiz/managing-data.md)
+  * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
+    * Customer segmentation
+    * Edit and update user's information
   * Improving Customer experience
   * Sales with Subiz
   * Marketing with Subiz
