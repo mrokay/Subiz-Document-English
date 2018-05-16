@@ -26,7 +26,7 @@
     * Managing agent
       * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
       * [Invite a new Agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-a-new-agent.md)
-      * Change Agent profiles
+      * [Change Agent profiles](getting-started-with-subiz/how-to-use-subiz/managing-agent/change-agent-profiles.md)
       * [Create agents group](getting-started-with-subiz/how-to-use-subiz/managing-agent/create-agents-group.md)
       * Guiding a new agent
       * Don't receive Subiz's email?
