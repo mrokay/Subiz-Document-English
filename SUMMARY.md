@@ -43,7 +43,7 @@
     * Optimizing interaction
 * Using advanced Subiz
   * [How to enhance interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
-    * Untitled
+    * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * Untitled
     * Untitled
     * Untitled
