@@ -4,7 +4,7 @@
 
 ### INVITE AGENT
 
-Agent refers to who use Subiz to interact with customers. **Invite your colleague to join using Subiz based on their responsibility and demand of your enterprise. **
+Agent refers to who use Subiz to interact with customers. **Invite your colleague to join using Subiz based on their responsibility and demand of your enterprise.** 
 
 A Subiz account can have multiple Agents, each of which has its own login account. The number of active agents depends on your package. **You should set up agent’s permission and manage the activities of agents.**
 
@@ -12,7 +12,7 @@ In order for Agents to participate in your team on Subiz, you need to send an in
 
 **Step 1: Invite Agent**
 
-Invite Agent by going to **Setting &gt; Account &gt; Agent &gt; Agent List &gt;** select ** Invite Agent.**
+Invite Agent by going to **Setting &gt; Account &gt; Agent &gt; Agent List &gt;** select  **Invite Agent.**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/Invite-Agent.png)
 
@@ -61,8 +61,8 @@ Enter information and click **Save**.
 * **Full Name:** Display name of Agent
 * **Email Address**: The email via which Agent received the invitation. It can not be changed
 * **Job Title:** The job title of Agent. For example: Supporter, Salesman, CEO…
-* **Phone Number: **Phone number of Agent
-* **Time Zone: **Choose your country’s timezone. This affects your dashboard conversation time
+* **Phone Number:** Phone number of Agent
+* **Time Zone:** Choose your country’s timezone. This affects your dashboard conversation time
 * **Language:** The dashboard language
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/my-profile.png)
@@ -89,7 +89,7 @@ Select **Update** to finish.
 
 ### EDIT AGENT
 
-**You can edit other agents’ information only when you have full access to Account Management and Account Setting permission. **
+**You can edit other agents’ information only when you have full access to Account Management and Account Setting permission.** 
 
 **Note:** Agents can edit their personal information on [My Profile](https://app.subiz.com/profile/) page.
 
@@ -99,7 +99,7 @@ To edit Agent, go to [**Setting &gt; Account &gt; Agent &gt; Agent List**](https
 
 #### 1. Change Agent’s status
 
-Select** Active / Inactive** status
+Select **Active / Inactive** status
 
 * **Active**
 
@@ -174,7 +174,7 @@ Click \(+\) or \(-\) to select/deselect Agent as a member of the group
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/select-member.png)
 
-#### **2. Edit group **
+#### **2. Edit group** 
 
 To edit information of a group, go to **Setting&gt; Account&gt; Agent &gt; Agent Group**&gt; select the edit icon.
 
@@ -244,9 +244,9 @@ To use this library, follow below steps:
 Currently, Subiz has 4 rules available in the library:
 
 * **Assign all Agents**: assign all conversations to all active Agents \(recommended if you have only 1 Agent\)
-* **Return users: **apply for users who have total session greater than 2.
-* **English language support: **apply for conversations in which message language is English
-* **Pricing: **apply for conversations in which message content contains pricing.
+* **Return users:** apply for users who have total session greater than 2.
+* **English language support:** apply for conversations in which message language is English
+* **Pricing:** apply for conversations in which message content contains pricing.
 
 ### CREATE A NEW RULE
 
@@ -254,11 +254,11 @@ Currently, Subiz has 4 rules available in the library:
 
 Note:
 
-* When you have more than one Agent,** if you do not create rules to assign conversations, all conversation will be assigned to Agent owner by default. It means others Agents do not receive notification of new conversations. **
+* When you have more than one Agent, **if you do not create rules to assign conversations, all conversation will be assigned to Agent owner by default. It means others Agents do not receive notification of new conversations.** 
 * You can use sample rules in [rule library](https://docv4.subiz.com/rule-library/).
 * You can create multiple rules, [edit and manage rules](https://docv4.subiz.com/rules-management/) to adapt your demand.
 
-To set up a new rule,[ log into your account](https://app.subiz.com/login) and go to [**Setting&gt; Account&gt; Message&gt; Rule**](https://app.subiz.com/settings/rule-setting)** &gt; **Select **New rule. **
+To set up a new rule,[ log into your account](https://app.subiz.com/login) and go to [**Setting&gt; Account&gt; Message&gt; Rule**](https://app.subiz.com/settings/rule-setting) **&gt;** Select **New rule.** 
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/New-rule-1.png)
 
@@ -268,12 +268,12 @@ Then start to set up a new rule.
 
 Step 1: Enter rule name and description
 
-* **Rule Name: **Enter rule name so that you can easily manage in the rule list
+* **Rule Name:** Enter rule name so that you can easily manage in the rule list
 * **Description**: Describe the condition and purpose of the rule
 
 Step 2: Select conditions for the rule
 
-* Click **Add more condition **to combine multiple conditions in a rule.
+* Click **Add more condition** to combine multiple conditions in a rule.
 * Select **And / Or** to determine the relationship between the conditions.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/condition.png)

@@ -63,7 +63,7 @@ With Standard package, you can activate up to 5 Automations. You just need to up
 
 Follow below steps to set up automation:
 
-* **Enter Automation Name and Description **
+* **Enter Automation Name and Description** 
 
 Automation name and description help you identify and distinguish Automations.
 
@@ -99,7 +99,7 @@ For example:
 
 See more **List of automation condition**
 
-* **Select Channel **
+* **Select Channel** 
 
 Then you select the channel in which Automation will run. In each channel, you can choose different actions.
 
@@ -109,7 +109,7 @@ Then you select the channel in which Automation will run. In each channel, you c
 
 – On Subiz Chat channel, you can select action **Send message to user** or **Ask for email address**.
 
-+** Send message to user**
++ **Send message to user**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/send-message.png)
 

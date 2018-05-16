@@ -52,8 +52,8 @@ Follow these step to create Segment:
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/Condition.png)
 
 * Click **Add more condition** if you want to combine conditions
-* Select relationships between conditions –** And:** Users with all conditions satisfied will be included in the Segment – **Or: **Users with one of the conditions satisfied will be included in the Segment
-* Click **Create Segment **to finish
+* Select relationships between conditions – **And:** Users with all conditions satisfied will be included in the Segment – **Or:** Users with one of the conditions satisfied will be included in the Segment
+* Click **Create Segment** to finish
 
 For example: Segment of users from Vietnam and email address is known.
 
@@ -61,9 +61,9 @@ For example: Segment of users from Vietnam and email address is known.
 
 **Filter all users \(**only available in Advanced package\):
 
-–** ON: **Filter all users who visited your website\(s\) by the condition\(s\) above
+– **ON:** Filter all users who visited your website\(s\) by the condition\(s\) above
 
-–** OFF: **Subiz will only filter users who visit your website from the time this segment is created
+– **OFF:** Subiz will only filter users who visit your website from the time this segment is created
 
 With Standard package, you can create up to 5 Segments. You will see the number of segments below the Create segment button. If you have used up the number of Segments allowed, you need to upgrade your account to Advanced Package to create new Segment.
 

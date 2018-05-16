@@ -10,7 +10,7 @@
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/New-visitor.png)
 
-As for return visitors, they can see the list of previous conversations. They can continue one of the previous conversations \(if it is not ended\) or make a new conversation by click** New conversation**.
+As for return visitors, they can see the list of previous conversations. They can continue one of the previous conversations \(if it is not ended\) or make a new conversation by click **New conversation**.
 
 ![](http://docv4.subiz.com/wp-content/uploads/2018/01/return-visitor.png)
 
@@ -84,7 +84,7 @@ Select where the widget will appear on your website: **Botton Left/ Bottom Right
 
 You can customize the color for the Subiz window by selecting one of the suggested colors, or customize your own color.
 
-**Choose the color which should be similar to the brand color, but also identifiable on your website. **
+**Choose the color which should be similar to the brand color, but also identifiable on your website.** 
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/color.png)
 
@@ -115,7 +115,7 @@ If you want to use an unsupported language, you can customize the language by cl
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/language-customize-3.png)
 
-#### **6. CSS Customize **
+#### **6. CSS Customize** 
 
 CSS stands for “Cascading Style Sheet”, if you have knowledge of HTML, you can create your own widget by using CSS code.
 
@@ -325,7 +325,7 @@ Step 2: Edit .po file
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/edit-file.png)
 
-* Click** Save** to finish editing.
+* Click **Save** to finish editing.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/save-button.png)
 
@@ -353,8 +353,8 @@ If you forward emails to abc@mail.subiz.com, you also get these emails on Subiz.
 
 List of income addresses is all email addresses you want to use to work with customers on Subiz. To add a new income email, follow below steps:
 
-* [Sign in](http://app.subiz.com/login) and go to **Setting &gt; Account &gt; Message &gt; Email **
-* Click **New Income Email **
+* [Sign in](http://app.subiz.com/login) and go to **Setting &gt; Account &gt; Message &gt; Email** 
+* Click **New Income Email** 
 * Enter email address in **Type your email address**
 * Click **Add**
 
@@ -362,7 +362,7 @@ List of income addresses is all email addresses you want to use to work with cus
 
 **Step 2: Enable forwarding email to your Subiz email address**
 
-**Forwarding email with Gmail **
+**Forwarding email with Gmail** 
 
 If you are using gmail account, following instructions below to enable forwarding email:
 
@@ -394,7 +394,7 @@ Click **Connect to a Fanpage**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/messentger-page-Eng.png)
 
- Step 2:** Enter your Facebook account**
+ Step 2: **Enter your Facebook account**
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/login-facebook.png)
 

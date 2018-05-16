@@ -11,7 +11,7 @@
     * Pricing packages
 * Getting Started
   * [Intergrating with Subiz](getting-started-with-subiz/setting-up-interaction-environments/README.md)
-    * Intergating Subiz Chat
+    * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/README.md)
       * Installing Subiz on Websites
       * Setting Subiz Chat widget
       * Customizing Subiz Chat widget
