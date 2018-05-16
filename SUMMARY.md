@@ -32,7 +32,7 @@
       * Don't receive Subiz's email?
     * Distributing conversations
       * [Rule- distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
-      * Rule setting
+      * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * Managing rule's lists
   * Working on Subiz
     * My user
