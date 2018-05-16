@@ -34,5 +34,8 @@ The Agent then needs to complete the form:![](http://docv4.subiz.com/wp-content/
 * **Time Zone:** Agent needs to adjust a suitable time zone
 * **Language:** Language used on the dashboard
 
-After filling in all information, click **Confirm**.![](http://docv4.subiz.com/wp-content/uploads/2018/01/invite-success.png)
+After filling in all information, click **Confirm**.  
+![](http://docv4.subiz.com/wp-content/uploads/2018/01/invite-success.png)
+
+###  {#agents-profile}
 

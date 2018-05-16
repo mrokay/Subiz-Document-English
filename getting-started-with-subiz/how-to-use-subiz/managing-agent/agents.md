@@ -1,6 +1,4 @@
-# Agents
-
-### AGENT’S PROFILE {#agents-profile}
+# AGENT’S PROFILE
 
 Agents can update their personal information by clicking on the avatar in the upper right corner of the screen, select **My profile**.  
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/my-profile-1.png)

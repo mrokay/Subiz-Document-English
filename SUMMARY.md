@@ -24,10 +24,10 @@
       * Managing business profiles/ business profile setting
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
-      * [Agents](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
+      * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
       * [Invite a new Agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-a-new-agent.md)
       * Change Agent profiles
-      * Create agents group
+      * [Create agents group](getting-started-with-subiz/how-to-use-subiz/managing-agent/create-agents-group.md)
       * Guiding a new agent
       * Don't receive Subiz's email?
     * Distributing conversations
