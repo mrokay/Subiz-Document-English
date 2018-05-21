@@ -2,8 +2,8 @@
 
 * Trang Home
 * Subiz Overview
-  * What is Subiz?
-  * [How Subiz works](subiz-overview/how-subiz-works.md)
+  * [What is Subiz?](subiz-overview/what-is-subiz-1.md)
+  * [How Subiz works?](subiz-overview/how-subiz-works.md)
 * Getting Started
   * Intergrating with Subiz
     * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/README.md)
