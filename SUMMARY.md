@@ -3,12 +3,7 @@
 * Trang Home
 * Subiz Overview
   * What is Subiz?
-    * What is Subiz?
-    * How Subiz works
-  * [Exploring packages and features](subiz-overview/tour-the-subiz-and-service-packages/README.md)
-    * Exploring intergrated channels
-    * Exploring features
-    * Pricing packages
+  * [How Subiz works](subiz-overview/how-subiz-works.md)
 * Getting Started
   * Intergrating with Subiz
     * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/README.md)

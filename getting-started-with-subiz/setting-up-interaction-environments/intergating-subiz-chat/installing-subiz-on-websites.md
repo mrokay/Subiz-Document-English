@@ -2,9 +2,7 @@
 
 Subiz Live Chat is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can interact, follow and convert visitors into customers.
 
-[Subiz’s embed code ](https://docv4.subiz.com/integration-into-website/#SubizCode)  
-[Embed the code into website](https://docv4.subiz.com/integration-into-website/#Installation)  
-[Check the chat widget on website](https://docv4.subiz.com/integration-into-website/#CheckWidget)
+### How to integrate Subiz on your website
 
 To integrate Subiz widget into your website, follow these three steps:
 
@@ -41,7 +39,7 @@ If not successfully, check the code again and contact Subiz support center.
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/check-code.png)
 
-### Tích hợp Subiz trên các nền tảng {#tich-hop-subiz-tren-cac-nen-tang}
+### Integrating Subiz on other Website platform
 
 If your website is built on other platforms, find installation guide in the list below and enable the integration in your website’s control panel.
 
