@@ -4,7 +4,7 @@
 
 Subiz is a communication customer platform that brings high revenue.
 
-Businesses can interact with their customers right on Subiz to understand their customers, build their customer portfolios and  implement interactive marketing strategies for customer care and retention.
+Businesses can interact with their customers right on Subiz. Interactive data which is aggregated on Subiz will help you understand the customer personas and implement interactive marketing strategies for customer care and retention effectively.
 
 ### Benefits and Values of Subiz
 
@@ -17,5 +17,5 @@ Consumers often look for information and have demand for your brand on Website, 
 * **Improving customer conversion rates:** Capture the needs of users, proactively reach and increase sales opportunities.
 * **Managing customer data effectively:** Integrate customer interaction history and resolve customer support issues accurately.
 
-As such, Subiz is all you need to interact and manage customers without having to go far. All done right on Subiz's Dashboard.
+As such, Subiz is all you need to interact and manage customers without using other applications. All done right on Subiz's Dashboard.
 
