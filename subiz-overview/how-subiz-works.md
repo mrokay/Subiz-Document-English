@@ -2,17 +2,17 @@
 
 ### How Subiz works?
 
-Businesses can reach and manage customers on multiple channels right on Subiz's Dashboard.
+Subiz is a tool to support you reach, sell and manage your customers from multiple channels right on Subiz's Dashboard.
 
-![Subiz&apos;s Dashboard](../.gitbook/assets/screenshot_41.png)
+![Subiz&apos;s Dashboard](../.gitbook/assets/uvwvioclwkitqzfkjtaqsfvc0qs6nju3r3uuqcmpehezho75siwhgwmatgaomtiaqickgqqj03guoipbbqirv5l6bjklwv6t0fdn.png)
 
-Here, you can track where customers are coming from, start interacting and pursuing customers on Website, Facebook, Email, Zalo, …
+Here, you can track where customers are coming from, actively interacting and pursuing customers on Website, Facebook, Email, Zalo, …
 
 Businesses can increase customer conversion rates and sales by:
 
-* Gathering customer information and implement automated marketing strategies with **Automation**
+* Gathering customer information and implementing automated marketing strategies with **Automation**
 * Segmenting and managing your leads through **Segment**
-* Delivering conversations to Agents through **Rule**
+* Delivering conversations to Agents and managing Agent's activities through **Rule**
 
 ### **Terms and definitions** {#Subizterm}
 
