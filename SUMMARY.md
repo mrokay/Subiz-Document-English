@@ -32,7 +32,7 @@
   * Working on Subiz
     * My user
     * What to do every morning?
-    * Interact on Subiz Chat
+    * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)
     * Interact on Email
     * Interact on Messenger
     * Optimizing interaction
