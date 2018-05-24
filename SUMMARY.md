@@ -61,9 +61,8 @@
     * Automation Credit
     * FAQs
   * Managing packages
-    * Checking current account
-    * How to change pricing packages?
-    * How to change payment method?
+    * [Checking current account](payment/managing-packages/checking-current-account.md)
+    * [How to change pricing packages?](payment/managing-packages/how-to-change-pricing-packages.md)
     * FAQs
 * Applications
 
