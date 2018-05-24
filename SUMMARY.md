@@ -47,9 +47,7 @@
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation.md)
     * Edit and update user's information
-  * Improving Customer experience
-  * Sales with Subiz
-  * Marketing with Subiz
+    * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
 * Reports
   * [General reports](reports/general-reports.md)
   * Evaluating the use of Subiz
