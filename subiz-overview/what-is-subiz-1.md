@@ -8,7 +8,7 @@ Businesses can interact with their customers right on Subiz. Interactive data wh
 
 ### Benefits and Values of Subiz
 
-![](../.gitbook/assets/screenshot_55.png)
+![Subiz supports businesses on marketing, sales, customer care and business operations](../.gitbook/assets/screenshot_6.png)
 
 Consumers often look for information and have demand for your brand on Website, Facebook, Email, ... at any time, so you can use Subiz to:
 

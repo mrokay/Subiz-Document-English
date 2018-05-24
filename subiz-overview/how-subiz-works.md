@@ -16,7 +16,7 @@ Businesses can increase customer conversion rates and sales by:
 
 ### **Terms and definitions** {#Subizterm}
 
-As you're getting started on Subiz, there are some common terms that are handy for you to know. Here's an overview of Slack basics.
+As you're getting started on Subiz, there are some common terms that are handy for you to know. Here's an overview of Subiz basics.
 
 | **Agent** | Who sign in Subiz account to make interaction with customers, or set up and manage account. Agent can be a manager, supporter or any person in your staff. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
