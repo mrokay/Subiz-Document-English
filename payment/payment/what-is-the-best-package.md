@@ -8,7 +8,9 @@ Subiz offers **4 service packages** including: Trial Package, Free Package, Basi
 
 After signing up, Subiz allows you to try the full 30 days trial most of Subiz’s feature. Then, you may consider upgrading to a paid or a free Subiz package.
 
-Note: Upgrading your account to a paid plan helps you get the most out of all the features Subiz has to offer.
+{% hint style="info" %}
+Upgrading your account to a paid plan helps you get the most out of all the features Subiz has to offer.
+{% endhint %}
 
 Depending on the nature and model of your business, you may choose one of the following services from Subiz:
 
