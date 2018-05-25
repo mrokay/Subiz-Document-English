@@ -18,7 +18,7 @@
       * Managing business profiles/ business profile setting
       * FAQs
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
-        * I don't receive any Subiz Emails
+        * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
       * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
