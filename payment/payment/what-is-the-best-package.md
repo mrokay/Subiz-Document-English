@@ -2,7 +2,7 @@
 
 ### What available service packages does Subiz have?
 
-Subiz offers 4 service packages including: Trial Package, Free Package, Basic Package and Advanced Package.
+Subiz offers **4 service packages** including: Trial Package, Free Package, Basic Package and Advanced Package.
 
 ### What is the best package?
 

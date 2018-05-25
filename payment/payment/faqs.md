@@ -75,7 +75,7 @@ The invoice is required to be made within 30 days from the date enterprise compl
 
 ### Invoice Management
 
-To track your status, billing status \(billing status, period, residual term ...\) you can access your Subiz&gt; Settings / [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:  
+To track your status, billing status \(billing status, period, residual term ...\) you can access your [Subiz](https://app.subiz.com/subscription)&gt; Settings / [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:  
 
 
 ![Invoice Management](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
