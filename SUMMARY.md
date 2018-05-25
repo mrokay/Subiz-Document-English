@@ -52,8 +52,8 @@
 * Payment
   * Payment
     * [What kind of pricing packages are available?](payment/payment/what-kind-of-pricing-packages-are-available.md)
-    * What is the best package?
-    * How to charge Subiz
+    * [What is the best package?](payment/payment/what-is-the-best-package.md)
+    * [How to charge Subiz](payment/payment/how-to-charge-subiz.md)
     * Automation Credit
     * FAQs
   * Managing packages
