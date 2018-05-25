@@ -46,7 +46,7 @@
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation.md)
     * Edit and update user's information
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
-    * How to block an User?
+    * [How to block a User?](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
 * Reports
   * [General reports](reports/general-reports.md)
   * Evaluating the use of Subiz
