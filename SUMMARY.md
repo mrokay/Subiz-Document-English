@@ -42,12 +42,11 @@
     * Sending messages to user automatically
     * Asking for email address automatically
     * Untitled
-    * Untitled
-    * Untitled
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation.md)
     * Edit and update user's information
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
+    * How to block an User?
 * Reports
   * [General reports](reports/general-reports.md)
   * Evaluating the use of Subiz
