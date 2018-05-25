@@ -16,7 +16,7 @@
     * Optimizing interactive channels
       * Download Subiz app
       * Managing business profiles/ business profile setting
-  * FAQs
+        * FAQs
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
       * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
