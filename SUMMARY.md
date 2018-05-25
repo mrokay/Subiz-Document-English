@@ -51,7 +51,7 @@
   * Evaluating the use of Subiz
 * Payment
   * Payment
-    * What kind of pricing packages are available?
+    * [What kind of pricing packages are available?](payment/payment/what-kind-of-pricing-packages-are-available.md)
     * What is the best package?
     * How to charge Subiz
     * Automation Credit
