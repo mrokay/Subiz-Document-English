@@ -4,7 +4,7 @@
 
 This situation occurs in the case of payment due to a difference in balance when making the transfer. This has been noted immediately at the payment confirmation email from the system when making a payment update for your account. Please pay the exact amount the system provides.
 
-Note: If you have any questions regarding the invoice and payment, please send feedback to billing@subiz.com for support.
+Note: If you have any questions regarding the invoice and payment, please send feedback to [billing@subiz.com](mailto:billing@subiz.com) for support.
 
 ### Why Payment via Credit Card failed?
 
@@ -78,7 +78,7 @@ The invoice is required to be made within 30 days from the date enterprise compl
 To track your status, billing status \(billing status, period, residual term ...\) you can access your Subiz&gt; Settings / [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:  
 
 
-![](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
+![Invoice Management](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
 
 ### Refund Policy
 
