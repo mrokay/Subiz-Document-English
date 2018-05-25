@@ -57,5 +57,34 @@ Subiz tag is a feature that allows users to tag the interactions on all channels
 
 Thanks to this function you can manage interactions according to their content and evaluate the effectiveness of the promotion. For example, your website is running a " Golden Week " promotion. After 7 days, you can statistically count how many interactions are tagged "quote a price", " successful deal" ... These statistics will help you valuate the effectiveness of the promotion.
 
+#### Statistical criteria
 
+You can count the Tags according to Channels, Tags and Time
+
+{% tabs %}
+{% tab title="Channels" %}
+Select the channels that you want to filter tagged messages:
+{% endtab %}
+
+{% tab title="Tags" %}
+You can count tagged messages according to a specific tag or most used tags.
+
+* According to most Used Tags: 5 tags
+* According to a specific tag
+{% endtab %}
+
+{% tab title="Time" %}
+You can select the time that you want to count tagged messages
+{% endtab %}
+{% endtabs %}
+
+#### How to read statistical charts
+
+After selecting the statistical criteria, the data will be displayed as a chart  
+  
+Vertical axis: Number of Tags  
+  
+Horizontal axis: Time axis \(unit of time: date or hour depending on the time period you choose\)  
+  
+At each intersection, you can see the number of tagged messages  per specific tag at a given time. This will help you manage the interaction more conveniently
 
