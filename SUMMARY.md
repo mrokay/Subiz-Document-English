@@ -15,8 +15,8 @@
     * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * Optimizing interactive channels
       * Download Subiz app
-      * Untitled
       * Managing business profiles/ business profile setting
+  * FAQs
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * Managing agent
       * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
