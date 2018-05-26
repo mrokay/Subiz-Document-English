@@ -10,8 +10,7 @@ You need pay the subscription package at the beginning of each billing cycle . \
   
 - **Agent number:** The number of person login Subiz  
   
-- **Payment cycle:** 01, 03, 06, 12, 24 months  
-
+- **Payment cycle:** 01, 03, 06, 12, 24 month
 
 {% hint style="info" %}
 * You need to pay the subscription package at the beginning of each billing cycle. \(Pre-paid account\)
