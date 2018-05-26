@@ -1,28 +1,17 @@
 # How to charge Subiz
 
-
-
-Currently, Subiz supports 2 forms of payment: Credit Card and Credit Transfer. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.  
-
+Currently, Subiz supports 2 forms of payment: Credit Card and Credit Transfer. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.
 
 ### Payment via Credit Card \(Credit and Debit card\)
 
-**Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)  
+**Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)
 
-
-![Acess your Payment account](https://lh3.googleusercontent.com/1B7imIE8MwNyTT4ffw1qv5SGs04tZ3QhtadhdxtqYu7QkiENDQaIlc7QFuco5X7Rot7P2ym8zep-FzTi1efm3T-9fzx3sYJ11-qb9T0M-Lo74TyDUsRQxxy3NFshE8k5hxKrNjnD)
-
-**Step 2:** Select the package information  
-
+**Step 2:** Select the package information
 
 Subiz is a subscription service, which will be charged based on three factors:  
-  
 - **Package Type:** Standard / Advanced  
-  
 - **Agent number:** The number of person login Subiz  
-  
-- **Payment cycle:** 01, 03, 06, 12, 24 months  
-
+- **Payment cycle:** 01, 03, 06, 12, 24 months
 
 You just need to select the appropriate service package, fill in the information and click on Subscribe Now.
 
@@ -32,8 +21,7 @@ After filling in the package you choose, click Subscription Now, the credit card
 
 ![Fill in the information](https://lh4.googleusercontent.com/V3ElTZzDV4BqgdE5YbK_-2miLS4q96Lin4zszJ78yetPrNi6X5pjM4V3gxPgwZa5MM7-Dys-4LdfUgLsEihhDFpXRvFIdPw-a2JKS9s-lTdZft1ApDgQfFmMgXnp5uC7yqU1ax5I)
 
-When you make a successful payment, your account will be upgraded immediately, and the system will send a successful delivery confirmation to your registration email.  
-
+When you make a successful payment, your account will be upgraded immediately, and the system will send a successful delivery confirmation to your registration email.
 
 Here's an interface that shows your account information when you've completed the upgrade:
 
@@ -45,16 +33,13 @@ After you have successfully upgraded your account, you can change this informati
 
 ### Payment via Bank Transfer
 
-Payment via Bank Transfer is made in 2 simple steps as follows:  
-
+Payment via Bank Transfer is made in 2 simple steps as follows:
 
 **Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)
 
 **Step 2:** Select the information of the appropriate service package and click on Transfer, the system will display the amount of transfer and Subiz account information.
 
 ![Subiz account information](https://lh4.googleusercontent.com/irRZqu28iTtFwprw7IgKVwUeEPRPOot5Bo7qC_-0-kVA1CdTTWZxWXfs1H2YPfxnkTamaw09WcYB9kmi5XAXOkEgWZBCsDnGW_JbL0OJy9ZZiDDOTHYHmrIZJvyBAIEO1zgmv0kV)
-
-
 
 {% hint style="info" %}
 The system will automatically display the corresponding Subscription information:
