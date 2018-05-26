@@ -14,10 +14,11 @@ You need pay the subscription package at the beginning of each billing cycle . \
 
 
 {% hint style="info" %}
-You can upgrade, downgrade, add/ reduce the number of agents, change billing cycle or cancel your account anytime.  
+* You need to pay the subscription package at the beginning of each billing cycle. \(Pre-paid account\)
+* Depending on the size and needs of the business, you can choose the suitable service package.
+* You can receive up to 20% incentives when you apply for a payment cycle of 3 months or more \([Details](https://subiz.com/pricing.html)\).
+* You can upgrade, downgrade, add/ reduce the number of agents, change billing cycle or cancel your account anytime.
 {% endhint %}
-
-
 
 ### Who could login Subscription page?
 
