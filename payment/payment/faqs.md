@@ -39,11 +39,9 @@ To complete the upgrade payment, you can choose one of the following options:
 ### Contract and Invoice \(for corporate customers\)
 
 {% hint style="info" %}
-The contract is made for subscribers with payment periods of 12 months or more.
-
-The invoice is issued at the request of the enterprise with a payment period of 03 months or more. 
-
-Subiz's products are not subject to tax. The VAT portion of the invoice will be crossed out.
+* The contract is made for subscribers with payment periods of 12 months or more.
+* The invoice is issued at the request of the enterprise with a payment period of 03 months or more.
+* Subiz's products are not subject to tax. The VAT portion of the invoice will be crossed out.
 {% endhint %}
 
 To submit your contract and invoice, please fill in the form and send it to [billing@subiz.com](mailto:billing@subiz.com).
