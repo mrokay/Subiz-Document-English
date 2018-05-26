@@ -16,7 +16,7 @@ Depending on the nature and model of your business, you may choose one of the fo
 
 {% tabs %}
 {% tab title="Free Package" %}
-The Free Package will be suitable for small businesses or start-up businesses who want to use Subiz. You will not have to pay any fees for using this service pack, however, the features included in this Free Package will be limited to usage.  
+The Free Package will be suitable for small business or start-up business who want to use Subiz. You will not have to pay any fees for using this service pack, however, the features included in this Free Package will be limited to usage.
 {% endtab %}
 
 {% tab title="Basic Package" %}
@@ -33,8 +33,7 @@ As part of the deployment plan, the Advanced Statistics report promises to provi
 {% endtab %}
 {% endtabs %}
 
-See the detailed comparison table [here](https://subiz.com/pricing.html).  
-
+See the detailed comparison table [here](https://subiz.com/pricing.html).
 
 ### Why should I upgrade my account to a paid plan?
 
