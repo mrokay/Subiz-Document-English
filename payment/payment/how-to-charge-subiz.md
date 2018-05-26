@@ -6,6 +6,8 @@ Currently, Subiz supports 2 forms of payment: Credit Card and Credit Transfer. U
 
 **Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)
 
+![Access your Subiz account](../../.gitbook/assets/image%20%283%29.png)
+
 **Step 2:** Select the package information
 
 Subiz is a subscription service, which will be charged based on three factors:
