@@ -8,10 +8,11 @@ Currently, Subiz supports 2 forms of payment: Credit Card and Credit Transfer. U
 
 **Step 2:** Select the package information
 
-Subiz is a subscription service, which will be charged based on three factors:  
-- **Package Type:** Standard / Advanced  
-- **Agent number:** The number of person login Subiz  
-- **Payment cycle:** 01, 03, 06, 12, 24 months
+Subiz is a subscription service, which will be charged based on three factors:
+
+* Package Type: Standard / Advanced
+* Agent number: The number of person login Subiz
+* Payment cycle: 01, 03, 06, 12, 24 months
 
 You just need to select the appropriate service package, fill in the information and click on Subscribe Now.
 
@@ -28,7 +29,7 @@ Here's an interface that shows your account information when you've completed th
 ![Upgrade completed ](https://lh4.googleusercontent.com/TXu6OQtIDNbIHQkfkysDXcQaXi_89vrr0rAUAZtwlPAvRVra0xLvrHF8ukYTpSy4EbzK-xfap7DTrxVye6xo0EIcFAd_amxWqvp4CCdVeCnMuZCSaebb6IbT1IR8q4kOLtU5aDiA)
 
 {% hint style="info" %}
-After you have successfully upgraded your account, you can change this information at any time.  
+After you have successfully upgraded your account, you can change this information at any time.
 {% endhint %}
 
 ### Payment via Bank Transfer
