@@ -75,9 +75,5 @@ When you decide to upgrade your account, you need to specify the agent \(s\), bi
 - Subiz offers up to 30% discount on long cycle payments, see details in the pricing page.
 
 - Subiz offers a 40% discount for any kind of public shools and non-governmental organization.  
-  
-  
-  
-  
 
 
