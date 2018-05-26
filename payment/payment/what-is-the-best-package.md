@@ -16,16 +16,18 @@ Depending on the nature and model of your business, you may choose one of the fo
 
 {% tabs %}
 {% tab title="Free Package" %}
-The Free Package will be suitable for small business or start-up business who want to use Subiz. You will not have to pay any fees for using this service pack, however, the features included in this Free Package will be limited to usage.
+The **Free Package** will be suitable for **small business** or **start-up business** who want to use Subiz. You will not have to pay any fees for using this service pack, however, the features included in this Free Package will be limited to usage.
 {% endtab %}
 
 {% tab title="Basic Package" %}
-With the Basic package, you can use an unlimited number of types of actions Automation, 03 Rules. For small and medium business, the amount of interaction at one time usually does not reach 100 interactions, the client file is only in a certain audience, there is no need to distribute the conversation too much, then the Basic package fully meets the needs.  
+With the **Basic package**, you can use an unlimited number of types of actions Automation, 03 Rules. For **small and medium business**, the amount of interaction at one time usually does not reach 100 interactions, the client file is only in a certain audience, there is no need to distribute the conversation too much, then the Basic package fully meets the needs.
+
 The total number of daily interactions are not limited, you can increase the number of agents corresponding to the best number of interaction requests for the channels received from the customer.
 {% endtab %}
 
 {% tab title="Advanced Package" %}
-With the Advanced package, the number of rules is not limited. This is for large business with a large number of highly integrated websites, which require more conversational settings for different target groups. In addition, business can set up to 20 Segments. \(Customer Segmentation\) to categorize Leads and develop Customer Care and Marketing plans, etc.  
+With the **Advanced package**, the number of rules is not limited. This is for **large business** with a large number of highly integrated websites, which require more conversational settings for different target groups. In addition, business can set up to 20 Segments. \(Customer Segmentation\) to categorize Leads and develop Customer Care and Marketing plans, etc.
+
 As part of the deployment plan, the Advanced Statistics report promises to provide a database with in-depth analysis for enterprise customers.
 {% endtab %}
 {% endtabs %}

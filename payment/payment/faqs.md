@@ -10,12 +10,12 @@ Note: If you have any questions regarding the invoice and payment, please send f
 
 #### Why was my credit card declined?
 
-In the process of making a payment via credit card, a "declined card" error message can occur for a variety of reasons. Upon receipt of the payment order from you, our payment gateway immediately sends the request to the bank, your bank side has a system that automatically processes the request, and can either allow or Refusal to request payment.
+In the process of making a payment via credit card, a "declined card" error message can occur for a variety of reasons. Upon receipt of the payment order from you, our payment gateway immediately sends the request to the bank, your bank side has a system that automatically processes the request, and can either allow or Refusal to request payment.
 
 Automatic processing system based on some signs from your account such as account balance, card spending habits, card information \(card holder name, card number, expiration date, CVC code \). These signs may vary, depending on your use of the card.
 
-Even if you have made sure all card information is filled in correctly, and previous transactions have been successful, the next payment will be declined.  
-  
+Even if you have made sure all card information is filled in correctly, and previous transactions have been successful, the next payment will be declined.
+
 One of the reasons banks tighten this part of their payments is related to the risk of fraud \(for each bank\).
 
 #### What the correct reason for "Card declined"?
@@ -32,9 +32,9 @@ If all the information you filled is correct, you can contact the card issuer di
 
 To complete the upgrade payment, you can choose one of the following options:
 
-1, Use another credit card \(if applicable\)
+1. Use another credit card \(if applicable\)
 
-2, Contact the card issuing bank and ask for payment opening
+2. Contact the card issuing bank and ask for payment opening
 
 ### Contract and Invoice \(for corporate customers\)
 
