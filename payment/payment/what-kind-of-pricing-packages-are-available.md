@@ -6,11 +6,9 @@ You need pay the subscription package at the beginning of each billing cycle . \
 
 ### Subiz is a subscription service, which will be charged based on three factors
 
-- **Package Type:** Standard / Advanced  
-  
-- **Agent number:** The number of person login Subiz  
-  
-- **Payment cycle:** 01, 03, 06, 12, 24 month
+* **Package Type:** Standard / Advanced
+* **Agent number:** The number of person login Subiz
+* **Payment cycle:** 01, 03, 06, 12, 24 months
 
 {% hint style="info" %}
 * You need to pay the subscription package at the beginning of each billing cycle. \(Pre-paid account\)
