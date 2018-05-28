@@ -11,17 +11,17 @@ When using Subiz, depending on your business situation and development strategy,
 If your account is free, and you want to upgrade to a paid plan, you need to log in your [Payments page](https://app.subiz.com/payment-home), then select the appropriate Agent number and cycle, and click on **Subscribe Now**   
 
 
-![N&#xE2;ng c&#x1EA5;p g&#xF3;i t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%287%29.png)
+![Upgrade to Standard Plan](../../.gitbook/assets/image-1.png)
 
 * **Standard Package to Advanced Package**
 
 If you want to upgrade the Basic package to the Advanced package, click on **Your Plan** 
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![Click on Your Plan](../../.gitbook/assets/your-plan.png)
 
 Then you select Advanced Plan and click on Upgrade Now
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![Upgrade to Advanced Plan](../../.gitbook/assets/upgrade-to-advanced-plan.png)
 
 {% hint style="info" %}
  After upgrading your account, the system will create invoices in your account. You can choose to pay by Credit Card or by Bank Transfer
@@ -31,13 +31,23 @@ Then you select Advanced Plan and click on Upgrade Now
 
 To downgrade your account, you click on Your Plan, and then click on Downgrade 
 
+![Downgrade to Standard Plan](../../.gitbook/assets/downgrade-to-standard-plan.png)
+
 ### Change number of Agents
 
 **Purchase more Agents**
 
+![Purchase more agent](../../.gitbook/assets/purchase-more-agent.png)
+
 **Reduce Agents**
+
+![Reduce Agent](../../.gitbook/assets/reduce-agents.png)
 
 ### Change Billing Cycle
 
+![Change Billing Cycle](../../.gitbook/assets/change-billing-cycle.png)
+
 ### Downgrade to Free Package
+
+![Downgrade to Free Package](../../.gitbook/assets/downgrade-to-free-package.png)
 
