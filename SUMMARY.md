@@ -16,6 +16,8 @@
     * Optimizing interactive channels
       * Download Subiz app
       * Managing business profiles/ business profile setting
+        * New message notification settings
+        * Business information
       * FAQs
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
         * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
