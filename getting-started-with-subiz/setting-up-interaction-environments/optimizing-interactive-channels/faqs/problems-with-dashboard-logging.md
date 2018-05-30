@@ -2,9 +2,9 @@
 
  When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
 
-### **Wrong user or password**
+### **Incorrect user or password**
 
-
+![Incorrect Email or Password](../../../../.gitbook/assets/wrong-email-or-password.png)
 
 **Solution:**
 
@@ -14,9 +14,13 @@ If you are not sure about password, reset your password follow [instruction](htt
 
 ### **The agent is Inactive**
 
+![](../../../../.gitbook/assets/agent-bi-khoa.png)
+
 **Solution:**
 
 To active agent, you need to contact the owner or agent has permissions to set up account: **Settings&gt; Account&gt; Agent list&gt; Select Agent and enable Active status**
+
+![Active Agent](../../../../.gitbook/assets/active-agent.png)
 
 ### **The agent has been suspended**
 
@@ -41,6 +45,8 @@ Action:
 ### Browser Error
 
 One of the common browser errors is ERRERR\_SSL\_VERSION\_OR\_CIPHER\_MISMATCH, which will display an error when the system or browser can not establish a Dashboard Subiz connection.
+
+![](../../../../.gitbook/assets/0_zqf4zds8yt-qr3gx.jpg)
 
 **Causes:**
 

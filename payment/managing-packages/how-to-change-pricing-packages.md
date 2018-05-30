@@ -49,5 +49,5 @@ To downgrade your account, you click on Your Plan, and then click on Downgrade
 
 ### Downgrade to Free Package
 
-![Downgrade to Free Package](../../.gitbook/assets/downgrade-to-free-package.png)
+![Downgrade to Free Package](../../.gitbook/assets/downgrade-to-free-package%20%281%29.png)
 
