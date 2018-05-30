@@ -65,6 +65,8 @@ This is the list of Blocked ID, Email and IP
 
 {% tab title="Block User" %}
 This is a list of Blocked users, Agents block and Time block
+
+![Block User](../../.gitbook/assets/block-user%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
