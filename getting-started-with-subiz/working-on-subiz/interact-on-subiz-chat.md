@@ -24,7 +24,7 @@ Note: If you do not receive a message from a visitor, review the RULE setting to
 {% endtab %}
 
 {% tab title="When Agent starts a new conversation" %}
-
+Look on tab VISITORS to see what visitors are interested in and then proactively interact with them.  
 {% endtab %}
 {% endtabs %}
 
