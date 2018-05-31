@@ -24,9 +24,81 @@ Note: If you do not receive a message from a visitor, review the RULE setting to
 {% endtab %}
 
 {% tab title="When Agent starts a new conversation" %}
-Look on tab VISITORS to see what visitors are interested in and then proactively interact with them.  
+Look on tab VISITORS to see what visitors are interested in and then proactively interact with them.
+
+![Visitor activities](../../.gitbook/assets/3.-visitor-tab.jpg)
+
+To create a new conversation with a website visitor, follow these steps:
+
+1. Go to tab  VISITORS &gt; Choose a Website Vistor
+2. Click  New Conversation &gt; Choose Subiz Chat
+3. Chat widget opens and type messages here.
+
+![Create a new conversation](../../.gitbook/assets/4.-create-new.jpg)
 {% endtab %}
 {% endtabs %}
+
+When a visitor or user sends a new message, you’ll be notified through desktop notification at the right bottom of your screen and sound notification.
+
+![Destop Notification](../../.gitbook/assets/4.1-destopn-noti.jpg)
+
+{% hint style="info" %}
+Note: When not receiving the notification, please set up your web browser to allow Subiz of sound and screen notification.
+{% endhint %}
+
+### **Add Agent to join the conversation**
+
+When you need to involve a teammate in a conversation,you can add Agent to join the conversation and support user.
+
+To Add Agent: Click the "Add Agent" button &gt; Choose Agent &gt; Click Add
+
+![Add Agent](../../.gitbook/assets/5.-add-agent.jpg)
+
+{% hint style="info" %}
+Note: Only assigned agent can add another Agent to the conversation.
+{% endhint %}
+
+
+
+### **Use canned responses**
+
+Canned responses is a set of ready-made messages templates that helps you to reply your customers quickly and efficiently.  
+Each Agent is allowed to create and manage their own canned responses
+
+{% tabs %}
+{% tab title="Create a new Canned Response" %}
+1. Login App.subiz.com &gt; Click Agent Avatar &gt; Select Canned Responses
+
+![Set up Canned Response](../../.gitbook/assets/6.-canned-respond.jpg)
+
+
+
+    2. Select New Canned Response &gt;  Type message template and Shortcut &gt; Click Create to finish.  
+
+
+![New Canned Response](../../.gitbook/assets/7.-creat-new%20%281%29.jpg)
+
+{% hint style="info" %}
+Note: You can check box “Share this response with other agents” so that other agents can use this canned response.
+{% endhint %}
+{% endtab %}
+
+{% tab title="How to use Canned Responses" %}
+To reply with canned responses, type “/shortcut” in the chat box and hit enter.  
+
+
+![Reply message with Canned Response](../../.gitbook/assets/8.-use-canned.jpg)
+{% endtab %}
+{% endtabs %}
+
+  
+****
+
+  
+
+
+  
+****
 
 
 
