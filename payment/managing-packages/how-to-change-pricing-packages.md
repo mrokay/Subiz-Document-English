@@ -37,17 +37,25 @@ To downgrade your account, you click on Your Plan, and then click on Downgrade
 
 **Purchase more Agents**
 
+To add more agents, you can click on **Purchase more Agents** then select the number of additional agents.
+
 ![Purchase more agent](../../.gitbook/assets/purchase-more-agent.png)
 
 **Reduce Agents**
+
+To reduce Agents, you click on **More,** then select the number of agents to reduce.
 
 ![Reduce Agent](../../.gitbook/assets/reduce-agents.png)
 
 ### Change Billing Cycle
 
+To change the billing cycle, you click on **Change billing cycle**, then select the suitable billing cycle.
+
 ![Change Billing Cycle](../../.gitbook/assets/change-billing-cycle.png)
 
 ### Downgrade to Free Package
+
+Depend on your business situation, you can downgrade your account to free or upgrade at anytime.
 
 ![Downgrade to Free Package](../../.gitbook/assets/downgrade-to-free-package%20%281%29.png)
 
