@@ -40,6 +40,12 @@ To create a new conversation with a website visitor, follow these steps:
 
 When a visitor or user sends a new message, you’ll be notified through desktop notification at the right bottom of your screen and sound notification.
 
+**Use emoji icon and upload file**  
+
+
+  
+
+
 ![Destop Notification](../../.gitbook/assets/4.1-destopn-noti.jpg)
 
 {% hint style="info" %}
@@ -91,14 +97,40 @@ To reply with canned responses, type “/shortcut” in the chat box and hit ent
 {% endtab %}
 {% endtabs %}
 
-  
-****
+### **Use emoji icon and upload file**
+
+In the chat box, you can choose to send “emoji icon” or “upload file”
+
+![Use Emoji](../../.gitbook/assets/6.-emoji.jpg)
+
+### Tag Conversation
+
+Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+
+{% tabs %}
+{% tab title="Create new tag" %}
+1. Go to Setting&gt; Account&gt; Tag &gt;  click New Tag
+
+![Tag Setting](../../.gitbook/assets/9.-tag-setting.jpg)
+
+   2.  ****Fill Tag Name &gt; click Create
+
+![](../../.gitbook/assets/10.-tag-name.jpg)
+{% endtab %}
+
+{% tab title="Add Tag to conversation" %}
+Click button Tag &gt; Select Tag name &gt; Save
+
+![Add Tag](../../.gitbook/assets/11.-inset-tag%20%281%29.jpg)
+{% endtab %}
+
+{% tab title="Remove Tag" %}
+Simply click \(**X**\) icon on the Tags to remove them from a conversation.
+
+![Remove Tag](../../.gitbook/assets/12.-tag-delete.jpg)
+{% endtab %}
+{% endtabs %}
 
   
-
-
-  
-****
-
 
 
