@@ -63,6 +63,6 @@ How to add tag to Email Conversation: Click **Tag button** &gt; Select **Tag nam
 ![](../../.gitbook/assets/26.-email-tag.jpg)
 
 {% hint style="info" %}
-Note: See more Tag Setting at this link
+Note: See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
 {% endhint %}
 
