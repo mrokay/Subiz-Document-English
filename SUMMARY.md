@@ -45,7 +45,7 @@
     * [Asking for email address automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-2.md)
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation.md)
-    * Edit and update user's information
+    * [Edit and update user's information](optimise-the-use-of-subiz/managing-data/untitled.md)
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [How to block a User?](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
 * Reports
