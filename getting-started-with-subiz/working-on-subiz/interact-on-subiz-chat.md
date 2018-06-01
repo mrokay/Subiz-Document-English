@@ -115,7 +115,7 @@ Subiz Tag allows you to add tags for each conversation, which makes it easy for 
 
    2.  ****Fill Tag Name &gt; click Create
 
-![](../../.gitbook/assets/10.-tag-name.jpg)
+![New Tag name](../../.gitbook/assets/10.-tag-name.jpg)
 {% endtab %}
 
 {% tab title="Add Tag to conversation" %}
@@ -131,6 +131,43 @@ Simply click \(**X**\) icon on the Tags to remove them from a conversation.
 {% endtab %}
 {% endtabs %}
 
-  
+### **End the conversation**
 
+A conversation will be ended by visitor or Agent.
+
+{% tabs %}
+{% tab title="Agent ends conversation" %}
+Click **End Chat** button  &gt; Confirm **END** to end this conversation
+
+![Agent end chat](../../.gitbook/assets/14.-end-chat.jpg)
+
+{% hint style="info" %}
+Note: User and Agent will receive a notification of ending conversation. The chat box  will be grayed out and can not be typed. To continue chatting, you need to create a new conversation.
+{% endhint %}
+
+![Conversation End](../../.gitbook/assets/15.-end-box-chat.jpg)
+{% endtab %}
+
+{% tab title="Visitor ends conversation" %}
+Click “**+**” icon on Subiz widget  &gt; Select **End Chat**
+
+![](../../.gitbook/assets/16.-visitor-end.jpg)
+{% endtab %}
+{% endtabs %}
+
+### **Block user**
+
+Agent can block one user as follows: On chat window, select **Block button** &gt; turn **ON** Block this person  
+
+
+![Block user](../../.gitbook/assets/13.-block-user.jpg)
+
+{% hint style="info" %}
+Note: When selecting "Block this person" function:
+
+* Blocked user has a slash avatar.
+* With the Subiz Chat channel, user cann't see the Subiz chat widget on website.
+* With the Email Channel, incoming email of user will not show to the Agent Inbox.
+* With the Messenger channel, user's messages are not visible to the Agent on app.subiz.com. But user's messages still display on Fanpage Messenger.
+{% endhint %}
 
