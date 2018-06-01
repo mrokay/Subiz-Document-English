@@ -1,5 +1,7 @@
 # Integrating Email on Subiz
 
+### Email Forwarding settings on Subiz
+
 Along with Subiz account, you are provided an email address in form of abc@mail.subiz.com. All the emails sent to this address are considered as conversations on Subiz.
 
 If you forward emails to abc@mail.subiz.com, you also get these emails on Subiz. So, you should set up to forward emails automatically from email address you are using. Then you can work with email right on Subiz. Follow 2 steps below:
@@ -37,5 +39,14 @@ If you are using gmail account, following instructions below to enable forwardin
 
 After finishing two above steps, your emails will be forwarded to Subiz as a new conversation. You can reply and send emails right on Subiz.
 
-##   {#integrate-subiz-with-fanpage-facebook}
+### Install DKIM / SPF for the domain to optimize email delivery
+
+DKIM \(Domain Keys Identified Mail\) is the email authentication method by the electronic signature of the sending domain. Install DKIM / SPF for your domain to optimize email delivery and avoid spam mailboxes.
+
+In order to send email on Subiz effectively, you should set up DKIM and SPF on your domain.
+
+* [Sign in](https://app.subiz.com/login?redirect=%2Factivities%2F) to your Subiz account, go to **Settings&gt; Accounts&gt; Messages&gt; Email**
+* Select **Configure DKIM**
+* Enter your mailbox domain name \(company.com\)
+* Contact the domain manager of the company to set up DKIM and SPF for the domain
 
