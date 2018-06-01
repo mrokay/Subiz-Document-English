@@ -15,11 +15,9 @@ To provide and edit the basic information of your company, please log into your 
 * **Tax ID:** The tax code of the enterprise
 * **Social Network:** Enter links that associate to your social networking sites.
 
-![](https://lh4.googleusercontent.com/2q37ESAPMFZbd51tWY7QmOE7rqH3Ce9gKKYgWe8kcoBzi-TKq71hrlwtlQXc62mxG2ArW-WIOcj7hnXFk6C-pv1s2jV3QYj5uMBFy8NRLuvZd4Iwj4yRLh8Delqgy9hNb6pUHNpx)
+![Fill in the information](https://lh4.googleusercontent.com/2q37ESAPMFZbd51tWY7QmOE7rqH3Ce9gKKYgWe8kcoBzi-TKq71hrlwtlQXc62mxG2ArW-WIOcj7hnXFk6C-pv1s2jV3QYj5uMBFy8NRLuvZd4Iwj4yRLh8Delqgy9hNb6pUHNpx)
 
-
-
-
+After filling in the information, click **Save** to save changes.
 
 
 
