@@ -19,7 +19,9 @@ At Subiz Chat Widget &gt; Subiz Embed Code, click Copy code to copy the embed co
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/copy-code.png)
 
-**Notice:** Every single account has different embed code so when you change the account you have to re-install embed code.
+{% hint style="info" %}
+Every single account has different embed code so when you change the account you have to re-install embed code.
+{% endhint %}
 
 **Step 2: Place embed code into website**
 
