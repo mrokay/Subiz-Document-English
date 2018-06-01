@@ -35,7 +35,7 @@
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
   * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
     * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)
-    * Interact on Email
+    * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
     * Interact on Messenger
 * Using advanced Subiz
   * [How to enhance interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)

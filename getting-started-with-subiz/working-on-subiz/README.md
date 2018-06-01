@@ -6,13 +6,13 @@
 
 The User email must be updated in User Information, then you will be able to proactively send a email to user \(create a new conversation on Email channel\)
 
-![Update Email](../../.gitbook/assets/17.-email-update.jpg)
+![Update Email](../../.gitbook/assets/17.-email-update%20%282%29.jpg)
 
 {% tabs %}
 {% tab title="Create new Email Conversation" %}
 Choose **User** &gt; Click **New Conversation** &gt; Choose **Email**
 
-![Create new Email Conversation](../../.gitbook/assets/18.-email-new%20%281%29.jpg)
+![Create new Email Conversation](../../.gitbook/assets/18.-email-new%20%282%29.jpg)
 {% endtab %}
 
 {% tab title="Compose Email" %}
@@ -27,12 +27,12 @@ Email opens &gt; Choose email address **From, To, CC** &gt; **Add Subject** &gt;
 On **LIST ACTIVITIES** of User, you will know Email conversation via Icon Email and Email Subject  
 
 
-![Email Notification](../../.gitbook/assets/20.-email-noti.jpg)
+![Email Notification](../../.gitbook/assets/20.-email-noti%20%281%29.jpg)
 
 To reply to a single email: select **Email unread** &gt; click **Reply button** &gt; **Type message** &gt; Click **Send**  
 
 
-![Reply Email](../../.gitbook/assets/21.-email-reply.jpg)
+![Reply Email](../../.gitbook/assets/21.-email-reply%20%281%29.jpg)
 
 ### **Some Useful Functions On Subiz Email**
 
@@ -42,7 +42,7 @@ To reply to a single email: select **Email unread** &gt; click **Reply button** 
 
    **2. Customize the text font**
 
-![](../../.gitbook/assets/23.-font.jpg)
+![](../../.gitbook/assets/23.-font%20%281%29.jpg)
 
    **3**. **Insert the link directly into the text or image**
 
@@ -50,7 +50,7 @@ To reply to a single email: select **Email unread** &gt; click **Reply button** 
 
    **4. Attach a document or image file**
 
-![](../../.gitbook/assets/25.-upload.jpg)
+![](../../.gitbook/assets/25.-upload%20%281%29.jpg)
 
    **5. Tag Email conversation**
 
