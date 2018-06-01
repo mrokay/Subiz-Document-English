@@ -33,7 +33,7 @@
       * [Rule- distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
-  * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
+  * Working on Subiz
     * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)
     * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
     * Interact on Messenger

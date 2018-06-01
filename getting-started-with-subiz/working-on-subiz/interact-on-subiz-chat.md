@@ -119,7 +119,7 @@ Subiz Tag allows you to add tags for each conversation, which makes it easy for 
 {% endtab %}
 
 {% tab title="Add Tag to conversation" %}
-Click button Tag &gt; Select Tag name &gt; Save
+Click Tag button &gt; Select Tag name &gt; Save
 
 ![Add Tag](../../.gitbook/assets/11.-inset-tag%20%281%29.jpg)
 {% endtab %}

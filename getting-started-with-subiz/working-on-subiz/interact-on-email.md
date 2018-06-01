@@ -56,3 +56,13 @@ To reply to a single email: select **Email unread** &gt; click **Reply button** 
 
  **5. Tag Email conversation**
 
+Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+
+How to add tag to Email Conversation: Click **Tag button** &gt; Select **Tag name** &gt; **Save**
+
+![](../../.gitbook/assets/26.-email-tag.jpg)
+
+{% hint style="info" %}
+Note: See more Tag Setting at this link
+{% endhint %}
+
