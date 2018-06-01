@@ -1,10 +1,12 @@
 # Customizing Subiz Chat widget
 
+### **Customizing CSS for Subiz Chat widget**
+
 Besides using the chat widget settings on the website that Subiz has provided. You can easily customize other components on the chat widget by using CSS code.
 
 CSS stands for “Cascading Style Sheet”. It describes how HTML elements are to be displayed on screen, paper, or in other media. With using CSS, you can customize every single elements in chat widget to make it more attractive or unique.
 
-#### How to add customized CSS? {#how-to-add-customized-css}
+#### How to add customized CSS?
 
 Firstly, log in app.subiz.com, come to **Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**![](https://docv4.subiz.com/wp-content/uploads/2018/05/Customize-CSS.png)
 
@@ -12,13 +14,7 @@ Next, **Copy and Paste** the corresponding CSS to customize the component you wa
 
 Here are some examples of possible customizations and instructions on how to achieve them:
 
-* ​[Changing the chat widget width](https://docv4.subiz.com/chat-widget-customization-with-css/#width)​
-* ​[Changing the chat widget height](https://docv4.subiz.com/chat-widget-customization-with-css/#height)​
-* ​[Customizing font size](https://docv4.subiz.com/chat-widget-customization-with-css/#sizefont)​
-* ​[Customizing colors of the whole chat widget](https://docv4.subiz.com/chat-widget-customization-with-css/#totalcolour)​
-* ​[Customize the color of each component on the chat widget](https://docv4.subiz.com/chat-widget-customization-with-css/#colour)​
-
-#### Changing the chat widget width {#changing-the-chat-widget-width}
+#### Changing the chat widget width
 
 | 123 | .widget\_mini .widget\_body{ width:600px;} |
 | --- |
@@ -28,7 +24,7 @@ Change value **600**px to decide the width of chat widget.![](https://docv4.subi
 
 ### ​ {#undefined}
 
-#### Changing the chat widget height {#changing-the-chat-widget-height}
+#### Changing the chat widget height
 
 | 1234 | .widget\_mini .widget\_body{ height: 800px !important; max-height: 900px !important;} |
 | --- |
@@ -36,7 +32,7 @@ Change value **600**px to decide the width of chat widget.![](https://docv4.subi
 
 Change value **800**px to decide the height of chat widget.![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-height.png)
 
-#### Customizing font size {#customizing-font-size}
+#### Customizing font size
 
 | 123 | .message-content{ font-size:20px;} |
 | --- |
@@ -46,7 +42,7 @@ Change value **20**px to decide the font size of chat widget.![](https://docv4.s
 
 ### ​ {#undefined-1}
 
-#### Customizing colors of the whole chat widget {#customizing-colors-of-the-whole-chat-widget}
+#### Customizing colors of the whole chat widget
 
 When you choose to customize color of the whole chat widget, you would not be able to custom the colors of each component of header, message box, new conversation
 
@@ -68,7 +64,7 @@ You can change value **\#00000** to suit your website
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website![](https://docv4.subiz.com/wp-content/uploads/2018/05/css-total-colors.png)
 
-#### Customize the color of each component on the chat widget {#customize-the-color-of-each-component-on-the-chat-widget}
+#### Customize the color of each component on the chat widget
 
 **1. Customize the color of the chat widget’s header**
 
@@ -130,19 +126,23 @@ You can change value **\#00000** to suit your website
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website![](https://docv4.subiz.com/wp-content/uploads/2018/05/color-new-conversation.png)
 
-#### CUSTOMIZE LANGUAGE WITH P.O FILE {#customize-language-with-p-o-file}
+### CUSTOMIZE LANGUAGE WITH P.O FILE
 
 Currently, Subiz supports 2 languages: Vietnamese and English. On Subiz widget, you can customize the widget title and team introduction according to each language.
 
 Besides, you can use another language other than these supported languages. Supposed that you want to replace English with German, or you want to edit language in other section of the widget, you can customize the language by .po file following the steps below:
 
-Step 1: Download custom language file
+**Step 1:** Download custom language file
 
-Go to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; **Language**. Select 1 language and click **Customize language**.![](https://docv4.subiz.com/wp-content/uploads/2018/04/step-1.png)
+Go to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; **Language**. Select 1 language and click **Customize language**.
 
-Click to download custom language file.![](https://docv4.subiz.com/wp-content/uploads/2018/04/step1.png)
+![](https://lh5.googleusercontent.com/JU30A_g8_YfpvatmHwuq73h39AedE8WOQco8xtLPg8xDfUIqmY5Kzh5t5_XrZ9VdETmo-ltihq_mLAt5kbtaLNzs_OlZEgKrY6EgBoozEa0v6yp8KeZD5dYL5rij-iiNrNPpIlfe)
 
-Step 2: Edit .po file
+Click to download custom language file.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/04/step1.png)
+
+**Step 2:** Edit .po file
 
 * Go to [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), upload the .po file you have downloaded.
 
@@ -160,11 +160,15 @@ Step 2: Edit .po file
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/04/save-file.png)
 
-#### Step 3: Upload .po file to Subiz {#step-3-upload-po-file-to-subiz}
+**Step 3:** Upload .po file to Subiz
 
-Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; Language &gt; Customize language. Upload file, then new language will overlap the chosen language.![](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.png)
+Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; Language &gt; Customize language. Upload file, then new language will overlap the chosen language.
 
-After uploading successfully, back to widget setting and Save.![](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.2.png)
+![](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.png)
+
+After uploading successfully, back to widget setting and Save.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.2.png)
 
 ##   {#integrate-email-with-subiz-account}
 
