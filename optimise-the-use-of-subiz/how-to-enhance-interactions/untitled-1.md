@@ -16,7 +16,7 @@ Example: Page URL - contains - http://abc.com.vn
 
 For a visitor who do not have personal information on the system, you can send a message along with an invitation to leave personal information so that you can contact again at any time.
 
-![](../../.gitbook/assets/1%20%282%29.png)
+![](../../.gitbook/assets/1%20%283%29.png)
 
 ### Send messages to customers based on geographic area.
 
@@ -28,7 +28,7 @@ For foreign customers, you install the message in the English language.
 
 Condition: Country code - not - VN
 
-![](../../.gitbook/assets/2%20%281%29.png)
+![](../../.gitbook/assets/2%20%282%29.png)
 
 For National and National code conditions, check the standard at https://countrycode.org/. Where: Country Name is displayed in the COUNTRY and Country Code columns in the ISO CODES column, 2-character code area.
 
