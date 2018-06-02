@@ -46,7 +46,7 @@ In case you want to send an automated message to a customer, but do not want to 
 
 Condition: User's IP address - not -
 
-![](../../.gitbook/assets/3.png)
+![](../../.gitbook/assets/3%20%281%29.png)
 
 ### Note:  when creating Automation to send messages automatically
 

@@ -12,7 +12,11 @@ To set up the form asking for customer information, go to Settings&gt; Accounts&
 * A user does not have email address information
 * There is a message from a user
 
+![Condition to ask email address](../../.gitbook/assets/1%20%283%29.png)
+
 Users who do not have email information will receive a message containing the email asking form as soon as they send the message in the Subiz window.
+
+![Fill in email information](../../.gitbook/assets/2%20%282%29.png)
 
 ### Language to ask for information
 
@@ -37,6 +41,8 @@ When you want to customize the language to ask for customer information, you nee
 ### Who will ask?
 
 You need to choose an agent to represent your business to ask for visitors information.
+
+![](../../.gitbook/assets/3.png)
 
 ### Note when setting up Automation to ask for an email address;
 
