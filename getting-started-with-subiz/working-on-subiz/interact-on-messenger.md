@@ -53,5 +53,41 @@ To reply messages with canned responses, type “**/shortcut**” in the chat bo
 Note: Each Agent is allowed to create and manage their own canned responses. [See how to create Canned Response.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#use-canned-responses)
 {% endhint %}
 
+### **3. Tag Messenger Conversation** 
 
+Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+
+How to add tag to Messenger ****Conversation: Click **Tag button** &gt; Select **Tag name** &gt; **Save**
+
+![](../../.gitbook/assets/32.-mess-tag.jpg)
+
+{% hint style="info" %}
+Note: See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
+{% endhint %}
+
+### **4. Rule automatically assigns conversation**
+
+Rule is used to automatically assign conversations to a specific Agent or Agent group.
+
+How to create Rule that will assign Messenger conversation to one Agent: **SETTING** &gt; **ACCOUNT** &gt; **Rule** &gt;          New Rule &gt; Fill information as shown in the image &gt; Click Creat Rule
+
+![](../../.gitbook/assets/34.-mess-rule.jpg)
+
+### 5. **Add Agent to join the conversation**
+
+When you need to involve a teammate in a conversation,you can add Agent to join the conversation and support user.
+
+To Add Agent: Click the **Add Agent** button &gt; Choose **Agent** &gt; Click **Add**
+
+![](../../.gitbook/assets/31.-mess-agent.jpg)
+
+{% hint style="info" %}
+Note: Only assigned agent can add another Agent to the conversation.
+{% endhint %}
+
+### 6. **Use emoji icon and upload file**
+
+In the chat box, you can choose to send “emoji icon” or “upload file”
+
+![](../../.gitbook/assets/6.-emoji.jpg)
 

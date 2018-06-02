@@ -101,7 +101,7 @@ To reply with canned responses, type “/shortcut” in the chat box and hit ent
 
 In the chat box, you can choose to send “emoji icon” or “upload file”
 
-![Use Emoji](../../.gitbook/assets/6.-emoji.jpg)
+![Use Emoji](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
 
 ### Tag Conversation
 
