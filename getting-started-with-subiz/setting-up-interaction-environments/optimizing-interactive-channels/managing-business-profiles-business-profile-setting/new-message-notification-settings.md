@@ -8,11 +8,11 @@ Setting up new message notifications will help you display a small pop-up window
 
 * Login account&gt; click on the avatar at the top right corner of the screen&gt; select Notifications.
 
-![New message notification settings](../../../../.gitbook/assets/screenshot_4.png)
+![Set up new message notification](../../../../.gitbook/assets/1.png)
 
 * Select Send new message notification and Save
 
-![Save notification new message](../../../../.gitbook/assets/screenshot_5.png)
+![Set up new message notification](../../../../.gitbook/assets/2.png)
 
 * After you click Save on the browser will pop-up request Allow new message display. You choose Allow
 
@@ -24,9 +24,9 @@ When you set up the new message notification, it is possible that the browser yo
 {% tab title="Chrome & Cốc Cốc" %}
 Click the **Security button** \(1\) and select **Allow** \(2\) or Edit on **Site Settings** \(3\)
 
-![Settings allow to show message and sound notifications](../../../../.gitbook/assets/screenshot_6%20%281%29.png)
+![](../../../../.gitbook/assets/4.png)
 
-![Allows notifications and sounds on the Site Settings section](../../../../.gitbook/assets/screenshot_7.png)
+![](../../../../.gitbook/assets/5.png)
 
 {% hint style="info" %}
 With new versions of Chrome and Coc Coc, there may have no a new message alert tone, because of which has turned off the automatic opening of Audio and Video. Please try to log out and log back into app.subiz.com.
