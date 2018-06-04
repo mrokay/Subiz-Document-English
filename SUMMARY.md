@@ -23,7 +23,7 @@
       * Invite Agent and manage
       * Agents Group
     * Distributing conversations
-      * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
+      * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
   * Working on Subiz
