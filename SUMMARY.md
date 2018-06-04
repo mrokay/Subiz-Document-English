@@ -22,13 +22,10 @@
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
         * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
-    * Managing agent
-      * [AGENT’S PROFILE](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents.md)
-      * [Invite a new Agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-a-new-agent.md)
-      * [Change Agent profiles](getting-started-with-subiz/how-to-use-subiz/managing-agent/change-agent-profiles.md)
-      * [Create agents group](getting-started-with-subiz/how-to-use-subiz/managing-agent/create-agents-group.md)
-      * Guiding a new agent
-      * Don't receive Subiz's email?
+    * [Managing agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/README.md)
+      * [Agent profile](getting-started-with-subiz/how-to-use-subiz/managing-agent/agent-profile.md)
+      * Invite Agent and manage
+      * Agents Group
     * Distributing conversations
       * [Rule- distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
