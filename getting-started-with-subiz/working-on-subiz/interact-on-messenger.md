@@ -58,7 +58,7 @@ Subiz Tag allows you to add tags for each conversation, which makes it easy for 
 
 How to add tag to Messenger ****Conversation: Click **Tag** _**button**_ &gt; Select **Tag name** &gt; **Save**
 
-![](../../.gitbook/assets/32.-mess-tag.jpg)
+![Tag Messenger Conversation](../../.gitbook/assets/32.-mess-tag.jpg)
 
 {% hint style="info" %}
 Note: See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
@@ -70,7 +70,7 @@ Rule is used to automatically assign conversations to a specific Agent or Agent 
 
 How to create Rule that will assign Messenger conversation to one Agent: **SETTING** &gt; **ACCOUNT** &gt;  **Rule**&gt;       **New Rule** &gt; **Fill information as shown in the image** &gt; Click **Creat Rule**
 
-![](../../.gitbook/assets/34.-mess-rule.jpg)
+![Rule Setting for Messenger Conversation](../../.gitbook/assets/34.-mess-rule.jpg)
 
 ### 5. **Add Agent to join the conversation**
 
@@ -78,7 +78,7 @@ When you need to involve a teammate in a conversation, you can add Agent to join
 
 To Add Agent: Click the **Add Agent** button &gt; Choose **Agent** &gt; Click **Add**
 
-![](../../.gitbook/assets/31.-mess-agent.jpg)
+![Add Agent to join conversation](../../.gitbook/assets/31.-mess-agent.jpg)
 
 {% hint style="info" %}
 Note: Only assigned agent can add another Agent to the conversation.
