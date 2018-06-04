@@ -1,4 +1,4 @@
-# Creativing Subiz Chat widget
+# Creative on Subiz Chat widget
 
 ### **Customizing CSS for Subiz Chat widget**
 
