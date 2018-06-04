@@ -57,5 +57,4 @@
     * [Checking current account](payment/managing-packages/checking-current-account.md)
     * [How to change pricing packages?](payment/managing-packages/how-to-change-pricing-packages.md)
     * [FAQs](payment/managing-packages/faqs.md)
-* Applications
 
