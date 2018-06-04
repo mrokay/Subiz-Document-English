@@ -14,12 +14,12 @@ Once you integrate Subiz, visitors can get in touch to ask you questions via Sub
 
 ![Visitor sends messages on Subiz widget](../../.gitbook/assets/1.-visitor-chat.jpg)
 
-To read and reply to new messages: Click  ‘ACTIVITIES’ tab &gt; Choose User with unread message &gt; Chat widget open to read and reply
+To read and reply to new messages: Click  **ACTIVITIES** tab &gt; Choose **User with unread message** &gt; **Chat window opens to read and reply**
 
 ![Reply message](../../.gitbook/assets/2.-reply-user.jpg)
 
 {% hint style="info" %}
-Note: If you do not receive a message from a visitor, review the RULE setting to automatically assign new messages to you \(Agent\).
+Note: If you do not receive a message from a visitor, review [RULE setting](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations) to automatically assign new messages to you \(Agent\).
 {% endhint %}
 {% endtab %}
 
@@ -38,13 +38,7 @@ To create a new conversation with a website visitor, follow these steps:
 {% endtab %}
 {% endtabs %}
 
-When a visitor or user sends a new message, you’ll be notified through desktop notification at the right bottom of your screen and sound notification.
-
-**Use emoji icon and upload file**  
-
-
-  
-
+When a visitor or user sends a new message, you will be notified through desktop notification at the right bottom of your screen and sound notification.
 
 ![Destop Notification](../../.gitbook/assets/4.1-destopn-noti.jpg)
 
