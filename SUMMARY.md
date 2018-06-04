@@ -45,8 +45,7 @@
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [How to block a User?](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
 * Reports
-  * [General reports](reports/general-reports.md)
-  * Evaluating the use of Subiz
+* [General reports](general-reports.md)
 * Payment
   * [What kind of pricing packages are available?](payment/what-kind-of-pricing-packages-are-available.md)
   * [What is the best package?](payment/what-is-the-best-package.md)
@@ -54,5 +53,4 @@
   * [Checking current account](payment/checking-current-account.md)
   * [How to change pricing packages?](payment/how-to-change-pricing-packages.md)
   * [FAQs](payment/faqs.md)
-  * [FAQs](payment/faqs-1.md)
 

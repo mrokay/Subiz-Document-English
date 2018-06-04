@@ -28,19 +28,19 @@ In the Reports section, you can count the number of conversations by **Channel**
 {% tab title="Channels" %}
 Filtering conversations according to Channels helps you see how many interactions each channel: Subiz Chat / Email / Messenger 
 
-![Conversation\_Channel](../.gitbook/assets/conversation_channels.png)
+![Conversation\_Channel](.gitbook/assets/conversation_channels.png)
 {% endtab %}
 
 {% tab title="Agents" %}
  Filtering conversations according to Agent / Group Agents  helps you evaluate the working performance of each Agent, as well as evaluate the overall business situation.
 
-![Conversation\_Agents](../.gitbook/assets/conversation_-agents.png)
+![Conversation\_Agents](.gitbook/assets/conversation_-agents.png)
 {% endtab %}
 
 {% tab title="Time" %}
 You can filter conversations according to specific time periods and make comparisons to see fluctuations. 
 
-![Conversation\_Time](../.gitbook/assets/conversation_time.png)
+![Conversation\_Time](.gitbook/assets/conversation_time.png)
 {% endtab %}
 {% endtabs %}
 
@@ -56,7 +56,7 @@ By placing your cursor at the intersection, you will see the number of conversat
   
 For example: Statistics of Subiz Chat conversations by Support group in the last 30 days. 
 
-![Conversation\_Subiz Support Team Last 30 Days](../.gitbook/assets/conversation_support-team-last-30-days.png)
+![Conversation\_Subiz Support Team Last 30 Days](.gitbook/assets/conversation_support-team-last-30-days.png)
 
 ###  Tags Statistics
 
@@ -72,7 +72,7 @@ You can count the Tags according to Channels, Tags and Time
 {% tab title="Channels" %}
 Select the channels that you want to filter tagged messages:
 
-![Tags\_ Channels](../.gitbook/assets/tags_channels.png)
+![Tags\_ Channels](.gitbook/assets/tags_channels.png)
 {% endtab %}
 
 {% tab title="Tags" %}
@@ -80,11 +80,11 @@ You can count tagged messages according to a specific tag or most used tags.
 
 * According to most Used Tags: 5 tags
 
-![Most Used Tags](../.gitbook/assets/most-used-tags.png)
+![Most Used Tags](.gitbook/assets/most-used-tags.png)
 
 * According to a specific tag
 
-![Tag \_Feature Request](../.gitbook/assets/tag_-feature-request.png)
+![Tag \_Feature Request](.gitbook/assets/tag_-feature-request.png)
 {% endtab %}
 
 {% tab title="Time" %}
@@ -104,7 +104,7 @@ At each intersection, you can see the number of tagged messages  per specific ta
 
 For Example: 5 most used Tags in 19th April:
 
-![5 most used Tags](../.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
+![5 most used Tags](.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
 
 
 
