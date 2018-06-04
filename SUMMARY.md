@@ -14,14 +14,12 @@
     * Optimizing interactive channels
       * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)
       * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
-      * Managing business profiles/ business profile setting
-        * [Password Management](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/password-management.md)
       * FAQs
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
         * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * [Managing agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/README.md)
-      * [Agent profile](getting-started-with-subiz/how-to-use-subiz/managing-agent/agent-profile.md)
+      * [Agent overview](getting-started-with-subiz/how-to-use-subiz/managing-agent/agent-profile.md)
       * Invite Agent and manage
       * Agents Group
     * Distributing conversations
