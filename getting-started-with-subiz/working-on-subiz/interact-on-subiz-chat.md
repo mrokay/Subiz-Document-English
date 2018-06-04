@@ -19,7 +19,7 @@ To read and reply to new messages: Click  **ACTIVITIES** tab &gt; Choose **User 
 ![Reply message](../../.gitbook/assets/2.-reply-user.jpg)
 
 {% hint style="info" %}
-Note: If you do not receive a message from a visitor, review [RULE setting](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations) to automatically assign new messages to you \(Agent\).
+If you do not receive a message from a visitor, review [RULE setting](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations) to automatically assign new messages to you \(Agent\).
 {% endhint %}
 {% endtab %}
 
@@ -43,7 +43,7 @@ When a visitor or user sends a new message, you will be notified through desktop
 ![Destop Notification](../../.gitbook/assets/4.1-destopn-noti.jpg)
 
 {% hint style="info" %}
-Note: When not receiving the notification, please set up your web browser to allow [Subiz of sound and screen notification.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/new-message-notification-settings)
+When not receiving the notification, please set up your web browser to allow [Subiz of sound and screen notification.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/new-message-notification-settings)
 {% endhint %}
 
 ### **Add Agent to join the conversation**
@@ -55,7 +55,7 @@ To Add Agent: Click **Add Agent** button &gt; Choose **Agent** &gt; Click **Add*
 ![Add Agent](../../.gitbook/assets/5.-add-agent.jpg)
 
 {% hint style="info" %}
-Note: Only assigned agent can add another agent to the conversation.
+Only assigned agent can add another agent to the conversation.
 {% endhint %}
 
 ### **Use canned responses**
@@ -74,7 +74,7 @@ Each Agent is allowed to create and manage their own canned responses
 ![New Canned Response](../../.gitbook/assets/7.-creat-new.jpg)
 
 {% hint style="info" %}
-Note: You can check box "**Share this response with other agents**” so that other agents can use this canned response.
+You can check box "**Share this response with other agents**” so that other agents can use this canned response.
 {% endhint %}
 {% endtab %}
 
@@ -131,7 +131,7 @@ Click **End Chat** button  &gt; Confirm **END** to end this conversation
 ![Agent end chat](../../.gitbook/assets/14.-end-chat.jpg)
 
 {% hint style="info" %}
-Note: User and Agent will receive a notification of ending conversation. The chat box  will be grayed out and can not be typed. To continue chatting, you need to create a new conversation.
+User and Agent will receive a notification of ending conversation. The chat box  will be grayed out and can not be typed. To continue chatting, you need to create a new conversation.
 {% endhint %}
 
 ![Conversation End](../../.gitbook/assets/15.-end-box-chat.jpg)
@@ -151,7 +151,7 @@ Agent can block one user as follows: On chat window, select **Block button** &gt
 ![Block user](../../.gitbook/assets/13.-block-user.jpg)
 
 {% hint style="info" %}
-Note: When selecting "**Block this person**" function:
+When selecting "**Block this person**" function:
 
 * Blocked user has a slash avatar.
 * With the Subiz Chat channel, user cann't see the Subiz chat widget on website.
