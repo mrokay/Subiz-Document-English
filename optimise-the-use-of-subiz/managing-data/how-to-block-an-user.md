@@ -1,8 +1,8 @@
-# How to block a User?
+# Block a User
 
 While interacting with customers on Subiz, you may encounter some annoying users who have impolite attitude or behavior that affects badly on your business. How do you prevent these users from sending email/ messages to the business? The following article will give you some specific instructions.
 
-### Block a user
+### How to block a user?
 
 You can block a user by 2 ways:
 
@@ -79,7 +79,7 @@ There are 2 ways to unblock a user as follow:
 
 ![Unblock an Agent](../../.gitbook/assets/bo-chan.png)
 
-###  What happens when you block a User
+###  What happens when you block a User?
 
 * On Subiz Chat Channel: the user will not see the chat widget and can not create a conversation or send a message.
 * On Email Channel: The email of user will be blocked at Subiz Core. That mail will not be shown to the Agent.
