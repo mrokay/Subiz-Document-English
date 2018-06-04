@@ -1,23 +1,22 @@
 # Managing agent
 
-## Getting Super Powers
+The Guide to Agent Management will help you understand what agents are, how you can invite additional agents, agent groups, how to create teams and manage agents effectively.  
 
-Becoming a super hero is a fairly straight forward process:
 
-```
-$ give me super-powers
-```
+In it, you will be provided with the knowledge of:  
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
+* Agent types and permissions for each agent type in Subiz.
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+{% page-ref page="agent-profile.md" %}
+
+* Invite more agents and change the status of member agents when there is a change in personnel in your business
+
+{% page-ref page="invite-agent-and-manage.md" %}
+
+* Create Agent Groups with Customer Support depending on your business model. Then, you will promote the power and limit the individual weakness of each Agent.
+
+{% page-ref page="agents-group.md" %}
 
 
 
