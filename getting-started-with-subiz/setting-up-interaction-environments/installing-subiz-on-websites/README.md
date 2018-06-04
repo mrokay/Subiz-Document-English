@@ -1,6 +1,8 @@
 # Installing Subiz on Websites
 
-Subiz Live Chat is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can interact, follow and convert visitors into customers.
+### What is Subiz Chat?
+
+Subiz Chat is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can interact, follow and convert visitors into customers.
 
 ### How to integrate Subiz on your website
 
