@@ -83,7 +83,7 @@ There are 2 ways to unblock a user as follow:
 
 * On Subiz Chat Channel: the user will not see the chat widget and can not create a conversation or send a message.
 * On Email Channel: The email of user will be blocked at Subiz Core. That mail will not be shown to the Agent.
-* On Messenger Channel: Messages are blocked on the Subiz Core and are not visible to the Agent. Note: The message still exists and is displayed if the user uses Fanpage admin.
+* On Messenger Channel: Messages are blocked on the Subiz Core and are not visible to the Agent \(Note: The message still exists and is displayed if the user uses Fanpage admin\)
 * Avatar of Blocked User will be displayed as follow
 
 ![Avatar of Blocked User](../../.gitbook/assets/spam-avatar.png)
