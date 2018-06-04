@@ -2,7 +2,7 @@
 
 ### What is Subiz Chat?
 
-Subiz Chat is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can interact, follow and convert visitors into customers.
+Subiz Chat is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can **interact, follow and convert visitors into customers.**
 
 ### How to integrate Subiz on your website
 
@@ -39,9 +39,11 @@ If you still don’t see the chat widget, you can take some more steps to check 
 2. Click into **Settings &gt; Account &gt;** **Installation**
 3. Paste your website’s URL and click **Check**
 
-If not successfully, check the code again and contact Subiz support center.
+![Check Subiz&#x2019;s widget on website](https://docv4.subiz.com/wp-content/uploads/2018/03/check-code.png)
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/check-code.png)
+{% hint style="danger" %}
+If not successfully, check the code again or contact Subiz support center.
+{% endhint %}
 
 ### Integrating Subiz on other Website platform
 
@@ -52,12 +54,16 @@ If your website is built on other platforms, find installation guide in the list
 1. Open **WordPress Admin Panel** &gt; **Appearance** &gt; **Editor**
 2. Go to **footer.php** file in the right column &gt; Open it
 3. Paste Subiz widget code into **footer.php** \(Right before &lt;/body&gt; tag\)
+
+![Integrating Subiz on WordPress Platform](../../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="Shopify" %}
 1. From your Shopify, go to **Online Store** &gt; **Themes**.
 2. Find the theme you want to edit and click the **Actions** button for the theme. Select **Edit code**
 3. Find theme **.liquid** file on the side menu. Embed Subiz widget code before the &lt;/body&gt; tag. Click **Save**.
+
+![Integrating Subiz on Shopify](../../../.gitbook/assets/image%20%281%29.png)
 {% endtab %}
 
 {% tab title="Wix" %}
@@ -86,8 +92,14 @@ You only need to do this option if the template files described in the option 1 
 1. Open Joomla Admin &gt; Template Manager &gt; Choose your **Template and** Filter by **site**
 2. Choose your templte &gt; Open **Index.php** file
 3. Paste Subiz embed code right before &lt;/body&gt; tag &gt; Finish
+
+![Integrating Subiz on Joomla](../../../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}
 {% endtabs %}
 
+{% hint style="danger" %}
 If your website platform is not listed above, please contact us for better assistance.
+{% endhint %}
+
+
 
