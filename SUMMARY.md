@@ -31,7 +31,7 @@
     * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
     * [Interact on Messenger](getting-started-with-subiz/working-on-subiz/interact-on-messenger.md)
 * Using advanced Subiz
-  * [How to enhance interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
+  * [Enhancing interactions](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * [Sending messages to user automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-1.md)
     * [Asking for email address automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-2.md)

@@ -1,4 +1,4 @@
-# How to enhance interactions
+# Enhancing interactions
 
 ### 
 
