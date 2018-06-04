@@ -43,22 +43,20 @@ When a visitor or user sends a new message, you will be notified through desktop
 ![Destop Notification](../../.gitbook/assets/4.1-destopn-noti.jpg)
 
 {% hint style="info" %}
-Note: When not receiving the notification, please set up your web browser to allow Subiz of sound and screen notification.
+Note: When not receiving the notification, please set up your web browser to allow [Subiz of sound and screen notification.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/new-message-notification-settings)
 {% endhint %}
 
 ### **Add Agent to join the conversation**
 
-When you need to involve a teammate in a conversation,you can add Agent to join the conversation and support user.
+When you need to involve a teammate in a conversation, you can add Agent to join the conversation and support user.
 
-To Add Agent: Click the "Add Agent" button &gt; Choose Agent &gt; Click Add
+To Add Agent: Click **Add Agent** button &gt; Choose **Agent** &gt; Click **Add**
 
 ![Add Agent](../../.gitbook/assets/5.-add-agent.jpg)
 
 {% hint style="info" %}
-Note: Only assigned agent can add another Agent to the conversation.
+Note: Only assigned agent can add another agent to the conversation.
 {% endhint %}
-
-
 
 ### **Use canned responses**
 
@@ -67,19 +65,16 @@ Each Agent is allowed to create and manage their own canned responses
 
 {% tabs %}
 {% tab title="Create a new Canned Response" %}
-1. Login App.subiz.com &gt; Click Agent Avatar &gt; Select Canned Responses
+1. Login **App.subiz.com** &gt; Click **Agent Avatar** at the top right of your screen &gt; Select **Canned Responses**
 
 ![Set up Canned Response](../../.gitbook/assets/6.-canned-respond.jpg)
 
+    2. Select **New Canned Response** &gt;  Type **message template** and **Shortcut** &gt; Click **Create** to finish.
 
-
-    2. Select New Canned Response &gt;  Type message template and Shortcut &gt; Click Create to finish.  
-
-
-![New Canned Response](../../.gitbook/assets/7.-creat-new%20%281%29.jpg)
+![New Canned Response](../../.gitbook/assets/7.-creat-new.jpg)
 
 {% hint style="info" %}
-Note: You can check box “Share this response with other agents” so that other agents can use this canned response.
+Note: You can check box "**Share this response with other agents**” so that other agents can use this canned response.
 {% endhint %}
 {% endtab %}
 
@@ -93,27 +88,27 @@ To reply with canned responses, type “/shortcut” in the chat box and hit ent
 
 ### **Use emoji icon and upload file**
 
-In the chat box, you can choose to send “emoji icon” or “upload file”
+In the chat box, you can choose to send E**moji icon** or U**pload file.**
 
-![Use Emoji](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
+![Use Emoji or Upload file](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
 
 ### Tag Conversation
 
-Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage users interactions.
 
 {% tabs %}
 {% tab title="Create new tag" %}
-1. Go to Setting&gt; Account&gt; Tag &gt;  click New Tag
+1. Go to **Setting**&gt; **Account**&gt; **Tag** &gt;  click **New Tag**
 
-![Tag Setting](../../.gitbook/assets/9.-tag-setting.jpg)
+![Tags Setting](../../.gitbook/assets/9.-tag-setting.jpg)
 
-   2.  ****Fill Tag Name &gt; click Create
+   2.  ****Fill **Tag Name** &gt; click **Create**
 
 ![New Tag name](../../.gitbook/assets/10.-tag-name.jpg)
 {% endtab %}
 
 {% tab title="Add Tag to conversation" %}
-Click Tag button &gt; Select Tag name &gt; Save
+Click **Tag** button &gt; Select **Tag name** &gt; **Save**
 
 ![Add Tag](../../.gitbook/assets/11.-inset-tag%20%281%29.jpg)
 {% endtab %}
@@ -151,13 +146,12 @@ Click “**+**” icon on Subiz widget  &gt; Select **End Chat**
 
 ### **Block user**
 
-Agent can block one user as follows: On chat window, select **Block button** &gt; turn **ON** Block this person  
-
+Agent can block one user as follows: On chat window, select **Block button** &gt; turn **ON** Block this person
 
 ![Block user](../../.gitbook/assets/13.-block-user.jpg)
 
 {% hint style="info" %}
-Note: When selecting "Block this person" function:
+Note: When selecting "**Block this person**" function:
 
 * Blocked user has a slash avatar.
 * With the Subiz Chat channel, user cann't see the Subiz chat widget on website.

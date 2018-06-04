@@ -1,11 +1,10 @@
 # Interact on Messenger
 
-After successfully  finishing **Facebook Messenger integration**, you will easily answer messages on Fanpage Facebook from App.subiz.com
+After successfully  finishing [**Facebook Messenger integration**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz), you will easily answer messages on Fanpage Facebook from App.subiz.com
 
-On **LIST ACTIVITIES**, Subiz will display the Messenger and Fanpage name, helping you to identify where user is from.  
+On **LIST ACTIVITIES**, Subiz will display the Messenger and Fanpage name, helping you to identify where user is from.
 
-
-![](../../.gitbook/assets/27.-mess-noti%20%281%29.jpg)
+![Identify Messenger channel on Subiz app](../../.gitbook/assets/27.-mess-noti%20%281%29.jpg)
 
 {% hint style="info" %}
 Note: With Messenger channel, only when your Fanpage user proactively sends messages first, you \(Agent Subiz\) can reply messages and then create a new Messenger conversation.
@@ -15,31 +14,31 @@ Note: With Messenger channel, only when your Fanpage user proactively sends mess
 
 {% tabs %}
 {% tab title="1. Reply to Messenger messages" %}
-To reply to a new income message from a user: Select **User** &gt; Click **unread message** &gt; Chat window opens and type messages here
+To reply to a new income message from a user: Select **User** &gt; Click **unread message** &gt; **Chat window opens and type messages here**
 
-![](../../.gitbook/assets/28.-mess-type.jpg)
+![Reply to Messenger message](../../.gitbook/assets/28.-mess-type.jpg)
 {% endtab %}
 
 {% tab title="2. End Messenger conversation" %}
-End the conversation after supporting User: Select **End Chat** button &gt; Confirm **End** button
+End the conversation after supporting User: Select **End Chat** button &gt; Confirm **End**
 
-![](../../.gitbook/assets/29.-mess-end.jpg)
+![End Messenger conversation](../../.gitbook/assets/29.-mess-end.jpg)
 {% endtab %}
 
 {% tab title="3. Create New Conversation" %}
-Select **User** &gt; Select **New Conversation**&gt; Select **Messenger** &gt; Select **Fanpage name** &gt; Chat window opens and type message here
+Select **User** &gt; Select **New Conversation**&gt; Select **Messenger** &gt; Select **Fanpage name** &gt; **Chat window opens and type message here**
 
-![](../../.gitbook/assets/36.-mess-new%20%281%29.jpg)
+![Create New Messenger Conversation](../../.gitbook/assets/36.-mess-new%20%281%29.jpg)
 {% endtab %}
 {% endtabs %}
 
 ### **Some useful functions on Subiz Messenger**
 
-### 1. Manage multi-Fanpage on Subiz app
+### 1. Manage multi-Fanpages on Subiz app
 
 When you are an administrator of several fanpages, Subiz will help you easily interact and effectively manage users on each page.
 
-![](../../.gitbook/assets/35.-mess-fanpages.jpg)
+![Connect Subiz to multi-Fanpages](../../.gitbook/assets/35.-mess-fanpages.jpg)
 
 ### 2. **Use canned responses**
 
@@ -47,7 +46,7 @@ Canned responses is a set of ready-made messages templates that helps you to rep
 
 To reply messages with canned responses, type “**/shortcut**” in the chat box and hit **Enter**
 
-![](../../.gitbook/assets/30.-mess-canned.jpg)
+![Use Canned Response to reply](../../.gitbook/assets/30.-mess-canned.jpg)
 
 {% hint style="info" %}
 Note: Each Agent is allowed to create and manage their own canned responses. [See how to create Canned Response.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#use-canned-responses)
@@ -57,7 +56,7 @@ Note: Each Agent is allowed to create and manage their own canned responses. [Se
 
 Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
 
-How to add tag to Messenger ****Conversation: Click **Tag button** &gt; Select **Tag name** &gt; **Save**
+How to add tag to Messenger ****Conversation: Click **Tag** _**button**_ &gt; Select **Tag name** &gt; **Save**
 
 ![](../../.gitbook/assets/32.-mess-tag.jpg)
 
@@ -69,13 +68,13 @@ Note: See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-documen
 
 Rule is used to automatically assign conversations to a specific Agent or Agent group.
 
-How to create Rule that will assign Messenger conversation to one Agent: **SETTING** &gt; **ACCOUNT** &gt; **Rule** &gt;          New Rule &gt; Fill information as shown in the image &gt; Click Creat Rule
+How to create Rule that will assign Messenger conversation to one Agent: **SETTING** &gt; **ACCOUNT** &gt;  **Rule**&gt;       **New Rule** &gt; **Fill information as shown in the image** &gt; Click **Creat Rule**
 
 ![](../../.gitbook/assets/34.-mess-rule.jpg)
 
 ### 5. **Add Agent to join the conversation**
 
-When you need to involve a teammate in a conversation,you can add Agent to join the conversation and support user.
+When you need to involve a teammate in a conversation, you can add Agent to join the conversation and support user.
 
 To Add Agent: Click the **Add Agent** button &gt; Choose **Agent** &gt; Click **Add**
 
@@ -87,7 +86,9 @@ Note: Only assigned agent can add another Agent to the conversation.
 
 ### 6. **Use emoji icon and upload file**
 
-In the chat box, you can choose to send “emoji icon” or “upload file”
+In the chat box, you can choose to send **Emoji icon** or **Upload file**
 
-![](../../.gitbook/assets/6.-emoji.jpg)
+![ Use emoji icon and upload file](../../.gitbook/assets/6.-emoji.jpg)
+
+
 

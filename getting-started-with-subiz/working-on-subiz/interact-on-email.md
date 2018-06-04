@@ -1,6 +1,6 @@
 # Interact on Email
 
-**Once Email forwarding settings is enabled, you can read income email and reply directly to your leads from app.Subiz.com.**
+**Once** [**Email forwarding setting**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz) **is enabled, you can read income email and reply directly to your leads from app.Subiz.com.**
 
 ### How to send email to user {#how-to-send-email-to-user}
 
@@ -10,19 +10,19 @@
 {% tab title="1. Update User email address" %}
 Choose **User** &gt; Fill **Email Address** &gt; **Save changes**
 
-![](../../.gitbook/assets/17.-email-update%20%281%29.jpg)
+![Update User Email Address](../../.gitbook/assets/17.-email-update%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="2. Create new Email Conversation" %}
 Choose **User** &gt; Click **New Conversation** &gt; Choose **Email**
 
-![](../../.gitbook/assets/18.-email-new%20%281%29.jpg)
+![Creat new Email Conversation](../../.gitbook/assets/18.-email-new%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="3. Compose Email" %}
-Email box opens &gt; Choose email address **From, To, CC** &gt; **Add Subject** &gt; **Enter message** &gt; Click **Send**
+**Email box** opens &gt; Choose email address **From, To, CC** &gt; **Add Subject** &gt; **Enter message** &gt; Click **Send**
 
-![](../../.gitbook/assets/19.-email-type%20%281%29.jpg)
+![Compose Email](../../.gitbook/assets/19.-email-type%20%282%29.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -32,7 +32,7 @@ On **LIST ACTIVITIES** of User, you will know Email conversation via Icon Email 
 
 ![](../../.gitbook/assets/20.-email-noti.jpg)
 
-To reply to a single email: select **Email unread** &gt; click **Reply button** &gt; **Type message** &gt; Click **Send**
+To reply to a single email: select **Email unread** &gt; click **Reply** button &gt; **Type message** &gt; Click **Send**
 
 ![](../../.gitbook/assets/21.-email-reply.jpg)
 
