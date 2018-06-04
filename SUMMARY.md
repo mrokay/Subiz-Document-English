@@ -6,10 +6,10 @@
   * [How Subiz works?](subiz-overview/how-subiz-works.md)
 * Getting Started
   * Intergrating with Subiz
-    * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/README.md)
-      * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/installing-subiz-on-websites.md)
-      * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/setting-subiz-chat-widget.md)
-      * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat/customizing-subiz-chat-widget.md)
+    * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites.md)
+    * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/setting-subiz-chat-widget.md)
+    * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/customizing-subiz-chat-widget.md)
+    * [Intergating Subiz Chat](getting-started-with-subiz/setting-up-interaction-environments/intergating-subiz-chat.md)
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
     * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * Optimizing interactive channels
