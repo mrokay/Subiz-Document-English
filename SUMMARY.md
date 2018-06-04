@@ -12,10 +12,9 @@
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
     * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * Optimizing interactive channels
-      * Download Subiz app
+      * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)
+      * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
       * Managing business profiles/ business profile setting
-        * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/new-message-notification-settings.md)
-        * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/untitled.md)
         * [Password Management](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/managing-business-profiles-business-profile-setting/password-management.md)
       * FAQs
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
