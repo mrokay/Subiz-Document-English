@@ -48,13 +48,11 @@
   * [General reports](reports/general-reports.md)
   * Evaluating the use of Subiz
 * Payment
-  * Payment
-    * [What kind of pricing packages are available?](payment/payment/what-kind-of-pricing-packages-are-available.md)
-    * [What is the best package?](payment/payment/what-is-the-best-package.md)
-    * [How to charge Subiz](payment/payment/how-to-charge-subiz.md)
-    * [FAQs](payment/payment/faqs.md)
-  * Managing packages
-    * [Checking current account](payment/managing-packages/checking-current-account.md)
-    * [How to change pricing packages?](payment/managing-packages/how-to-change-pricing-packages.md)
-    * [FAQs](payment/managing-packages/faqs.md)
+  * [What kind of pricing packages are available?](payment/what-kind-of-pricing-packages-are-available.md)
+  * [What is the best package?](payment/what-is-the-best-package.md)
+  * [How to charge Subiz](payment/how-to-charge-subiz.md)
+  * [Checking current account](payment/checking-current-account.md)
+  * [How to change pricing packages?](payment/how-to-change-pricing-packages.md)
+  * [FAQs](payment/faqs.md)
+  * [FAQs](payment/faqs-1.md)
 

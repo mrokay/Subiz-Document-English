@@ -10,7 +10,7 @@ When your account creates an open invoice, the system will display a notificatio
   
 Click on "make payment" on the notification - the system will automatically take you to the Invoice List so that you can conveniently lookup the unpaid invoice and make a payment.
 
-![Open Invoice](../../.gitbook/assets/open-invoice.png)
+![Open Invoice](../.gitbook/assets/open-invoice.png)
 
 ### My next payment date has not arrived yet, why are there still unpaid bills?
 
@@ -18,7 +18,7 @@ When your renewal date is expired, your system will automatically renew the next
   
 Therefore, the next payment date will display the end date of the new cycle. You need to check the details on the invoice to understand which time the service provides for.
 
-![Payment Date](../../.gitbook/assets/payment-date.png)
+![Payment Date](../.gitbook/assets/payment-date.png)
 
 {% hint style="info" %}
 **Note**: In case  of the unexpected invoice, you need to send a confirmation to Subiz, we will help you cancel the invoice.
@@ -32,7 +32,7 @@ Subiz will send a notification of account renewal via the following methods: Ema
 
 When receiving the notice, you can check the invoice directly at the payment page as shown
 
-![Renewal Invoice](../../.gitbook/assets/renewal-invoice.png)
+![Renewal Invoice](../.gitbook/assets/renewal-invoice.png)
 
 * If your account is set up to make automatic payments via credit card, the system will automatically call for payment within 24 hours of the invoice date.
 * If your account uses bank transfer, within 7 days the system will send an email to remind you about the renewal payment.
@@ -53,7 +53,7 @@ Note: To ensure that you receive sufficient information from Subiz, in case you 
 
 The invoice is a certificate for providing the service from Subiz, you should actively know and control this information:
 
-![Invoice Information](../../.gitbook/assets/overdue-invoice_final.png)
+![Invoice Information](../.gitbook/assets/overdue-invoice_final.png)
 
 **Balance Due** is the amount of debt. When Balance due is greater than zero, the system will display a notice of overdue invoice.
 

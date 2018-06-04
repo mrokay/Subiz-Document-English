@@ -2,7 +2,7 @@
 
 When working with Subiz, to manage your package information including package type, billing cycle, number of agents ... you can check and make changes at the payment page.
 
-![Payment Page](../../.gitbook/assets/payment-page.png)
+![Payment Page](../.gitbook/assets/payment-page.png)
 
 The payment page includes the following information:
 
