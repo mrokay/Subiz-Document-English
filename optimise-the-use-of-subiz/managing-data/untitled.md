@@ -1,4 +1,4 @@
-# Edit and update user's information
+# Edit and update user's infor
 
 Update and edit user information
 
