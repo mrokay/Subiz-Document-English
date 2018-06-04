@@ -1,4 +1,4 @@
-# General reports
+# Reports & Statistics
 
 ### Overview of statistical reports
 

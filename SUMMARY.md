@@ -40,7 +40,7 @@
     * [Edit and update user's information](optimise-the-use-of-subiz/managing-data/untitled.md)
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [How to block a User?](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
-* [General reports](general-reports.md)
+* [Reports & Statistics](general-reports.md)
 * Payment
   * [What kind of pricing packages are available?](payment/what-kind-of-pricing-packages-are-available.md)
   * [What is the best package?](payment/what-is-the-best-package.md)
