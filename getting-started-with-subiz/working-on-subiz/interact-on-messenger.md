@@ -7,7 +7,7 @@ On **LIST ACTIVITIES**, Subiz will display the Messenger and Fanpage name, helpi
 ![Identify Messenger channel on Subiz app](../../.gitbook/assets/27.-mess-noti%20%281%29.jpg)
 
 {% hint style="info" %}
-Note: With Messenger channel, only when your Fanpage user proactively sends messages first, you \(Agent Subiz\) can reply messages and then create a new Messenger conversation.
+With Messenger channel, only when your Fanpage user proactively sends messages first, you \(Agent Subiz\) can reply messages and then create a new Messenger conversation.
 {% endhint %}
 
 ### **How to Interact on Subiz Messnger**
@@ -49,7 +49,7 @@ To reply messages with canned responses, type “**/shortcut**” in the chat bo
 ![Use Canned Response to reply](../../.gitbook/assets/30.-mess-canned.jpg)
 
 {% hint style="info" %}
-Note: Each Agent is allowed to create and manage their own canned responses. [See how to create Canned Response.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#use-canned-responses)
+Each Agent is allowed to create and manage their own canned responses. [See how to create Canned Response.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#use-canned-responses)
 {% endhint %}
 
 ### **3. Tag Messenger Conversation** 
@@ -61,7 +61,7 @@ How to add tag to Messenger ****Conversation: Click **Tag** _**button**_ &gt; Se
 ![Tag Messenger Conversation](../../.gitbook/assets/32.-mess-tag.jpg)
 
 {% hint style="info" %}
-Note: See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
+See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
 {% endhint %}
 
 ### **4. Rule automatically assigns conversation**
@@ -81,7 +81,7 @@ To Add Agent: Click the **Add Agent** button &gt; Choose **Agent** &gt; Click **
 ![Add Agent to join conversation](../../.gitbook/assets/31.-mess-agent.jpg)
 
 {% hint style="info" %}
-Note: Only assigned agent can add another Agent to the conversation.
+Only assigned agent can add another Agent to the conversation.
 {% endhint %}
 
 ### 6. **Use emoji icon and upload file**
