@@ -18,7 +18,7 @@ When your renewal date is expired, your system will automatically renew the next
   
 Therefore, the next payment date will display the end date of the new cycle. You need to check the details on the invoice to understand which time the service provides for.
 
-![Payment Date](../.gitbook/assets/payment-date.png)
+![Payment Date](../.gitbook/assets/payment-date%20%281%29.png)
 
 {% hint style="info" %}
 **Note**: In case  of the unexpected invoice, you need to send a confirmation to Subiz, we will help you cancel the invoice.
