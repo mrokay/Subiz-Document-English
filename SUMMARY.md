@@ -5,13 +5,13 @@
   * [What is Subiz?](subiz-overview/what-is-subiz-1.md)
   * [How Subiz works?](subiz-overview/how-subiz-works.md)
 * Getting Started
-  * Intergrating with Subiz
+  * Set up the interactive environment
     * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/README.md)
       * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/setting-subiz-chat-widget.md)
       * [Creative on Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget.md)
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
     * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
-    * Optimizing interactive channels
+    * Optimizing interactive enviroment
       * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)
       * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
       * FAQs
