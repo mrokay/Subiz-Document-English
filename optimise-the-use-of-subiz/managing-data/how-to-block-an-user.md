@@ -6,13 +6,13 @@ While interacting with customers on Subiz, you may encounter some annoying users
 
 You can block a user by 2 ways:
 
-**1. Block a user on tab Activities** 
+* **Block a user on tab Activities** 
 
 In the conversation, you can block the user by clicking the  icon in the right corner of the screen and turning on the Block button
 
 ![Block Users Directly](../../.gitbook/assets/block-directly.png)
 
- **2. Block a user in Blacklist**
+* **Block a user in Blacklist**
 
 **Blacklist** is a list of users that you have blocked. To add to this list, go to **Settings / Account / Blacklist / Block**. Here you just copy the **IP address**, **Email** or **ID** of the user who you want to block.
 
@@ -25,7 +25,7 @@ Every user connecting to the internet has an IP address. You can enter IP addres
 However, in the case of many users sharing the same IP, this block will prevent the remaining users. For example, in case the Subiz Team is using an IP of 112.134.233.134, if this IP is blocked, all computers in the Subiz Office will not see the widget displayed on the Subiz.com.
 
 {% hint style="info" %}
-Note: IP address blocking is performed when you want to block users via the Subiz Chat channel. This user will not see the Widget on the website.
+IP address blocking is performed when you want to block users via the Subiz Chat channel. This user will not see the Widget on the website.
 {% endhint %}
 {% endtab %}
 
@@ -54,7 +54,7 @@ This is the most accurate and comprehensive way to block a user via all channels
 
 ### Manage Blacklist
 
-To keep track of the list of blocked users as well as block history, you can log in the Blacklist
+To keep track of the list of blocked users as well as block history, you can log in the **Blacklist**
 
 {% tabs %}
 {% tab title="Spam List" %}
@@ -81,7 +81,7 @@ There are 2 ways to unblock a user as follow:
 
 ###  What happens when you block a User?
 
-* On Subiz Chat Channel: the user will not see the chat widget and can not create a conversation or send a message.
+* On Subiz Chat Channel: The user will not see the chat widget and can not create a conversation or send a message.
 * On Email Channel: The email of user will be blocked at Subiz Core. That mail will not be shown to the Agent.
 * On Messenger Channel: Messages are blocked on the Subiz Core and are not visible to the Agent \(Note: The message still exists and is displayed if the user uses Fanpage admin\)
 * Avatar of Blocked User will be displayed as follow
