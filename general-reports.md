@@ -97,7 +97,7 @@ After selecting the statistical criteria, the data will be displayed as a chart
 * **Vertical axis:** Number of Tags
 * **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
 
-At each intersection, you can see the number of tagged messages  per specific tag at a given time. This will help you manage the interaction more conveniently
+You can see the number of tagged messages  per specific tag at a given time. This will help you manage the interaction more conveniently
 
 For Example: 5 most used Tags in 19th April:
 
