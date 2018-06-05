@@ -53,7 +53,7 @@ The invoice is required to be made within 30 days from the date enterprise compl
 
 ### Invoice Management
 
-To track your status, billing status \(billing status, period, residual term ...\) you can access your [Subiz](https://app.subiz.com/subscription)&gt; Settings / [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:
+To track your status, billing status \(billing status, period, residual term...\) you can access your [Subiz](https://app.subiz.com/subscription), go to Settings &gt; [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:
 
 ![Invoice Management](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
 
@@ -102,8 +102,10 @@ When receiving the notice, you can check the invoice directly at the payment pag
 
 ![Renewal Invoice](../.gitbook/assets/renewwal-invoice.png)
 
+{% hint style="info" %}
 * If your account is set up to make automatic payments via credit card, the system will automatically call for payment within 24 hours of the invoice date.
 * If your account uses bank transfer, within 7 days the system will send an email to remind you about the renewal payment.
+{% endhint %}
 
 ### What channels are overdue invoices notified? {#what-channels-are-overdue-invoices-notified}
 
