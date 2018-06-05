@@ -1,8 +1,6 @@
 # Edit and update user's infor
 
-Update and edit user information
-
-The User is the customer that has contacted you via Subiz, including customers interacting with you on the website, from Fanpage and Email. The user list is displayed in the first left pane on the Activity page.
+The User is the customer that has interacted you via Subiz, including customers interacting with you on the website, from Fanpage and Email. The user list is displayed in the first left pane on the Activity page.
 
 On the Activities page, you can simultaneously monitor the list of users, the history of each user's activity and contact with them directly.
 
