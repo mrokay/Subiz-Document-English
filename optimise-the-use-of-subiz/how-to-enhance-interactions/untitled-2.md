@@ -22,13 +22,11 @@ Users who do not have email information will receive a message containing the em
 
 * **Vietnamese**
 
-When you select the Vietnamese language for the Subiz chat window on your website, the question will be in Vietnamese
-
-"Please provide an email address so we can contact you when you need our support."
+When you select the Vietnamese language for the Subiz chat window on your website, the question will be in Vietnamese: **“Vui lòng nhập địa chỉ email để chúng tôi có thể liên lạc khi bạn cần nhiều sự trợ giúp hơn”**
 
 * **English language**
 
-When you select the English language for the Subiz window on your website, the question will be in English
+When you select the English language for the Subiz window on your website, the question will be in English: **"Please provide an email address so we can contact you when you need our support."**
 
 * **Automatic language**
 
