@@ -24,6 +24,8 @@ Subiz support you to send a specific message to each customer geographically by 
 
 Condition: Country code - in - VN
 
+![Condition to send a message to who come from Vietnam](../../.gitbook/assets/vietnam-code.png)
+
 For foreign customers, you install the message in the English language.
 
 Condition: Country code - not - VN
