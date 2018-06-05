@@ -45,23 +45,22 @@ You can filter conversations according to specific time periods and make compari
 
 #### How to read statistical charts
 
-After you've selected the criteria for statistics, you can look at your statistics as a chart.  
-  
-**Vertical axis:** Number of conversations  
-  
-**Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)  
-  
+After you've selected the criteria for statistics, you can look at your statistics as a chart.
+
+* **Vertical axis:** Number of conversations
+* **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
+
 By placing your cursor at the intersection, you will see the number of conversations displayed at the selected time. Looking at the chart, you can evaluate the total conversations over time and see conversations at a specific time.  
   
 For example: Statistics of Subiz Chat conversations by Support group in the last 30 days. 
 
 ![Conversation\_Subiz Support Team Last 30 Days](.gitbook/assets/conversation_support-team-last-30-days.png)
 
-###  Tags Statistics
+### Tags Statistics
 
-Subiz tag is a feature that allows users to tag the interactions on all channels integrated Subiz. The purpose of this feature is to help agents easily manage and categorize customer interactions such as: Support, Sales, Promotions...
+Subiz Tag is a feature that allows users to tag the interactions on all channels integrated Subiz. The purpose of this feature is to help agents easily manage and categorize customer interactions such as: Support, Sales, Promotions...
 
-Thanks to this function you can manage interactions according to their content and evaluate the effectiveness of the promotion. For example, your website is running a " Golden Week " promotion. After 7 days, you can statistically count how many interactions are tagged "quote a price", " successful deal" ... These statistics will help you valuate the effectiveness of the promotion.
+Thanks to this function you can manage interactions according to their content and evaluate the effectiveness of the promotion. For example, your website is running a "Golden Week" promotion. After 7 days, you can statistically count how many interactions are tagged "quote a price", "successful deal"... These statistics will help you valuate the effectiveness of the promotion.
 
 #### Statistical criteria
 
@@ -93,12 +92,11 @@ You can select the time that you want to count tagged messages
 
 #### How to read statistical charts
 
-After selecting the statistical criteria, the data will be displayed as a chart  
-  
-Vertical axis: Number of Tags  
-  
-Horizontal axis: Time axis \(unit of time: date or hour depending on the time period you choose\)  
-  
+After selecting the statistical criteria, the data will be displayed as a chart
+
+* **Vertical axis:** Number of Tags
+* **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
+
 At each intersection, you can see the number of tagged messages  per specific tag at a given time. This will help you manage the interaction more conveniently
 
 For Example: 5 most used Tags in 19th April:
