@@ -1,14 +1,16 @@
 # FAQs
 
-### Why did I pay then that the system still displays the message?
+### Why I still receive message after paid?
 
 This situation occurs in the case of payment due to a difference in balance when making the transfer. This has been noted immediately at the payment confirmation email from the system when making a payment update for your account. Please pay the exact amount the system provides.
 
-Note: If you have any questions regarding the invoice and payment, please send feedback to [billing@subiz.com](mailto:billing@subiz.com) for support.
+{% hint style="info" %}
+If you have any questions regarding the invoice and payment, please send feedback to [billing@subiz.com](mailto:billing@subiz.com) for support.
+{% endhint %}
 
 ### Why Payment via Credit Card failed?
 
-#### Why was my credit card declined?
+#### Your credit card was declined
 
 In the process of making a payment via credit card, a "declined card" error message can occur for a variety of reasons. Upon receipt of the payment order from you, our payment gateway immediately sends the request to the bank, your bank side has a system that automatically processes the request, and can either allow or Refusal to request payment.
 
@@ -19,10 +21,6 @@ Even if you have made sure all card information is filled in correctly, and prev
 One of the reasons banks tighten this part of their payments is related to the risk of fraud \(for each bank\).
 
 #### What the correct reason for "Card declined"?
-
-Most of the information that banks offer is very general, so we can not provide the exact reason why your card was declined.
-
-If all the information you filled is correct, you can contact the card issuer directly for a specific reason, and ask for future similar payments to be approved without need direct communication from you.
 
 Most of the information that banks offer is very general, so we can not provide the exact reason why your card was declined.
 

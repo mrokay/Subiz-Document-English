@@ -36,7 +36,7 @@ See the detailed comparison table [here](https://subiz.com/pricing.html).
 
 ### Why should I upgrade my account to a paid plan?
 
-* Subiz offers paid packages at just 262k / agent per month.
+* Subiz offers paid packages at just $11.99/agent per month.
 * As one of the most essential, must-have tools for e-commerce businesses, you use Subiz live chat to promote sales, or customer care, to increase the level. Customer satisfaction in the long run.
 * Upgrading your account to a paid plan will give you the most complete, best of all features that Subiz has to offer.
 

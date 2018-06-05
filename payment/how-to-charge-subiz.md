@@ -1,10 +1,10 @@
-# How to charge Subiz
+# Payment methods
 
 Currently, Subiz supports 2 forms of payment: **Credit Card** and **Credit Transfer**. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.
 
 ### Payment via Credit Card \(Credit and Debit card\)
 
-**Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)
+**Step 1:** Access your Subiz account, go to Settings &gt; [Subscription](https://app.subiz.com/payment-home)
 
 ![Access your Subiz account](../.gitbook/assets/image%20%284%29.png)
 
@@ -24,7 +24,7 @@ After filling in the package you choose, click **Subscription Now**, the credit 
 
 ![Fill in the information](https://lh4.googleusercontent.com/V3ElTZzDV4BqgdE5YbK_-2miLS4q96Lin4zszJ78yetPrNi6X5pjM4V3gxPgwZa5MM7-Dys-4LdfUgLsEihhDFpXRvFIdPw-a2JKS9s-lTdZft1ApDgQfFmMgXnp5uC7yqU1ax5I)
 
-When you make a successful payment, your account will be upgraded immediately, and the system will send a successful delivery confirmation to your registration email.
+When you make a successful payment, **your account will be upgraded immediately**, and the system will send a successful delivery confirmation to your registration email.
 
 Here's an interface that shows your account information when you've completed the upgrade:
 
@@ -51,8 +51,6 @@ The system will automatically display the corresponding Subscription information
 * Content of transfer
 * Amount number of payment
 {% endhint %}
-
-
 
 
 

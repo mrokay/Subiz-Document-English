@@ -1,10 +1,10 @@
-# What kind of pricing packages are available?
+# How Subiz to charge?
 
 Subiz operates under the SAAS \(software as a service \) model, providing software as a service, allowing the buyer to pay a fee based on a monthly or annual billing cycles. This includes software licenses, support fees and most other costs .  
 
-You need pay the subscription package at the beginning of each billing cycle \(Pre-paid account \). Depending on the size and needs of the business, you can choose the suitable service package. Subiz offers up to 30% discount on long cycle payments see details in the pricing page.
+### How Subiz to charge?
 
-### Subiz is a subscription service, which will be charged based on three factors
+Subiz is a subscription service, which will be charged based on three factors
 
 * **Package Type:** Standard / Advanced
 * **Agent number:** The number of person login Subiz

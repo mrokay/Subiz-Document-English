@@ -42,10 +42,10 @@
     * [Block a User](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
 * [Reports & Statistics](general-reports.md)
 * Payment
-  * [What kind of pricing packages are available?](payment/what-kind-of-pricing-packages-are-available.md)
+  * [How Subiz to charge?](payment/what-kind-of-pricing-packages-are-available.md)
   * [What is the best package?](payment/what-is-the-best-package.md)
-  * [How to charge Subiz](payment/how-to-charge-subiz.md)
+  * [Payment methods](payment/how-to-charge-subiz.md)
   * [Checking current account](payment/checking-current-account.md)
-  * [How to change pricing packages?](payment/how-to-change-pricing-packages.md)
+  * [How to change packages?](payment/how-to-change-pricing-packages.md)
   * [FAQs](payment/faqs.md)
 

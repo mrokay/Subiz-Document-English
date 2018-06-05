@@ -1,4 +1,4 @@
-# How to change pricing packages?
+# How to change packages?
 
 When using Subiz, depending on your business situation and development strategy, you can change your account information at any time to suit your needs.
 
@@ -19,17 +19,17 @@ If you want to upgrade the Basic package to the Advanced package, click on **You
 
 ![Click on Your Plan](../.gitbook/assets/your-plan.png)
 
-Then you select Advanced Plan and click on Upgrade Now
+Then you select **Advanced Plan** and click on **Upgrade Now**
 
 ![Upgrade to Advanced Plan](../.gitbook/assets/upgrade-to-advanced-plan.png)
 
 {% hint style="info" %}
- After upgrading your account, the system will create invoices in your account. You can choose to pay by Credit Card or by Bank Transfer
+After upgrading your account, the system will create invoices in your account. You can choose to pay by Credit Card or by Bank Transfer
 {% endhint %}
 
 #### Downgrade Account {#ha-cap-tai-khoan}
 
-To downgrade your account, you click on Your Plan, and then click on Downgrade 
+To downgrade your account, you click on **Your Plan**, and then click on **Downgrade** 
 
 ![Downgrade to Standard Plan](../.gitbook/assets/downgrade-to-standard-plan.png)
 
