@@ -38,9 +38,11 @@ The segment will be only created when you are using the Trial or Advanced packag
 
 ### Segment management
 
+#### Segment list
+
 Segments created will be displayed in the Segment list.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/segment-list-eng.png)
+![Segment list](https://docv4.subiz.com/wp-content/uploads/2018/03/segment-list-eng.png)
 
 * **Created**: The day when the segment was created
 
@@ -52,7 +54,7 @@ In case of having changes in segment conditions, the created- time will be count
 
 After the segment is created, it will take a certain amount of time to determine the number of users in the segment. In some cases, the number of users will be displayed as “Estimating” instead of specific figures.
 
-* **Edit / Delete Segment:**
+#### **Edit / Delete Segment:**
 
 When you need to edit or delete a segment, click the corresponding button in the segment list.![](https://docv4.subiz.com/wp-content/uploads/2018/04/edit-and-delete.png)
 
