@@ -10,9 +10,25 @@ Automate business operations, set up multiple workflows and automate customer in
 
 ### Instructions to set up Automatic Interaction {#cac-huong-dan-thiet-lap-tuong-tac-tu-dong}
 
-In this Automatic Interaction Guide, Subiz has provided detailed instructions regarding setting up Automation, such as automatically sending customer interaction messages, how to ask for customer information, how to get attention and inspires guests, as well as the pursuit, customer care from many channels right on Subiz.  
+In this Automatic Interaction Guide, Subiz has provided detailed instructions regarding setting up Automation, such as automatically sending customer interaction messages, how to ask for customer information, how to get attention and inspires guests, as well as the pursuit, customer care from many channels right on Subiz.
+
+**Specific guidelines will be available at:**
+
+* A guide to creating new automation, including conditions and actions.
+
+{% page-ref page="untitled.md" %}
+
+* A Guide to Setting Conditions in Automation, Helps You Create Automation Actions.
+
+{% page-ref page="untitled-1.md" %}
+
+* A guide to setting up an automated email address inquiry when your customers chat on your website.
+
+{% page-ref page="untitled-2.md" %}
 
 
-Specific guidelines will be available at:  
+
+
+
 
 
