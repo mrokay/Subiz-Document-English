@@ -1,7 +1,7 @@
 # Table of contents
 
-* Trang Home
-* Subiz Overview
+* [Trang Home](README.md)
+* [Subiz Overview](subiz-overview/README.md)
   * [What is Subiz?](subiz-overview/what-is-subiz-1.md)
   * [How Subiz works?](subiz-overview/how-subiz-works.md)
 * [Getting Started](getting-started-with-subiz/README.md)
@@ -20,17 +20,17 @@
   * [How to use Subiz](getting-started-with-subiz/how-to-use-subiz/README.md)
     * [Managing agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/README.md)
       * [Agent overview](getting-started-with-subiz/how-to-use-subiz/managing-agent/agent-profile.md)
-      * Invite Agent and manage
-      * Agents Group
-    * Distributing conversations
+      * [Invite Agent and manage](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-agent-and-manage.md)
+      * [Agents Group](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents-group.md)
+    * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/README.md)
       * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
-  * Working on Subiz
+  * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
     * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)
     * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
     * [Interact on Messenger](getting-started-with-subiz/working-on-subiz/interact-on-messenger.md)
-* Using advanced Subiz
+* [Using advanced Subiz](optimise-the-use-of-subiz/README.md)
   * [Automatic interaction](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * [Sending messages to user automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-1.md)
@@ -41,7 +41,7 @@
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [Block a User](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
 * [Reports & Statistics](general-reports.md)
-* Payment
+* [Payment](payment/README.md)
   * [How Subiz to charge?](payment/what-kind-of-pricing-packages-are-available.md)
   * [What is the best package?](payment/what-is-the-best-package.md)
   * [Payment methods](payment/how-to-charge-subiz.md)
