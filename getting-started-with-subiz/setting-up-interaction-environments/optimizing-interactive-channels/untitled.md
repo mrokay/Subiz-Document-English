@@ -1,8 +1,12 @@
 # Business information
 
-Business information is the basic information, helping Subiz to easy to contact and support you better.
+**Business information is the basic information, helping Subiz to easy to contact and support you better.**
 
-To provide and edit the basic information of your company, please log into your Subiz account, go to **Settings**&gt; **Accounts**&gt; **General settings**. After that, please fill in the Business’s information below:
+To provide and edit the basic information of your company, please log into your Subiz account, go to **Settings**&gt; **Accounts**&gt; **General settings**. 
+
+![Update business information](../../../.gitbook/assets/6.png)
+
+After that, please fill in the Business’s information below:
 
 * **Business Name:** The brand name of the business
 * **Address:** Business address
@@ -14,8 +18,6 @@ To provide and edit the basic information of your company, please log into your 
 * **Zip Code:**  The postal code of the locality of the business
 * **Tax ID:** The tax code of the enterprise
 * **Social Network:** Enter links that associate to your social networking sites.
-
-![Fill in the information](https://lh4.googleusercontent.com/2q37ESAPMFZbd51tWY7QmOE7rqH3Ce9gKKYgWe8kcoBzi-TKq71hrlwtlQXc62mxG2ArW-WIOcj7hnXFk6C-pv1s2jV3QYj5uMBFy8NRLuvZd4Iwj4yRLh8Delqgy9hNb6pUHNpx)
 
 After filling in the information, click **Save** to save changes.
 
