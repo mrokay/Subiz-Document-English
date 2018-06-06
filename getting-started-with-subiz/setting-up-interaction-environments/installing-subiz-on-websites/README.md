@@ -6,7 +6,7 @@ Subiz Chat is a channel for you to interact with visitors on your website.  Afte
 
 ### How to integrate Subiz on your website
 
-To integrate Subiz widget into your website, follow these three steps:
+To integrate Subiz widget into your website, please follow these three steps below:
 
 **Step 1: Get Subiz’s embed code**
 
@@ -16,10 +16,9 @@ To get embed code, follow steps below:
 
 1. Sign in to [app.subiz.com](https://app.subiz.com/)
 2. Click **Settings &gt; Account &gt; Installation**
+3. At Subiz Chat Widget &gt; **Subiz Embed Code**, click **Copy code** to copy the embed code quickly.
 
-At Subiz Chat Widget &gt; Subiz Embed Code, click Copy code to copy the embed code quickly.
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/copy-code.png)
+![Copy Subiz&#x2019;s embed code](https://docv4.subiz.com/wp-content/uploads/2018/03/copy-code.png)
 
 {% hint style="info" %}
 Every single account has different embed code so when you change the account you have to re-install embed code.
@@ -37,7 +36,7 @@ If you still don’t see the chat widget, you can take some more steps to check 
 
 1. Sign in **app.subiz.com**
 2. Click into **Settings &gt; Account &gt;** **Installation**
-3. Paste your website’s URL and click **Check**
+3. Paste your **website’s URL** and click **Check**
 
 ![Check Subiz&#x2019;s widget on website](https://docv4.subiz.com/wp-content/uploads/2018/03/check-code.png)
 
