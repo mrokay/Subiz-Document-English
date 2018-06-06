@@ -8,28 +8,65 @@ Agent is the person who uses Subiz to work and interact with customers. Agent ca
 
 There are two types of Agent:
 
-* Agent owner is that initially registered Subiz Account and has full of account permission.
-* Agent normal is that was invited to join Subiz by the Agent owner.
+* **Agent owner** is that initially registered Subiz Account and has full of account permission.
+* **Agent normal** is that was invited to join Subiz by the Agent owner.
 
 ### **Agent Permission**
 
-An Agent will have 3 rights when using the Subiz account.
+An Agent will have 3 **rights** when using the Subiz account.
 
+You can choose whether Agent privileges are "**No access**" or "**Full access**."
 
+1. **Account Management**: Full access allows you to add, edit information or delete agents, and you can change your Plans and Payments.
+2. **Account settings:** Full access allows you to customize account settings and manage agents \(add, edit, or delete agents\).
+3. **Conversation:** Access allows the user to export user data and view conversations of other agents.
 
-You can choose whether Agent privileges are "No access" or "Full access."
+![Agent Permission](../../../.gitbook/assets/phan-quyen-agent.png)
 
+### Agent's private information
 
+The Agent's personal information is your Subiz login information, which will be displayed in the Subiz chat window on your website. When you fully set up the Agent information, your image will be more professional and reputable in the eyes of the customer.
 
-Account Management: Full access allows you to add, edit information or delete agents, and you can change your Plans and Payments.
+_Personal information customization guide:_ Select **Avatar** on the right corner of the screen&gt; Select **Personal info**
 
+![Agent&apos;s private information](../../../.gitbook/assets/agent.png)
 
+Here you can customize:
 
-Account settings: Full access allows you to customize account settings and manage agents \(add, edit, or delete agents\).
+* Personal information
+* Avatar
+* Subiz Login Password
 
+{% tabs %}
+{% tab title="Personal information" %}
+_Customize information:_ **Change the required fields**&gt; select **Save**
 
+* Full Name: Agent's display name in chat window Subiz
+* Email Address: Agent's login email, cannot be changed
+* Job Placement: The job that the agent is responsible for
+* Phone Number: Agent contact number
+* Time Zone: The time zone where the agent works. Note the corresponding time zone setting on the computer so that the update data is correct.
+* Languages: The language displayed on Agent App.subiz.com
 
-Conversation: Access allows the user to export user data and view conversations of other agents.
+![Personal information](../../../.gitbook/assets/thong-tin-agent.png)
+{% endtab %}
+
+{% tab title="Avatar" %}
+_Image change guide:_ Select **Change avatar**&gt; **Upload photo**&gt; Select **Save**
+
+![Change Avatar](../../../.gitbook/assets/doi-anh-dai-dien.png)
+{% endtab %}
+
+{% tab title="Subiz Login Password" %}
+_Change password:_ Select **Change password**&gt; **Enter new password**&gt; **Confirm**
+
+![ Button Change password](../../../.gitbook/assets/doi-mat-khau.png)
+
+![Change password](../../../.gitbook/assets/change.png)
+
+After successfully changing your password, you will be sent back to the login page of Subiz and logged into the account with a new password.
+{% endtab %}
+{% endtabs %}
 
 Agents can manage their own password. You can change your password as well as reset password in case you forget it.
 
@@ -67,15 +104,15 @@ If you forgot your password, you can reset it by following below steps:
 * Click **Recover Password**
 * Check your email inbox. In the recover password email, click on button **Reset Password**
 
-![](https://lh5.googleusercontent.com/_84a2Wvbvouze608fuBFSD-1l7KKqhG9IfYrWocOhtZhNO0M3lYOW23Fs0_5B_VPLT5q7B3IRMpOyd3-uNvUSU5DHfJBnJjR2ROnXY0FceXqo61O4xX-Nnjz7Wytno6b-yHHL4XH)
+![Check your email and select Reset Password](https://lh5.googleusercontent.com/_84a2Wvbvouze608fuBFSD-1l7KKqhG9IfYrWocOhtZhNO0M3lYOW23Fs0_5B_VPLT5q7B3IRMpOyd3-uNvUSU5DHfJBnJjR2ROnXY0FceXqo61O4xX-Nnjz7Wytno6b-yHHL4XH)
 
 * Enter new password and click on button **Recover Password**
 
-![](https://lh5.googleusercontent.com/d6VpC6dnx3G2x8Qyz5BPGDexl_8_lP7w2UtLzGtPMvdHuHEFFL9hWS_37j3h5INr_vLIzj80a2PFJJaoEeH6j_WABgxuYXqu5CrTOF_gqUv30o4WL5kywsVrudn_DRjVWC-ZEg48)
+![Enter your new password](https://lh5.googleusercontent.com/d6VpC6dnx3G2x8Qyz5BPGDexl_8_lP7w2UtLzGtPMvdHuHEFFL9hWS_37j3h5INr_vLIzj80a2PFJJaoEeH6j_WABgxuYXqu5CrTOF_gqUv30o4WL5kywsVrudn_DRjVWC-ZEg48)
 
 * Your password has been changed. Click on **Login** to login again
 
-![](https://lh4.googleusercontent.com/ygaO49_g_fBIZQ6Q5-uCpD9o9L1u8sLPTT_bhZ18vn_iNpiqyUs2b1cHlsNY5qWbAM4tCjf2wqhqixnTbCYr2d3aWoCUXFfq5XKltrK_K93FuuEskbCzz5luD8d1UEyeFDZp0PzK)
+![Confirm successful password recovery](https://lh4.googleusercontent.com/ygaO49_g_fBIZQ6Q5-uCpD9o9L1u8sLPTT_bhZ18vn_iNpiqyUs2b1cHlsNY5qWbAM4tCjf2wqhqixnTbCYr2d3aWoCUXFfq5XKltrK_K93FuuEskbCzz5luD8d1UEyeFDZp0PzK)
 
 
 

@@ -4,9 +4,11 @@ In the working time, the agent will have to use a lot of applications, therefore
 
 Setting up new message notifications will help you display a small pop-up window at the corner of the screen \( including sound notifications\) and also notified when new messages arrive or any changes to your dashboard \(visitor access to the web, guest send chat request, etc.
 
+![New message notification on screen](../../../.gitbook/assets/7.png)
+
 ### There are steps to set up new message notification
 
-* Login account&gt; click on the avatar at the top right corner of the screen&gt; select Notifications.
+* Login account&gt; click on the avatar at the top right corner of the screen&gt; select **Notifications**.
 
 ![Set up new message notification](../../../.gitbook/assets/1%20%281%29.png)
 
@@ -24,12 +26,12 @@ When you set up the new message notification, it is possible that the browser yo
 {% tab title="Chrome & Cốc Cốc" %}
 Click the **Security button** \(1\) and select **Allow** \(2\) or Edit on **Site Settings** \(3\)
 
-![](../../../.gitbook/assets/4%20%282%29.png)
+![](../../../.gitbook/assets/4%20%283%29.png)
 
 ![](../../../.gitbook/assets/5%20%281%29.png)
 
 {% hint style="info" %}
-With new versions of Chrome and Coc Coc, there may have no a new message alert tone, because of which has turned off the automatic opening of Audio and Video. Please try to log out and log back into app.subiz.com.
+With new versions of Chrome and Coc Coc, there may have no a **new message alert tone**, because of which has turned off the automatic opening of Audio and Video. Please try to **log out** and **log back** into app.subiz.com.
 {% endhint %}
 {% endtab %}
 

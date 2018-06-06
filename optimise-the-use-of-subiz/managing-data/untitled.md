@@ -37,7 +37,7 @@ You can follow information's detail of each user including:
 
 To fill in information for the user, click on the arrow below the agent's avatar above the activities list, complete the information and select Save Changes.
 
-![User information](../../.gitbook/assets/4%20%281%29.png)
+![User information](../../.gitbook/assets/4%20%282%29.png)
 
 
 
