@@ -8,7 +8,7 @@ On the Activities page, you can simultaneously monitor the list of users, the hi
 
 The list of users displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned users.
 
-![](../../.gitbook/assets/1%20%282%29.png)
+![](../../.gitbook/assets/1%20%283%29.png)
 
 A user will be displayed by name and avatar. The avatar of the user who is online \(blue dot\) or offline \(gray dot\). If there is a new conversation with the user, you will see the message and the time the message was sent.
 

@@ -1,14 +1,14 @@
 # Automation setting
 
-### NTRODUCTION OF AUTOMATION {#introduction-of-automation}
-
 With Automation, now you can automate interaction with your customers, attract visitors’ attention and pursue your customers through multiple channels. You no longer need to rely much on the availability of agents.
 
 In detail, you can install the Automation to send targeted auto messages to the right user at the right time.
 
 #### What is the condition of Automation? {#what-is-the-condition-of-automation}
 
-You can create Automation with one or more concurrent conditions.![](https://docv4.subiz.com/wp-content/uploads/2018/03/condition-1.png)
+You can create Automation with one or more concurrent conditions.
+
+![Create a new automation](../../.gitbook/assets/1%20%281%29.png)
 
 #### Automation run in which channels? {#automation-run-in-which-channels}
 
@@ -25,11 +25,15 @@ With the Subiz Chat channel, you can take one of two actions:
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/action-Subiz-chat.png)
 
-With Email channel, you can take action **Send email to users**. This action only can be taken with users whom you have already got their email.![](https://docv4.subiz.com/wp-content/uploads/2018/03/H%C3%A0nh-%C4%91%E1%BB%99ng-Email.png)
+With Email channel, you can take action **Send email to users**. This action only can be taken with users whom you have already got their email.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/03/H%C3%A0nh-%C4%91%E1%BB%99ng-Email.png)
 
 #### How are messages/emails sent automatically? {#how-are-messages-emails-sent-automatically}
 
-You can choose an agent to send messages and emails.![](https://docv4.subiz.com/wp-content/uploads/2018/03/agent.png)
+You can choose an agent to send messages and emails.
+
+![](https://docv4.subiz.com/wp-content/uploads/2018/03/agent.png)
 
 Users will see auto messages/emails as a messages/ emails sent from that Agent.![](https://docv4.subiz.com/wp-content/uploads/2018/03/Content.png)
 

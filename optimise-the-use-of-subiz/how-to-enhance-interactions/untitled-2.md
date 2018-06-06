@@ -12,7 +12,7 @@ To set up the form asking for customer information, go to Settings&gt; Accounts&
 * A user does not have email address information
 * There is a message from a user
 
-![Condition to ask email address](../../.gitbook/assets/1%20%284%29.png)
+![Condition to ask email address](../../.gitbook/assets/1%20%285%29.png)
 
 Users who do not have email information will receive a message containing the email asking form as soon as they send the message in the Subiz window.
 

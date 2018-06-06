@@ -16,7 +16,7 @@ Example: Page URL - contains - http://abc.com.vn
 
 For a visitor who do not have personal information on the system, you can send a message along with an invitation to leave personal information so that you can contact again at any time.
 
-![Condition to send a message to who do not have info](../../.gitbook/assets/1%20%283%29.png)
+![Condition to send a message to who do not have info](../../.gitbook/assets/1%20%284%29.png)
 
 ### Send messages to customers based on geographic area.
 
