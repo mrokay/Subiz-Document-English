@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Trang Home](README.md)
+* [Hello, how do we support you?](README.md)
 * [Subiz Overview](subiz-overview/README.md)
   * [What is Subiz?](subiz-overview/what-is-subiz-1.md)
   * [How Subiz works?](subiz-overview/how-subiz-works.md)
