@@ -1,18 +1,22 @@
 # How to distribute conversations
 
+**With Subiz, conversations to automatically distributed to one or more Agents, by setting up and using rules.**
 
+You can use the original default rule, use the existing Rule Library, or create a "New Rule" to automatically deliver conversations that match the actual needs of the business.
 
-After integrating one or more channels into your Subiz account, all conversations will be automatically assigned to Agent owner \(the account which took registration\).
+### Use the original default rule
 
-This is the default rule that Subiz has set up for all account.  
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-1.png)
+The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your Subiz account. This is the default rule, Subiz has set up for all accounts.
 
-You can see settings of this default rule.  
-![](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-2.png)
+![The default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-1.png)
+
+You can see settings of this default rule.
+
+![Edit the default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-2.png)
 
 You can edit the conditions and Agents to assign in this default rule to create a new rule, for example, add more agents in assign list… See detailed instructions for [creating a new rule.](https://docv4.subiz.com/create-a-new-rule/) ​
 
-### LIST OF RULE CONDITION {#list-of-rule-condition}
+### List of Rule Condition {#list-of-rule-condition}
 
 Rule conditions are set to assign conversations to agents. Rules only work when conditions are set up correctly.
 
@@ -32,7 +36,7 @@ Rule conditions are set to assign conversations to agents. Rules only work when 
 | Email | Identify email of customers and assign conversation to a specific agent | Assign conversation of customers whose email address is unknown \(email is empty\) to Agent B |
 | Phone | Identify phone number of customers and assign conversation to a specific agentPhone numbers are a set of numbers, not contain special characters | Assign conversations of customers whose phone number begin with +84 to Agent C |
 
-### RULE LIBRARY {#rule-library}
+### Rule Library {#rule-library}
 
 Rule library includes 4 rules which are set up for customers to use this feature easily.
 
@@ -51,4 +55,15 @@ Currently, Subiz has 4 rules available in the library:
 * **Return users:** apply for users who have total session greater than 2.
 * **English language support:** apply for conversations in which message language is English
 * **Pricing:** apply for conversations in which message content contains pricing.
+
+### Create new Rule
+
+You should rely on the actual situation of the business, such as the number of websites, fan page, email integration, number of agents are using and how to manage and operate the business to create new rules, help for the distribution and handling of the conversation to be effective.
+
+{% hint style="info" %}
+* When you have multiple agents, do not create rules to distribute interactively, other agents will not receive the request to chat with the client, then the chat requests are forwarded to the agent account holders. At first, you can select the rules in the Rule Library that Subiz has created.
+* You can create multiple rules, manage rules and change rules base on time, to match the number of agents and your management.
+{% endhint %}
+
+
 
