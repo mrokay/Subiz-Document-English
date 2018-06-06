@@ -70,7 +70,7 @@ max-height: 900px !important;}
 
 Change value **800**px to decide the height of chat widget.
 
-![Changing the chat widget height](../../../.gitbook/assets/image%20%287%29.png)
+![Changing the chat widget height](../../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="Changing the chat widget width" %}

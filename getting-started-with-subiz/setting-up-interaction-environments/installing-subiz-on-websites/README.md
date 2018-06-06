@@ -54,7 +54,7 @@ If your website is built on other platforms, find installation guide in the list
 2. Go to **footer.php** file in the right column &gt; Open it
 3. Paste Subiz widget code into **footer.php** \(Right before &lt;/body&gt; tag\)
 
-![Integrating Subiz on WordPress Platform](../../../.gitbook/assets/image%20%2810%29.png)
+![Integrating Subiz on WordPress Platform](../../../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}
 
 {% tab title="Shopify" %}
@@ -92,7 +92,7 @@ You only need to do this option if the template files described in the option 1 
 2. Choose your templte &gt; Open **Index.php** file
 3. Paste Subiz embed code right before &lt;/body&gt; tag &gt; Finish
 
-![Integrating Subiz on Joomla](../../../.gitbook/assets/image%20%2813%29.png)
+![Integrating Subiz on Joomla](../../../.gitbook/assets/image%20%2814%29.png)
 {% endtab %}
 {% endtabs %}
 

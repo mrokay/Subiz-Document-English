@@ -19,7 +19,7 @@ Here are some common causes:
 
 *  **Your domain is considered as spam**
 
-![Your domain is considered as Spam and listed in Blacklist](../../../../.gitbook/assets/image%20%288%29.png)
+![Your domain is considered as Spam and listed in Blacklist](../../../../.gitbook/assets/image%20%289%29.png)
 
 Tools to check: [MxToolbox](https://mxtoolbox.com/blacklists.aspx). The solution is to contact the organization that lists your domain as Spam to ask them to remove.
 
