@@ -150,7 +150,7 @@ Agent can block one user as follows: On chat window, select **Block button** &gt
 
 ![Block user](../../.gitbook/assets/13.-block-user.jpg)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 When selecting "**Block this person**" function:
 
 * Blocked user has a slash avatar.

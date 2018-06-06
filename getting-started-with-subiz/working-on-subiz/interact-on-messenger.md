@@ -34,13 +34,13 @@ Select **User** &gt; Select **New Conversation**&gt; Select **Messenger** &gt; S
 
 ### **Some useful functions on Subiz Messenger**
 
-### 1. Manage multi-Fanpages on Subiz app
+#### 1. Manage multi-Fanpages on Subiz app
 
 When you are an administrator of several fanpages, Subiz will help you easily interact and effectively manage users on each page.
 
 ![Connect Subiz to multi-Fanpages](../../.gitbook/assets/35.-mess-fanpages.jpg)
 
-### 2. **Use canned responses**
+#### 2. **Use canned responses**
 
 Canned responses is a set of ready-made messages templates that helps you to reply your customers quickly and efficiently.
 
@@ -52,7 +52,7 @@ To reply messages with canned responses, type “**/shortcut**” in the chat bo
 Each Agent is allowed to create and manage their own canned responses. [See how to create Canned Response.](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#use-canned-responses)
 {% endhint %}
 
-### **3. Tag Messenger Conversation** 
+#### **3. Tag Messenger Conversation** 
 
 Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
 
@@ -64,7 +64,7 @@ How to add tag to Messenger ****Conversation: Click **Tag** _**button**_ &gt; Se
 See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-english/getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat#tag-conversation)
 {% endhint %}
 
-### **4. Rule automatically assigns conversation**
+#### **4. Rule automatically assigns conversation**
 
 Rule is used to automatically assign conversations to a specific Agent or Agent group.
 
@@ -72,7 +72,7 @@ How to create Rule that will assign Messenger conversation to one Agent: **SETTI
 
 ![Rule Setting for Messenger Conversation](../../.gitbook/assets/34.-mess-rule.jpg)
 
-### 5. **Add Agent to join the conversation**
+#### 5. **Add Agent to join the conversation**
 
 When you need to involve a teammate in a conversation, you can add Agent to join the conversation and support user.
 
@@ -84,7 +84,7 @@ To Add Agent: Click the **Add Agent** button &gt; Choose **Agent** &gt; Click **
 Only assigned agent can add another Agent to the conversation.
 {% endhint %}
 
-### 6. **Use emoji icon and upload file**
+#### 6. **Use emoji icon and upload file**
 
 In the chat box, you can choose to send **Emoji icon** or **Upload file**
 
