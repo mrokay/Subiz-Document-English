@@ -7,7 +7,7 @@ Subiz uses the big messaging system \( [AWS SES](https://aws.amazon.com/ses/); [
 Subiz email content can contain transactional chats. There are many words that can be related to price, quotation, etc., which make mail systems think that is promotional mail or spam. So check the Spam or Promotions.  
 You should confirm that Email is not Spam to ensure next time you can receive emails from Subiz.
 
-![Emails in Spam Box](../../../../.gitbook/assets/image%20%285%29.png)
+![Emails in Spam Box](../../../../.gitbook/assets/image%20%286%29.png)
 
  If it is in Promotions, move it to the primary.
 
@@ -19,13 +19,13 @@ Here are some common causes:
 
 *  **Your domain is considered as spam**
 
-![Your domain is considered as Spam and listed in Blacklist](../../../../.gitbook/assets/image%20%286%29.png)
+![Your domain is considered as Spam and listed in Blacklist](../../../../.gitbook/assets/image%20%288%29.png)
 
 Tools to check: [MxToolbox](https://mxtoolbox.com/blacklists.aspx). The solution is to contact the organization that lists your domain as Spam to ask them to remove.
 
 * **Email does not exist**
 
-![Email does not exist](../../../../.gitbook/assets/image%20%283%29.png)
+![Email does not exist](../../../../.gitbook/assets/image%20%284%29.png)
 
 * **Email server is not stable**
 
