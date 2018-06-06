@@ -10,7 +10,7 @@ Setting up new message notifications will help you display a small pop-up window
 
 * Login account&gt; click on the avatar at the top right corner of the screen&gt; select **Notifications**.
 
-![Set up new message notification](../../../.gitbook/assets/1%20%282%29.png)
+![Set up new message notification](../../../.gitbook/assets/1%20%283%29.png)
 
 * Select Send new message notification and Save
 
