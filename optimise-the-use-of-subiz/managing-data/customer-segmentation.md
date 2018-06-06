@@ -8,16 +8,15 @@ On the Segment Settings page, you can create new segments, track and edit segmen
 
 To create a new segment, go to **Setting&gt; Account&gt; Segment**, select **New Segment**.
 
+![Creat a new segment](../../.gitbook/assets/new-segment.png)
+
 Follow these step to create Segment:
 
 * Select status **Active/ Inactive**
 * Enter **Segment name** and **Description**
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/create-segment.png)
-
 * Set up **Condition**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/Condition.png)
+![Select conditions for segment](../../.gitbook/assets/condition.png)
 
 * Click **Add more condition** if you want to combine conditions
 * Select relationships between conditions
@@ -25,7 +24,9 @@ Follow these step to create Segment:
   * **Or:** Users with one of the conditions satisfied will be included in the Segment
 * Click **Create Segment** to finish
 
-For example: Segment of users from Vietnam and email address is known.![](https://docv4.subiz.com/wp-content/uploads/2018/03/Segment-Setup-example2.png)
+For example: Segment of users from Vietnam and email address is known.
+
+![Conditon of Vietnam and email address is known](../../.gitbook/assets/segment-setup-example2.png)
 
 **Filter all users \(**only available in Advanced package\):
 
@@ -36,13 +37,15 @@ For example: Segment of users from Vietnam and email address is known.![](https:
 The segment will be only created when you are using the Trial or Advanced packages. You will see the number of segments below the Create segment button. If you have used up the number of Segments allowed, you need to upgrade your account to Advanced Package or buy add more to create new Segment.
 {% endhint %}
 
+![The number of segment you can create](../../.gitbook/assets/number-new-segment.png)
+
 ### Segment management
 
 #### Segment list
 
 Segments created will be displayed in the Segment list.
 
-![Segment list](https://docv4.subiz.com/wp-content/uploads/2018/03/segment-list-eng.png)
+![Segment list](../../.gitbook/assets/segment-list-eng.png)
 
 * **Created**: The day when the segment was created
 
@@ -54,15 +57,21 @@ In case of having changes in segment conditions, the created- time will be count
 
 After the segment is created, it will take a certain amount of time to determine the number of users in the segment. In some cases, the number of users will be displayed as “Estimating” instead of specific figures.
 
-#### **Edit / Delete Segment:**
+#### **Edit / Delete Segment**
 
-When you need to edit or delete a segment, click the corresponding button in the segment list.![](https://docv4.subiz.com/wp-content/uploads/2018/04/edit-and-delete.png)
+When you need to edit or delete a segment, click the corresponding button in the segment list.
 
-To edit a segment, select the edit icon, then update the information and select Save Changes.![](https://docv4.subiz.com/wp-content/uploads/2018/04/Edit-segment.png)
+![Edit and delete button](../../.gitbook/assets/edit_delete-segment.png)
+
+To **edit a segment**, select the **edit icon**, then update the information and select Save Changes.
+
+![Edit segment](../../.gitbook/assets/edit-segment.png)
 
 If you change the conditions in the Segment, the data will be updated from the time you change \(in case “Filter all users” is OFF\). This is equivalent to creating a new segment.
 
-To delete a segment, select the Delete icon, then click Delete to confirm.![](https://docv4.subiz.com/wp-content/uploads/2018/04/Delete-Segment.png)
+To **delete a segment**, select the **Delete icon**, then click Delete to confirm.
+
+![Confirm to delete segment](../../.gitbook/assets/delete-segment.png)
 
 
 
