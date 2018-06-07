@@ -42,9 +42,14 @@ Follow below steps to edit rules:
 
 You can change the **Active/ Inactive** status for each rule. Inactive rules stay in the list but do not work.
 
+![Update the Active status for the rule](../../../.gitbook/assets/update-rule.png)
+
 ### **3. Delete rules**
 
 * Select the delete icon beside the rule
+
+![Delete rules](../../../.gitbook/assets/xoa-rule.png)
+
 * Click Delete to confirm
 
 ![Delete rules](https://docv4.subiz.com/wp-content/uploads/2018/03/delete-rule.png)
