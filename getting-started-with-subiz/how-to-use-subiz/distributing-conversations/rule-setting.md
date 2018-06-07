@@ -8,14 +8,14 @@ To set up a new rule, [log into your account](https://app.subiz.com/login) and g
 
 Then start to set up a new rule.
 
-**Step 1: Enter rule name and description**
+### **Step 1: Enter rule name and description**
 
 * **Rule Name:** Enter rule name so that you can easily manage in the rule list
 * **Description**: Describe the condition and purpose of the rule
 
 ![Import the file and description of the rule](../../../.gitbook/assets/image%20%2815%29.png)
 
-**Step 2: Select conditions for the rule**
+### **Step 2: Select conditions for the rule**
 
 * Click **Add more condition** to combine multiple conditions in a rule.
 * Select **And / Or** to determine the relationship between the conditions.
@@ -44,7 +44,7 @@ You can set one or more conditions based on **List of rule condition**.
 A rule works only when the conversation and the user who starts it meet the conditions \(a conversation is only assigned according to one rule\).
 {% endhint %}
 
-**Step 3: Set up how to assign conversations to agents**
+### **Step 3: Set up how to assign conversations to agents**
 
 Select Agent\(s\) who will receive and take over conversations that meet the conditions set above.![](https://docv4.subiz.com/wp-content/uploads/2018/03/assign-to.png)
 

@@ -79,8 +79,6 @@ How are messages/emails sent automatically?
 {% hint style="info" %}
 * You can choose an agent to send messages and emails.
 
-
-
 ![](../../.gitbook/assets/3%20%282%29.png)
 
 * You can customize the message more vividly \(bold/italic/insert link /send image\) via custom text tool.
