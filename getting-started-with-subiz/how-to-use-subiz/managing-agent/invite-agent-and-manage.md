@@ -32,7 +32,7 @@ The Invited Agent will receive a confirmation email confirming activation of the
 
 This agent needs to **login Email**&gt; **Check mail Subiz**&gt; Select **"Join your team"**
 
-![Confirmation email](../../../.gitbook/assets/3%20%284%29.png)
+![Confirmation email](../../../.gitbook/assets/3%20%285%29.png)
 
 {% hint style="danger" %}
 When an Agent is invited without activating the account, the Agent's status in the Agent list is "Pending".

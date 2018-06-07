@@ -49,7 +49,9 @@ CSS stands for “Cascading Style Sheet”. It describes how HTML elements are t
 
 #### How to add customized CSS?
 
-Firstly, log in app.subiz.com, come to **Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**![](https://docv4.subiz.com/wp-content/uploads/2018/05/Customize-CSS.png)
+Firstly, log in app.subiz.com, come to **Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**
+
+![Customized CSS](../../../.gitbook/assets/3%20%283%29.png)
 
 Next, **Copy and Paste** the corresponding CSS to customize the component you want, then return to the chat widget settings screen and save the changes.
 
@@ -189,7 +191,9 @@ You can change value **\#00000** to suit your website
 .add-new-conversation{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
 ```
 
-You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website![](https://docv4.subiz.com/wp-content/uploads/2018/05/color-new-conversation.png)
+You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website
+
+![Customize the color of the chat widget&#x2019;s new conversation](../../../.gitbook/assets/19.png)
 {% endtab %}
 {% endtabs %}
 
@@ -207,7 +211,7 @@ Go to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; **Lan
 
 Click to download custom language file.
 
-![Download the widget language customization file](https://docv4.subiz.com/wp-content/uploads/2018/04/step1.png)
+![Download the widget language customization file](../../../.gitbook/assets/14.png)
 
 **Step 2:** Edit .po file
 
@@ -221,21 +225,23 @@ Click to download custom language file.
 
 * Click **Save** to finish editing.
 
-![Save file](https://docv4.subiz.com/wp-content/uploads/2018/04/save-button.png)
+![Save file](../../../.gitbook/assets/15.png)
 
 * Click to save file to your computer.
 
-![Download to your computer](https://docv4.subiz.com/wp-content/uploads/2018/04/save-file.png)
+![Download to your computer](../../../.gitbook/assets/16.png)
 
 **Step 3:** Upload .po file to Subiz
 
 Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; Language &gt; Customize language. Upload file, then new language will overlap the chosen language.
 
-![Download the customized language file on Subiz](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.png)
+![Download the customized language file on Subiz](../../../.gitbook/assets/17.png)
 
 After uploading successfully, back to widget setting and Save.
 
-![Successfully uploaded language file successfully downloaded](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.2.png)
+![Successfully uploaded language file successfully downloaded](../../../.gitbook/assets/18.png)
+
+
 
 
 

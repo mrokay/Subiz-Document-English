@@ -4,7 +4,7 @@
 
 You can customize the Subiz widget on your website by going to **Setting &gt; Account &gt; Message &gt; Widget​**
 
-![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%285%29.png)
+![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%286%29.png)
 
 At the dialog window, you can make custom components of the window to suit your needs:
 
