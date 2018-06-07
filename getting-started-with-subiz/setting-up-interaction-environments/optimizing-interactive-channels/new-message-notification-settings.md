@@ -6,7 +6,7 @@ Setting up new message notifications will help you display a small pop-up window
 
 ![New message notification on screen](../../../.gitbook/assets/7%20%281%29.png)
 
-### There are steps to set up new message notification
+### Steps to set up new message notification
 
 * Login account&gt; click on the avatar at the top right corner of the screen&gt; select **Notifications**.
 
@@ -18,7 +18,7 @@ Setting up new message notifications will help you display a small pop-up window
 
 * After you click Save on the browser will pop-up request Allow new message display. You choose Allow
 
-### Notes when setting up new message notifications on browsers
+### Setting up new message notifications on browsers
 
 When you set up the new message notification, it is possible that the browser you are using has set a default blocking message, which you need to set to allow notifications from app.subiz.com.
 
