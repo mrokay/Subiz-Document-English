@@ -4,7 +4,7 @@ In the working time, the agent will have to use a lot of applications, therefore
 
 Setting up new message notifications will help you display a small pop-up window at the corner of the screen \( including sound notifications\) and also notified when new messages arrive or any changes to your dashboard \(visitor access to the web, guest send chat request, etc.
 
-![New message notification on screen](../../../.gitbook/assets/7.png)
+![New message notification on screen](../../../.gitbook/assets/7%20%281%29.png)
 
 ### There are steps to set up new message notification
 
