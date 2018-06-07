@@ -64,8 +64,7 @@ You can change the height and width as you like:
 Customizable paragraph code chat window height Subiz
 
 ```text
-.widget_mini .widget_body { height: 800px !important; 
-max-height: 900px !important;}
+.widget_mini .widget_body { height: 800px !important; max-height: 900px !important;}
 ```
 
 Change value **800**px to decide the height of chat widget.
@@ -110,10 +109,6 @@ You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
 
-| 1 | .color-theme-default {background-color:\#000000;} |
-| --- |
-
-
 ```text
 .color-theme-default {background-color:#000000;}
 ```
@@ -122,9 +117,9 @@ You can change value **\#00000** to suit your website
 
 * **Color gradient**
 
-| 12 | .color-theme-default{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
+```text
+.color-theme-default{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website
 
@@ -138,17 +133,17 @@ You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
 
-| 1 | .widget-header {background-color:\#00000;} |
-| --- |
-
+```text
+.widget-header {background-color:#00000;}
+```
 
 You can change value **\#00000** to suit your website
 
 * **Color gradient**
 
-| 12 | .widget-header {background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
+```text
+.widget-header {background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website
 
@@ -160,17 +155,17 @@ You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
 
-| 1 | .message-body {background-color:\#00000;} |
-| --- |
-
+```text
+.message-body {background-color:#00000;}
+```
 
 You can change value **\#00000** to suit your website
 
 * **Color gradient**
 
-| 12 | .message-body{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
+```text
+.message-body{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website:
 
@@ -182,17 +177,17 @@ You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
 
-| 1 | .add-new-conversation {background-color:\#00000;} |
-| --- |
-
+```text
+.add-new-conversation {background-color:#00000;}
+```
 
 You can change value **\#00000** to suit your website
 
 * **Color gradient**
 
-| 12 | .add-new-conversation{background-image: linear-gradient\(to right top, \#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f\);} |
-| --- |
-
+```text
+.add-new-conversation{background-image: linear-gradient(to right top, #056587, #0085a3, #00a6ac, #00c59f, #0be17f);}
+```
 
 You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to suit your website![](https://docv4.subiz.com/wp-content/uploads/2018/05/color-new-conversation.png)
 {% endtab %}
