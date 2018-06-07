@@ -114,6 +114,10 @@ You can customize your widget with solid color or gradient colors:
 | --- |
 
 
+```text
+.color-theme-default {background-color:#000000;}
+```
+
 You can change value **\#00000** to suit your website
 
 * **Color gradient**
