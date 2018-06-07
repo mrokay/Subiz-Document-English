@@ -6,17 +6,19 @@ You can use the original default rule, use the existing Rule Library, or create 
 
 ### Use the original default rule
 
-The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your Subiz account. This is the default rule, Subiz has set up for all accounts.
+The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your Subiz account. **This is the default rule, Subiz has set up for all accounts.**
 
 ![The default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-1.png)
 
-You can see settings of this default rule.
+**You can see settings of this default rule.**
 
 ![Edit the default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-2.png)
 
-You can edit the conditions and Agents to assign in this default rule to create a new rule, for example, add more agents in assign list… See detailed instructions for [creating a new rule.](https://docv4.subiz.com/create-a-new-rule/) ​
+You can **edit the conditions and Agents** to assign in this default rule to create a new rule, for example, add more agents in assign list… See detailed instructions for [creating a new rule.](https://docv4.subiz.com/create-a-new-rule/) ​
 
 ### Rule Library {#rule-library}
+
+The Rule library is a list of the rules that Subiz has made available to you. You can choose the rule that suitable your business or modifies it to create the rule for your business.
 
 Rule library includes 4 rules which are set up for customers to use this feature easily.
 
