@@ -31,7 +31,7 @@ To modify information about a group, go to **Settings&gt; Accounts&gt; Agent Gro
 
 ![Edit Agent Group Information](../../../.gitbook/assets/8.png)
 
-On the Edit Group page, make the edit and click Save Changes.
+On the Edit Group page, make the edit and click **Save Changes**.
 
 ![Add or Remove team members](../../../.gitbook/assets/9%20%281%29.png)
 
