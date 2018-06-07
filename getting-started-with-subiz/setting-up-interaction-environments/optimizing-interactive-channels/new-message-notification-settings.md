@@ -26,7 +26,7 @@ When you set up the new message notification, it is possible that the browser yo
 {% tab title="Chrome & Cốc Cốc" %}
 Click the **Security button** \(1\) and select **Allow** \(2\) or Edit on **Site Settings** \(3\)
 
-![](../../../.gitbook/assets/4%20%285%29.png)
+![](../../../.gitbook/assets/4%20%286%29.png)
 
 ![](../../../.gitbook/assets/5%20%281%29.png)
 

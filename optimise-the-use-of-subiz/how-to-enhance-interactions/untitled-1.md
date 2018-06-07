@@ -59,7 +59,7 @@ Condition: User's IP address - not -
 
 If the visitor does not "hide" this chat window, the next automated message will be announced in numbers, located at the top left of the chat window. When visitors click on that notification message, all messages will be displayed.
 
-![The message in the chat window is not hidden](../../.gitbook/assets/4%20%281%29.png)
+![The message in the chat window is not hidden](../../.gitbook/assets/4%20%282%29.png)
 
 If the visitor "hide" the chat window and reads the next pages where you have setted up the automatic message, the message will display as a preview.
 

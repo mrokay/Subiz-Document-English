@@ -33,7 +33,7 @@ To modify information about a group, go to **Settings&gt; Accounts&gt; Agent Gro
 
 On the Edit Group page, make the edit and click Save Changes.
 
-![Add or Remove team members](../../../.gitbook/assets/9.png)
+![Add or Remove team members](../../../.gitbook/assets/9%20%281%29.png)
 
 
 

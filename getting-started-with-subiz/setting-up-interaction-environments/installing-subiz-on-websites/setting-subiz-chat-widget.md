@@ -15,7 +15,7 @@ Select the type of window you want to display:
 * **Standard:** Standard size
 * **Full height:** Widget expand full screen
 
-![](../../../.gitbook/assets/4%20%283%29.png)
+![Select the style of chat window](../../../.gitbook/assets/4.png)
 
 ### **Widget position**
 
@@ -23,7 +23,7 @@ Select where the widget will appear on your website: **Bottom Left/ Bottom Right
 
 **The position of the Subiz widget should match the design of the website so that it is easy to identify, and not overlap other applications of the website.**Currently, a large percentage of business set up the Subiz widget at bottom right corner.
 
-![Widget position](https://docv4.subiz.com/wp-content/uploads/2018/03/position-setting.png)
+![Widget position](../../../.gitbook/assets/5%20%283%29.png)
 
 {% hint style="info" %}
 **The position of the Subiz widget should match the design of the website so that it is easy to identify, and not overlap other applications of the website.** Currently, a large percentage of business set up the Subiz widget at bottom right corner.
@@ -33,7 +33,7 @@ Select where the widget will appear on your website: **Bottom Left/ Bottom Right
 
 You can customize the color for the Subiz window by selecting one of the suggested colors, or customize your own color.
 
-![](https://lh3.googleusercontent.com/H6rWCPgE8AR7Qdb4XTEvh0wOMFzU-ganjvCTfcW_asbyR753sH1MmQzwydcI3k0r2F5q_LwN37hNazOIG8asc1zrwPdj6wjIl0SglLWeCVkj0DYlCo_0yp9osX0VzwaIRDlgxd3K)
+![Select the chat window background color](../../../.gitbook/assets/6%20%282%29.png)
 
 {% hint style="info" %}
 Choose the color which should be similar to the brand color, but also identifiable on your website.​
@@ -45,9 +45,9 @@ At Bubble Button and Widget, click on **Bubble Button Library** and select the B
 
 The bubble color will correspond to the widget color you have chosen.
 
-![Bubble Button Library](https://lh5.googleusercontent.com/tMzKpyCd0Kn2GAYW7o9yQc5aAYL5BecIh8CE8jQouiw591tta3Xf5e4GO0yJ2Eqf0zCzmq6farzfrx7tK9vru45Fcpgs6xkriBXrvi0cwDZ17cbnEmB7UDXZA4vbE-XyYFwj237J)
+![Bubble Button](../../../.gitbook/assets/7%20%282%29.png)
 
-![Bubble Button Library](https://docv4.subiz.com/wp-content/uploads/2018/03/Bubble-library.png)
+![Bubble Button Library](../../../.gitbook/assets/21.png)
 
 {% hint style="info" %}
 Note that the color of the bubble will correspond to the color of the entire Subiz window you have chosen.
@@ -64,7 +64,7 @@ Select the language used for Subiz window.
 
 It will display as below:
 
-![Title and Introduction](https://docv4.subiz.com/wp-content/uploads/2018/03/language-customize-2.png)
+![](../../../.gitbook/assets/9.png)
 
 {% hint style="info" %}
 Let’s customize your greetings, intros based on your Organizational culture  and what you want to serve customers.
@@ -74,7 +74,7 @@ Let’s customize your greetings, intros based on your Organizational culture  a
 **If you want to use an unsupported language**, you can customize the language by clicking Customize language&gt; Upload language file in \(.po or .mo\)​ \([the guide to customize language in .PO file](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget#customize-language-with-p-o-file)\)
 {% endhint %}
 
-![Customize Language](https://docv4.subiz.com/wp-content/uploads/2018/03/language-customize-3.png)
+![Customize Language](../../../.gitbook/assets/10.png)
 
 ### **Whitelist domain**
 
@@ -90,7 +90,7 @@ Set up whitelist domain helps you control which pages will display the Subiz wid
 
 Add domain to whitelist by clicking **Manage Whitelist Domain**.
 
-![Manage Whitelist Domain](https://docv4.subiz.com/wp-content/uploads/2018/03/manage-whitelist-domain.png)
+![Manage Whitelist Domain](../../../.gitbook/assets/11.png)
 
 Click **New whitelist domain**.
 
@@ -98,11 +98,11 @@ Click **New whitelist domain**.
 
 Enter domain name and click **Add** to add the domain to the whitelist list.
 
-![Add the domain to the whitelist list](https://lh5.googleusercontent.com/aL-zvjuZ29kXkTXgVwS2pv92EOeSZ2f70qjeuc0Z2gMd7fG1qg5h3HiN7iDnLFSJypmF8M-a1ftsbxZENynjRBpICKuwsR5mKxwomX_fIQURrq1X-zlqyq7w900d5ATcXX4ofP1h)
+![Add the domain to the whitelist list](../../../.gitbook/assets/12.png)
 
 To **remove a domain from whitelist**, click the delete icon next to the domain name in the list.
 
-![Remove a domain from whitelist](https://lh4.googleusercontent.com/Ntggbiwy49J60aQ5ZzYklKWcJ_txNOQZQvjaPnGIApPLmIJQ6hZzwstkLE3eBaIcVKXJSzO_wvLUX2TKRNlPEwS-q-JDi0y6umufBE3Fg4Xsij8kyLCmbjCVFpPV9Hv-vXGCvl0z)
+![Remove a domain from whitelist](../../../.gitbook/assets/13.png)
 
 
 
