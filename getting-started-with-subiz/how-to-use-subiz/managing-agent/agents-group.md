@@ -11,7 +11,7 @@ You have to rely on the number of agents you have and **especially the need, the
 * Group Agent specializing in products 1
 * Group Agent specializing in products 2
 
-### 1. Create an Agent Group
+### Create an Agent Group
 
 To create an Agent group, go to **Settings&gt; Accounts&gt; Agent&gt; Agent Groups, and click Create Group.**
 
@@ -25,7 +25,7 @@ To create an Agent group, go to **Settings&gt; Accounts&gt; Agent&gt; Agent Grou
 
 * Click Create Group
 
-### 2. Edit Agent Group Information
+### Edit Agent Group Information
 
 To modify information about a group, go to **Settings&gt; Accounts&gt; Agent Groups**&gt; select the group you want to edit&gt; select the edit icon.
 
