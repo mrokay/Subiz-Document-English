@@ -23,7 +23,7 @@ Components you can change in the code above:
 
 &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
 
-![Attach a link to the introduction](../../../.gitbook/assets/cd-cs-chat.png)
+![](../../../.gitbook/assets/cd-cs-chat.png)
 {% endtab %}
 
 {% tab title="Down the line on the introduction" %}
