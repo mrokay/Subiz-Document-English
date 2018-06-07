@@ -99,10 +99,10 @@ Change value **20**px to decide the font size of chat widget.
 
 ![Customizing font size](https://docv4.subiz.com/wp-content/uploads/2018/05/css-font-size-en.png)
 
-#### Customizing colors of the whole chat widget
+#### Customizing colors of the chat widget
 
 {% tabs %}
-{% tab title="Full - color chat window" %}
+{% tab title="Whole chat widget\'s color" %}
 {% hint style="danger" %}
 When you choose to customize color of the whole chat widget, you **would not be able** to custom the colors of each component of header, message box, new conversation
 {% endhint %}
@@ -130,7 +130,7 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 #### Customize the color of each component on the chat widget
 {% endtab %}
 
-{% tab title="Customize the color of the chat widget’s header" %}
+{% tab title="Header\'s color" %}
 You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
@@ -152,7 +152,7 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 ![Customize the color of the chat widget&#x2019;s header](../../../.gitbook/assets/header.png)
 {% endtab %}
 
-{% tab title="Customize the color of the chat widget’s message box" %}
+{% tab title="Message box\'s color" %}
 You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
@@ -174,7 +174,7 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 ![Customize the color of the chat widget&#x2019;s message box](../../../.gitbook/assets/sua-dai-mau-khung-chat.png)
 {% endtab %}
 
-{% tab title="Customize the color of the chat widget’s new conversation" %}
+{% tab title="New conversation\'s color" %}
 You can customize your widget with solid color or gradient colors:
 
 * **Solid color**
@@ -197,7 +197,7 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 {% endtab %}
 {% endtabs %}
 
-### CUSTOMIZE LANGUAGE WITH P.O FILE
+### Customize Language with P.O file
 
 Currently, Subiz supports 2 languages: Vietnamese and English. On Subiz widget, you can c**ustomize the widget title and team introduction according to each language.**
 
