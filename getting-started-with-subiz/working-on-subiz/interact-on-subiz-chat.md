@@ -1,12 +1,15 @@
 # Interact on Subiz Chat
 
-**Interaction on the Subiz Chat channel is to initiate a conversation between Agent and website visitors. They are customers who are interested in learning about your products, services and Business information.**
+**Interaction on the Subiz Chat channel is to initiate a conversation between Agent and website visitors.** They are customers who are interested in learning about your products, services and Business information.
 
 You need to sign up for [App.subiz.com](https://app.subiz.com) to start online and be ready to chat with your customers.
 
 ### Start new conversation
 
 There are 2 ways to have a conversation with visitors:
+
+1. **When Visitor starts a new conversation.**
+2. **When Agent starts a new conversation.**
 
 {% tabs %}
 {% tab title="When Visitor starts a new conversation" %}
@@ -57,7 +60,7 @@ To Add Agent: Click **Add Agent** button &gt; Choose **Agent** &gt; Click **Add*
 ![Add Agent](../../.gitbook/assets/5.-add-agent.jpg)
 
 {% hint style="info" %}
-Only assigned agent can add another agent to the conversation.
+**Note:** Only assigned agent can add another agent to the conversation.
 {% endhint %}
 
 ### **Use canned responses**
@@ -67,6 +70,8 @@ Each Agent is allowed to create and manage their own canned responses
 
 {% tabs %}
 {% tab title="Create a new Canned Response" %}
+Sample response creation guide:
+
 1. Login **App.subiz.com** &gt; Click **Agent Avatar** at the top right of your screen &gt; Select **Canned Responses**
 
 ![Set up Canned Response](../../.gitbook/assets/6.-canned-respond.jpg)
@@ -81,8 +86,7 @@ You can check box "**Share this response with other agents**” so that other ag
 {% endtab %}
 
 {% tab title="How to use Canned Responses" %}
-To reply with canned responses, type “/shortcut” in the chat box and hit enter.  
-
+**Manual answer library:** To reply with canned responses, type **“shortcut”** in the chat box and **press enter.**
 
 ![Reply message with Canned Response](../../.gitbook/assets/8.-use-canned.jpg)
 {% endtab %}
@@ -90,7 +94,7 @@ To reply with canned responses, type “/shortcut” in the chat box and hit ent
 
 ### **Use emoji icon and upload file**
 
-In the chat box, you can choose to send E**moji icon** or U**pload file.**
+In the chat box, you can choose to send **Emoji icon** or **Upload file.**
 
 ![Use Emoji or Upload file](../../.gitbook/assets/6.-emoji%20%281%29.jpg)
 
@@ -116,7 +120,7 @@ Click **Tag** button &gt; Select **Tag name** &gt; **Save**
 {% endtab %}
 
 {% tab title="Remove Tag" %}
-Simply click \(**X**\) icon on the Tags to remove them from a conversation.
+Simply click \(**X**\) icon on the **Tags** to remove them from a conversation.
 
 ![Remove Tag](../../.gitbook/assets/12.-tag-delete.jpg)
 {% endtab %}
@@ -124,11 +128,11 @@ Simply click \(**X**\) icon on the Tags to remove them from a conversation.
 
 ### **End the conversation**
 
-A conversation will be ended by visitor or Agent.
+A conversation will be ended by **Visitor** or **Agent.**
 
 {% tabs %}
 {% tab title="Agent ends conversation" %}
-Click **End Chat** button  &gt; Confirm **END** to end this conversation
+**Agent:** Click **End Chat** button  &gt; Confirm **END** to end this conversation. Visitor will receive a notification that the agent has finished the conversation.
 
 ![Agent end chat](../../.gitbook/assets/14.-end-chat.jpg)
 

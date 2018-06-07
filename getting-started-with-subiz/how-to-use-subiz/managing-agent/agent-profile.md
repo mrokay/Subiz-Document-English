@@ -70,7 +70,7 @@ After successfully changing your password, you will be sent back to the login pa
 
 Agents can manage their own password. You can change your password as well as reset password in case you forget it.
 
-### 1. Change your password
+**Change your password**
 
 To change your password, follow the steps below:
 

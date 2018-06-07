@@ -1,8 +1,10 @@
 # Problems with Dashboard logging
 
-When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
+ When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
 
 ### **Incorrect user or password**
+
+**Cause:** You entered the wrong information Email or password.
 
 ![Incorrect Email or Password](../../../../.gitbook/assets/wrong-email-or-password.png)
 
@@ -13,6 +15,8 @@ In this case, you have to check whether your login information such as email, us
 If you are not sure about password, reset your password follow [instruction](https://docs.subiz.com/manage-password/#resetPassword)
 
 ### **The agent is Inactive**
+
+**Cause:** Agent is inactive
 
 ![](../../../../.gitbook/assets/agent-bi-khoa.png)
 
