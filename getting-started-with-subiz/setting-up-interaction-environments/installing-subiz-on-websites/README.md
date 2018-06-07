@@ -28,8 +28,6 @@ Every single account has different embed code so when you change the account you
 
 Subiz supports almost all platforms so the installation is very simple. Copy the code and Embed into every pages you want to place the chat widget. Subiz code must be pasted before &lt;/body**&gt;** tag.
 
-![Place embed code into website](../../../.gitbook/assets/anigif.gif)
-
 **Step 3: Check Subiz’s widget on website**
 
 After finishing integration, come back to your website and see if the chat widget displays at the bottom of the right corner or not.

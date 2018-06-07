@@ -211,7 +211,7 @@ Go to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; **Lan
 
 Click to download custom language file.
 
-![Download the widget language customization file](../../../.gitbook/assets/14.png)
+![Download the widget language customization file](https://docv4.subiz.com/wp-content/uploads/2018/04/step1.png)
 
 **Step 2:** Edit .po file
 
@@ -225,23 +225,21 @@ Click to download custom language file.
 
 * Click **Save** to finish editing.
 
-![Save file](../../../.gitbook/assets/15.png)
+![Save file](https://docv4.subiz.com/wp-content/uploads/2018/04/save-button.png)
 
 * Click to save file to your computer.
 
-![Download to your computer](../../../.gitbook/assets/16.png)
+![Download to your computer](https://docv4.subiz.com/wp-content/uploads/2018/04/save-file.png)
 
 **Step 3:** Upload .po file to Subiz
 
 Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; Language &gt; Customize language. Upload file, then new language will overlap the chosen language.
 
-![Download the customized language file on Subiz](../../../.gitbook/assets/17.png)
+![Download the customized language file on Subiz](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.png)
 
 After uploading successfully, back to widget setting and Save.
 
-![Successfully uploaded language file successfully downloaded](../../../.gitbook/assets/18.png)
-
-
+![Successfully uploaded language file successfully downloaded](https://docv4.subiz.com/wp-content/uploads/2018/04/step-3.2.png)
 
 
 
