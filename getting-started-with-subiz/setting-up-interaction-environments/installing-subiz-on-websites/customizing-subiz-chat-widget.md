@@ -23,6 +23,8 @@ Components you can change in the code above:
 
 &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
 
+![](../../../.gitbook/assets/dk-automation1%20%281%29.png)
+
 ![Attach a link to the introduction](../../../.gitbook/assets/cd-cs-chat.png)
 {% endtab %}
 
