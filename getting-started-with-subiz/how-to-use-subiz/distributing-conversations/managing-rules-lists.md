@@ -22,7 +22,9 @@ To reorder the rules, click **Reorder**.
 
 ![Reorder rules](https://docv4.subiz.com/wp-content/uploads/2018/03/Reorder-button.png)
 
-Dragging rules up or down the list to their new position to re-prioritize them. Then click **Save changes**.![](https://docv4.subiz.com/wp-content/uploads/2018/03/Reorder.png)
+Dragging rules up or down the list to their new position to re-prioritize them. Then click **Save changes**.
+
+![Reorder rules](../../../.gitbook/assets/sx-rule.png)
 
 ### **2. Edit rules**
 
