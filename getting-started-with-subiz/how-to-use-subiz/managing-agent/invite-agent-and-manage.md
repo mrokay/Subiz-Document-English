@@ -52,7 +52,7 @@ When you are granted **Full access** to **Account Management** and **Account Set
 
 Manual: Sign In **App.subiz.com**&gt; **Settings**&gt; **Account**&gt; **Agent List**&gt; Select **Agent to Customize** / **Delete**&gt; Select **Customize / Delete Button**
 
-![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%283%29.png)
+![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%284%29.png)
 
 Manual Agent Account Lockdown is as follows: Select the **Edit / Delete button**&gt; **Deactivate** Agent Status&gt; Select **Save**.
 

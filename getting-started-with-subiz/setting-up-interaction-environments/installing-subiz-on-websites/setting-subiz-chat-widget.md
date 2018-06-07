@@ -4,7 +4,7 @@
 
 You can customize the Subiz widget on your website by going to **Setting &gt; Account &gt; Message &gt; Widget​**
 
-![Customizing Subiz Chat widget](../../../.gitbook/assets/tuy-chinh-cs-chat.png)
+![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%285%29.png)
 
 At the dialog window, you can make custom components of the window to suit your needs:
 
@@ -12,11 +12,10 @@ At the dialog window, you can make custom components of the window to suit your 
 
 Select the type of window you want to display:
 
-**Standard:** Standard size
+* **Standard:** Standard size
+* **Full height:** Widget expand full screen
 
-**Full height:** Widget expand full screen
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/widget-type-setting.png)
+![](../../../.gitbook/assets/4%20%283%29.png)
 
 ### **Widget position**
 
