@@ -88,7 +88,7 @@ To change your password, follow the steps below:
 
 * Click **Update** to finish
 
-### 2. Reset password
+### Reset password
 
 If you forgot your password, you can reset it by following below steps:
 

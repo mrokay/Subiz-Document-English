@@ -1,6 +1,6 @@
 # Problems with Dashboard logging
 
- When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
+When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
 
 ### **Incorrect user or password**
 
