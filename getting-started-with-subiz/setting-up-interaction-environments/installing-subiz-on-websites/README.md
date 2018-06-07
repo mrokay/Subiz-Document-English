@@ -8,7 +8,7 @@ Subiz Chat is a channel for you to interact with visitors on your website.  Afte
 
 To integrate Subiz widget into your website, please follow these three steps below:
 
-**Step 1: Get Subiz’s embed code**
+#### **Step 1: Get Subiz’s embed code**
 
 To integrate Subiz chat widget into website, you just need to copy the embed code \(mustn’t change any part of it\) and paste into pages you want to place the chat widget.
 
@@ -24,13 +24,13 @@ To get embed code, follow steps below:
 Every single account has different embed code so when you change the account you have to re-install embed code.
 {% endhint %}
 
-**Step 2: Place embed code into website**
+#### **Step 2: Place embed code into website**
 
 Subiz supports almost all platforms so the installation is very simple. Copy the code and Embed into every pages you want to place the chat widget. Subiz code must be pasted before &lt;/body**&gt;** tag.
 
 ![Place embed code into website](../../../.gitbook/assets/anigif.gif)
 
-**Step 3: Check Subiz’s widget on website**
+#### **Step 3: Check Subiz’s widget on website**
 
 After finishing integration, come back to your website and see if the chat widget displays at the bottom of the right corner or not.
 
