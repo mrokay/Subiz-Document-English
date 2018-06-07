@@ -6,8 +6,6 @@ The manual page for Subiz to divided into five parts:
 
 * **Subiz Overview:** What does Subiz bring to your business? How it works and the terms you can easily understand about Subiz.
 
-{% page-ref page="subiz-overview/" %}
-
 * **Getting Started:** Start applying Subiz to your business and get the most out of it. Since that time help your business improve productivity and competitiveness.
 
 {% page-ref page="getting-started-with-subiz/" %}

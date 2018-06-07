@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Hello, how do we support you?](README.md)
-* [Subiz Overview](subiz-overview/README.md)
-  * [What is Subiz?](subiz-overview/what-is-subiz-1.md)
-  * [How Subiz works?](subiz-overview/how-subiz-works.md)
+* [Subiz overview](what-is-subiz-1.md)
 * [Getting Started](getting-started-with-subiz/README.md)
   * [Set up the interactive environment](getting-started-with-subiz/setting-up-interaction-environments/README.md)
     * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/README.md)
