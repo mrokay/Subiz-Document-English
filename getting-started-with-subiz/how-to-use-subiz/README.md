@@ -1,4 +1,4 @@
-# How to use Subiz
+# Operating Management
 
 This is the next step you take after setting up the interactive environment.
 
