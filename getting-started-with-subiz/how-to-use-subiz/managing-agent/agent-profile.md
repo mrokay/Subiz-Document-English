@@ -9,7 +9,7 @@ Agent is the person who uses Subiz to work and interact with customers. Agent ca
 There are two types of Agent:
 
 * **Agent owner** is that initially registered Subiz Account and has full of account permission.
-* **Agent normal** is that was invited to join Subiz by the Agent owner.
+* **Agent member** is that was invited to join Subiz by the Agent owner.
 
 ### **Agent Permission**
 
@@ -17,8 +17,8 @@ An Agent will have 3 **rights** when using the Subiz account.
 
 You can choose whether Agent privileges are "**No access**" or "**Full access**."
 
-1. **Account Management**: Full access allows you to add, edit information or delete agents, and you can change your Plans and Payments.
-2. **Account settings:** Full access allows you to customize account settings and manage agents \(add, edit, or delete agents\).
+1. **Account Management**: Full access allows agent management \(Add, Edit, Delete Agent\) and manages service packages, billing.
+2. **Account settings:** Full access to custom account settings and Agent management \(Add, Edit, Delete Agent\).
 3. **Conversation:** Access allows the user to export user data and view conversations of other agents.
 
 ![Agent Permission](../../../.gitbook/assets/phan-quyen-agent.png)
