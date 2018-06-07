@@ -10,6 +10,8 @@ There are 2 ways to have a conversation with visitors:
 
 {% tabs %}
 {% tab title="When Visitor starts a new conversation" %}
+**When Visitor starts a new conversation**
+
 Once you integrate Subiz, visitors can get in touch to ask you questions via Subiz chat widget
 
 ![Visitor sends messages on Subiz widget](../../.gitbook/assets/1.-visitor-chat.jpg)
