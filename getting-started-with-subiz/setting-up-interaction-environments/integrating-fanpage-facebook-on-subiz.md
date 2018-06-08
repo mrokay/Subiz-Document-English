@@ -24,5 +24,5 @@ Click **Connect to a Fanpage**
 
 After you log in Facebook account and allow Subiz to access the data, all the fanpages that you manage will be displayed on the Messenger page. You can delete fanpages that you do not want to integrate by clicking the delete button beside.
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/fanpage-list-eng.png)
+![Choose the fanpage to integrate with Subiz](https://docv4.subiz.com/wp-content/uploads/2018/03/fanpage-list-eng.png)
 
