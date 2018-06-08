@@ -41,7 +41,9 @@ You should **refer to the list of conditions**, with instructions on how to use 
 
 ### Automation run in which channels?
 
-You can select channels to run Automation. Each channel will have corresponding actions.![](https://docv4.subiz.com/wp-content/uploads/2018/03/Ch%E1%BB%8Dn-k%C3%AAnh.png)
+You can select channels to run Automation. Each channel will have corresponding actions.
+
+![Automation&apos;s channels](../../.gitbook/assets/kenh-hd-automation.png)
 
 ### The Action set for Automation
 
@@ -58,7 +60,9 @@ With the Subiz Chat channel, you can take one of two actions:
 
 ![Select the action to send the message to the customer](https://docv4.subiz.com/wp-content/uploads/2018/03/action-Subiz-chat.png)
 
-Users will see auto messages/emails as a messages/ emails sent from that Agent.![](https://docv4.subiz.com/wp-content/uploads/2018/03/Content.png)
+Users will see auto messages/emails as a messages/ emails sent from that Agent.
+
+![Auto messages sent from Agent.](../../.gitbook/assets/gui-tn-cho-user.png)
 {% endtab %}
 
 {% tab title="Action on Subiz Email" %}
