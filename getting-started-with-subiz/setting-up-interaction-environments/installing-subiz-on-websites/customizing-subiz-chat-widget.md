@@ -1,6 +1,6 @@
 # Creative on Subiz Chat widget
 
-### Creative introductions on the chat window
+### Creative introductions on the chat widget
 
 On special occasions or when there are promotions, you should change and create business introductions right on the chat window to increase the appeal and impress your website visitors.
 
@@ -19,9 +19,7 @@ Components you can change in the code above:
 * **Orange:** The color you want for Linked text.
 * **Linked text:** The text that links the landing page.
 
-**Example:** &lt;p&gt; Celebrate your 5th birthday. We discount 50% on many items. Please see details
-
-&lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
+**Example:** &lt;p&gt; Celebrate your 5th birthday. We discount 50% on many items. Please see details &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
 
 ![Attach a link to the introduction](../../../.gitbook/assets/cd-cs-chat%20%281%29.png)
 {% endtab %}
