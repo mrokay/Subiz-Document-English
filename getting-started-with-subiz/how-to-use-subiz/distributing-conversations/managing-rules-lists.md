@@ -24,7 +24,7 @@ To reorder the rules, click **Reorder**.
 
 Dragging rules up or down the list to their new position to re-prioritize them. Then click **Save changes**.
 
-![Reorder rules](../../../.gitbook/assets/sx-rule.png)
+![Reorder rules](../../../.gitbook/assets/rule-setting.png)
 
 ### **2. Edit rules**
 
