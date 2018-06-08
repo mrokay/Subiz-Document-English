@@ -15,19 +15,35 @@ There are two types of Agent:
 
 An Agent will have 3 permission when using the Subiz account.
 
-You can choose whether Agent privileges are "**No access**" or "**Full access**."
+1. **Account Management**
 
-1. **Account Management**: Full access allows agent management \(Add, Edit, Delete Agent\) and manages service packages, billing.
-2. **Account settings:** Full access to custom account settings and Agent management \(Add, Edit, Delete Agent\).
-3. **Conversation:** Access allows the user to export user data and view conversations of other agents.
+* This permission allows you to manage agent information including inviting agents, customizing agents or deleting agent accounts. You also can access the Payment Settings page to manage your Subiz services such as upgrading your account, purchasing more agents, upgrading your Subiz packages, extending your account and more.
+* You can choose whether Agent permisson are "**No access**" or "**Full access**."
+
+2. **Account setting**
+
+* This permission allows you to manage Agents including Invitation Agent, Agent customization or Agent account deletion. And, you can customize account settings like Automation, Rule, Subiz chat widget,..
+* You can choose whether Agent permisson are "**No access**" or "**Full access**."
+
+3. **Conversation:** 
+
+* This permission allows you to export User data and view the contents of other Agent conversations.
+* You can choose either Full Access or Limited Access one of the two permissions.
 
 ![Agent Permission](../../../.gitbook/assets/phan-quyen-agent.png)
 
+{% hint style="info" %}
+Some notes on Agent Permissions:
+
+* Agent owner will have all 3 permission of Account Management, Account Settings, and Conversation. Another agent can't customize the permission of the account owner.
+* You can not customize your Agent delegation. Only Agents with Account Management or Account Settings are allowed to customize the permission of other Agents.
+{% endhint %}
+
 ### Agent's private information
 
-The Agent's personal information is your Subiz login information, which will be displayed in the Subiz chat window on your website. When you fully set up the Agent information, your image will be more professional and reputable in the eyes of the customer.
+The Agent's profile is your Subiz login information, which will be displayed in the Subiz chat window on your website. When you fully set up the Agent information, your image will be more professional and reputable in the eyes of the customer.
 
-_Personal information customization guide:_ Select **Avatar** on the right corner of the screen&gt; Select **Personal info**
+_Profile Edit guide:_ Select **Avatar** on the right corner of the screen&gt; Select **My profile.**
 
 ![Agent&apos;s private information](../../../.gitbook/assets/agent.png)
 

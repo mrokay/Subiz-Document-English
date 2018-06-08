@@ -40,9 +40,9 @@ When an Agent is invited without activating the account, the Agent's status in t
 {% endtab %}
 {% endtabs %}
 
-### Custom Member Agent
+### Edit Member Agent
 
-When you are granted **Full access** to **Account Management** and **Account Settings**, you can customize the Segregation or Lock or Delete the account of another member.
+When you are granted **Full access** to **Account Management** and **Account Setting**, you can customize the Segregation or Lock or Delete the account of another member.
 
 {% hint style="info" %}
 * Inactive Agent account is you customize the AGENT STATUS to OFF. When needed, you can enable ON agent to continue using this agent account.
@@ -50,11 +50,11 @@ When you are granted **Full access** to **Account Management** and **Account Set
 * Agent accounts deleted cannot be used to re-register Subiz accounts.
 {% endhint %}
 
-Manual: Sign In **App.subiz.com**&gt; **Settings**&gt; **Account**&gt; **Agent List**&gt; Select **Agent to Customize** / **Delete**&gt; Select **Customize / Delete Button**
+Instruction: Sign In **App.subiz.com**&gt; **Setting**&gt; **Account**&gt; **Agent List**&gt; Select **Agent to Edit**/ **Delete**&gt; Select **Edit/ Delete Button**
 
 ![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%285%29.png)
 
-Manual Agent Account Lockdown is as follows: Select the **Edit / Delete button**&gt; **Deactivate** Agent Status&gt; Select **Save**.
+Lock Agent as follows: Select the **Edit / Delete button**&gt; **Deactivate** Agent Status&gt; Select **Save**.
 
 ![Deactivate Agent ](../../../.gitbook/assets/5%20%282%29.png)
 
