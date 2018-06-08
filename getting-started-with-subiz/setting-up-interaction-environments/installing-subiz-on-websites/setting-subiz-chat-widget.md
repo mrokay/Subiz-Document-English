@@ -64,7 +64,7 @@ Select the language used for Subiz window.
 
 It will display as below:
 
-![](../../../.gitbook/assets/9.png)
+![Title and Introduction on Widget](../../../.gitbook/assets/9.png)
 
 {% hint style="info" %}
 Let’s customize your greetings, intros based on your Organizational culture  and what you want to serve customers.
