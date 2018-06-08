@@ -2,7 +2,7 @@
 
 ### What is Agent?
 
-Agent is the person who uses Subiz to work and interact with customers. Agent can be a Manager, a Customer Service Staff, or any Officers in your company. Each Agent has their own Subiz login account.
+**Agent is the person who uses Subiz to work and interact with customers.** Agent can be a Manager, a Customer Service Staff or any Officers in your company. Each Agent has their own Subiz login account.
 
 ### **Agent types**
 
@@ -13,7 +13,7 @@ There are two types of Agent:
 
 ### **Agent Permission**
 
-An Agent will have 3 **rights** when using the Subiz account.
+An Agent will have 3 permission when using the Subiz account.
 
 You can choose whether Agent privileges are "**No access**" or "**Full access**."
 

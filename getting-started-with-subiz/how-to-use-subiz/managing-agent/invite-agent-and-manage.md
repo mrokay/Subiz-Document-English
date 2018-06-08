@@ -40,7 +40,7 @@ When an Agent is invited without activating the account, the Agent's status in t
 {% endtab %}
 {% endtabs %}
 
-### Custom Membership Agent
+### Custom Member Agent
 
 When you are granted **Full access** to **Account Management** and **Account Settings**, you can customize the Segregation or Lock or Delete the account of another member.
 
