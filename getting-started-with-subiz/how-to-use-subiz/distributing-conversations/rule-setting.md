@@ -46,7 +46,9 @@ A rule works only when the conversation and the user who starts it meet the cond
 
 ### **Step 3: Set up how to assign conversations to agents**
 
-Select Agent\(s\) who will receive and take over conversations that meet the conditions set above.![](https://docv4.subiz.com/wp-content/uploads/2018/03/assign-to.png)
+Select Agent\(s\) who will receive and take over conversations that meet the conditions set above.
+
+![Assign conversations to agents](../../../.gitbook/assets/tao-rule-moi.png)
 
 **1. Assign to Agent\(s\) or a group:**
 
