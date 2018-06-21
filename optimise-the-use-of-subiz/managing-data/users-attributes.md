@@ -6,7 +6,7 @@ Since User Attributes are updated and stored in the Subiz management system, the
 
 ### User Attributes
 
-To customize your User Attributes, go to **Settings&gt; Account&gt; User Attributes**  
+To customize your User Attributes, you need to go to page [ User Attributes](https://app.subiz.com/settings/user-attributes) on your Dashboard  
   
 A Subiz account will have 4 default user attributes: Address, Name, Email and Phone Number
 
@@ -20,7 +20,7 @@ These attributes will be displayed in the User Info as follow
 
 Subiz allows you to add a new user attribute, which serves the purpose of extracting and managing customer information according to the specific characteristics of each business:  
   
-To customize your User Attributes, go to **Settings&gt; Accounts&gt; User Attributes&gt; New User Attribute**
+To customize your User Attributes, go to  ****page [User Attributes](https://app.subiz.com/settings/user-attributes#) and select **New User Attribute**
 
 ![Create a new User Attribute](../../.gitbook/assets/custom-user-attributes.png)
 
@@ -28,11 +28,7 @@ To customize your User Attributes, go to **Settings&gt; Accounts&gt; User Attrib
   
 **Attribute description**: The detailed description of the attribute will help you easily manage and explore the data.  
   
-**Attribute key**: The system will automatically generate keywords based on the field name you set.
-
-{% hint style="info" %}
-**Note:**  The keyword can be edited with the normal letters, underscore between each letter and  without any special characters
-{% endhint %}
+**Attribute key**:  Attribute key need to be written with the normal letters, underscore between each letter and  without any special characters. For example: the\_number\_of\_agents
 
 **Attribute type**:  The display of data in the User Info
 
