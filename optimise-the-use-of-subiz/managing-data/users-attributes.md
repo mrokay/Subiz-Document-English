@@ -1,4 +1,4 @@
-# Users Attributes
+# User Attributes
 
 Management of customer information will help enterprises to access and communicate with customers in a systematic and effective manner to serve customers better.  
   
@@ -6,7 +6,7 @@ Since User Attributes are updated and stored in the Subiz management system, the
 
 ### User Attributes
 
-To customize your User Attributes, go to Settings&gt; Account&gt; Users Attributes  
+To customize your User Attributes, go to **Settings&gt; Account&gt; User Attributes**  
   
 A Subiz account will have 4 default user attributes: Address, Name, Email and Phone Number
 
@@ -20,7 +20,7 @@ These attributes will be displayed in the User Info as follow
 
 Subiz allows you to add a new user attribute, which serves the purpose of extracting and managing customer information according to the specific characteristics of each business:  
   
-To customize your User Attributes, go to Settings&gt; Accounts&gt; User Attributes&gt; New User Attribute
+To customize your User Attributes, go to **Settings&gt; Accounts&gt; User Attributes&gt; New User Attribute**
 
 ![Create a new User Attribute](../../.gitbook/assets/custom-user-attributes.png)
 
