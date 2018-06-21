@@ -44,7 +44,7 @@ Type of data: Text
 
 In the User Info, you will see as follow:
 
-![Display in the User Info](../../.gitbook/assets/display_text.png)
+![Display in the User Info](../../.gitbook/assets/display_text%20%282%29.png)
 {% endtab %}
 
 {% tab title="Number" %}
@@ -54,7 +54,7 @@ Type of data: Number
 
 In the User Info, you will see as follow:
 
-![Display in the User Info](../../.gitbook/assets/display_number.png)
+![Display in the User Info](../../.gitbook/assets/display_number%20%281%29.png)
 {% endtab %}
 
 {% tab title="Boolean" %}
