@@ -19,9 +19,7 @@ Components you can change in the code above:
 * **Orange:** The color you want for Linked text.
 * **Linked text:** The text that links the landing page.
 
-**Example:** &lt;p&gt; Celebrate your 5th birthday. We discount 50% on many items. Please see details &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
-
-![Attach a link to the introduction](../../../.gitbook/assets/cd-cs-chat%20%281%29.png)
+**Example:** &lt;p&gt; Celebrate your 5th birthday. We discount 50% on many items. Please see details &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p
 {% endtab %}
 
 {% tab title="Down the line on the introduction" %}
@@ -60,28 +58,41 @@ Here are some examples of possible customizations and instructions on how to ach
 You can change the height and width as you like:
 
 {% tabs %}
-{% tab title="Changing the chat widget height" %}
-Customizable paragraph code chat window height Subiz
+{% tab title="Customize the full height widget" %}
+* Paste this code for customizing widget's height
 
 ```text
-.widget_mini .widget_body { height: 800px !important; max-height: 900px !important;}
+.widget_full .widget_body{height: 750px !important;max-height: 800px !important;}
 ```
 
-Change value **800**px to decide the height of chat widget.
+* Paste this code for customizing widget's width 
 
-![Changing the chat widget height](../../../.gitbook/assets/image%20%288%29.png)
+```text
+.widget_full .widget_body{width:600px;}
+```
+
+  
+Change value 750px, 600px to decide the size of chat widget.
+
+![Customize the full height widget](../../../.gitbook/assets/mo-rong.png)
 {% endtab %}
 
-{% tab title="Changing the chat widget width" %}
-Customizable paragraph code chat window Subiz
+{% tab title="Customize the standard widget" %}
+* Paste this code for customizing widget's height
 
 ```text
-.widget_mini .widget_body{ width:600px;}
+.widget_mini .widget_body{height: 750px !important;max-height: 800px !important;}
 ```
 
-Change value **600**px to decide the width of chat widget.
+* Paste this code for customizing widget's width 
 
-![Changing the chat widget width](../../../.gitbook/assets/image%20%282%29.png)
+```text
+.widget_mini .widget_body{width:600px;}
+```
+
+Change value 750px, 600px to decide the size of chat widget.
+
+![Customize the standard widget](../../../.gitbook/assets/thu-gon.png)
 {% endtab %}
 {% endtabs %}
 
