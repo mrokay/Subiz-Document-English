@@ -53,7 +53,7 @@ Next, **Copy and Paste** the corresponding CSS to customize the component you wa
 
 Here are some examples of possible customizations and instructions on how to achieve them:
 
-#### Resize chat window
+#### Resize chat widget
 
 You can change the height and width as you like:
 
