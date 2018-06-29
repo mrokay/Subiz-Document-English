@@ -71,7 +71,7 @@ Let’s customize your greetings, intros based on your Organizational culture  a
 {% endhint %}
 
 {% hint style="danger" %}
-**If you want to use an unsupported language**, you can customize the language by clicking Customize language&gt; Upload language file in \(.po or .mo\)​ \([the guide to customize language in .PO file](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget#customize-language-with-p-o-file)\)
+**If you want to use an unsupported language**, you can customize the language by clicking Customize language&gt; Upload language file in \(.po or .mo\)​ \([the guide to customize language in .PO file](https://help-en.subiz.com/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget#customize-language-with-p-o-file)\)
 {% endhint %}
 
 ![Customize Language](../../../.gitbook/assets/10.png)
