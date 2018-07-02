@@ -60,7 +60,7 @@ Select the language used for Subiz window.
 * With **Auto Detect**, Subiz will automatically detect the position of visitors and display appropriate language.
 * If you select a **particular language**, you can **customize the widget title and team introduction** on the widget. For example, in English:
 
-![Customize Title and Introduction](https://docv4.subiz.com/wp-content/uploads/2018/03/language-customize.png)
+![Customize the widget title and introduction](../../../.gitbook/assets/customize-language.png)
 
 It will display as below:
 
@@ -94,7 +94,7 @@ Add domain to whitelist by clicking **Manage Whitelist Domain**.
 
 Click **New whitelist domain**.
 
-![New whitelist domain](https://docv4.subiz.com/wp-content/uploads/2018/03/Whitelist-domain.png)
+![Whitelist domain](../../../.gitbook/assets/domains-whitelist.png)
 
 Enter domain name and click **Add** to add the domain to the whitelist list.
 

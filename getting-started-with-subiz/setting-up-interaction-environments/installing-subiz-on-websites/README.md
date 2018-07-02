@@ -18,7 +18,7 @@ To get embed code, follow steps below:
 2. Click **Settings &gt; Account &gt; Installation**
 3. At Subiz Chat Widget &gt; **Subiz Embed Code**, click **Copy code** to copy the embed code quickly.
 
-![Copy Subiz&#x2019;s embed code](https://docv4.subiz.com/wp-content/uploads/2018/03/copy-code.png)
+![Embed code](../../../.gitbook/assets/embed-code.png)
 
 {% hint style="info" %}
 Every single account has different embed code so when you change the account you have to re-install embed code.
@@ -40,7 +40,7 @@ If you still don’t see the chat widget, you can take some more steps to check 
 2. Click into **Settings &gt; Account &gt;** **Installation**
 3. Paste your **website’s URL** and click **Check**
 
-![Check Subiz&#x2019;s widget on website](https://docv4.subiz.com/wp-content/uploads/2018/03/check-code.png)
+![Check the embed code in your website](../../../.gitbook/assets/check-code.png)
 
 {% hint style="danger" %}
 If not successfully, check the code again or contact Subiz support center.
