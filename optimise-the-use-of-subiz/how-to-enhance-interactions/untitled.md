@@ -43,7 +43,7 @@ You should **refer to the list of conditions**, with instructions on how to use 
 
 You can select channels to run Automation. Each channel will have corresponding actions.
 
-![Automation&apos;s channels](../../.gitbook/assets/kenh-hd-automation.png)
+![Automation&apos;s channel](../../.gitbook/assets/select-channel.png)
 
 ### The Action set for Automation
 
@@ -58,11 +58,15 @@ With the Subiz Chat channel, you can take one of two actions:
 * **Send message to user:** You can send an auto message as soon as customers enter your website, or send a specific message to specific customers.
 * **Ask for email address**: It can be used when you are not online or cannot answer immediately. Customers will enter their email address so that you can contact later.
 
-![Select the action to send the message to the customer](https://docv4.subiz.com/wp-content/uploads/2018/03/action-Subiz-chat.png)
+![Select action send message to user](../../.gitbook/assets/select-action.png)
 
 Users will see auto messages/emails as a messages/ emails sent from that Agent.
 
 ![Auto messages sent from Agent.](../../.gitbook/assets/gui-tn-cho-user.png)
+
+* **Capture leads:** Collect and store leads information with powerful Automation capture lead - Ask for customer information.
+
+![Atomation Capture leads](../../.gitbook/assets/capture-lead.png)
 {% endtab %}
 
 {% tab title="Action on Subiz Email" %}
@@ -73,10 +77,18 @@ This action only can be taken with users whom you have already got their email.
 {% endhint %}
 
 Choose action **Send email to user** on Email channel
+
+![Select action send email to user](../../.gitbook/assets/email-channel.png)
+
+Select agent to send email, email title and fill in the email's content
+
+![Select agent to send email, email title ](../../.gitbook/assets/email-title.png)
+
+Check email content preview
+
+![Email&apos;s preview](../../.gitbook/assets/email-content.png)
 {% endtab %}
 {% endtabs %}
-
-
 
 How are messages/emails sent automatically?
 
