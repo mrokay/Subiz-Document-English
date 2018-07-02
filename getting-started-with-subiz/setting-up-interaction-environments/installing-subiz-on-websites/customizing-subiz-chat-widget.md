@@ -246,7 +246,7 @@ Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; 
 
 ![Download the customized language file on Subiz](../../../.gitbook/assets/17.png)
 
-After uploading successfully, back to widget setting and Save.
+  After uploading successfully, back to widget setting. You do not need to save this upload
 
 ![Successfully uploaded language file successfully downloaded](../../../.gitbook/assets/18.png)
 
