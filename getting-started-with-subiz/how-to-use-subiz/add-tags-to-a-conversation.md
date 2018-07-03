@@ -40,7 +40,7 @@ After successfully tagging, the bottom of the conversation will display the foll
 
 To remove a Tag, click on "x " symbol of the selected Tag and save
 
-![Remove a Tag](../../.gitbook/assets/remove-a-tag.png)
+![Remove a Tag](../../.gitbook/assets/delete-a-tag.png)
 
 ### Tag Statistics
 
