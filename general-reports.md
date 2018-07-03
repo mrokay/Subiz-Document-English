@@ -19,7 +19,7 @@ Conversation report gives you an overview of customer interactions on Subiz. You
   
 This database helps you to develop marketing strategies, do online business on various channels and evaluate the effectiveness of advertising campaigns, promotion ... For example, you are implementing advertising on the Fanpage in 30 days. When the campaign is finished , you can check the amount of interactions via the Messenger channel in the last 30 days. Based on the statistics, you can evaluate the effectiveness of this program and make the necessary adjustments.
 
-#### Statistical criteria
+#### Report criteria
 
 In the Reports section, you can count the number of conversations by **Channel**, **Agent**, and **Time**:
 
@@ -43,16 +43,16 @@ You can filter conversations according to specific time periods and make compari
 {% endtab %}
 {% endtabs %}
 
-#### How to read statistical charts
+#### How to read report charts
 
-After you've selected the criteria for statistics, you can look at your statistics as a chart.
+After you've selected the criteria for report, you can look at your statistics as a chart.
 
 * **Vertical axis:** Number of conversations
 * **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
 
 By placing your cursor at the intersection, you will see the number of conversations displayed at the selected time. Looking at the chart, you can evaluate the total conversations over time and see conversations at a specific time.  
   
-For example: Statistics of Subiz Chat conversations by Support group in the last 30 days. 
+For example: Report of Subiz Chat conversations by Support group in the last 30 days. 
 
 ![Conversation\_Subiz Support Team Last 30 Days](.gitbook/assets/conversation_support-team-last-30-days.png)
 
@@ -62,7 +62,7 @@ Subiz Tag is a feature that allows users to tag the interactions on all channels
 
 Thanks to this function you can manage interactions according to their content and evaluate the effectiveness of the promotion. For example, your website is running a "Golden Week" promotion. After 7 days, you can statistically count how many interactions are tagged "quote a price", "successful deal"... These statistics will help you valuate the effectiveness of the promotion.
 
-#### Statistical criteria
+#### Report criteria
 
 You can count the Tags according to Channels, Tags and Time
 
@@ -92,9 +92,9 @@ You can select the time that you want to count tagged messages
 {% endtab %}
 {% endtabs %}
 
-#### How to read statistical charts
+#### How to read report charts
 
-After selecting the statistical criteria, the data will be displayed as a chart
+After selecting the report criteria, the data will be displayed as a chart
 
 * **Vertical axis:** Number of Tags
 * **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
