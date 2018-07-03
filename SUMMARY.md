@@ -24,6 +24,7 @@
       * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
+    * [Add Tags to a conversation](getting-started-with-subiz/how-to-use-subiz/add-tags-to-a-conversation.md)
   * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
     * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)
     * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
