@@ -42,11 +42,11 @@ To remove a Tag, click on "x " symbol of the selected Tag and save
 
 ![Remove a Tag](../../.gitbook/assets/delete-a-tag.png)
 
-### Tag Statistics
+### Tag Report
 
 Agent can count the number of tags according to channel, time, Tag name ... in Reports
 
 ![Tag Statistic](../../.gitbook/assets/tag.png)
 
-To manage Tags efficiently, you can read more on [Tag Statistics Instruction  ](https://help-en.subiz.com/~/edit/drafts/-LGTMe3kWcd8O8J6yyVR/general-reports#tags-statistics)
+To manage Tags efficiently, you can read more on [Tag report Instruction  ](https://help-en.subiz.com/~/edit/drafts/-LGTMe3kWcd8O8J6yyVR/general-reports#tags-statistics)
 
