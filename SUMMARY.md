@@ -35,6 +35,7 @@
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * [Sending messages to user automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-1.md)
     * [Asking for email address automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-2.md)
+    * [Capture Leads](optimise-the-use-of-subiz/how-to-enhance-interactions/capture-lead.md)
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation.md)
     * [Edit and update user's infor](optimise-the-use-of-subiz/managing-data/untitled.md)
