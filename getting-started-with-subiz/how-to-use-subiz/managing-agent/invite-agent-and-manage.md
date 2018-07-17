@@ -1,24 +1,24 @@
 # Invite Agent and manage
 
-**From the main account registered Subiz \(Agent owner\), you can create more account Agent registered together Subiz and interact with customers.**
+**From the main account registered** [**Subiz**](https://subiz.com/en) **\(Agent owner\), you can create more account Agent registered together** [**Subiz**](https://subiz.com/en) **and interact with customers.**
 
 {% hint style="info" %}
-* Invite your colleagues to use Subiz according to the needs of the business.
-*  With paid packages, the number of Agents that can use Subiz is the agent you paid before.
+* Invite your colleagues to use[ Subiz ](https://subiz.com/en)according to the needs of the business.
+*  With paid packages, the number of Agents that can use [Subiz](https://subiz.com/en) is the agent you paid before.
 * You can set permissions and manage the operation of agents.
 {% endhint %}
 
-### Invite Agent to use Subiz
+### Invite Agent to use [Subiz](https://subiz.com/en)
 
 Creating an Agent account has two steps:
 
 {% tabs %}
 {% tab title="1. Send Agent Invitations" %}
-_Agent Invitation Guide:_ Login **App.subiz.com**&gt; Select **Settings**&gt; **Account**&gt; **Agent List**&gt; **Invite Agent**
+_Agent Invitation Guide:_ [Login **App.subiz.com**&gt; Select **Settings**&gt; **Account**&gt; **Agent List**&gt; **Invite Agent**](https://app.subiz.com/settings/agents-list)\*\*\*\*
 
 ![Invite Agent](../../../.gitbook/assets/1%20%283%29.png)
 
-Here, **fill in the agent's information and select the right**&gt; choose **Save**
+Here, **fill in the agent's information and select the right**&gt; choose **Invite Agent**
 
 ![Fill in the agent&apos;s information](../../../.gitbook/assets/2%20%283%29.png)
 
@@ -28,7 +28,7 @@ Note: Review the Agent Types and Permissions functions [HERE](https://subiz.gitb
 {% endtab %}
 
 {% tab title="2. Confirm activation of Agent account" %}
-The Invited Agent will receive a confirmation email confirming activation of the account from Subiz.
+The Invited Agent will receive a confirmation email confirming activation of the account from [Subiz](https://subiz.com/en).
 
 This agent needs to **login Email**&gt; **Check mail Subiz**&gt; Select **"Join your team"**
 
@@ -40,7 +40,7 @@ When an Agent is invited without activating the account, the Agent's status in t
 {% endtab %}
 {% endtabs %}
 
-### Edit Member Agent
+### Edit member Agent
 
 When you are granted **Full access** to **Account Management** and **Account Setting**, you can customize the Segregation or Lock or Delete the account of another member.
 
@@ -50,7 +50,7 @@ When you are granted **Full access** to **Account Management** and **Account Set
 * Agent accounts deleted cannot be used to re-register Subiz accounts.
 {% endhint %}
 
-Instruction: Sign In **App.subiz.com**&gt; **Setting**&gt; **Account**&gt; **Agent List**&gt; Select **Agent to Edit**/ **Delete**&gt; Select **Edit/ Delete Button**
+Instruction:[ Sign In **App.subiz.com**&gt; **Setting**&gt; **Account**&gt; **Agent List**](https://app.subiz.com/settings/agents-list)&gt; Select **Agent to Edit**/ **Delete**&gt; Select **Edit/ Delete Button**
 
 ![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%285%29.png)
 

@@ -4,7 +4,7 @@ The Guide to Agent Management will help you understand what agents are, how you 
 
 In it, you will be provided with the knowledge of:
 
-* Agent types and permissions for each agent type in Subiz.
+* Agent types and permissions for each agent type in [Subiz](https://subiz.com/en).
 
 {% page-ref page="agent-profile.md" %}
 

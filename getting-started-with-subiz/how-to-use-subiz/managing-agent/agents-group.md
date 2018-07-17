@@ -13,7 +13,7 @@ You have to rely on the number of agents you have and **especially the need, the
 
 ### Create an Agent Group
 
-To create an Agent group, go to **Settings&gt; Accounts&gt; Agent&gt; Agent Groups, and click Create Group.**
+To create an Agent group, go to [**Setting &gt; Account &gt; Agent &gt; Agent Groups, and click Create Group.**](https://app.subiz.com/settings/agents-group)\*\*\*\*
 
 * Enter a name and select an icon for the group
 
@@ -27,7 +27,7 @@ To create an Agent group, go to **Settings&gt; Accounts&gt; Agent&gt; Agent Grou
 
 ### Edit Agent Group Information
 
-To modify information about a group, go to **Settings&gt; Accounts&gt; Agent Groups**&gt; select the group you want to edit&gt; select the edit icon.
+To modify information about a group, go to[ **Settings&gt; Accounts&gt; Agent Groups**](https://app.subiz.com/settings/agents-group)&gt; select the group you want to edit&gt; select the edit icon.
 
 ![Edit Agent Group Information](../../../.gitbook/assets/8.png)
 

@@ -2,22 +2,22 @@
 
 ### What is Agent?
 
-**Agent is the person who uses Subiz to work and interact with customers.** Agent can be a Manager, a Customer Service Staff or any Officers in your company. Each Agent has their own Subiz login account.
+**Agent is the person who uses** [**Subiz** ](https://subiz.com/en)**to work and interact with customers.** Agent can be a Manager, a Customer Service Staff or any Officers in your company. Each Agent has their own[ Subiz](https://subiz.com/en) login account.
 
 ### **Agent types**
 
 There are two types of Agent:
 
-* **Agent owner** is that initially registered Subiz Account and has full of account permission.
-* **Agent member** is that was invited to join Subiz by the Agent owner.
+* **Agent owner** is that initially registered [Subiz](https://subiz.com/en) Account and has full of account permission.
+* **Agent member** is that was invited to join [Subiz](https://subiz.com/en) by the Agent owner.
 
 ### **Agent Permission**
 
-An Agent will have 3 permission when using the Subiz account.
+An Agent will have 3 permission when using the [Subiz](https://subiz.com/en) account.
 
 1. **Account Management**
 
-* This permission allows you to manage agent information including inviting agents, customizing agents or deleting agent accounts. You also can access the Payment Settings page to manage your Subiz services such as upgrading your account, purchasing more agents, upgrading your Subiz packages, extending your account and more.
+* This permission allows you to manage agent information including inviting agents, customizing agents or deleting agent accounts. You also can access the Payment Settings page to manage your [Subiz ](https://subiz.com/en)package such as upgrading your account, purchasing more agents, upgrading your[ Subiz](https://subiz.com/en) packages, extending your account and more.
 * You can choose whether Agent permisson are "**No access**" or "**Full access**."
 
 2. **Account setting**
@@ -39,11 +39,11 @@ Some notes on Agent Permissions:
 * You can not customize your Agent delegation. Only Agents with Account Management or Account Settings are allowed to customize the permission of other Agents.
 {% endhint %}
 
-### Agent's private information
+### Agent profile
 
-The Agent's profile is your Subiz login information, which will be displayed in the Subiz chat window on your website. When you fully set up the Agent information, your image will be more professional and reputable in the eyes of the customer.
+The Agent's profile is your [Subiz](https://subiz.com/en) login information, which will be displayed in [Subiz](https://subiz.com/en) widget on your website. When you fully set up the agent information, your image will be more professional and reputable in the eyes of the customer.
 
-_Profile Edit guide:_ Select **Avatar** on the right corner of the screen&gt; Select **My profile.**
+_Guide to edit agent profile:_ [Select **Avatar** on the right corner of the screen&gt; Select **My profile**](https://app.subiz.com/profile/)**.**
 
 ![Agent&apos;s private information](../../../.gitbook/assets/agent.png)
 
@@ -57,12 +57,12 @@ Here you can customize:
 {% tab title="Personal information" %}
 _Customize information:_ **Change the required fields**&gt; select **Save**
 
-* Full Name: Agent's display name in chat window Subiz
-* Email Address: Agent's login email, cannot be changed
+* Full Name: Agent's display name in chat window [Subiz](https://subiz.com/en)
+* Email Address: Agent's login email, unchangeble
 * Job Placement: The job that the agent is responsible for
-* Phone Number: Agent contact number
+* Phone Numbe: phone number of agent
 * Time Zone: The time zone where the agent works. Note the corresponding time zone setting on the computer so that the update data is correct.
-* Languages: The language displayed on Agent App.subiz.com
+* Languages: The language displayed on Agent [App.subiz.com](https://app.subiz.com)
 
 ![Personal information](../../../.gitbook/assets/thong-tin-agent.png)
 {% endtab %}
@@ -90,7 +90,7 @@ Agents can manage their own password. You can change your password as well as re
 
 To change your password, follow the steps below:
 
-* Click the avatar at the upper right corner of the screen, select **My Profile**
+* [Click the avatar at the upper right corner of the screen, select **My Profile**](https://app.subiz.com/profile/password)\*\*\*\*
 
 ![](https://lh4.googleusercontent.com/6RQ8oBCCJmTkxVQKVeEY9WG6yDxc9vjghegBLEOWIykncevOKwYhi6RQx5FYsjdQbCFQY4r_KOvQV_GrfwZBeEy7XXGQ4rVIVdjMKgSSGQVMOHnu_aSYGCbyc9QXXpD_jz7ojih6)
 
