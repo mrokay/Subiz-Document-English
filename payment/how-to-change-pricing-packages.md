@@ -1,6 +1,6 @@
 # How to change packages?
 
-When using Subiz, depending on your business situation and development strategy, you can change your account information at any time to suit your needs.
+When using [Subiz](https://subiz.com/en%20), depending on your business situation and development strategy, you can change your account information at any time to suit your needs.
 
 ### Upgrade/ Downgrade Account 
 
