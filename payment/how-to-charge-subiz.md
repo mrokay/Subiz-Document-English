@@ -1,16 +1,16 @@
 # Payment methods
 
-Currently, Subiz supports 2 forms of payment: **Credit Card** and **Credit Transfer**. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.
+Currently, [Subiz ](https://subiz.com/en%20)supports 2 forms of payment: **Credit Card** and **Credit Transfer**. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.
 
 ### Payment via Credit Card \(Credit and Debit card\)
 
-**Step 1:** Access your Subiz account, go to Settings &gt; [Subscription](https://app.subiz.com/payment-home)
+**Step 1:** Access your[ Subiz account](https://app.subiz.com), go to [Settings &gt; Subscription](https://app.subiz.com/payment-home)
 
 ![Access your Subiz account](../.gitbook/assets/image%20%285%29.png)
 
 **Step 2:** Select the package information
 
-Subiz is a subscription service, which will be charged based on three factors:
+[Subiz](https://subiz.com/en%20) is a subscription service, which will be charged based on three factors:
 
 * **Package Type:** Standard / Advanced
 * **Agent number:** The number of person login Subiz
@@ -38,9 +38,9 @@ After you have successfully upgraded your account, you can change this informati
 
 Payment via Bank Transfer is made in 2 simple steps as follows:
 
-**Step 1:** Access your Subiz account. Settings&gt; [Subscription](https://app.subiz.com/payment-home)
+**Step 1:** Access your [Subiz account](https://app.subiz.com) go [Settings&gt; Subscription](https://app.subiz.com/payment-home)
 
-**Step 2:** Select the information of the appropriate service package and click on **Bank** **Transfer**, the system will display the amount of transfer and Subiz account information.
+**Step 2:** Select the information of the appropriate service package and click on **Bank** **Transfer**, the system will display the amount of transfer and [Subiz ](https://subiz.com/en%20)account information.
 
 ![Subiz account information](https://lh4.googleusercontent.com/irRZqu28iTtFwprw7IgKVwUeEPRPOot5Bo7qC_-0-kVA1CdTTWZxWXfs1H2YPfxnkTamaw09WcYB9kmi5XAXOkEgWZBCsDnGW_JbL0OJy9ZZiDDOTHYHmrIZJvyBAIEO1zgmv0kV)
 
