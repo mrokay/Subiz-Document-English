@@ -1,6 +1,6 @@
 # Hello, how do we support you?
 
-This page with detailed instructions, which helps you to understand, install and use Subiz effectively.
+This page with detailed instructions, which helps you to understand, install and use [Subiz ](https://subiz.com/en%20)effectively.
 
 The manual page for Subiz to divided into five parts:
 
