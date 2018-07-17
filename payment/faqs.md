@@ -49,11 +49,11 @@ Duration: **07 - 10 working days**
 
 #### Late issue an invoice
 
-The invoice is required to be made within 30 days from the date enterprise completes the payment obligation. Subiz is not responsible for billing if the time limit is exceeded. This policy is applicable to all Subiz customers.
+The invoice is required to be made within 30 days from the date enterprise completes the payment obligation. [Subiz](https://subiz.com/en%20) is not responsible for billing if the time limit is exceeded. This policy is applicable to all [Subiz](https://subiz.com/en%20) customers.
 
 ### Invoice Management
 
-To track your status, billing status \(billing status, period, residual term...\) you can access your [Subiz](https://app.subiz.com/subscription), go to Settings &gt; [Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:
+To track your status, billing status \(billing status, period, residual term...\) you can access your [Subiz](https://app.subiz.com/subscription), go to [Settings &gt; Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:
 
 ![Invoice Management](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
 
@@ -61,7 +61,7 @@ To track your status, billing status \(billing status, period, residual term...\
 
 #### Trial period
 
-Subiz allows you to try the full 30 days trial most of Subiz’s features. After 30 day trial, you may consider upgrading to a paid or a free Subiz package.
+[Subiz ](https://subiz.com/en%20)allows you to try the full 30 days trial most of Subiz’s features. After 30 day trial, you may consider upgrading to a paid or a free[ Subiz ](https://subiz.com/en%20)package.
 
 #### Paid accounts
 
@@ -69,12 +69,12 @@ When you decide to upgrade your account, you need to specify the agent \(s\), bi
 
 ### What are Special Offers of Subiz?
 
-* Subiz offers up to 30% discount on long cycle payments, see details in the pricing page.
-* Subiz offers a 40% discount for any kind of public shools and non-governmental organization.
+* [Subiz](https://subiz.com/en%20) offers up to 30% discount on long cycle payments, see details in the pricing page.
+* [Subiz](https://subiz.com/en%20) offers a 40% discount for any kind of public shools and non-governmental organization.
 
 ### Can I change the Subiz package at any time? {#can-i-change-the-subiz-package-at-any-time}
 
-Yes, you can change your Subiz plan at any time to suit your business situation. You can add / reduce agents, increase / decrease the billing cycle or change the payment method accordingly.
+Yes, you can change your [Subiz ](https://subiz.com/en%20)plan at any time to suit your business situation. You can add / reduce agents, increase / decrease the billing cycle or change the payment method accordingly.
 
 ### Why does the system show the notice of overdue invoices? {#why-does-the-system-show-the-notice-of-overdue-invoices}
 
@@ -89,14 +89,14 @@ When your renewal date is expired, your system will automatically renew the next
 ![Payment Date](../.gitbook/assets/payment-date.png)
 
 {% hint style="info" %}
-In case of the unexpected invoice, you need to send a confirmation to Subiz, we will help you cancel the invoice.
+In case of the unexpected invoice, you need to send a confirmation to [Subiz](https://subiz.com/en%20), we will help you cancel the invoice.
 {% endhint %}
 
 ### Renewal Invoice {#renewal-invoice}
 
 At the beginning of the next cycle, the system will automatically renew the service and the renewal invoice will be created accordingly.
 
-Subiz will send a notification of account renewal via the following methods: Email to the account owner; Show notifications on the Dashboard management page; Show notifications in the New Alerts section.
+[Subiz](https://subiz.com/en%20) will send a notification of account renewal via the following methods: Email to the account owner; Show notifications on the Dashboard management page; Show notifications in the New Alerts section.
 
 When receiving the notice, you can check the invoice directly at the payment page as shown
 
@@ -116,7 +116,7 @@ Overdue invoices will be notified via the following channels:
 * E-mail notification to register email \(default\), or email of the person in charge.
 
 {% hint style="info" %}
-To ensure that you receive sufficient information from Subiz, in case you change account manager or change contact email, you need to send confirmation to Subiz so that we can update your information.
+To ensure that you receive sufficient information from [Subiz](https://subiz.com/en%20), in case you change account manager or change contact email, you need to send confirmation to [Subiz](https://subiz.com/en%20) so that we can update your information.
 {% endhint %}
 
 ### How to read the information on the Invoice? {#how-to-read-the-information-on-the-invoice}
