@@ -1,6 +1,6 @@
 # Problems with Dashboard logging
 
- When login Dashboard, you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, Subiz will show you some cases and solutions.
+ When [login Dashboard](https://app.subiz.com/login), you might face to some notifications about verifying your account information that prevents you logging successfully. In this article, [Subiz](https://subiz.com/en) will show you some cases and solutions.
 
 ### **Incorrect user or password**
 
@@ -10,7 +10,7 @@
 
 **Solution:**
 
-In this case, you have to check whether your login information such as email, username has been right or not?
+In this case, you have to check whether your [login](https://app.subiz.com/login) information such as email, username has been right or not?
 
 If you are not sure about password, reset your password follow [instruction](https://docs.subiz.com/manage-password/#resetPassword)
 
@@ -22,7 +22,7 @@ If you are not sure about password, reset your password follow [instruction](htt
 
 **Solution:**
 
-To active agent, you need to contact the owner or agent has permissions to set up account: **Settings&gt; Account&gt; Agent list&gt; Select Agent and enable Active status**
+To active agent, you need to contact the owner or agent has permissions to set up account: [**Settings&gt; Account&gt; Agent list&gt; Select Agent and enable Active status**](https://app.subiz.com/settings/agents-list)\*\*\*\*
 
 ![Active Agent](../../../../.gitbook/assets/active-agent.png)
 
@@ -30,7 +30,7 @@ To active agent, you need to contact the owner or agent has permissions to set u
 
 **If you are owner account**
 
-Your account has been suspended automatically from Subiz system because you didn’t verify via Subiz email within 24 hours from the moment you signed up.
+Your account has been suspended automatically from Subiz system because you didn’t verify via [Subiz email](https://subiz.com/email.html) within 24 hours from the moment you signed up.
 
 Subiz allows each email to register only one account in system. So, you have to [re-register ](https://dashboard.subiz.com/signup.html)by another email and remember to confirm your account via email.
 

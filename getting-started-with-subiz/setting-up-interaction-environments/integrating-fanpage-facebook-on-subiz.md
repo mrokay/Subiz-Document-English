@@ -1,8 +1,8 @@
 # Integrating Fanpage Facebook on Subiz
 
-Messenger is one of channels that you can integrate with your Subiz account to connect your customers. After integrating Subiz account with your Facebook fanpage, you can receive and reply fanpage’s message from Subiz.
+Messenger is one of channels that you can integrate with your [Subiz account](https://app.subiz.com) to connect your customers. After integrating [Subiz account](https://app.subiz.com) with your Facebook fanpage, you can receive and reply fanpage’s message from [Subiz](https://subiz.com/en).
 
-To integrate your Subiz account and Facebook fanpage, follow these steps:
+To integrate your [Subiz account](https://app.subiz.com) and Facebook fanpage, follow these steps:
 
 ### **Step 1:** [Log in](http://app.subiz.com/login) &gt; Setting &gt; Account &gt; Message &gt; Messenger
 

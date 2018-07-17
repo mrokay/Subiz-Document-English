@@ -1,8 +1,8 @@
 # Customizing Subiz Chat widget
 
-**Subiz chat widget is a chat box which is integrated into your website, where visitors used to talk to Agents right on your website.** Not only where you interact with your customers, but also where you assert the brand, service and reputation quality of the business.
+\*\*\*\*[**Subiz chat widget**](https://app.subiz.com/settings/widget-setting) **is a chat box which is integrated into your website, where visitors used to talk to Agents right on your website.** Not only where you interact with your customers, but also where you assert the brand, service and reputation quality of the business.
 
-You can customize the Subiz widget on your website by going to **Setting &gt; Account &gt; Message &gt; Widget​**
+You can customize the Subiz widget on your website by going to [**Setting &gt; Account &gt; Message &gt; Widget​**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
 ![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%286%29.png)
 
@@ -21,12 +21,12 @@ Select the type of window you want to display:
 
 Select where the widget will appear on your website: **Bottom Left/ Bottom Right**
 
-**The position of the Subiz widget should match the design of the website so that it is easy to identify, and not overlap other applications of the website.**Currently, a large percentage of business set up the Subiz widget at bottom right corner.
+**The position of the** [**Subiz widget**](https://app.subiz.com/settings/widget-setting) **should match the design of the website so that it is easy to identify, and not overlap other applications of the website.**Currently, a large percentage of business set up the Subiz widget at bottom right corner.
 
 ![Widget position](../../../.gitbook/assets/5%20%283%29.png)
 
 {% hint style="info" %}
-**The position of the Subiz widget should match the design of the website so that it is easy to identify, and not overlap other applications of the website.** Currently, a large percentage of business set up the Subiz widget at bottom right corner.
+**The position of the** [**Subiz widget** ](https://app.subiz.com/settings/widget-setting)**should match the design of the website so that it is easy to identify, and not overlap other applications of the website.** Currently, a large percentage of business set up the Subiz widget at bottom right corner.
 {% endhint %}
 
 ### **Colour**

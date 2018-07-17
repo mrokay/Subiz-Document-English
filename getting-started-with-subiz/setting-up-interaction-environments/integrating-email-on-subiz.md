@@ -2,13 +2,13 @@
 
 ### Email Forwarding settings on Subiz
 
-Along with Subiz account, you are provided an email address in form of abc@mail.subiz.com. All the emails sent to this address are considered as conversations on Subiz.
+Along with [Subiz account](https://app.subiz.com), you are provided an email address in form of abc@mail.subiz.com. All the emails sent to this address are considered as conversations on [Subiz](https://subiz.com/en).
 
-If you forward emails to abc@mail.subiz.com, you also get these emails on Subiz. So, you should set up to forward emails automatically from email address you are using. Then you can work with email right on Subiz. Follow 2 steps below:
+If you forward emails to abc@mail.subiz.com, you also get these emails on [Subiz](https://subiz.com/en). So, you should set up to forward emails automatically from email address you are using. Then you can work with email right on Subiz. Follow 2 steps below:
 
 **Step 1: Create list of income email addresses**
 
-List of income addresses is all email addresses you want to use to work with customers on Subiz. To add a new income email, follow below steps:
+List of income addresses is all email addresses you want to use to work with customers on [Subiz](https://subiz.com/en). To add a new income email, follow below steps:
 
 * ​[Sign in](http://app.subiz.com/login) and go to **Setting &gt; Account &gt; Message &gt; Email**
 * Click **New Income Email**
@@ -17,7 +17,7 @@ List of income addresses is all email addresses you want to use to work with cus
 
 ![](https://docv4.subiz.com/wp-content/uploads/2018/03/new-income-email-1.png)
 
-**Step 2: Enable forwarding email to your Subiz email address**
+**Step 2: Enable forwarding email to your** [**Subiz email**](https://subiz.com/email.html) **address**
 
 **Forwarding email with Gmail**
 
@@ -37,7 +37,7 @@ If you are using gmail account, following instructions below to enable forwardin
 * Select **Forward a copy of incoming mail to**
 * Select **Keep Gmail’s copy in the Inbox** if you want to keep incoming emails in your inbox \(recommended\)
 
-After finishing two above steps, your emails will be forwarded to Subiz as a new conversation. You can reply and send emails right on Subiz.
+After finishing two above steps, your emails will be forwarded to [Subiz](https://subiz.com/en) as a new conversation. You can reply and send emails right on [Subiz](https://subiz.com/en).
 
 ### Install DKIM / SPF for the domain to optimize email delivery
 
@@ -45,7 +45,7 @@ DKIM \(Domain Keys Identified Mail\) is the email authentication method by the e
 
 In order to send email on Subiz effectively, you should set up DKIM and SPF on your domain.
 
-* [Sign in](https://app.subiz.com/login?redirect=%2Factivities%2F) to your Subiz account, go to **Settings&gt; Accounts&gt; Messages&gt; Email**
+* [Sign in](https://app.subiz.com/login?redirect=%2Factivities%2F) to your [Subiz account](https://app.subiz.com), go to [**Settings&gt; Accounts&gt; Messages&gt; Email**](https://app.subiz.com/settings/email)\*\*\*\*
 * Select **Configure DKIM**
 * Enter your mailbox domain name \(company.com\)
 * Contact the domain manager of the company to set up DKIM and SPF for the domain

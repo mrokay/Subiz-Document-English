@@ -1,6 +1,6 @@
 # Optimizing interactive enviroment
 
-The following guides will help you optimize the interaction environment with your customers when using Subiz.
+The following guides will help you optimize the interaction environment with your customers when using [Subiz](https://subiz.com/en).
 
 In which you will be:
 

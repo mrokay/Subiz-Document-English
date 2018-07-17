@@ -39,13 +39,13 @@ Example: &lt;p&gt; Celebrate your 5th birthday. We discount 50% of high-end item
 
 ### **Customizing CSS for Subiz Chat widget**
 
-Besides using the chat widget settings on the website that Subiz has provided. You can easily customize other components on the chat widget by using CSS code.
+Besides using the [chat widget settings](https://app.subiz.com/settings/widget-setting) on the website that Subiz has provided. You can easily customize other components on the [chat widget](https://app.subiz.com/settings/widget-setting) by using CSS code.
 
 CSS stands for “Cascading Style Sheet”. It describes how HTML elements are to be displayed on screen, paper, or in other media. With using CSS, you can customize every single elements in chat widget to make it more attractive or unique.
 
 #### How to add customized CSS?
 
-Firstly, log in app.subiz.com, come to **Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**
+Firstly, log in app.subiz.com, come to [**Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
 ![Customized CSS](../../../.gitbook/assets/3%20%283%29.png)
 
@@ -208,7 +208,7 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 
 ### Customize Language with P.O file
 
-Currently, Subiz supports 2 languages: Vietnamese and English. On Subiz widget, you can c**ustomize the widget title and team introduction according to each language.**
+Currently, [Subiz](https://subiz.com/en) supports 2 languages: Vietnamese and English. On [Subiz widget](https://subiz.com/live-chat.html), you can [c**ustomize the widget**](https://subiz.com/live-chat.html) **title and team introduction according to each language.**
 
 Besides, you can use another language other than these supported languages. Supposed that you want to replace English with German, or you want to edit language in other section of the widget, you can customize the language by .po file following the steps below:
 

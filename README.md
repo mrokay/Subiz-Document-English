@@ -2,11 +2,11 @@
 
 This page with detailed instructions, which helps you to understand, install and use [Subiz ](https://subiz.com/en%20)effectively.
 
-The manual page for Subiz to divided into five parts:
+The manual page for [Subiz](https://subiz.com/en) to divided into five parts:
 
-* **Subiz Overview:** What does Subiz bring to your business? How it works and the terms you can easily understand about Subiz.
+* **Subiz Overview:** What does [Subiz](https://subiz.com/en) bring to your business? How it works and the terms you can easily understand about [Subiz](https://subiz.com/en).
 
-* **Getting Started:** Start applying Subiz to your business and get the most out of it. Since that time help your business improve productivity and competitiveness.
+* **Getting Started:** Start applying [Subiz](https://subiz.com/en) to your business and get the most out of it. Since that time help your business improve productivity and competitiveness.
 
 {% page-ref page="getting-started-with-subiz/" %}
 
