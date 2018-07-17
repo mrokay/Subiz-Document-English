@@ -1,12 +1,12 @@
 # How to distribute conversations
 
-**With Subiz, conversations to automatically distributed to one or more Agents, by setting up and using rules.**
+**With** [**Subiz**](https://subiz.com/en%20)**, conversations to automatically distributed to one or more Agents, by setting up and using rules.**
 
 You can use the original default rule, use the existing Rule Library, or create a "New Rule" to automatically deliver conversations that match the actual needs of the business.
 
 ### Use the original default rule
 
-The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your Subiz account. **This is the default rule, Subiz has set up for all accounts.**
+The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your[ Subiz account](https://app.subiz.com). **This is the default rule,**[ **Subiz**](https://subiz.com/en%20) **has set up for all accounts.**
 
 ![The default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-1.png)
 
@@ -25,7 +25,7 @@ Rule library includes 4 rules which are set up for customers to use this feature
 To use this library, follow below steps:
 
 * Sign in your account
-* Go to **Setting&gt; Account&gt; Message&gt; Rule**
+* Go to [**Setting&gt; Account&gt; Message&gt; Rule**](https://app.subiz.com/settings/rule-setting)\*\*\*\*
 * Select Rule Library
 * Edit the rule and select **Create rule**
 
