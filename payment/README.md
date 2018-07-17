@@ -1,8 +1,8 @@
 # Payment
 
-The information and instructions in the Payment section will help you understand the service package, method of payment, the form of payment Subiz. It also helps you understand the account information and services you are using and guides you to manage your account, such as buying additional agents, upgrading service packages.
+The information and instructions in the [Payment section](https://app.subiz.com/payment-home) will help you understand the service package, method of payment, the form of payment [Subiz](https://subiz.com/en%20). It also helps you understand the account information and services you are using and guides you to manage your account, such as buying additional agents, upgrading service packages.
 
-Subiz has provided detailed information and instructions at:
+[Subiz](https://subiz.com/en%20) has provided detailed information and instructions at:
 
 {% page-ref page="what-kind-of-pricing-packages-are-available.md" %}
 
