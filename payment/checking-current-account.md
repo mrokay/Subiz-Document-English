@@ -1,10 +1,10 @@
 # Checking current account
 
-When using Subiz, to manage your package information including package type, billing cycle, number of agents ... you can check and make changes at the payment page.
+When using [Subiz](https://subiz.com/en%20), to manage your package information including package type, billing cycle, number of agents ... you can check and make changes at the payment page.
 
 ![Payment Page](../.gitbook/assets/payment-page.png)
 
-The payment page includes the following information:
+The [payment page ](https://app.subiz.com/payment-home)includes the following information:
 
 * **Package type:** The information of your current package : Free, Trial, Standard, Advanced
   * Free: Free Package
