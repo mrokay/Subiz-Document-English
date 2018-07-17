@@ -6,13 +6,13 @@ Subiz offers **4 service packages** including: Trial Package, Free Package, Basi
 
 ### What is the best package?
 
-After signing up, Subiz allows you to try the full 30 days trial most of Subiz’s feature. Then, you may consider upgrading to a paid or a free Subiz package.
+After signing up, [Subiz](https://subiz.com/en%20) allows you to try the full 30 days trial most of Subiz’s feature. Then, you may consider upgrading to a paid or a free [Subiz ](https://subiz.com/en%20)package.
 
 {% hint style="info" %}
-Upgrading your account to a paid plan helps you get the most out of all the features Subiz has to offer.
+Upgrading your account to a paid plan helps you get the most out of all the features [Subiz](https://subiz.com/en%20) has to offer.
 {% endhint %}
 
-Depending on the nature and model of your business, you may choose one of the following services from Subiz:
+Depending on the nature and model of your business, you may choose one of the following services from [Subiz](https://subiz.com/en%20):
 
 {% tabs %}
 {% tab title="Free Package" %}
@@ -36,7 +36,9 @@ See the detailed comparison table [here](https://subiz.com/pricing.html).
 
 ### Why should I upgrade my account to a paid plan?
 
-* Subiz offers paid packages at just $11.99/agent per month.
-* As one of the most essential, must-have tools for e-commerce businesses, you use Subiz live chat to promote sales, or customer care, to increase the level. Customer satisfaction in the long run.
-* Upgrading your account to a paid plan will give you the most complete, best of all features that Subiz has to offer.
+* [Subiz ](https://subiz.com/en%20)offers paid packages at just $11.99/agent per month.
+* As one of the most essential, must-have tools for e-commerce businesses, you use [Subiz live chat](https://subiz.com/live-chat.html%20) to promote sales, or customer care, to increase the level. Customer satisfaction in the long run.
+* Upgrading your account to a paid plan will give you the most complete, best of all features that [Subiz ](https://subiz.com/en%20)has to offer.
+
+
 
