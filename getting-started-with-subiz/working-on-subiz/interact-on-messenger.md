@@ -1,16 +1,16 @@
 # Interact on Messenger
 
-After successfully  finishing [**Facebook Messenger integration**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz), you will easily answer messages on Fanpage Facebook from App.subiz.com
+After successfully  finishing [**Facebook Messenger integration**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz), you will easily answer messages on [Fanpage Facebook](https://subiz.com/facebook-messenger.html) from [App.subiz.com](https://app.subiz.com)
 
-On **LIST ACTIVITIES**, Subiz will display the Messenger and Fanpage name, helping you to identify where user is from.
+On **LIST ACTIVITIES**, [Subiz ](https://subiz.com/en)will display the [Messenger ](https://subiz.com/facebook-messenger.html)and [Fanpage](https://subiz.com/facebook-messenger.html) name, helping you to identify where user is from.
 
 ![Identify Messenger channel on Subiz app](../../.gitbook/assets/27.-mess-noti%20%281%29.jpg)
 
 {% hint style="info" %}
-With Messenger channel, only when your Fanpage user proactively sends messages first, you \(Agent Subiz\) can reply messages and then create a new Messenger conversation.
+With[ Messenger ](https://subiz.com/facebook-messenger.html)channel, only when your [Fanpage](https://subiz.com/facebook-messenger.html) user proactively sends messages first, you \(Agent[ Subiz](https://subiz.com/en)\) can reply messages and then create a new [Messenger](https://subiz.com/facebook-messenger.html) conversation.
 {% endhint %}
 
-### **How to Interact on Subiz Messnger**
+### **How to Interact on** [**Subiz Messnger**](https://subiz.com/facebook-messenger.html)\*\*\*\*
 
 {% tabs %}
 {% tab title="1. Reply to Messenger messages" %}
@@ -26,17 +26,17 @@ End the conversation after supporting User: Select **End Chat** button &gt; Conf
 {% endtab %}
 
 {% tab title="3. Create New Conversation" %}
-Select **User** &gt; Select **New Conversation**&gt; Select **Messenger** &gt; Select **Fanpage name** &gt; **Chat window opens and type message here**
+Select **User** &gt; Select **New Conversation**&gt; Select **Messenger** &gt; Select [**Fanpage** ](https://subiz.com/facebook-messenger.html)**name** &gt; **Chat window opens and type message here**
 
 ![Create New Messenger Conversation](../../.gitbook/assets/36.-mess-new%20%281%29.jpg)
 {% endtab %}
 {% endtabs %}
 
-### **Some useful functions on Subiz Messenger**
+### **Some useful functions on** [**Subiz Messenger**](https://subiz.com/facebook-messenger.html)\*\*\*\*
 
-#### 1. Manage multi-Fanpages on Subiz app
+#### 1. Manage [multi-Fanpages](https://subiz.com/facebook-messenger.html) on [Subiz app](https://app.subiz.com)
 
-When you are an administrator of several fanpages, Subiz will help you easily interact and effectively manage users on each page.
+When you are an administrator of several [fanpages](https://subiz.com/facebook-messenger.html), [Subiz ](https://subiz.com/en)will help you easily interact and effectively manage users on each page.
 
 ![Connect Subiz to multi-Fanpages](../../.gitbook/assets/35.-mess-fanpages.jpg)
 
@@ -54,9 +54,9 @@ Each Agent is allowed to create and manage their own canned responses. [See how 
 
 #### **3. Tag Messenger Conversation** 
 
-Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+[Subiz](https://subiz.com/en) Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
 
-How to add tag to Messenger ****Conversation: Click **Tag** _**button**_ &gt; Select **Tag name** &gt; **Save**
+How to add tag to [Messenger](https://subiz.com/facebook-messenger.html) ****Conversation: Click **Tag** _**button**_ &gt; Select **Tag name** &gt; **Save**
 
 ![Tag Messenger Conversation](../../.gitbook/assets/32.-mess-tag.jpg)
 
@@ -68,7 +68,7 @@ See more Tag Setting [at this link](https://subiz.gitbook.io/subiz-document-engl
 
 Rule is used to automatically assign conversations to a specific Agent or Agent group.
 
-How to create Rule that will assign Messenger conversation to one Agent: **SETTING** &gt; **ACCOUNT** &gt;  **Rule**&gt;       **New Rule** &gt; **Fill information as shown in the image** &gt; Click **Creat Rule**
+How to create Rule that will assign [Messenger](https://subiz.com/facebook-messenger.html) conversation to one Agent: [**SETTING** &gt; **ACCOUNT** &gt;  **Rule**&gt;       **New Rule**](https://app.subiz.com/settings/rule-setting) &gt; **Fill information as shown in the image** &gt; Click **Creat Rule**
 
 ![Rule Setting for Messenger Conversation](../../.gitbook/assets/34.-mess-rule.jpg)
 

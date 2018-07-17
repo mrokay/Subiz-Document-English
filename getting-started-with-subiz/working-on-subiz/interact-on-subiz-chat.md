@@ -1,6 +1,6 @@
 # Interact on Subiz Chat
 
-**Interaction on the Subiz Chat channel is to initiate a conversation between Agent and website visitors.** They are customers who are interested in learning about your products, services and Business information.
+**Interaction on the** [**Subiz Chat**](https://subiz.com/live-chat.html) **channel is to initiate a conversation between Agent and website visitors.** They are customers who are interested in learning about your products, services and Business information.
 
 You need to sign up for [App.subiz.com](https://app.subiz.com) to start online and be ready to chat with your customers.
 
@@ -15,7 +15,7 @@ There are 2 ways to have a conversation with visitors:
 {% tab title="When Visitor starts a new conversation" %}
 **When Visitor starts a new conversation**
 
-Once you integrate Subiz, visitors can get in touch to ask you questions via Subiz chat widget
+Once you integrate[ Subiz](https://subiz.com/en), visitors can get in touch to ask you questions via [Subiz chat](https://subiz.com/live-chat.html) widget
 
 ![Visitor sends messages on Subiz widget](../../.gitbook/assets/1.-visitor-chat.jpg)
 
@@ -36,7 +36,7 @@ Look on tab VISITORS to see what visitors are interested in and then proactively
 To create a new conversation with a website visitor, follow these steps:
 
 1. Go to tab  VISITORS &gt; Choose a Website Vistor
-2. Click  New Conversation &gt; Choose Subiz Chat
+2. Click  New Conversation &gt; Choose [Subiz Chat](https://subiz.com/live-chat.html)
 3. Chat widget opens and type messages here.
 
 ![Create a new conversation](../../.gitbook/assets/4.-create-new.jpg)
@@ -72,7 +72,7 @@ Each Agent is allowed to create and manage their own canned responses
 {% tab title="Create a new Canned Response" %}
 Sample response creation guide:
 
-1. Login **App.subiz.com** &gt; Click **Agent Avatar** at the top right of your screen &gt; Select **Canned Responses**
+1. [Login **App.subiz.com** &gt; Click **Agent Avatar** at the top right of your screen &gt; Select **Canned Responses**](https://app.subiz.com/profile/canned-response)\*\*\*\*
 
 ![Set up Canned Response](../../.gitbook/assets/6.-canned-respond.jpg)
 
@@ -100,11 +100,11 @@ In the chat box, you can choose to send **Emoji icon** or **Upload file.**
 
 ### Tag Conversation
 
-Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage users interactions.
+[Subiz](https://subiz.com/en) Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage users interactions.
 
 {% tabs %}
 {% tab title="Create new tag" %}
-1. Go to **Setting**&gt; **Account**&gt; **Tag** &gt;  click **New Tag**
+1. [Go to **Setting**&gt; **Account**&gt; **Tag** &gt;  click **New Tag**](https://app.subiz.com/settings/tags)\*\*\*\*
 
 ![Tags Setting](../../.gitbook/assets/9.-tag-setting.jpg)
 
@@ -144,7 +144,7 @@ User and Agent will receive a notification of ending conversation. The chat box 
 {% endtab %}
 
 {% tab title="Visitor ends conversation" %}
-Click “**+**” icon on Subiz widget  &gt; Select **End Chat**
+Click “**+**” icon on [Subiz](https://app.subiz.com/settings/tags) widget  &gt; Select **End Chat**
 
 ![](../../.gitbook/assets/16.-visitor-end.jpg)
 {% endtab %}
@@ -160,8 +160,8 @@ Agent can block one user as follows: On chat window, select **Block button** &gt
 When selecting "**Block this person**" function:
 
 * Blocked user has a slash avatar.
-* With the Subiz Chat channel, user cann't see the Subiz chat widget on website.
-* With the Email Channel, incoming email of user will not show to the Agent Inbox.
-* With the Messenger channel, user's messages are not visible to the Agent on app.subiz.com. But user's messages still display on Fanpage Messenger.
+* With the [Subiz Chat ](https://subiz.com/live-chat.html)channel, user cann't see the [Subiz chat ](https://subiz.com/live-chat.html)widget on website.
+* With the[ Email ](https://subiz.com/email.html)Channel, incoming[ email ](https://subiz.com/email.html)of user will not show to the Agent Inbox.
+* With the [Messenger](https://subiz.com/facebook-messenger.html) channel, user's messages are not visible to the Agent on [app.subiz.com](https://app.subiz.com). But user's messages still display on [Fanpage Messenger](https://subiz.com/facebook-messenger.html).
 {% endhint %}
 

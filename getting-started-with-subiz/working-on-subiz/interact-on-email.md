@@ -1,10 +1,10 @@
 # Interact on Email
 
-**Once** [**Email forwarding setting**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz) **is enabled, you can read income email and reply directly to your leads from app.Subiz.com.**
+**Once** [**Email forwarding setting**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz) **is enabled, you can read income email and reply directly to your leads from** [**app.Subiz.com**](https://app.subiz.com)**.**
 
-### How to send email to user {#how-to-send-email-to-user}
+### How to send [email](https://subiz.com/email.html) to user {#how-to-send-email-to-user}
 
- You will be able to proactively send a email to user \(create a new conversation on Email channel\) as the following guide:
+ You will be able to proactively send a[ email ](https://subiz.com/email.html)to user \(create a new conversation on [Email ](https://subiz.com/email.html)channel\) as the following guide:
 
 {% tabs %}
 {% tab title="1. Update User email address" %}
@@ -14,31 +14,31 @@ Choose **User** &gt; Fill **Email Address** &gt; **Save changes**
 {% endtab %}
 
 {% tab title="2. Create new Email Conversation" %}
-Choose **User** &gt; Click **New Conversation** &gt; Choose **Email**
+Choose **User** &gt; Click **New Conversation** &gt; Choose [**Email**](https://subiz.com/email.html)\*\*\*\*
 
 ![Creat new Email Conversation](../../.gitbook/assets/18.-email-new%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="3. Compose Email" %}
-**Email box** opens &gt; Choose email address **From, To, CC** &gt; **Add Subject** &gt; **Enter message** &gt; Click **Send**
+\*\*\*\*[**Email**](https://subiz.com/email.html) **box** opens &gt; Choose email address **From, To, CC** &gt; **Add Subject** &gt; **Enter message** &gt; Click **Send**
 
 ![Compose Email](../../.gitbook/assets/19.-email-type%20%282%29.jpg)
 {% endtab %}
 {% endtabs %}
 
-### **How to reply user’s email** {#how-to-reply-users-email}
+### **How to reply user’s** [**email**](https://subiz.com/email.html)\*\*\*\* {#how-to-reply-users-email}
 
-On **LIST ACTIVITIES** of User, you will know Email conversation via Icon Email and Email Subject
+On **LIST ACTIVITIES** of User, you will know[ Email](https://subiz.com/email.html) conversation via Icon [Email](https://subiz.com/email.html) and [Email](https://subiz.com/email.html) Subject
 
 ![](../../.gitbook/assets/20.-email-noti.jpg)
 
-To reply to a single email: select **Email unread** &gt; click **Reply** button &gt; **Type message** &gt; Click **Send**
+To reply to a single [email](https://subiz.com/email.html): select[ **Email** ](https://subiz.com/email.html)**unread** &gt; click **Reply** button &gt; **Type message** &gt; Click **Send**
 
 ![](../../.gitbook/assets/21.-email-reply.jpg)
 
-### **Some Useful Functions On Subiz Email** {#some-useful-functions-on-subiz-email}
+### **Some Useful Functions On Subiz** [**Email**](https://subiz.com/email.html)\*\*\*\* {#some-useful-functions-on-subiz-email}
 
-**1.Support HTML Email**
+**1.Support HTML** [**Email**](https://subiz.com/email.html)\*\*\*\*
 
 ![](../../.gitbook/assets/22.-code%20%281%29.jpg)
 
@@ -54,11 +54,11 @@ To reply to a single email: select **Email unread** &gt; click **Reply** button 
 
 ![](../../.gitbook/assets/25.-upload.jpg)
 
- **5. Tag Email conversation**
+ **5. Tag** [**Email** ](https://subiz.com/email.html)**conversation**
 
-Subiz Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
+[Subiz](https://subiz.com/en) Tag allows you to add tags for each conversation, which makes it easy for agents to categorize and manage customers interactions.
 
-How to add tag to Email Conversation: Click **Tag button** &gt; Select **Tag name** &gt; **Save**
+How to add tag to [Email ](https://subiz.com/email.html)Conversation: Click **Tag button** &gt; Select **Tag name** &gt; **Save**
 
 ![](../../.gitbook/assets/26.-email-tag.jpg)
 
