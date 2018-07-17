@@ -53,14 +53,14 @@ Each Automation will take only one action.
 
 {% tabs %}
 {% tab title="Action on Subiz Chat" %}
-With the Subiz Chat channel, you can take one of two actions:
+With the [Subiz Chat ](https://subiz.com/live-chat.html)channel, you can take one of two actions:
 
 * **Send message to user:** You can send an auto message as soon as customers enter your website, or send a specific message to specific customers.
 * **Ask for email address**: It can be used when you are not online or cannot answer immediately. Customers will enter their email address so that you can contact later.
 
 ![Select action send message to user](../../.gitbook/assets/select-action.png)
 
-Users will see auto messages/emails as a messages/ emails sent from that Agent.
+Users will see auto messages/[emails](https://subiz.com/email.html) as a messages/ emails sent from that Agent.
 
 ![Auto messages sent from Agent.](../../.gitbook/assets/gui-tn-cho-user.png)
 
@@ -70,30 +70,30 @@ Users will see auto messages/emails as a messages/ emails sent from that Agent.
 {% endtab %}
 
 {% tab title="Action on Subiz Email" %}
-With Email channel, you can take action **Send email to users**. 
+With [Email channel](https://subiz.com/email.html), you can take action **Send** [**email**](https://subiz.com/email.html) **to users**. 
 
 {% hint style="info" %}
-This action only can be taken with users whom you have already got their email.
+This action only can be taken with users whom you have already got their [email](https://subiz.com/email.html).
 {% endhint %}
 
-Choose action **Send email to user** on Email channel
+Choose action **Send** [**email**](https://subiz.com/email.html) **to user** on [Email](https://subiz.com/email.html) channel
 
 ![Select action send email to user](../../.gitbook/assets/email-channel.png)
 
-Select agent to send email, email title and fill in the email's content
+Select agent to send [email](https://subiz.com/email.html), [email](https://subiz.com/email.html) title and fill in the [email](https://subiz.com/email.html)'s content
 
 ![Select agent to send email, email title ](../../.gitbook/assets/email-title.png)
 
-Check email content preview
+Check [email](https://subiz.com/email.html) content preview
 
 ![Email&apos;s preview](../../.gitbook/assets/email-content.png)
 {% endtab %}
 {% endtabs %}
 
-How are messages/emails sent automatically?
+How are messages/[emails](https://subiz.com/email.html) sent automatically?
 
 {% hint style="info" %}
-* You can choose an agent to send messages and emails.
+* You can choose an agent to send messages and [emails](https://subiz.com/email.html).
 
 ![](../../.gitbook/assets/3%20%282%29.png)
 

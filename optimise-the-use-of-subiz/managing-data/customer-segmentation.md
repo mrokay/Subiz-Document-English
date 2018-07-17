@@ -6,7 +6,7 @@
 
 On the Segment Settings page, you can create new segments, track and edit segment lists.
 
-To create a new segment, go to **Setting&gt; Account&gt; Segment**, select **New Segment**.
+To create a new segment, go to [**Setting&gt; Account&gt; Segment**, select **New Segment**.](https://app.subiz.com/settings/segment-list)
 
 ![Creat a new segment](../../.gitbook/assets/new-segment.png)
 

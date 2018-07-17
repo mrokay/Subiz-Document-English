@@ -1,6 +1,6 @@
 # Sending messages to user automatically
 
-Sending a message to visitor made on Subiz Chat channel. This action will initiate a conversation with a website visitor who satisfies the settled criteria and attaches a message. **Messages automation will be an automated chat invitation as an automated chat invitation, which allows you to send individual greetings to each customer.**
+Sending a message to visitor made on [Subiz Chat](https://subiz.com/live-chat.html) channel. This action will initiate a conversation with a website visitor who satisfies the settled criteria and attaches a message. **Messages automation will be an automated chat invitation as an automated chat invitation, which allows you to send individual greetings to each customer.**
 
 You can use multiple Automation at the same time to send multiple messages for different purposes. Here are some suggestions on Automation installation conditions for your convenience.
 
@@ -8,7 +8,7 @@ You can use multiple Automation at the same time to send multiple messages for d
 
 Would you like to send a promotional message to customers on a specific product page, or want to send a promotion to your customers on the payment page? You just only set up Automation according to the URL conditions of the page.
 
-Example: Page URL - contains - http://abc.com.vn
+Example: Page URL - contains - abc.com.vn
 
 ![Send a message base on viewing URL](../../.gitbook/assets/screenshot_1.png)
 
@@ -55,9 +55,9 @@ Condition: User's IP address - not -
 * Press Enter to down the line
 * When using the URL, system will display the link to the customer click directly
 * An automation appears only once with 1 visitor. You can create multiple automation to send messages depending on the company's strategy.
-* When visitors visit the website, the Subiz chat widget will pop up with the greetings you have setted.
+* When visitors visit the website, the [Subiz chat](https://subiz.com/live-chat.html) widget will pop up with the greetings you have setted.
 
-If the visitor does not "hide" this chat window, the next automated message will be announced in numbers, located at the top left of the chat window. When visitors click on that notification message, all messages will be displayed.
+If the visitor does not "hide" this[ Subiz](https://subiz.com/en) widget, the next automated message will be announced in numbers, located at the top left of the chat window. When visitors click on that notification message, all messages will be displayed.
 
 ![The message in the chat window is not hidden](../../.gitbook/assets/4%20%282%29.png)
 

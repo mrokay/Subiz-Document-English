@@ -1,8 +1,8 @@
 # Capture Leads
 
-Potential customers are those who are in demand for products and services you offer. Subiz will help you identify and generate leads with powerful Automation  - Capture Leads.
+Potential customers are those who are in demand for products and services you offer. [Subiz](https://subiz.com/email.html) will help you identify and generate leads with powerful Automation  - Capture Leads.
 
-Particularly, Subiz allows you to create additional user attributes to collect and manage your own user information. From there, you will be able to draw a clear picture of your target customers clearly and effectively.
+Particularly, [Subiz](https://subiz.com/email.html) allows you to create additional user attributes to collect and manage your own user information. From there, you will be able to draw a clear picture of your target customers clearly and effectively.
 
 ### **Create New Automation - Capture Leads**
 
@@ -15,7 +15,7 @@ For example: Automation Capture Leads - Ask user info including of Full name, te
 * Status: ON
 * Automation Name and Description: Fill information to help you identify and understand the purpose of Automation setting
 * Condition: There are several conditions to set Automation active
-* Select channel: Subiz chat
+* Select channel:[ Subiz chat](https://subiz.com/live-chat.html)
 * Action: Capture Lead
 * From: Select Agent name
 * Select "Require users to finish the form before sending messages"
@@ -23,7 +23,7 @@ For example: Automation Capture Leads - Ask user info including of Full name, te
 
 ### **Create more user attributes**
 
-Subiz allows you to create additional user attributes to collect leads of own business. From there, you will have a clear picture of target customers of own bussiness clearly and effectively.
+[Subiz](https://subiz.com/en) allows you to create additional user attributes to collect leads of own business. From there, you will have a clear picture of target customers of own bussiness clearly and effectively.
 
 Detailed guides are as follows:
 
@@ -47,7 +47,7 @@ Note: Attribute key needs to be written with the normal letters, underscore betw
 
 ### **Some useful tips for Automation - Capture leads**
 
-1. **Subiz allows you create unlimited number of Automation** 
+1. \*\*\*\*[**Subiz** ](https://subiz.com/en)**allows you create unlimited number of Automation** 
 
 ![](../../.gitbook/assets/5.-cc.jpg)
 

@@ -2,13 +2,13 @@
 
 Management of customer information will help enterprises to access and communicate with customers in a systematic and effective manner to serve customers better.  
   
-Since User Attributes are updated and stored in the Subiz management system, the business can analyze and form a list of potential customers, thereby developing a rational care strategy to maintain a good relationship with customers and achieve maximum profit in business.
+Since User Attributes are updated and stored in the [Subiz](https://subiz.com/en) management system, the business can analyze and form a list of potential customers, thereby developing a rational care strategy to maintain a good relationship with customers and achieve maximum profit in business.
 
 ### User Attributes
 
 To customize your User Attributes, you need to go to page [ User Attributes](https://app.subiz.com/settings/user-attributes) on your Dashboard  
   
-A Subiz account will have 4 default user attributes: Address, Name, Email and Phone Number
+A [Subiz](https://subiz.com/en) account will have 4 default user attributes: Address, Name, [Email](https://subiz.com/email.html) and Phone Number
 
 ![Default User Attributes](../../.gitbook/assets/default-user-field.png)
 
@@ -18,7 +18,7 @@ These attributes will be displayed in the User Info as follow
 
 ### Customize User Attributes
 
-Subiz allows you to add a new user attribute, which serves the purpose of extracting and managing customer information according to the specific characteristics of each business:  
+[Subiz](https://subiz.com/en) allows you to add a new user attribute, which serves the purpose of extracting and managing customer information according to the specific characteristics of each business:  
   
 To customize your User Attributes, go to  ****page [User Attributes](https://app.subiz.com/settings/user-attributes#) and select **New User Attribute**
 

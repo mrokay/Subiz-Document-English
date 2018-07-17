@@ -1,8 +1,8 @@
 # Managing data
 
-Customer data is always a valuable asset to every business. When you have a certain number of customers, Subiz will help you sort, manage, and effectively utilize these customer data, to deliver high business efficiencies and build lasting customer relationships.
+Customer data is always a valuable asset to every business. When you have a certain number of customers, [Subiz](https://subiz.com/en) will help you sort, manage, and effectively utilize these customer data, to deliver high business efficiencies and build lasting customer relationships.
 
-In the Data Management section, Subiz has the following guidelines:
+In the Data Management section, [Subiz](https://subiz.com/en) has the following guidelines:
 
 * Grouping customers from there are easy to reach and increase the chance of converting customers.
 

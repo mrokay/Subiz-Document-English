@@ -10,7 +10,7 @@ Businesses can observe their website visitors, get the customer needs of product
 
 You can gather basic information that will help you gain crucial insights about your visitors and their behavior when they are on your website:
 
-* **Name and Email**: These information was stored from the previous visit or transfered from website’s database to Subiz through API Javascript
+* **Name and** [**Email**](https://subiz.com/email.html): These information was stored from the previous visit or transfered from website’s database to [Subiz](https://subiz.com/en) through API Javascript
 * **Location**: Country and City where visitor is accessing from. It’s identified basing on IP address
 * **Previewing**: The page \(or very last page\) which visitors are visiting
 * **Type**: New/ Return
@@ -19,11 +19,11 @@ When click on each visitor, you will be redirected to Activities page to make co
 
 ![Make conversation with visitor by clicking New Conversation](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCRyorjbiqahpgQn1sP%2F-LD0dGwdafSEXk1GD2P3%2F-LD0dVmWSJ2erTitjWHW%2Fnew-conversation.png?alt=media&token=b65f1570-77bc-403a-9989-653736667a7d)
 
-### How Subiz determine visitors location? {#how-subiz-determine-visitors-location}
+### How [Subiz](https://subiz.com/email.html) determine visitors location? {#how-subiz-determine-visitors-location}
 
 ![Identify visitor&apos;s location based on IP address](../../.gitbook/assets/assets-2f-lcrbjdxgv2cwmzzedgk-2f-ld4fmokslbia6nodt7i-2f-ld4fphuyv5jpydwjki5-2fassets2f-lcrbjdxgv2cwm.png)
 
-To determine customer's geographical location, Subiz uses a third party services as Maxmind. As such, the visitors location is determined based on the IP address. These IP addresses are sometimes associated with an Internet Service Provider \(ISP\) or VPN \(Virtual Private Network\), so the difference with the actual location of the customer is likely to occur.
+To determine customer's geographical location, [Subiz](https://subiz.com/email.html) uses a third party services as Maxmind. As such, the visitors location is determined based on the IP address. These IP addresses are sometimes associated with an Internet Service Provider \(ISP\) or VPN \(Virtual Private Network\), so the difference with the actual location of the customer is likely to occur.
 
 One of the other reasons that this information is not 100% accurate is because the third party database updates inaccurately or is out of date due to not updating the change timely .
 

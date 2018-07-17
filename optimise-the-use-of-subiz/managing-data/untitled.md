@@ -1,12 +1,12 @@
 # Edit and update user's infor
 
-The User is the customer that has interacted you via Subiz, including customers interacting with you on the website, from Fanpage and Email. The user list is displayed in the first left pane on the Activity page.
+The User is the customer that has interacted you via [Subiz](https://subiz.com/en), including customers interacting with you on the website, from[ Fanpage ](https://subiz.com/facebook-messenger.html)and[ Email](https://subiz.com/email.html). The user list is displayed in the first left pane on the Activity page.
 
 On the Activities page, you can simultaneously monitor the list of users, the history of each user's activity and contact with them directly.
 
 ### User list
 
-The list of users displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned users.
+The list of users displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned conversations.
 
 ![](../../.gitbook/assets/1%20%285%29.png)
 
@@ -18,7 +18,7 @@ When you click on each user, you can check the activity history of that user \(i
 
 ### Activities List 
 
-When you select a specific user, you will see the user's history of activities and interaction with the business, for example, viewing a page on your website and interacting with you via Subiz Chat or Email.
+When you select a specific user, you will see the user's history of activities and interaction with the business, for example, viewing a page on your website and interacting with you via [Subiz Chat ](https://subiz.com/live-chat.html)or [Email](https://subiz.com/email.html).
 
 ![Activities List ](../../.gitbook/assets/3%20%284%29.png)
 
