@@ -15,7 +15,7 @@ List of income addresses is all email addresses you want to use to work with cus
 * Enter email address in **Type your email address**
 * Click **Add**
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/new-income-email-1.png)
+![Add a new income email](../../.gitbook/assets/income-email.png)
 
 **Step 2: Enable forwarding email to your** [**Subiz email**](https://subiz.com/email.html) **address**
 
@@ -29,7 +29,7 @@ If you are using gmail account, following instructions below to enable forwardin
 * Click on **Add a forwarding address**
 * Enter the email address given by Subiz \(click the **Copy** button in Email Settings page to copy the email address\)
 
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/copy-email-address.png)
+![Copy email address](../../.gitbook/assets/copy-income-email.png)
 
 * Select Next&gt; Proceed
 * You will receive a confirmation email. Check this email right at the Activities page of the app.subiz.com as a new conversation. Click on confirmation link in email.
