@@ -8,21 +8,21 @@ To integrate your [Subiz account](https://app.subiz.com) and Facebook fanpage, f
 
 Click **Connect to a Fanpage**
 
-![Connect to a Fanpage](https://docv4.subiz.com/wp-content/uploads/2018/03/messentger-page-Eng.png)
+![Connect to a Fanpage](../../.gitbook/assets/fanpage.png)
 
 ###  **Step 2:** Enter your Facebook account
 
-![Enter your Facebook accountthe](https://docv4.subiz.com/wp-content/uploads/2018/03/login-facebook.png)
+![Enter your Facebook account](../../.gitbook/assets/nhap-thong-tin-tk.png)
 
 ### **Step 3:** Allow Subiz to access your Facebook data
 
 ![Allow Subiz to access your Facebook data](https://lh6.googleusercontent.com/2Y-8MZHjk6VXCBFXkyJmcHOtdAYQVL1RVjHcmEzdLpg_h0wjr16xnx495BX-nzn9ibasVwAuNAa1itN_HQMux0yhZU4Dvc1PpgcY7t6GxxFI4Bu4Qwpc3_77KplNtoTlwVY4iqKB)
 
-![Allow Subiz to access your Facebook data](https://docv4.subiz.com/wp-content/uploads/2018/03/permission-2.png)
+![Allow Subiz to access your Facebook data](../../.gitbook/assets/fanpage1.png)
 
 ### **Step 4:** Select fanpages that you want to integrate
 
 After you log in Facebook account and allow Subiz to access the data, all the fanpages that you manage will be displayed on the Messenger page. You can delete fanpages that you do not want to integrate by clicking the delete button beside.
 
-![Choose the fanpage to integrate with Subiz](https://docv4.subiz.com/wp-content/uploads/2018/03/fanpage-list-eng.png)
+![Select fanpages that you want to integrate](../../.gitbook/assets/ket-noi-nhieu-fanpage.png)
 
