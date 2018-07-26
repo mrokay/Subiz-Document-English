@@ -12,6 +12,7 @@
     * [Optimizing interactive enviroment](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/README.md)
       * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
       * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)
+      * [Utilizing App Subiz](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/utilizing-app-subiz.md)
       * [FAQs](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/README.md)
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
         * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
