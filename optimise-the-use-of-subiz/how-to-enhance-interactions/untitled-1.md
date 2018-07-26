@@ -10,7 +10,7 @@ Would you like to send a promotional message to customers on a specific product 
 
 Example: Page URL - contains - abc.com.vn
 
-![Send a message base on viewing URL](../../.gitbook/assets/screenshot_1.png)
+![Send a message base on viewing URL](../../.gitbook/assets/screenshot_4.png)
 
 ### Send a message to a visitor does not have personal information
 

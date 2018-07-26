@@ -7,7 +7,7 @@ First of all, you need to login to your Subiz account at[ App.subiz.com ](https:
 
 On the Chrome browser, click the three dots icon on the right side of the screen, then select **More tool&gt; Create Shortcut**
 
-![Create App Subiz on Chrome](../../../.gitbook/assets/screenshot_4.png)
+![Create App Subiz on Chrome](../../../.gitbook/assets/screenshot_4%20%281%29.png)
 
 Then, the computer screen will display a dialog to confirm, just click on Create
 
