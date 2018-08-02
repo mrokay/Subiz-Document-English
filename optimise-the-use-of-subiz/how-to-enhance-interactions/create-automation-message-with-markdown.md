@@ -9,7 +9,7 @@ To draw the customers' attention to the important content of your message, you c
 * **Bold Font**
 
 ```text
-**text**  hoặc __text__
+**text**  or __text__
 ```
 
 ![Bold Font ](../../.gitbook/assets/in-dam.png)
@@ -17,7 +17,7 @@ To draw the customers' attention to the important content of your message, you c
 * **Italic Font**
 
 ```text
- *text* hoặc _text_
+ *text* or _text_
 ```
 
 ![Italic Font](../../.gitbook/assets/in-nghieng.png)
@@ -42,7 +42,7 @@ Use the following code to customize font
  You can add link to the text, to take customers to the page you want to introduce:
 
 ```
-[Đoạn text được gắn link](link muốn gắn)
+[Text](link attached to the text)
 ```
 
 ![ Attach a link to the text](../../.gitbook/assets/gan-link.png)
@@ -52,7 +52,7 @@ Use the following code to customize font
 Using images will make your message content more interesting and attract customers to the chat window. You can attach the image to the message as follows:
 
 ```text
-![alttext](link hình ảnh)
+![alttext](link image)
 ```
 
 ![ Attach the image to the message](../../.gitbook/assets/chen-anh.png)
@@ -62,6 +62,10 @@ Using images will make your message content more interesting and attract custome
 ![Get the image link](../../.gitbook/assets/screenshot_2.png)
 
 ### Attach a link to the image 
+
+```text
+[![alttext](link image)](link attached to image)
+```
 
 When customers click on the image, you can direct customers to the page you want by linking to this image:
 
