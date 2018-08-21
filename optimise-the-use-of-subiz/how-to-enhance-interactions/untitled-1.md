@@ -28,13 +28,13 @@ Or based on the page tittle:
 
 Subiz support you to send a specific message to each customer geographically by country. You can use it to send messages in the right language to each customer. For example, for customers from Vietnam, you install the message in Vietnamese.
 
-Condition: Country is Vietnam
+Condition: Country - is - Vietnam
 
 ![Send a message to Vietnamese visitors](../../.gitbook/assets/country.png)
 
 For foreign customers, you install the message in the English language.
 
-Condition: Country - not is - VN
+Condition: Country - not is - Vỉetnam
 
 ![Send a message to foreign visitors](../../.gitbook/assets/foreign.png)
 
