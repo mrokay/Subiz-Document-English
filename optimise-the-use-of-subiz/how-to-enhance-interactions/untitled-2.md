@@ -6,15 +6,15 @@ To set up the form asking for customer information, go to [Settings&gt; Accounts
 
 ### Condition to ask [email](https://subiz.com/email.html) address
 
-**You can leave leave the field blank on setting condition**, and then the message asking for the [email](https://subiz.com/email.html) address will be sent with the **default condition** as follows:
+You can ask visitors' email address based on a number of Automation conditions such as country, page URL ... Then, the automation will run when the conversation meet the following default conditions:
 
 * The conversation has been going on
 * A user does not have [email](https://subiz.com/email.html) address information
-* There is a message from a user
+* There is a message from this user
 
-![Condition to ask email address](../../.gitbook/assets/1%20%287%29.png)
+![Automation asking for email address](../../.gitbook/assets/automation_-email.png)
 
-Users who do not have email information will receive a message containing the [email](https://subiz.com/email.html) asking form as soon as they send the message in the [Subiz](https://subiz.com/email.html) window.
+Users who do not have email information will receive a message containing the [email](https://subiz.com/email.html) asking form as soon as they send the first message in the [Subiz](https://subiz.com/email.html) window.
 
 ![Fill in email information](../../.gitbook/assets/2%20%284%29.png)
 
@@ -42,9 +42,9 @@ You need to choose an agent to represent your business to ask for visitors infor
 
 ![](../../.gitbook/assets/3.png)
 
-### Note when setting up Automation to ask for an email address;
+### Notes for setting up Automation asking for an email address;
 
-* The action of sending a message asking for an [email](https://subiz.com/email.html) address is only made when the conversation is initiated.
+* The action of asking for an [email](https://subiz.com/email.html) address is only made when the conversation is created
 * After the customer enters the[ email](https://subiz.com/email.html), the information will be synchronized to the user's data.
 
 
