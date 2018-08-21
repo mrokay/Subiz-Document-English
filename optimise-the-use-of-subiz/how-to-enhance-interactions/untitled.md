@@ -8,21 +8,21 @@ To create a new Automation, go to the Create New Automation section and perform 
 
 You can create Automation with one or more concurrent conditions.
 
-![Create a new automation](../../.gitbook/assets/1%20%282%29.png)
+![Add a name for Automation](../../.gitbook/assets/name%20%281%29.png)
 
 ### Select the condition for Automation
 
 Select the condition to determine which Automation will target. To fill in the conditions, at first select the type of condition:
 
-![Example: Conditional selection is the URL of the page](../../.gitbook/assets/dk-automation.png)
+![Select the condition](../../.gitbook/assets/screenshot-from-2018-08-21-15-28-02.png)
 
-Then you enter the comparison and the value for that condition to create a complete condition.
+Then you enter  the value for that condition to create a complete condition.
 
-![Select the comparison and value for the Automation condition](../../.gitbook/assets/dk-automation1.png)
+![](../../.gitbook/assets/screenshot-from-2018-08-21-15-33-39.png)
 
-Click **Add condition** when you want to add another condition. Select "Customer meets all conditions" or "Customer meets one of the conditions" to establish the relationship between the conditions: And/or.
+Click **Add condition** when you want to add another condition. You can add more than 1 condition for an Automation.
 
-![Add conditions for Automation](../../.gitbook/assets/them-dk-automation.png)
+![Add more conditions](../../.gitbook/assets/add-more.png)
 
 You should **refer to the list of conditions**, with instructions on how to use it and the following specific examples:
 
@@ -62,7 +62,7 @@ With the [Subiz Chat ](https://subiz.com/live-chat.html)channel, you can take on
 
 Users will see auto messages/[emails](https://subiz.com/email.html) as a messages/ emails sent from that Agent.
 
-![Auto messages sent from Agent.](../../.gitbook/assets/gui-tn-cho-user.png)
+![Auto messages sent from Agent.](../../.gitbook/assets/greeting.png)
 
 * **Capture leads:** Collect and store leads information with powerful Automation capture lead - Ask for customer information.
 
