@@ -2,7 +2,7 @@
 
 Automation sending a message to visitor via [Subiz Chat](https://subiz.com/live-chat.html) channel is utilized to start a conversation with visitors who meet the automation conditions. This automation can be used as an  automated chat invitation, which allows you to send individual greetings to each customer.
 
-To set up thís Automation  you can do as follow:  [**Settings&gt; Account&gt; Automation&gt; Create New Automation**](https://app.subiz.com/settings/automation-list)\*\*\*\*
+To set up this Automation  you can do as follow:  [**Settings&gt; Account&gt; Automation&gt; Create New Automation**](https://app.subiz.com/settings/automation-list)\*\*\*\*
 
 You can use multiple Automation at the same time to send multiple messages for different purposes. Here are some suggestions for Automation conditions for your convenience.
 

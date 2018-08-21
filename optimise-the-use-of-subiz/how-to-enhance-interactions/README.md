@@ -6,7 +6,7 @@ Automatic interaction is action to communicate with customer automatically, such
 
 ### What is the meaning of automatic interaction?
 
-Automate business operations, set up multiple workflows and automate customer interaction campaigns ... Thereby increasing customer interaction, increasing customer experience and business efficiency. Particularly, you no longer need to rely too much on the presence of staffs.
+It helps to automate business operations, set up multiple workflows and automate customer interaction campaigns ... Thereby increasing customer interaction, increasing customer experience and business efficiency. Particularly, you no longer need to rely too much on the presence of staffs.
 
 ### Instructions to set up Automatic Interaction {#cac-huong-dan-thiet-lap-tuong-tac-tu-dong}
 
