@@ -25,7 +25,7 @@ Then start to set up a new rule.
 You can set one or more conditions based on **List of rule condition**.
 
 | **CONDITION** | **USAGE** | **EXAMPLE** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | Any condition | By selecting this condition, **all conversations** will always be assigned to agents set up in the rule. | ​ |
 | **Date Time** | ​ | ​ |
 | Hour of day | When you want to assign conversations to agents based on time \(hour\) of the day. Hour of day from 0 to 23. | Day shift for Agent A - Night shift for Agent B. |

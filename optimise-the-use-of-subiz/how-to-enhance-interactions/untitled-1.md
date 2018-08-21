@@ -1,42 +1,48 @@
 # Sending messages to user automatically
 
-Sending a message to visitor made on [Subiz Chat](https://subiz.com/live-chat.html) channel. This action will initiate a conversation with a website visitor who satisfies the settled criteria and attaches a message. **Messages automation will be an automated chat invitation as an automated chat invitation, which allows you to send individual greetings to each customer.**
+Automation sending a message to visitor via [Subiz Chat](https://subiz.com/live-chat.html) channel is utilized to start a conversation with visitors who meet the automation conditions. This automation can be used as an  automated chat invitation, which allows you to send individual greetings to each customer.
 
-You can use multiple Automation at the same time to send multiple messages for different purposes. Here are some suggestions on Automation installation conditions for your convenience.
+To set up thís Automation  you can do as follow:  [**Settings&gt; Account&gt; Automation&gt; Create New Automation**](https://app.subiz.com/settings/automation-list)\*\*\*\*
 
-### Send a message to visitor who view a specific page on the website
+You can use multiple Automation at the same time to send multiple messages for different purposes. Here are some suggestions for Automation conditions for your convenience.
 
-Would you like to send a promotional message to customers on a specific product page, or want to send a promotion to your customers on the payment page? You just only set up Automation according to the URL conditions of the page.
+### Send a message to visitors who view a specific page on website
+
+When new customers visit your website, you need to send them a greeting so that they know your presence and are ready to help them during their shopping.
 
 Example: Page URL - contains - abc.com.vn
 
-![Send a message base on viewing URL](../../.gitbook/assets/screenshot_4.png)
+![Send a message based on URL page](../../.gitbook/assets/page-url.png)
 
-### Send a message to a visitor does not have personal information
+### Send a message to visitors who view a specific product on website
 
-For a visitor who do not have personal information on the system, you can send a message along with an invitation to leave personal information so that you can contact again at any time.
+If you want to send a promotional message to visitor on a specific product page, or would like to introduce a promotion to your customers on the payment page, you just need to set up Automation according to the page URL of the product 
 
-![Condition to send a message to who do not have info](../../.gitbook/assets/1%20%286%29.png)
+![Send a message based on Product URL page](../../.gitbook/assets/2018-08-21_14-24.png)
 
-### Send messages to customers based on geographic area.
+Or based on the page tittle:
+
+![Send a message based on page tittle](../../.gitbook/assets/page-tittle.png)
+
+### Send messages to visitors based on geographic area.
 
 Subiz support you to send a specific message to each customer geographically by country. You can use it to send messages in the right language to each customer. For example, for customers from Vietnam, you install the message in Vietnamese.
 
-Condition: Country code - in - VN
+Condition: Country is Vietnam
 
-![Condition to send a message to who come from Vietnam](../../.gitbook/assets/vietnam-code.png)
+![Send a message to Vietnamese visitors](../../.gitbook/assets/country.png)
 
 For foreign customers, you install the message in the English language.
 
-Condition: Country code - not - VN
+Condition: Country - not is - VN
 
-![Condition to send a message to foriegner](../../.gitbook/assets/2%20%282%29.png)
+![Send a message to foreign visitors](../../.gitbook/assets/foreign.png)
 
 For National and National code conditions, check the standard at https://countrycode.org/. Where: Country Name is displayed in the COUNTRY and Country Code columns in the ISO CODES column, 2-character code area.
 
 For example:
 
-Countries - Afghanistan
+Country - Afghanistan
 
 **Country Code - AF**
 
@@ -46,16 +52,15 @@ Countries - Afghanistan
 
 In case you want to send an automated message to a customer, but do not want to affect the company staff regularly visit to the website to work, you can exclude the internal IP address when sending the message.
 
-Condition: User's IP address - not -
+Condition: User's IP address - not is -
 
-![Condition to exclude 1 specific IP address](../../.gitbook/assets/3%20%281%29.png)
+![Except from an IP address](../../.gitbook/assets/ip.png)
 
-### Note:  when creating Automation to send messages automatically
+### Notes for creating Automation sending messages
 
-* Press Enter to down the line
-* When using the URL, system will display the link to the customer click directly
+* You can design [creative automatic messages with Markdown](https://help-en.subiz.com/optimise-the-use-of-subiz/how-to-enhance-interactions/create-automation-message-with-markdown) to draw the attention of your visitors.
 * An automation appears only once with 1 visitor. You can create multiple automation to send messages depending on the company's strategy.
-* When visitors visit the website, the [Subiz chat](https://subiz.com/live-chat.html) widget will pop up with the greetings you have setted.
+* When visitors visit the website, the [Subiz chat](https://subiz.com/live-chat.html) widget will pop up with the automated messages.
 
 If the visitor does not "hide" this[ Subiz](https://subiz.com/en) widget, the next automated message will be announced in numbers, located at the top left of the chat window. When visitors click on that notification message, all messages will be displayed.
 

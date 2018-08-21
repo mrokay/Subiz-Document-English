@@ -27,7 +27,7 @@ Click **Add condition** when you want to add another condition. Select "Customer
 You should **refer to the list of conditions**, with instructions on how to use it and the following specific examples:
 
 | **CONDITION** | **USAGE** | **EXAMPLES** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | **User** | ​ | ​ |
 | Name | Execute automation with specific user’s name | Send a special greeting or promotional email to the user named DavidCondition: Name – contains – David |
 | Email | Execute automation with specific user’s email | Send a special greeting or email to all users whose email address contains subiz.comCondition: Email – Contains – subiz.com |
