@@ -2,7 +2,7 @@
 
 ### What is automatic interaction?
 
-Automatic interaction is action to communicate with customer automatically, such as capturing the customer's attention as soon as they enter the website and automatically follow the customer through different channels from [Subiz](https://subiz.com/en).
+Automatic interaction is action to communicate with customer automatically, such as capturing the customer's attention as soon as they visit the website and automatically follow the customer via different channels on [Subiz](https://subiz.com/en).
 
 ### What is the meaning of automatic interaction?
 
