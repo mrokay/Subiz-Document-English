@@ -63,7 +63,7 @@ To modify the look of custom button as your desire, copy the CSS styles from bel
 | Function | Widget type: Standard | Widget type: Full height |
 | :--- | :--- | :--- |
 | Button position  to the foot of screen | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
-| Message preview position | `.button-chat .bubble-chat {bottom: 75px;` | `.button-chat .bubble-chat {bottom: 75px;}` |
+| Message preview position | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
 
 > [You are here for your help](https://subiz.com/vi/faqs.html). Let us know if you have questions or concern!
 
