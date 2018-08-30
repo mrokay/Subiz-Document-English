@@ -22,7 +22,7 @@ You select a button from the library and Save changes to finalize.
 
 ### **2.2. Upload your custom button**
 
- ****To use your own custom button, you need a button image of your desire. The standard size of the button image is 240 x 120 px.
+ ****To use your own custom button, you need a button image of your desire. The standard size of the button image is 240 x 120 px, type image is PNG or GIF.
 
 3-step guide to using  your own buttons as followings:
 
@@ -46,7 +46,7 @@ For some example buttons: [button 1](https://filev4.subiz.com/fiqcgvyhmftekbwjrb
 
 | Widget type: Standard | Widget type: Full height |
 | :--- | :--- |
-| `.widget_mini .close-widget-icon { display: none; }.button-chat .avatar-preview img { display: none; }.button-chat { box-shadow: none; background-color: transparent !important; }.widget-button { bottom: 0; }.widget_mini .widget_body { bottom: 0; }` | `.widget_full .close-widget-icon { display: none; }.button-chat .avatar-preview img { display: none; }.button-chat { box-shadow: none; background-color: transparent !important; }.widget-button { bottom: 0; }.widget_full .widget_body { bottom: 0; }` |
+| `.widget_mini .close-widget-icon {display: none;} .button-chat .avatar-preview img {display: none;} .button-chat {box-shadow: none;background-color: transparent !important;} .widget-button {bottom:0;} .new-message-number {top:8px;}.widget_mini .widget_body {bottom:0;}` | `.widget_full .close-widget-icon {display: none;} .button-chat .avatar-preview img {display: none;} .button-chat {box-shadow: none;background-color: transparent !important;}.widget-button {bottom:0;} .new-message-number {display:8px;}.widget_full .widget_body {bottom:0;}` |
 
 {% hint style="info" %}
 Note:
@@ -60,10 +60,11 @@ Note:
 
 To modify the look of custom button as your desire, copy the CSS styles from below and feel free to use it on your own as well.
 
-| Function | Widget type: Standard | Widget type: Full height |
+| Function of CSS | Widget type: Standard | Widget type: Full height |
 | :--- | :--- | :--- |
-| Button position  to the foot of screen | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
-| Message preview position | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
+| Button position  to the foot of screen\(Maximum 150px\) | `.widget-button {bottom:0px;}` | `.widget-button {bottom:0px;}` |
+| Message preview position\(Maximum 110 px\) | `.button-chat .bubble-chat {bottom: 75px;}` | `.button-chat .bubble-chat {bottom: 75px;}` |
+| Widget position\(Maximum 140px\) | `.widget_mini .widget_body {bottom:0;}` | `.widget_full .widget_body {bottom:0;}` |
 
 > [You are here for your help](https://subiz.com/vi/faqs.html). Let us know if you have questions or concern!
 
