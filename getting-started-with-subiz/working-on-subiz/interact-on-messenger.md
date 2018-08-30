@@ -10,7 +10,7 @@ On **LIST ACTIVITIES**, [Subiz ](https://subiz.com/en)will display the [Messenge
 With[ Messenger ](https://subiz.com/facebook-messenger.html)channel, only when your [Fanpage](https://subiz.com/facebook-messenger.html) user proactively sends messages first, you \(Agent[ Subiz](https://subiz.com/en)\) can reply messages and then create a new [Messenger](https://subiz.com/facebook-messenger.html) conversation.
 {% endhint %}
 
-### **How to Interact on** [**Subiz Messnger**](https://subiz.com/facebook-messenger.html)\*\*\*\*
+### **How to Interact on** [**Subiz Messenger**](https://subiz.com/facebook-messenger.html)\*\*\*\*
 
 {% tabs %}
 {% tab title="1. Reply to Messenger messages" %}
