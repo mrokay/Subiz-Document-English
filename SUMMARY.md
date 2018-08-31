@@ -9,7 +9,7 @@
       * [Creative on Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget.md)
       * [Customize bubble button](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customize-bubble-button.md)
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
-    * [Integrating Fanpage Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
+    * [Integrating Messenger Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * [Optimizing interactive enviroment](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/README.md)
       * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
       * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)

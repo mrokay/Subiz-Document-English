@@ -16,7 +16,7 @@ With[ Messenger ](https://subiz.com/facebook-messenger.html)channel, only when y
 {% tab title="1. Reply to Messenger messages" %}
 To reply to a new income message from a user: Select **User** &gt; Click **unread message** &gt; **Chat window opens and type messages here**
 
-![Reply to Messenger message](../../.gitbook/assets/28.-mess-type.jpg)
+![Reply to Messenger message](../../.gitbook/assets/28.-mess-type%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="2. End Messenger conversation" %}
