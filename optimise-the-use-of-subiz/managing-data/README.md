@@ -6,7 +6,7 @@ In the Data Management section, [Subiz](https://subiz.com/en) has the following 
 
 * Grouping customers from there are easy to reach and increase the chance of converting customers.
 
-{% page-ref page="customer-segmentation.md" %}
+{% page-ref page="customer-segmentation/" %}
 
 * Update and customize your customer information.
 
