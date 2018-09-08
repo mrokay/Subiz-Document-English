@@ -42,6 +42,7 @@ And do 2 steps:
 * **Message details**: You can create HTML email for your creation.
 {% endhint %}
 
-  
 
+
+> Do you need help? Just click on [Subiz.com](https://subiz.com/en) and chat with us!
 
