@@ -18,6 +18,8 @@ And do 2 steps:
 
 * **Step 1**: Fill in set-up information 
 
+![Fill in set-up information of new Automation](../../.gitbook/assets/1.1-email.jpg)
+
 {% hint style="info" %}
 **Notes:**
 
@@ -30,8 +32,10 @@ And do 2 steps:
 
 * **Step 2:** Enter your message to send to users
 
+![Enter your message of Email Automation](../../.gitbook/assets/2.2-message.jpg)
+
 {% hint style="info" %}
-Notes:
+**Notes:**
 
 * **From**: choose From name, choose From email which 
 * **Enter your email subject**: Great subject lines are brief and more likely to click through to see what you are proposing.
