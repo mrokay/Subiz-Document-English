@@ -40,7 +40,7 @@
     * [Asking for email address automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-2.md)
     * [Capture Leads](optimise-the-use-of-subiz/how-to-enhance-interactions/capture-lead.md)
     * [Create Automation message with Markdown](optimise-the-use-of-subiz/how-to-enhance-interactions/create-automation-message-with-markdown.md)
-    * [Untitled](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-3.md)
+    * [Email Automation to send email to users](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-3.md)
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation/README.md)
       * [Utilizing Default Segments](optimise-the-use-of-subiz/managing-data/customer-segmentation/utilizing-default-segments.md)
