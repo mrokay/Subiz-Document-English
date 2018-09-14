@@ -62,9 +62,15 @@ subiz('updateUserAttributes', [{ key: 'emails’,   text :'example1@domain.com, 
 
 #### 2.2. Update simultaneously multiple default attributes
 
-| `<script>subiz('updateUserAttributes', [{ key:'fullname',   text : 'David' },{ key:'phones', text : '09123456789' } ]);</script>` |
-| :--- |
-
+{% tabs %}
+{% tab title="Update simultaneously multiple default attributes" %}
+```text
+<script>
+subiz('updateUserAttributes', [{ key:'fullname',   text : 'David' },{ key:'phones',   text : '09123456789' } ]);
+</script>
+```
+{% endtab %}
+{% endtabs %}
 
 #### 2.3. Update new custom attribute\(s\)
 
