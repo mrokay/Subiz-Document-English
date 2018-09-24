@@ -29,6 +29,7 @@ How to upload your own button as followings:
 * Select Customize chat button
 * Upload custom button
 * Browse file or Drag file to upload  &gt; Click "**X**" to exit
+* Save changes to finalize
 
 ![Upload your custom button](../../../.gitbook/assets/3.-upload.png)
 
