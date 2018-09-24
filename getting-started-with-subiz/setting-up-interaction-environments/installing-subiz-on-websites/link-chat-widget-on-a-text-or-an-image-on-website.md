@@ -8,11 +8,11 @@ You need to do 2 steps as followings:
 
 ### Step 1: Hide the default chat button with CSS code
 
-You will use the CSS code in app.subiz.com to hide the default chat button: Sign in to App.subiz.com&gt; Setting &gt; Account &gt; Widget &gt; Customize CSS
+You will use the CSS code in app.subiz.com to hide the default chat button: [Sign in to App.subiz.com&gt; Setting &gt; Account &gt; Widget &gt; Customize CSS](https://app.subiz.com/settings/widget-setting)
 
 The Subiz widget has two types: Standard and Full height
 
-Here are two CSS codes that hide the chat button corresponding to each type of widget. You copy and place this CSS code in the CSS Customize box and then save the changes.
+Here are two CSS codes that hide the chat button corresponding to each type of widget. You copy and place this CSS code in the CSS Customize box and then save changes.
 
 | Widget type: Standard | Widget type: Full height |
 | :--- | :--- |
@@ -20,7 +20,7 @@ Here are two CSS codes that hide the chat button corresponding to each type of w
 
 ### Step 2: Link chat widget to a text or an image on website
 
-After hiding the default chat button, put API in website code will help you link the Subiz chat widget to an image or a text on website which is also called chat button.
+After hiding the default chat button, put API into website HTML code will help you link the Subiz chat widget to an image or a text on website which is also called chat button.
 
 Then the chat widget will pop up at your website only after the visitor clicks on the chat button.
 
