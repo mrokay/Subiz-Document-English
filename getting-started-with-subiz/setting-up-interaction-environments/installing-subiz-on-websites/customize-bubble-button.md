@@ -56,9 +56,9 @@ To modify the look of custom button as your desire, copy the CSS styles from bel
           <br />to the foot of screen</p>
         <p>(Maximum 150px)</p>
       </td>
-      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0;}</code>
       </td>
-      <td style="text-align:left"><code>.widget-button<br />{bottom:0px;}</code>
+      <td style="text-align:left"><code>.widget-button<br />{bottom:0;}</code>
       </td>
     </tr>
     <tr>
