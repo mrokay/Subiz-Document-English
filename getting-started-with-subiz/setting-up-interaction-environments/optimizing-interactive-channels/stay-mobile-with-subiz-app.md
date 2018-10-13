@@ -8,8 +8,8 @@ With Subiz app on your mobile phone, you will be able to instantly update your c
 
 To install and use Subiz app on your phone, choose your device and follow the link:
 
-* Google Play:  [goo.gl/qo45Xr](https://goo.gl/qo45Xr)
-* App Store:  [goo.gl/FnYbXg](https://goo.gl/FnYbXg)
+* **Google Play**:  [goo.gl/qo45Xr](https://goo.gl/qo45Xr)
+* **App Store**:  [goo.gl/FnYbXg](https://goo.gl/FnYbXg)
 
 Download Subiz app and sign in with your email and password.
 
@@ -39,9 +39,9 @@ Users segment are groups of customers divided by certain criteria.
 
 There are 3 default users segments for easy management of users lists and agents workflows.
 
-* My User: A list of users who have conversation\(s\) and are assigned to you. Each individual agent will have a user List of your own.
-* Connected users: A list of all user who have conversation\(s\)and are assigned to all agent\(s\). Managers will actively observe and monitor users list as well as how agents support users.
-* Unassigned conversions: A list of users whose conversation\(s\) has not been assigned to any agent\(s\). Any agent can reply to this conversation and the user will be directed to the My users segment of that agent.
+* **My User**: A list of users who have conversation\(s\) and are assigned to you. Each individual agent will have a user List of your own.
+* **Connected users**: A list of all user who have conversation\(s\)and are assigned to all agent\(s\). Managers will actively observe and monitor users list as well as how agents support users.
+* **Unassigned conversions**: A list of users whose conversation\(s\) has not been assigned to any agent\(s\). Any agent can reply to this conversation and the user will be directed to the My users segment of that agent.
 
 ### Update the latest version of Subiz app
 
