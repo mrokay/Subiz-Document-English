@@ -13,6 +13,8 @@ To install and use Subiz app on your phone, choose your device and follow the li
 
 Download Subiz app and sign in with your email and password.
 
+![Log in Subiz app](../../../.gitbook/assets/3.-phone-log-in.png)
+
 ### Some available features on Subiz app mobile
 
 ### 1. Set up Notification
@@ -20,6 +22,8 @@ Download Subiz app and sign in with your email and password.
 Subiz notification help you stay on top of a new message or a new email of users.
 
 Every new messages will be instantly notified on your phone screen. You will be in control of whenever there is a visitor willing to chat and respond in time without missing out on any customers interaction opportunities.
+
+![Set up Notification on Subiz app](../../../.gitbook/assets/image-from-ios-2.png)
 
 You can choose to receive Notification about a new message or a new conversation. Or if you are busy and just want to manage conversations and agents’ work, you can opt Nothing to not receive notification from Subiz.
 
@@ -30,6 +34,8 @@ Users are who visit your website and connect you via Subiz.
 The new user will be showed that the default name is City name + user code, Country. You can customize and update the user's information such as name, email address, phone number, etc. to easily search and manage later.
 
 When you select a user, you will see list activities with users from many channels such as Subiz chat, Messenger, Email.
+
+![View user infomation](../../../.gitbook/assets/artboard-2.jpg)
 
 Besides, conversations with unread new messages will display red notification for you to identify and reply users.
 
@@ -42,6 +48,8 @@ There are 3 default users segments for easy management of users lists and agents
 * **My User**: A list of users who have conversation\(s\) and are assigned to you. Each individual agent will have a user List of your own.
 * **Connected users**: A list of all user who have conversation\(s\)and are assigned to all agent\(s\). Managers will actively observe and monitor users list as well as how agents support users.
 * **Unassigned conversions**: A list of users whose conversation\(s\) has not been assigned to any agent\(s\). Any agent can reply to this conversation and the user will be directed to the My users segment of that agent.
+
+![Users segments](../../../.gitbook/assets/image-from-ios-3%20%281%29.png)
 
 ### Update the latest version of Subiz app
 
