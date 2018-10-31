@@ -10,6 +10,7 @@
       * [Customize chat button](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customize-bubble-button.md)
       * [How to customize language of chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/how-to-customize-language-of-chat-widget.md)
       * [Link chat widget on a text or an image on website](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/link-chat-widget-on-a-text-or-an-image-on-website.md)
+      * [Customize Subiz chat widget on mobile](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customize-subiz-chat-widget-on-mobile.md)
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
     * [Integrating Messenger Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
     * [Optimizing interactive enviroment](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/README.md)
