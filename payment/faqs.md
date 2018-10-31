@@ -72,17 +72,17 @@ When you decide to upgrade your account, you need to specify the agent \(s\), bi
 * [Subiz](https://subiz.com/en%20) offers up to 30% discount on long cycle payments, see details in the pricing page.
 * [Subiz](https://subiz.com/en%20) offers a 40% discount for any kind of public shools and non-governmental organization.
 
-### Can I change the Subiz package at any time? {#can-i-change-the-subiz-package-at-any-time}
+### Can I change the Subiz package at any time? <a id="can-i-change-the-subiz-package-at-any-time"></a>
 
 Yes, you can change your [Subiz ](https://subiz.com/en%20)plan at any time to suit your business situation. You can add / reduce agents, increase / decrease the billing cycle or change the payment method accordingly.
 
-### Why does the system show the notice of overdue invoices? {#why-does-the-system-show-the-notice-of-overdue-invoices}
+### Why does the system show the notice of overdue invoices? <a id="why-does-the-system-show-the-notice-of-overdue-invoices"></a>
 
 When your account creates an open invoice, the system will display a notification until you complete the payment. Click on "make payment" on the notification - the system will automatically take you to the Invoice List so that you can conveniently lookup the unpaid invoice and make a payment.
 
 ![Open Invoice](../.gitbook/assets/open-invoice%20%282%29.png)
 
-### My next payment date has not arrived yet, why are there still unpaid bills? {#my-next-payment-date-has-not-arrived-yet-why-are-there-still-unpaid-bills}
+### My next payment date has not arrived yet, why are there still unpaid bills? <a id="my-next-payment-date-has-not-arrived-yet-why-are-there-still-unpaid-bills"></a>
 
 When your renewal date is expired, your system will automatically renew the next cycle and send you a notification. Therefore, the next payment date will display the end date of the new cycle. You need to check the details on the invoice to understand which time the service provides for.
 
@@ -92,7 +92,7 @@ When your renewal date is expired, your system will automatically renew the next
 In case of the unexpected invoice, you need to send a confirmation to [Subiz](https://subiz.com/en%20), we will help you cancel the invoice.
 {% endhint %}
 
-### Renewal Invoice {#renewal-invoice}
+### Renewal Invoice <a id="renewal-invoice"></a>
 
 At the beginning of the next cycle, the system will automatically renew the service and the renewal invoice will be created accordingly.
 
@@ -107,7 +107,7 @@ When receiving the notice, you can check the invoice directly at the payment pag
 * If your account uses bank transfer, within 7 days the system will send an email to remind you about the renewal payment.
 {% endhint %}
 
-### What channels are overdue invoices notified? {#what-channels-are-overdue-invoices-notified}
+### What channels are overdue invoices notified? <a id="what-channels-are-overdue-invoices-notified"></a>
 
 Overdue invoices will be notified via the following channels:
 
@@ -119,7 +119,7 @@ Overdue invoices will be notified via the following channels:
 To ensure that you receive sufficient information from [Subiz](https://subiz.com/en%20), in case you change account manager or change contact email, you need to send confirmation to [Subiz](https://subiz.com/en%20) so that we can update your information.
 {% endhint %}
 
-### How to read the information on the Invoice? {#how-to-read-the-information-on-the-invoice}
+### How to read the information on the Invoice? <a id="how-to-read-the-information-on-the-invoice"></a>
 
 The invoice is a certificate for providing the service from Subiz, you should actively know and control this information:
 

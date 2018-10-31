@@ -1,6 +1,6 @@
 # Visitor Tracking
 
-### How to tracking visitors? {#how-to-tracking-visitors}
+### How to tracking visitors? <a id="how-to-tracking-visitors"></a>
 
 Businesses can observe their website visitors, get the customer needs of products and service and actively interact to support them.
 
@@ -19,7 +19,7 @@ When click on each visitor, you will be redirected to ACTIVITIES page to create 
 
 ![Make conversation with visitor by clicking New Conversation](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCRyorjbiqahpgQn1sP%2F-LD0dGwdafSEXk1GD2P3%2F-LD0dVmWSJ2erTitjWHW%2Fnew-conversation.png?alt=media&token=b65f1570-77bc-403a-9989-653736667a7d)
 
-### How [Subiz](https://subiz.com/email.html) determine visitors location? {#how-subiz-determine-visitors-location}
+### How [Subiz](https://subiz.com/email.html) determine visitors location? <a id="how-subiz-determine-visitors-location"></a>
 
 ![Identify visitor&apos;s location based on IP address](../../.gitbook/assets/assets-2f-lcrbjdxgv2cwmzzedgk-2f-ld4fmokslbia6nodt7i-2f-ld4fphuyv5jpydwjki5-2fassets2f-lcrbjdxgv2cwm.png)
 

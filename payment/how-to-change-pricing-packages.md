@@ -4,7 +4,7 @@ When using [Subiz](https://subiz.com/en%20), depending on your business situatio
 
 ### Upgrade/ Downgrade Account 
 
-#### Upgrade Account {#nang-cap-tai-khoan}
+#### Upgrade Account <a id="nang-cap-tai-khoan"></a>
 
 * **Free Plan to Paid Plan**
 
@@ -27,7 +27,7 @@ Then you select **Advanced Plan** and click on **Upgrade Now**
 After upgrading your account, the system will create invoices in your account. You can choose to pay by Credit Card or by Bank Transfer
 {% endhint %}
 
-#### Downgrade Account {#ha-cap-tai-khoan}
+#### Downgrade Account <a id="ha-cap-tai-khoan"></a>
 
 To downgrade your account, you click on **Your Plan**, and then click on **Downgrade** 
 

@@ -42,11 +42,11 @@ If you still don’t see the chat widget, you can take some more steps to check 
 
 ![Check the embed code in your website](../../../.gitbook/assets/check-code.png)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 If not successfully, check the code again or contact Subiz support center.
 {% endhint %}
 
-### Integrating Subiz on other Website platform
+### Integrate Subiz on other Website platform
 
 If your website is built on other platforms, find installation guide in the list below and enable the integration in your website’s control panel.
 
@@ -98,9 +98,42 @@ You only need to do this option if the template files described in the option 1 
 {% endtab %}
 {% endtabs %}
 
-{% hint style="danger" %}
-If your website platform is not listed above, please contact us for better assistance.
+### Integrate Subiz via Google Tag Manager
+
+Subiz works with Google Tag Manager 
+
+When you use Google Tag Manager on your website, you can integrate Subiz chat into your website through Google Tag Manager according to the following steps: 
+
+* **Sign in** [Tagmanager.google.com](https://tagmanager.google.com)
+* **Select website account** will integrate Subiz chat at All account
+* **Create new Tag**: At WORKSPACE, select Tags&gt; NEW
+
+![Create new Tag](../../../.gitbook/assets/2-tags-copy.jpg)
+
+* **Untitled Tag**: Edit Tag name to understand Tag function
+* **Tag Configuration**: Select tag type: Custom HTML&gt; Copy the embed code Subiz and paste it into the HTML box
+* **Tick \(choose\) Support document.write**
+* **Triggering**: Select All Pages if you want to display the Subiz chat window on all pages of the website
+
+![Tag Subiz chat on Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
+
+{% hint style="info" %}
+Note:  The trigger tells the tag to fire when the specified event like form submissions, button clicks, or page views is detected. For examples:
+
+* All Pages will display the Subiz chat window.
+* Only some pages will display the Subiz chat window.
+* Visitors have a specific event such as a pageview, a click on a button, a form submission, .... will display the Subiz chat window.
 {% endhint %}
+
+* Select SAVE &gt; select SUBMIT in the right corner of the screen &gt; Enter the description in Publish and Create Version &gt; select PUBLISH to complete.
+
+Now, go to the website and select F5 reload the page, check the display of Subiz chat window Subiz on your website.
+
+> We are here for you help. Let us know if you have any questions via email Support@Subiz.com
+
+
+
+
 
 
 

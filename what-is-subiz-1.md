@@ -33,7 +33,7 @@ Businesses can increase customer conversion rates and sales by:
 * Segmenting and managing your leads through **Segment**
 * Delivering conversations to Agents and managing Agent's activities through **Rule**
 
-### **Terms and definitions** {#Subizterm}
+### **Terms and definitions** <a id="Subizterm"></a>
 
 As you're getting started on [Subiz](https://subiz.com/en), there are some common terms that are handy for you to know. Here's an overview of [Subiz](https://subiz.com/en) basics.
 

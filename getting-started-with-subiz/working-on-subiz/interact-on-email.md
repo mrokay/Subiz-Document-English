@@ -2,7 +2,7 @@
 
 **Once** [**Email forwarding setting**](https://subiz.gitbook.io/subiz-document-english/~/edit/primary/getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz) **is enabled, you can read income email and reply directly to your leads from** [**app.Subiz.com**](https://app.subiz.com)**.**
 
-### How to send [email](https://subiz.com/email.html) to user {#how-to-send-email-to-user}
+### How to send [email](https://subiz.com/email.html) to user <a id="how-to-send-email-to-user"></a>
 
  You will be able to proactively send a[ email ](https://subiz.com/email.html)to user \(create a new conversation on [Email ](https://subiz.com/email.html)channel\) as the following guide:
 
@@ -26,7 +26,7 @@ Choose **User** &gt; Click **New Conversation** &gt; Choose [**Email**](https://
 {% endtab %}
 {% endtabs %}
 
-### **How to reply user’s** [**email**](https://subiz.com/email.html)\*\*\*\* {#how-to-reply-users-email}
+### **How to reply user’s** [**email**](https://subiz.com/email.html)\*\*\*\* <a id="how-to-reply-users-email"></a>
 
 On **LIST ACTIVITIES** of User, you will know[ Email](https://subiz.com/email.html) conversation via Icon [Email](https://subiz.com/email.html) and [Email](https://subiz.com/email.html) Subject
 
@@ -36,7 +36,7 @@ To reply to a single [email](https://subiz.com/email.html): select[ **Email** ](
 
 ![](../../.gitbook/assets/21.-email-reply.jpg)
 
-### **Some Useful Functions On Subiz** [**Email**](https://subiz.com/email.html)\*\*\*\* {#some-useful-functions-on-subiz-email}
+### **Some Useful Functions On Subiz** [**Email**](https://subiz.com/email.html)\*\*\*\* <a id="some-useful-functions-on-subiz-email"></a>
 
 **1.Support HTML** [**Email**](https://subiz.com/email.html)\*\*\*\*
 
