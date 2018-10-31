@@ -1,49 +1,59 @@
 # Creative on Subiz Chat widget
 
-### Creative introductions on the chat widget
+## Creative introductions on the chat widget
 
-On special occasions or when there are promotions, you should change and create business introductions right on the chat window to increase the appeal and impress your website visitors.
+On special occasions or when there are promotions, you can change and create business introduction right on the Subizchat window to attract and impress your website visitors.
+
+### Some popular HTML formats
+
+* HTML text formats   
+  `<strong>text`: Bold text  
+  `<i>text`: Italic text
+
+  `<u>text`: Underline text  
+
+* HTML line breaks `<br>text`: Create a new line  
+* HTML colors `<font color="yellow">text</font>`:  Use a specific color name as yellow, red, white, blue.... 
+* HTML link `<a href="http://example.com">Text</a>`: Insert a relative URL as http://example.com 
+* HTML link of phone number `<a href="tel:02473021368">02473021368</a>`: Insert your phone on 02473021368
+
+### HTML examples 
 
 {% tabs %}
-{% tab title="Attach a link to the introduction" %}
-The code snippet lets you link the link to the introduction
+{% tab title="Insert link and change text color at the introduction" %}
+HTML to link and change text color at the introduction
 
-```text
-<p> Normal text <a href="http://example.com"> <font color="yellow">Linked text</font></a></p>
-```
+`<a href="http://example.com"> <font color="yellow">text</font></a>`
 
-Components you can change in the code above:
+Elements can be changed:
 
-* **Normal text:** The text you want to present.
-* [Http://example.com](http://example.com/): The link to the landing page you want the customer to see after clicking on the Linked text.
-* **Orange:** The color you want for Linked text.
-* **Linked text:** The text that links the landing page.
+* [Http://example.com](http://example.com/): The link URL to the landing page you want the customer to view after clicking on the Linked text.
+* **Yellow:** The color you want for Linked text.
+* **Linked text:** The text that is linked the link URL the landing page.
 
-**Example:** &lt;p&gt; Celebrate your 5th birthday. We discount 50% on many items. Please see details &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p
+**For example:** To get Free Trial with Subiz &lt;a href="https://app.subiz.com/register"&gt; &lt;font color="yellow"&gt;register now&lt;/font&gt;&lt;/a&gt;
+
+![Link text at the introduction](../../../.gitbook/assets/1.-link-text.jpg)
 {% endtab %}
 
-{% tab title="Down the line on the introduction" %}
-The code snippet lets you break the line on the introduction
+{% tab title="Break a line, change text color at the introduction " %}
+HTML to break a line and change text color at the introduction
 
-```text
-<br>Text
-```
+`<br><font color="yellow">Text</font>`
 
-Put the code above the text you want it down.
+**For example**: To get Free Trial with Subiz &lt;br&gt;&lt;a href="https://app.subiz.com/register"&gt; &lt;font color="yellow"&gt;register now&lt;/font&gt;&lt;/a&gt;
 
-Example: &lt;p&gt; Celebrate your 5th birthday. We discount 50% of high-end items. &lt;br&gt;Please see details &lt;a href="http://example.com"&gt; &lt;font color = "orange"&gt; here! &lt;/ font&gt; &lt;/a&gt; &lt;/ p&gt;
-
-![Down the line on the introduction](../../../.gitbook/assets/cd-cs-chat1.png)
+![Break a line at the introduction](../../../.gitbook/assets/2.-line-break.jpg)
 {% endtab %}
 {% endtabs %}
 
-### **Customizing CSS for Subiz Chat widget**
+## **Customizing CSS for Chat widget**
 
 Besides using the [chat widget settings](https://app.subiz.com/settings/widget-setting) on the website that Subiz has provided. You can easily customize other components on the [chat widget](https://app.subiz.com/settings/widget-setting) by using CSS code.
 
 CSS stands for “Cascading Style Sheet”. It describes how HTML elements are to be displayed on screen, paper, or in other media. With using CSS, you can customize every single elements in chat widget to make it more attractive or unique.
 
-#### How to add customized CSS?
+### How to add customized CSS
 
 Firstly, log in app.subiz.com, come to [**Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
@@ -53,7 +63,7 @@ Next, **Copy and Paste** the corresponding CSS to customize the component you wa
 
 Here are some examples of possible customizations and instructions on how to achieve them:
 
-#### Resize chat widget
+### Resize chat widget
 
 You can change the height and width as you like:
 
@@ -96,7 +106,7 @@ Change value 750px, 600px to decide the size of chat widget.
 {% endtab %}
 {% endtabs %}
 
-#### Customizing font size
+### Customizing font size
 
 Custom font size code on chat window Subiz
 
@@ -106,9 +116,7 @@ Custom font size code on chat window Subiz
 
 Change value **20**px to decide the font size of chat widget.
 
-![Customizing font size](https://docv4.subiz.com/wp-content/uploads/2018/05/css-font-size-en.png)
-
-#### Customizing colors of the chat widget
+### Change color of chat widget
 
 {% tabs %}
 {% tab title="Whole chat widget\'s color" %}
@@ -206,51 +214,9 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 {% endtab %}
 {% endtabs %}
 
-### Customize Language with P.O file
-
-Currently, [Subiz](https://subiz.com/en) supports 2 languages: Vietnamese and English. On [Subiz widget](https://subiz.com/live-chat.html), you can [c**ustomize the widget**](https://subiz.com/live-chat.html) **title and team introduction according to each language.**
-
-Besides, you can use another language other than these supported languages. Supposed that you want to replace English with German, or you want to edit language in other section of the widget, you can customize the language by .po file following the steps below:
-
-**Step 1: Download custom language file**
-
-Go to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; **Language**. Select 1 language and click **Customize language**.
-
-![Where to start custom language](https://lh5.googleusercontent.com/JU30A_g8_YfpvatmHwuq73h39AedE8WOQco8xtLPg8xDfUIqmY5Kzh5t5_XrZ9VdETmo-ltihq_mLAt5kbtaLNzs_OlZEgKrY6EgBoozEa0v6yp8KeZD5dYL5rij-iiNrNPpIlfe)
-
-Click to download custom language file.
-
-![Download the widget language customization file](../../../.gitbook/assets/14.png)
-
-**Step 2:** Edit .po file
-
-* Go to [https://localise.biz/free/poeditor](https://localise.biz/free/poeditor), upload the .po file you have downloaded.
-
-![Upload the language custom file](https://docv4.subiz.com/wp-content/uploads/2018/04/drop-a-file.png)
-
-* Translate from source text. For example, in German: Email and Name = Email und Name.
-
-![Translate the language you want to customize](https://docv4.subiz.com/wp-content/uploads/2018/04/edit-file.png)
-
-* Click **Save** to finish editing.
-
-![Save file](../../../.gitbook/assets/15.png)
-
-* Click to save file to your computer.
-
-![Download to your computer](../../../.gitbook/assets/16.png)
-
-**Step 3:** Upload .po file to Subiz
-
-Go back to [Widget setting](https://app.subiz.com/settings/widget-setting) &gt; Language &gt; Customize language. Upload file, then new language will overlap the chosen language.
-
-![Download the customized language file on Subiz](../../../.gitbook/assets/17.png)
-
-  After uploading successfully, back to widget setting. You do not need to save this upload
-
-![Successfully uploaded language file successfully downloaded](../../../.gitbook/assets/18.png)
 
 
+> We are here for your help. For further support, email us via Support@subiz.com!
 
 
 
