@@ -13,7 +13,7 @@ On mobile devices, Subiz chat widget is responsively designed to enhances the cu
 
 ### How to customize mobile widget with CSS
 
-To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt; Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy CSS code and paste it on box of CSS customize  
+To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt; Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy below CSS code and paste it on box of CSS customize:  
 `.widget_mobile .button-chat {  
 background-image: url(https://filev4.subiz.com/fiqcggnqemgkhtwdbyne-button_chat_08.png);  
 }  
