@@ -4,7 +4,7 @@ Your website has integrated Subiz and Google Analytics \(GA\). Subiz will automa
 
 Particularly, Subiz can work with GA through Google Tag Manager.
 
-###  Send Subiz chat data to Google Ananlytics
+### Send Subiz chat data to Google Ananlytics
 
 There are three types of data that Subiz sends to GA including:
 
@@ -25,7 +25,10 @@ There are three types of data that Subiz sends to GA including:
 * Step 1: [Sign in to Google Analytics.](https://analytics.google.com/)
 * Step 2: [Navigate to your view](https://support.google.com/analytics/answer/6099198).
 * Step 3: Open [Reports](https://support.google.com/analytics/answer/6102416).
-* Step 4: Select **Behavior &gt; Events**. 
+* Step 4: Select **Behavior &gt; Events &gt; Overview**
+
+  
+
 
 > Do you need help? Just click on [Subiz.com](https://subiz.com/en) and chat with us!
 

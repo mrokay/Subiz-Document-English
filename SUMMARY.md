@@ -53,6 +53,7 @@
     * [User Attributes](optimise-the-use-of-subiz/managing-data/users-attributes.md)
     * [Synchronize users data with Subiz API](optimise-the-use-of-subiz/managing-data/untitled-1.md)
 * [Reports](general-reports.md)
+* [Untitled](untitled.md)
 * [Google Analytics and Subiz chat integration](google-analytics-and-subiz-chat-integration.md)
 * [Payment](payment/README.md)
   * [How Subiz to charge?](payment/what-kind-of-pricing-packages-are-available.md)
