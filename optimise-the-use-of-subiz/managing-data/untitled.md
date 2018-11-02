@@ -1,4 +1,4 @@
-# Edit and update user's infor
+# Edit and update user's information
 
 The User is the customer that has interacted you via [Subiz](https://subiz.com/en), including customers interacting with you on the website, from[ Fanpage ](https://subiz.com/facebook-messenger.html)and[ Email](https://subiz.com/email.html). The user list is displayed in the first left pane on the Activity page.
 

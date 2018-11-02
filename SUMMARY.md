@@ -47,7 +47,7 @@
   * [Managing data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Customer segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation/README.md)
       * [Utilizing Default Segments](optimise-the-use-of-subiz/managing-data/customer-segmentation/utilizing-default-segments.md)
-    * [Edit and update user's infor](optimise-the-use-of-subiz/managing-data/untitled.md)
+    * [Edit and update user's information](optimise-the-use-of-subiz/managing-data/untitled.md)
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [Block a User](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
     * [User Attributes](optimise-the-use-of-subiz/managing-data/users-attributes.md)
