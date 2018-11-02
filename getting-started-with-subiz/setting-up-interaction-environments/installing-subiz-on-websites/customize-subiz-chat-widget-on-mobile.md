@@ -4,16 +4,22 @@ On mobile devices, Subiz chat widget is responsively designed to enhances the cu
 
 ### 1. Some notes about Subiz widget on mobile devices
 
-* Chat button displays on mobile device the same on PC devices. 
-* You can customize the chat button on your phone with the CSS code. 
-* When you click the chat button, the chat windown will open full.
-* The chat window will display about 90% of the mobile screen, not full of screen.
-* You can customize the appearance settings of the chat window with CSS
-* New message will be noticed by red number on chat button, not open full chat window.
+* **Chat button** displays on mobile device the same on PC devices. 
+* You can customize the **chat button** on your phone with the CSS code. 
+* When you click the **chat button**, the chat windown will open full.
+* The **chat window** will display about 90% of the mobile screen, not full of screen.
+* You can customize the appearance settings of the **chat window** with CSS
+* **New message** will be noticed by red number on chat button, not open full chat window.
+
+![Subiz widget on mobile](../../../.gitbook/assets/widget-en.png)
 
 ### 2. How to customize mobile widget with CSS
 
-To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt; Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy below CSS code and paste it on box of CSS customize:  
+To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt; Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy below CSS code and paste it on box of CSS customize:
+
+![Box of CSS customize](../../../.gitbook/assets/1.-box-css-copy%20%281%29.jpg)
+
+  
  &gt; Save Changes at box of CSS customize  
  &gt; Save Changes at Widget Setting
 
