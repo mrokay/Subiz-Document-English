@@ -15,7 +15,7 @@ On mobile devices, Subiz chat widget is responsively designed to enhances the cu
 
 ### 2. How to customize mobile widget with CSS
 
-To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt; Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy below CSS code and paste it on box of CSS customize:
+To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt; Account &gt;  Subiz Widget](https://app.subiz.com/settings/widget-setting) &gt; Customize CSS &gt; Copy below CSS code and paste it on box of CSS customize:
 
 ![Box of CSS customize](../../../.gitbook/assets/1.-box-css-copy%20%281%29.jpg)
 
@@ -58,6 +58,9 @@ To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt;
   }
   ```
 
+* Adjust the height of chat widget according to the height of mobile screen  `.widget_mobile .widget_body {height: 90%;}` 
+* Hide chat widget on mobile devices  `.widget_mobile {display: none; }`
+
 ### 2.2 CSS for chat button on mobile
 
 * You want your mobile chat button more eye-catching, use this CSS code:  
@@ -73,13 +76,15 @@ To customize mobile widget with CSS, [Sign in to App.subiz.com &gt; Setting &gt;
   }
   ```
 
-* To move the height of chat button over screen button, you can use this CSS code  
+* To make your chat widget taller or shorter according to screen bottom, you can use this CSS code: + If chat widget is on the right of website:  `.widget_mobile .widget-button {bottom:40px;right:40px;}`
 
+       + If chat widget is on the left of website:  
+        `widget_mobile .widget-button { bottom:0; left:0; }`
 
-  ```text
-  .widget_mobile .widget-button {
-  bottom:10px;
-  right:10px;
-  }
-  ```
+* Hide chat button on mobile devices  
+  `.widget_mobile .button-chat {`
+
+  `display: none; }`
+
+> You have any questions or concerns, please send us email via Support@Subiz.com!
 
