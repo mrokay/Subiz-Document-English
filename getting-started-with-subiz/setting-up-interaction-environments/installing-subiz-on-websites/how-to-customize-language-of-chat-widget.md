@@ -60,13 +60,9 @@ Additionally, Subiz provides source .po files for your own language customizatio
 
 ![Custome language of Subiz widget](../../../.gitbook/assets/2.-customr.jpg)
 
-* Click to **download source .po**
+* Click **download source .po** to save to your computer
 
 ![Download source .po](../../../.gitbook/assets/3.jpg)
-
-* **The .po file will be opened in another tab** &gt; **Right click** and select **Save as** to save to your computer, file format is PO translation.
-
-![Save source .po file to your computer](../../../.gitbook/assets/4.-save-as.jpg)
 
 **Step 2: Edit and translate .po file**
 

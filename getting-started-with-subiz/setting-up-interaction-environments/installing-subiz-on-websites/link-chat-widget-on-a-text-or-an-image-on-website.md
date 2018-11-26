@@ -18,16 +18,24 @@ Here are two CSS codes that hide the chat button corresponding to each type of w
 | :--- | :--- |
 |  `.widget-button {display:none;}  .widget_mini .widget_body {bottom:0;}` |  `.widget-button {display:none;}` |
 
+{% hint style="info" %}
+Note: CSS just for hiding Subiz widget on mobile version  
+ `.widget_mobile .button-chat { display: none; }`
+{% endhint %}
+
+![CSS customize box of Subiz](../../../.gitbook/assets/api-widget.jpg)
+
 ### Step 2: Link chat widget to a text or an image on website
 
 After hiding the default chat button, put API into website HTML code will help you link the Subiz chat widget to an image or a text on website which is also called chat button.
 
 Then the chat widget will pop up at your website only after the visitor clicks on the chat button.
 
-* The API links the Subiz chat widget to an image
+* Common API links Subiz chat widget in the container of website HTML code  `<script type="text/javascript">window.subiz('expandWidget') </script>` 
+* API links the Subiz chat widget to an image
 
 ```text
-<a href="#nogo" onclick="subiz('shrinkWidget')"><img src="URL of image"></a>
+<a href="#nogo" onclick="subiz('expandWidget')"><img src="URL of  your image"></a>
 ```
 
 * The API links the Subiz chat widget to a text
