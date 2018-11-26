@@ -214,7 +214,30 @@ You can change value **\#056587, \#0085a3, \#00a6ac, \#00c59f, \#0be17f** to sui
 {% endtab %}
 {% endtabs %}
 
+### Custom header appearance of chat widget
 
+New custom chat widget and enhanced brand identity with Business logo and information.
+
+![](../../../.gitbook/assets/chat-widget.jpg)
+
+You can customize the look and layout of header of chat widget with a combination of the following CSS codes:  
+  
+`.color-theme-default {background-color:#f44336;}  
+  
+.list-agents { float:left; width:45%; }  
+  
+.avatar-team { position:absolute; top:-70%; background: url(`[`https://filev4.subiz.com/fiqeahnixwxjomyxmnnu-logo.png`](https://filev4.subiz.com/fiqeahnixwxjomyxmnnu-logo.png)`);  
+  
+height: 100px; background-size: 150px; background-repeat: no-repeat; background-position: center; } .full { width:160px !important; }  
+  
+.avatar-team .avatar-agent{ display:none; }  
+  
+.team-intro { width:55%; margin-bottom:12px; } .team-intro p{ padding: 0 0 0 0; font-size:13px; }`
+
+{% hint style="info" %}
+Note: Change Business logo at the link  
+`https://filev4.subiz.com/fiqeahnixwxjomyxmnnu-logo.png`
+{% endhint %}
 
 > We are here for your help. For further support, email us via Support@subiz.com!
 
