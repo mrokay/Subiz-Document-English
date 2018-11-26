@@ -10,7 +10,7 @@ Every business can actively design their owner chat button images to convey thei
 
 How to set up chat button: Login Subiz via [App.subiz.com&gt; Setting &gt; Account &gt; Widget &gt; Customize chat button](https://app.subiz.com/settings/widget-setting) 
 
-![Customize bubble button](../../../.gitbook/assets/1.-edit.png)
+![Setting of Subiz widget](../../../.gitbook/assets/1.-widget%20%281%29.jpg)
 
 You can select to use a chat button from the button library, or upload your own custom button.
 
@@ -18,7 +18,7 @@ You can select to use a chat button from the button library, or upload your own 
 
 You select a button from the library and Save changes to finalize.
 
-![Button library](../../../.gitbook/assets/2.-library.png)
+![Button library on Subiz](../../../.gitbook/assets/3.-library.jpg)
 
 ### **2.2. Upload your custom button**
 
@@ -31,7 +31,7 @@ How to upload your own button as followings:
 * Browse file or Drag file to upload  &gt; Click "**X**" to exit
 * Save changes to finalize
 
-![Upload your custom button](../../../.gitbook/assets/3.-upload.png)
+![Use custom button on Subiz](../../../.gitbook/assets/2.-chat-button.jpg)
 
 {% hint style="info" %}
 For some example buttons: [button 1](https://filev4.subiz.com/fiqcgvyhmftekbwjrbmy-button1_en.png) -[ button 2](https://filev4.subiz.com/fiqcgvynxpqgfcrbqgjb-button2_en.png) - [button 3](https://filev4.subiz.com/fiqcgvyqfhiokhwiqmnz-button3_en.png) - [button 4](https://filev4.subiz.com/fiqcgvysbxbykjcrorum-button4_en.png)
