@@ -8,11 +8,11 @@ To track your Subiz's interaction statistics, you need to log in your [Subiz acc
   
 Your interaction statistics can be shown in the following categories:
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="conversation-report.md" %}
 
 * Number of conversations is counted by the specific time and each agent / a group of agents. You can see the detailed statistics of interactions, including the time having the most conversations, agents having the most/least conversation and channels working effectively.
 
-{% page-ref page="report-of-users.md" %}
+{% page-ref page="users-report.md" %}
 
 * Number of new users is counted in a time.
 

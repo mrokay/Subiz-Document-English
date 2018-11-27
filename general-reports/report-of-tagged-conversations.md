@@ -12,7 +12,7 @@ You can count the Tags according to Channels, Tags and Time
 {% tab title="Channels" %}
 Select the channels that you want to filter tagged messages:
 
-![Tags\_ Channels](.gitbook/assets/tags_channels.png)
+![Tags\_ Channels](../.gitbook/assets/tags_channels.png)
 {% endtab %}
 
 {% tab title="Tags" %}
@@ -20,17 +20,17 @@ You can count tagged messages according to a specific tag or most used tags.
 
 * According to most Used Tags: 5 tags
 
-![Most Used Tags](.gitbook/assets/most-used-tags.png)
+![Most Used Tags](../.gitbook/assets/most-used-tags.png)
 
 * According to a specific tag
 
-![Tag \_Feature Request](.gitbook/assets/tag_-feature-request.png)
+![Tag \_Feature Request](../.gitbook/assets/tag_-feature-request.png)
 {% endtab %}
 
 {% tab title="Time" %}
 You can select the time that you want to count tagged messages
 
-![Tags\_ Time](.gitbook/assets/screenshot_29.png)
+![Tags\_ Time](../.gitbook/assets/screenshot_29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -45,7 +45,7 @@ At each intersection, you can see the number of tagged messages  per specific ta
 
 For Example: 5 most used Tags in 19th April:
 
-![5 most used Tags](.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
+![5 most used Tags](../.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
 
 
 

@@ -27,19 +27,19 @@ There are three types of data that Subiz sends to GA including:
 * Step 3: Open [Reports](https://support.google.com/analytics/answer/6102416).
 * Step 4: Select **Behavior &gt; Events &gt; Overview**
 
-![View Events report](.gitbook/assets/1.-mo-ga-copy.jpg)
+![View Events report](../.gitbook/assets/1.-mo-ga-copy.jpg)
 
 * Step 5: Click Event category to see event called SUBIZ chat
 
-![Event category of Subiz chat](.gitbook/assets/cate-copy.jpg)
+![Event category of Subiz chat](../.gitbook/assets/cate-copy.jpg)
 
 * Step 6: Click Event Action to view actions as Received, Sent, Opened
 
-![Event Action of Subiz chat](.gitbook/assets/2.-action-copy%20%282%29.jpg)
+![Event Action of Subiz chat](../.gitbook/assets/2.-action-copy%20%282%29.jpg)
 
 * Step 7: Click Event Label to view labels as User, Subiz Windows
 
-![Event Label of Subiz chat](.gitbook/assets/3.-label-copy.jpg)
+![Event Label of Subiz chat](../.gitbook/assets/3.-label-copy.jpg)
 
 
 

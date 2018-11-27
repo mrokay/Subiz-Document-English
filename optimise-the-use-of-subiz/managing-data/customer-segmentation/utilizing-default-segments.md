@@ -1,4 +1,4 @@
-# Utilizing Default Segments
+# View Default Segments
 
 To manage User lists and interactions generally, Agents can use the Subiz default segments that have been set up in the search bar in the Activities page. The following instruction will help the Agent understand the meaning and usage of these segments.
 

@@ -16,7 +16,7 @@ The manual page for [Subiz](https://subiz.com/en) to divided into five parts:
 
 * **Reports & Statistics:** Evaluation and decision will affect the future of the business. Do not skip the Report to understand the current state of the business.
 
-{% page-ref page="general-reports.md" %}
+{% page-ref page="general-reports/" %}
 
 * **Payment:** Flexible payment method. We are not only a supplier, but we accompany and support you.
 
