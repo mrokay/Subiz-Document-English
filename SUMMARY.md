@@ -36,6 +36,7 @@
     * [Interact on Email](getting-started-with-subiz/working-on-subiz/interact-on-email.md)
     * [Interact on Messenger](getting-started-with-subiz/working-on-subiz/interact-on-messenger.md)
     * [Canned responses](getting-started-with-subiz/working-on-subiz/canned-responses.md)
+    * [Ticket - Professtional Customer Service on Subiz](getting-started-with-subiz/working-on-subiz/untitled-2.md)
 * [Using advanced Subiz](optimise-the-use-of-subiz/README.md)
   * [Automatic interaction](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
@@ -64,5 +65,4 @@
   * [Checking current account](payment/checking-current-account.md)
   * [How to change packages?](payment/how-to-change-pricing-packages.md)
   * [FAQs](payment/faqs.md)
-* [Untitled](untitled.md)
 
