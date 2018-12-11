@@ -8,6 +8,8 @@ Ticket Subiz helps to handle all users conversations from multiple channels like
 
 From a user conversation over channels like Subiz chat, Email, Messenger, etc., agent can convert to a ticket to record and track the process of customer support.
 
+![Convert to ticket](../../.gitbook/assets/convert-ticket-copy.jpg)
+
 Agent will set and classify ticket according to the following data:
 
 * Priority: Urgent, High, Medium, Low
@@ -16,15 +18,19 @@ Agent will set and classify ticket according to the following data:
 * Assigness: is the agent assigned for conversation, will handle ticket. Assigness can add more other agents in ticket.
 * Note: Briefly summarize the problem or request of user
 
+![Fill information on ticket](../../.gitbook/assets/new-ticket-copy.jpg)
+
 ### 2. Ticket management
 
  A converted ticket will display notification right on the conversation.
 
 Agent will come to Tickets segment to keep track of ticket list and filter tickets by GROUP, STATUS, etc. to prioritize processing of customer support.
 
+![Manage tickets list](../../.gitbook/assets/filter-ticket-copy.jpg)
+
 Agent can customize ticket data and update Ticket Status.
 
-
+![Update ticket data](../../.gitbook/assets/update-ticket-copy.jpg)
 
 
 
