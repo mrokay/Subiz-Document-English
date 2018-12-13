@@ -52,12 +52,18 @@ When a new message template is created successfully, agent can use the message t
 
 For example on Subiz chat channel, Agent has two ways of using the message template:
 
-* Option 1: In type your message box, click on icon + and select Message template to display the list of message templates &gt; Scroll select message template&gt; select send send
-* Option 2: In type your message box, start with  + shortcut and select the message template &gt; Enter to send
+* Option 1: In type message box, click on icon **+** and select message template to display the list of message templates &gt; Scroll to select message template &gt; Enter to send
+* Option 2: In type message box, start with  **/shortcut** and select the message template &gt; Enter to send
 
-  
-  
+### Some pointers for using message template
 
+* **Email templates can created by visual text or HTML**: Use HTML code to create creative and impressive email templates.
+* **Short message template and go straight to the problem**: Users always want to be quick to be solved their problems. Please send a short message, and answer user's problem correctly.
+* **Be personal**:  With user attribute and emoji , you can make user feel personal and  and show that you actually listen to your user.
+* **Easy-to-remember shortcut**: The message template is often used in certain cases such as greetings, thanks, promo offer or sale-off, product, ... Create easy-to-remember shortcuts to make it easy to find what you need.
+* **Change message template time to time**: Keep your messate template up to date, especially with the changes of product or promo offer.
+
+###   
 
   
   
