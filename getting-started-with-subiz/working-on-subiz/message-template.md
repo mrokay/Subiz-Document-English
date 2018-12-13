@@ -10,6 +10,8 @@ Message template is all new and styles messages with Text, Image, File, and Prod
 
 Each Agent has the right to create message template on multi channels like  Subiz chat, Email,...and set privacy as Public to let all agents use this template or Private just for your own use.
 
+![Message template](../../.gitbook/assets/template-copy.jpg)
+
 ### How to create new message template
 
 How to create new message template: Go to [Message Template ](https://app.subiz.com/message-template)&gt; Select channel&gt; Type your message &gt; Enter shortcuts for this template to easily search and send users &gt; Choose Privacy: Public or Private &gt; Select Create to complete
@@ -21,6 +23,8 @@ In the section CREATE NEW MESSAGE TEMPLATE. there are 3 main areas:
 * \(1\) Display message content
 * \(2 + 3\) Type or upload message content: Agent can choose style of message template like text, image, file, product or add multiple message styles in one message template at the same time.
 * \(4\) Enter shortcut, choose privacy and create for done.
+
+![Create new message template on Subiz chat](../../.gitbook/assets/new-template-copy.jpg)
 
 #### 1. Add  Text 
 
@@ -53,7 +57,12 @@ When a new message template is created successfully, agent can use the message t
 For example on Subiz chat channel, Agent has two ways of using the message template:
 
 * Option 1: In type message box, click on icon **+** and select message template to display the list of message templates &gt; Scroll to select message template &gt; Enter to send
-* Option 2: In type message box, start with  **/shortcut** and select the message template &gt; Enter to send
+
+![Add message template](../../.gitbook/assets/option-1-copy.jpg)
+
+* Option 2: In type message box, start with  **/shortcut** and select message template &gt; Enter to send
+
+![Add message template](../../.gitbook/assets/option-2-copy.jpg)
 
 ### Some pointers for using message template
 
