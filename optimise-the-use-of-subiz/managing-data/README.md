@@ -1,4 +1,4 @@
-# Managing data
+# Managing user data
 
 Customer data is always a valuable asset to every business. When you have a certain number of customers, [Subiz](https://subiz.com/en) will help you sort, manage, and effectively utilize these customer data, to deliver high business efficiencies and build lasting customer relationships.
 

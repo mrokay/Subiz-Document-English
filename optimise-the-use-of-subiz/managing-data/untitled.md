@@ -1,18 +1,14 @@
-# Edit and update user's information
+# Manage and update user information
 
-The User is the customer that has interacted you via [Subiz](https://subiz.com/en), including customers interacting with you on the website, from[ Fanpage ](https://subiz.com/facebook-messenger.html)and[ Email](https://subiz.com/email.html). The user list is displayed in the first left pane on the Activity page.
+User is the customer who interacted you via [Subiz](https://subiz.com/en), including having conversation with agent over channels like Subiz chat on the website, Fanpage Messenger and Email. The user list is displayed in the first left pane on page [ACTIVITIES](https://app.subiz.com/activities) .
 
-On the Activities page, you can simultaneously monitor the list of users, the history of each user's activity and contact with them directly.
+On page [ACTIVITIES](https://app.subiz.com/activities), you can track and manage user list, activities list of user and edit user information.
 
 ### User list
 
-The list of users displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned conversations.
-
-![](../../.gitbook/assets/1%20%285%29.png)
+The user list displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned conversations.
 
 A user will be displayed by name and avatar. The avatar of the user who is online \(blue dot\) or offline \(gray dot\). If there is a new conversation with the user, you will see the message and the time the message was sent.
-
-![](../../.gitbook/assets/2%20%281%29.png)
 
 When you click on each user, you can check the activity history of that user \(in List Activities\) and start the conversation with the user.
 

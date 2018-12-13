@@ -1,4 +1,4 @@
-# Customer segmentation
+# Users segmentation
 
 **Segment** is a group of customers divided by certain criteria. This feature is designed to **help you categorize and split customer data, helping you to strategically follow each customer segment.**
 
