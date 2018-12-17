@@ -1,51 +1,30 @@
 # How to distribute conversations
 
-**With** [**Subiz**](https://subiz.com/en%20)**, conversations to automatically distributed to one or more Agents, by setting up and using rules.**
+### What is Rule?
 
-You can use the original default rule, use the existing Rule Library, or create a "New Rule" to automatically deliver conversations that match the actual needs of the business.
+The rule is a feature that allows you to distribute a customer's conversation to the right agent in charge. In Subiz, you can set rules to distribute automatically to agent or multiple agents at the same time.
 
-### Use the original default rule
+There are five ways to distribute a conversation to agent: 
 
-The Rule distributes all interactions of all users to the Agent owner immediately after integrating one or more interactive channels into your[ Subiz account](https://app.subiz.com). **This is the default rule,**[ **Subiz**](https://subiz.com/en%20) **has set up for all accounts.**
+* Assign to all available agents: Available agents are the one who that directly connected to Subiz on a computer or mobile app. When the agents do not connect to Subiz, the conversation to the conversation is not distribute. Agents can view and respond to users after reconnecting Subiz.
+* Assign to agents: Select the specific agent you want to distribute the user's conversation.
+* Assign to groups: Select the agent group you created to distribute the user's conversation.
+* Assign to the agent has a lasting interaction with the customer: When the agent has previously supported the user, you will choose to designate the next user conversation for the agent to continue to take care of and consult. 
+* Assign conversations are round robins: You have multiple agents and want to divide conversation equally of user for agents.
 
-![The default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-1.png)
+![](../../../.gitbook/assets/assign-rule.png)
 
-**You can see settings of this default rule.**
+### Default to owner 
 
-![Edit the default rule](https://docv4.subiz.com/wp-content/uploads/2018/04/Rule-Default-2.png)
+With new accounts, Subiz set up the default rule. This rule distributes all customer conversations to the Agent owner. 
 
-You can **edit the conditions and Agents** to assign in this default rule to create a new rule, for example, add more agents in assign list… See detailed instructions for [creating a new rule.](https://docv4.subiz.com/create-a-new-rule/) ​
+![Default to owner ](../../../.gitbook/assets/default-to-owner.png)
 
-### Rule Library <a id="rule-library"></a>
+You can see the Rule Default to owner details and customize the settings as follows: Rule Name to easily understand the meaning of setting rules, select the condition and how to Distribute user dialog for Agent. See the [Creating a New Rule instruction](https://help-en.subiz.com/~/edit/drafts/-LTjuaZMXIlZ2Z4qHd5s/getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting).
 
-The Rule library is a list of the rules that Subiz has made available to you. You can choose the rule that suitable your business or modifies it to create the rule for your business.
 
-Rule library includes 4 rules which are set up for customers to use this feature easily.
 
-To use this library, follow below steps:
 
-* Sign in your account
-* Go to [**Setting&gt; Account&gt; Message&gt; Rule**](https://app.subiz.com/settings/rule-setting)\*\*\*\*
-* Select Rule Library
-* Edit the rule and select **Create rule**
-
-![](https://docv4.subiz.com/wp-content/uploads/2018/03/rule-library.png)
-
-Currently, Subiz has 4 rules available in the library:
-
-* **Assign all Agents**: assign all conversations to all active Agents \(recommended if you have only 1 Agent\)
-* **Return users:** apply for users who have total session greater than 2.
-* **English language support:** apply for conversations in which message language is English
-* **Pricing:** apply for conversations in which message content contains pricing.
-
-### Create new Rule
-
-You should rely on the actual situation of the business, such as the number of websites, fan page, email integration, number of agents are using and how to manage and operate the business to create new rules, help for the distribution and handling of the conversation to be effective.
-
-{% hint style="info" %}
-* When you have multiple agents, do not create rules to distribute interactively, other agents will not receive the request to chat with the client, then the chat requests are forwarded to the agent account holders. At first, you can select the rules in the Rule Library that Subiz has created.
-* You can create multiple rules, manage rules and change rules base on time, to match the number of agents and your management.
-{% endhint %}
 
 
 

@@ -29,6 +29,7 @@
     * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/README.md)
       * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Rule setting](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
+      * [Example about Rule distribution dialog](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/example-about-rule-distribution-dialog.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
     * [Add Tags to a conversation](getting-started-with-subiz/how-to-use-subiz/add-tags-to-a-conversation.md)
   * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
