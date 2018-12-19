@@ -1,6 +1,6 @@
-# Set up the interactive environment
+# Set up the interaction channel
 
-The first thing you do after [signing up for a Subiz account](https://app.subiz.com/login) is to set up an interactive environment by integrating your existing business interactions into [Subiz](https://subiz.com/en).
+The first thing you do after [signing up for a Subiz account](https://app.subiz.com/login) is to set up an interaction channel by integrating your existing business interactions into [Subiz](https://subiz.com/en).
 
 [Subiz](https://subiz.com/en) supports corporate interactions with customers from multiple websites, fan page, email, zalo ... In each interactive channel, you can make the settings and customize to suit the needs of the business.
 

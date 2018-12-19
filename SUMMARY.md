@@ -3,7 +3,7 @@
 * [Hello, how do we support you?](README.md)
 * [Subiz overview](what-is-subiz-1.md)
 * [Getting Started](getting-started-with-subiz/README.md)
-  * [Set up the interactive environment](getting-started-with-subiz/setting-up-interaction-environments/README.md)
+  * [Set up the interaction channel](getting-started-with-subiz/setting-up-interaction-environments/README.md)
     * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/README.md)
       * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/setting-subiz-chat-widget.md)
       * [Creative on Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget.md)
