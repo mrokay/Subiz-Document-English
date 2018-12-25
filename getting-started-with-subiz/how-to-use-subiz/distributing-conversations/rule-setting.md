@@ -1,4 +1,4 @@
-# Rule setting
+# Create a new rule
 
 **Rules are used to automatically assign incoming messages to specific agent\(s\) or team.** You need to set up rules right after creating account so that you can get conversations from your customers.
 

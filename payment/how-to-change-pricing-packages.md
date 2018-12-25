@@ -8,8 +8,7 @@ When using [Subiz](https://subiz.com/en%20), depending on your business situatio
 
 * **Free Plan to Paid Plan**
 
-If your account is free, and you want to upgrade to a paid plan, you need to log in your [Payments page](https://app.subiz.com/payment-home), then select the appropriate Agent number and cycle, and click on **Subscribe Now**   
-
+If your account is free, and you want to upgrade to a paid plan, you need to log in your [Payments page](https://app.subiz.com/payment-home), then select the appropriate Agent number and cycle, and click on **Subscribe Now** 
 
 ![Upgrade to Standard Plan](../.gitbook/assets/image-1.png)
 

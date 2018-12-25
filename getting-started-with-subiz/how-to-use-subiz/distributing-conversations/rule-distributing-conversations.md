@@ -12,13 +12,13 @@ There are five ways to distribute a conversation to agent:
 * Assign to the agent has a lasting interaction with the customer: When the agent has previously supported the user, you will choose to designate the next user conversation for the agent to continue to take care of and consult. 
 * Assign conversations are round robins: You have multiple agents and want to divide conversation equally of user for agents.
 
-![](../../../.gitbook/assets/assign-rule.png)
+![Distribute conversations](../../../.gitbook/assets/assign-rule.png)
 
 ### Default to owner 
 
 With new accounts, Subiz set up the default rule. This rule distributes all customer conversations to the Agent owner. 
 
-![Default to owner ](../../../.gitbook/assets/default-to-owner.png)
+![Default to owner ](../../../.gitbook/assets/default-to-owner.jpg)
 
 You can see the Rule Default to owner details and customize the settings as follows: Rule Name to easily understand the meaning of setting rules, select the condition and how to Distribute user dialog for Agent. See the [Creating a New Rule instruction](https://help-en.subiz.com/~/edit/drafts/-LTjuaZMXIlZ2Z4qHd5s/getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting).
 

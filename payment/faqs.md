@@ -33,45 +33,6 @@ To complete the upgrade payment, you can choose one of the following options:
 1. Use another credit card \(if applicable\)
 2. Contact the card issuing bank and ask for payment opening
 
-### Contract and Invoice \(for corporate customers\)
-
-To submit your contract and invoice, please fill in the form and send it to [billing@subiz.com](mailto:billing@subiz.com).
-
-Method of delivery: Express delivery via courier
-
-Duration: **07 - 10 working days**
-
-{% hint style="info" %}
-* The contract is made for subscribers with payment periods of 12 months or more.
-* The invoice is issued at the request of the enterprise with a payment period of 03 months or more.
-* Subiz's products are not subject to tax. The VAT portion of the invoice will be crossed out.
-{% endhint %}
-
-#### Late issue an invoice
-
-The invoice is required to be made within 30 days from the date enterprise completes the payment obligation. [Subiz](https://subiz.com/en%20) is not responsible for billing if the time limit is exceeded. This policy is applicable to all [Subiz](https://subiz.com/en%20) customers.
-
-### Invoice Management
-
-To track your status, billing status \(billing status, period, residual term...\) you can access your [Subiz](https://app.subiz.com/subscription), go to [Settings &gt; Subscription](https://app.subiz.com/payment-home). The information will be displayed as follows:
-
-![Invoice Management](https://lh6.googleusercontent.com/Wyk4gvZtrfwvbCatYMNXk_Q6iHtgIvvrnAk4K5m89OMi-zYAAgQglgLLT6LW3NENwFzA40LaB-O94fM65NELF5KiOAKXPv_uzxT6dXi9o2GXqTZMk2APEsRtM2Iev61OQSKFIGOn)
-
-### Refund Policy
-
-#### Trial period
-
-[Subiz ](https://subiz.com/en%20)allows you to try the full 30 days trial most of Subiz’s features. After 30 day trial, you may consider upgrading to a paid or a free[ Subiz ](https://subiz.com/en%20)package.
-
-#### Paid accounts
-
-When you decide to upgrade your account, you need to specify the agent \(s\), billing cycle, and service pack type. Payment will be completed at the beginning of the usage cycle. We do not have a refund policy - this is a policy for all customers - and you will be responsible for all payments for the account you own.
-
-### What are Special Offers of Subiz?
-
-* [Subiz](https://subiz.com/en%20) offers up to 30% discount on long cycle payments, see details in the pricing page.
-* [Subiz](https://subiz.com/en%20) offers a 40% discount for any kind of public shools and non-governmental organization.
-
 ### Can I change the Subiz package at any time? <a id="can-i-change-the-subiz-package-at-any-time"></a>
 
 Yes, you can change your [Subiz ](https://subiz.com/en%20)plan at any time to suit your business situation. You can add / reduce agents, increase / decrease the billing cycle or change the payment method accordingly.
@@ -92,33 +53,6 @@ When your renewal date is expired, your system will automatically renew the next
 In case of the unexpected invoice, you need to send a confirmation to [Subiz](https://subiz.com/en%20), we will help you cancel the invoice.
 {% endhint %}
 
-### Renewal Invoice <a id="renewal-invoice"></a>
-
-At the beginning of the next cycle, the system will automatically renew the service and the renewal invoice will be created accordingly.
-
-[Subiz](https://subiz.com/en%20) will send a notification of account renewal via the following methods: Email to the account owner; Show notifications on the Dashboard management page; Show notifications in the New Alerts section.
-
-When receiving the notice, you can check the invoice directly at the payment page as shown
-
-![Renewal Invoice](../.gitbook/assets/renewwal-invoice.png)
-
-{% hint style="info" %}
-* If your account is set up to make automatic payments via credit card, the system will automatically call for payment within 24 hours of the invoice date.
-* If your account uses bank transfer, within 7 days the system will send an email to remind you about the renewal payment.
-{% endhint %}
-
-### What channels are overdue invoices notified? <a id="what-channels-are-overdue-invoices-notified"></a>
-
-Overdue invoices will be notified via the following channels:
-
-* Show notifications on the Dashboard management screen
-* Show notifications in the New Alerts section
-* E-mail notification to register email \(default\), or email of the person in charge.
-
-{% hint style="info" %}
-To ensure that you receive sufficient information from [Subiz](https://subiz.com/en%20), in case you change account manager or change contact email, you need to send confirmation to [Subiz](https://subiz.com/en%20) so that we can update your information.
-{% endhint %}
-
 ### How to read the information on the Invoice? <a id="how-to-read-the-information-on-the-invoice"></a>
 
 The invoice is a certificate for providing the service from Subiz, you should actively know and control this information:
@@ -126,4 +60,37 @@ The invoice is a certificate for providing the service from Subiz, you should ac
 ![Invoice Information](../.gitbook/assets/invoice-information.png)
 
 **Balance Due** is the amount of debt. When Balance due is greater than zero, the system will display a notice of overdue invoice.
+
+### Convert to use Subiz 3.0 account to Subiz 4.0 
+
+You have a Subiz version 3.0 account and want to use Subiz version 4.0. You need to do 2 steps:
+
+#### Install the Subiz 4.0 account deployment:
+
+Sign in to the Dashboard Subiz 4.0 via the app.subiz.com link with the email and account password you currently own. Note: If you want to use a new Subiz 4.0 account, you need to register a new account here.
+
+Integrating chat window Subiz 4.0 on website, connecting Fanpage \(if any\) to Subiz \(See details\)
+
+Automatic update using Automation to welcome visitors to the website \(See details\)
+
+Chat and manage customer lists on Subiz \(See details\) 
+
+#### Confirm to transfer to Subiz 4.0
+
+Your Subiz 3.0 account is using a paid plan, you need to send an email to Support@subiz.com to confirm the account from Subiz 3.0 to Subiz 4.0 to ensure full benefits of using the paid service package.
+
+* **Email sender:** Email address for managing Subiz 3.0 account
+* **Receiver email:** Support@Subiz.com
+* **Subject:** Confirmation of conversion of Subiz 3.0 account to Subiz 4.0
+* **Content:** Converting to use Subiz 3.0 account - ID ......... - to Subiz 4.0 ID account ..... Subiz supports conversion and downgrade account 3.0 to free plan.
+
+![Confirm to transfer to Subiz 4.0](../.gitbook/assets/email-xac-nhan-chuyen-doi-len-subiz-4.0.jpg)
+
+
+
+
+
+
+
+
 

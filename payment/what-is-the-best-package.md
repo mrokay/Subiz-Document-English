@@ -1,44 +1,13 @@
-# What is the best package?
+# Contracts and invoices for businesses
 
-### What available service packages does Subiz have?
+* Contract is made for subscribers with a payment cycle of 12 months or more.
+* VAT invoices are issued at the request of the enterprise when the subscriber has a payment period of 03 months or more. Subiz will send an E-billing to the business email address. 
 
-Subiz offers **4 service packages** including: Trial Package, Free Package, Basic Package and Advanced Package.
+**Note:** Subiz is a non-tax software service. Item The VAT rate in the invoice will be crossed out \(\) In order to submit the contract and invoice, please fill in the form and send it to billing@subiz.com. 
 
-### What is the best package?
+### Only provide the invoice within 30 days after payment?
 
-After signing up, [Subiz](https://subiz.com/en%20) allows you to try the full 30 days trial most of Subiz’s feature. Then, you may consider upgrading to a paid or a free [Subiz ](https://subiz.com/en%20)package.
+The invoice is required within **30 days** from the date the enterprise fulfills its payment obligation. 
 
-{% hint style="info" %}
-Upgrading your account to a paid plan helps you get the most out of all the features [Subiz](https://subiz.com/en%20) has to offer.
-{% endhint %}
-
-Depending on the nature and model of your business, you may choose one of the following services from [Subiz](https://subiz.com/en%20):
-
-{% tabs %}
-{% tab title="Free Package" %}
-The **Free Package** will be suitable for **small business** or **start-up business** who want to use Subiz. You will not have to pay any fees for using this service pack, however, the features included in this Free Package will be limited to usage.
-{% endtab %}
-
-{% tab title="Basic Package" %}
-With the **Basic package**, you can use an unlimited number of types of actions Automation, 03 Rules. For **small and medium business**, the amount of interaction at one time usually does not reach 100 interactions, the client file is only in a certain audience, there is no need to distribute the conversation too much, then the Basic package fully meets the needs.
-
-The total number of daily interactions are not limited, you can increase the number of agents corresponding to the best number of interaction requests for the channels received from the customer.
-{% endtab %}
-
-{% tab title="Advanced Package" %}
-With the **Advanced package**, the number of rules is not limited. This is for **large business** with a large number of highly integrated websites, which require more conversational settings for different target groups. In addition, business can set up to 20 Segments. \(Customer Segmentation\) to categorize Leads and develop Customer Care and Marketing plans, etc.
-
-As part of the deployment plan, the Advanced Statistics report promises to provide a database with in-depth analysis for enterprise customers.
-{% endtab %}
-{% endtabs %}
-
-See the detailed comparison table [here](https://subiz.com/pricing.html).
-
-### Why should I upgrade my account to a paid plan?
-
-* [Subiz ](https://subiz.com/en%20)offers paid packages at just $11.99/agent per month.
-* As one of the most essential, must-have tools for e-commerce businesses, you use [Subiz live chat](https://subiz.com/live-chat.html%20) to promote sales, or customer care, to increase the level. Customer satisfaction in the long run.
-* Upgrading your account to a paid plan will give you the most complete, best of all features that [Subiz ](https://subiz.com/en%20)has to offer.
-
-
+Subiz is not responsible for billing if the time limit is exceeded. This policy is applicable to all Subiz user.
 

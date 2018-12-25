@@ -1,56 +1,46 @@
-# Payment methods
+# Renewal Payment of Subiz
+
+### What is the renewal of Subiz? 
+
+Once your account ends the billing cycle of your service plan, Subiz will automatically support the renewal of your paid subscription service, avoiding disruption of your business. The term will also automatically be generated for you to make a payment. You can view the invoice and service package details at the [PAYMENT](https://app.subiz.com/payment-home) of Subiz.
+
+### Notification of renewal invoice
+
+Notification of renewal invoice Subiz will announce the renewal invoice for payment via two channels:
+
+* Notification in the your Subiz account - App.subiz.com, you can check the renewal invoice details at the PAYMENT page.
+* Notification via the email of Agent owner or the one who in charge of your Subiz account you require receipt of a invoice notification. 
+
+### Payment method of Subiz 
 
 Currently, [Subiz ](https://subiz.com/en%20)supports 2 forms of payment: **Credit Card** and **Credit Transfer**. Upgrading your account to a paid service after you have experienced the trial period is extremely simple. Just a few minutes, your account will be upgraded immediately.
 
 ### Payment via Credit Card \(Credit and Debit card\)
 
-**Step 1:** Access your[ Subiz account](https://app.subiz.com), go to [Settings &gt; Subscription](https://app.subiz.com/payment-home)
+If you have selected the Payment Method as Credit Card and turned on Auto Charge, within 24 hours of the invoice being issued, Subiz will charge the exact amount payable on the invoice. If you have not selected a payment method as a credit card, you need to do the following 3 steps: 
 
-![Access your Subiz account](../.gitbook/assets/image%20%285%29.png)
+**Step 1:** Access Subiz Payment's page for check invoices you have to pay. 
 
-**Step 2:** Select the package information
+**Step 2:** choose SUBSCRIBE NOW. Account will be upgraded and self generated invoice. To make a payment via credit card, select Add card&gt; Fill out credit or debit card information&gt; Choose Make Primary&gt; Complete 
 
-[Subiz](https://subiz.com/en%20) is a subscription service, which will be charged based on three factors:
+![Fill out credit or debit card information](../.gitbook/assets/thanh-toan-qua-the-tin-dung.jpg)
 
-* **Package Type:** Standard / Advanced
-* **Agent number:** The number of person login Subiz
-* **Payment cycle:** 01, 03, 06, 12, 24 months
+**Step 3:** On - Auto Charge
 
-You just need to select the appropriate service package, fill in the information and click on **Subscribe Now**.
-
-![Choose the suitable package](https://lh3.googleusercontent.com/_hM258NBqJBbYjmJqBhX3SBlgP1p4qHG6au1FnaVnxsMHWaSokOBs3MHCIfVxBX7wAZADbWzMTkHSm3F2cuOW59FUe55SOtWYJ8BsTiayNAWhfpYSMS1a4FkP-pr8A4RNUw3DUea)
-
-After filling in the package you choose, click **Subscription Now**, the credit card payment interface will be displayed as follows:
-
-![Fill in the information](https://lh4.googleusercontent.com/V3ElTZzDV4BqgdE5YbK_-2miLS4q96Lin4zszJ78yetPrNi6X5pjM4V3gxPgwZa5MM7-Dys-4LdfUgLsEihhDFpXRvFIdPw-a2JKS9s-lTdZft1ApDgQfFmMgXnp5uC7yqU1ax5I)
-
-When you make a successful payment, **your account will be upgraded immediately**, and the system will send a successful delivery confirmation to your registration email.
-
-Here's an interface that shows your account information when you've completed the upgrade:
-
-![Upgrade completed ](https://lh4.googleusercontent.com/TXu6OQtIDNbIHQkfkysDXcQaXi_89vrr0rAUAZtwlPAvRVra0xLvrHF8ukYTpSy4EbzK-xfap7DTrxVye6xo0EIcFAd_amxWqvp4CCdVeCnMuZCSaebb6IbT1IR8q4kOLtU5aDiA)
-
-{% hint style="info" %}
-After you have successfully upgraded your account, you can change this information at any time.
-{% endhint %}
+![Turn on Auto charge](../.gitbook/assets/auto-charge.jpg)
 
 ### Payment via Bank Transfer
 
-Payment via Bank Transfer is made in 2 simple steps as follows:
+You will go to PAYMENT&gt; Open Bill Payout Invoice to view payment and transfer information to:
 
-**Step 1:** Access your [Subiz account](https://app.subiz.com) go [Settings&gt; Subscription](https://app.subiz.com/payment-home)
-
-**Step 2:** Select the information of the appropriate service package and click on **Bank** **Transfer**, the system will display the amount of transfer and [Subiz ](https://subiz.com/en%20)account information.
-
-![Subiz account information](https://lh4.googleusercontent.com/irRZqu28iTtFwprw7IgKVwUeEPRPOot5Bo7qC_-0-kVA1CdTTWZxWXfs1H2YPfxnkTamaw09WcYB9kmi5XAXOkEgWZBCsDnGW_JbL0OJy9ZZiDDOTHYHmrIZJvyBAIEO1zgmv0kV)
+* Account number: 0451001477880 At Bank for Foreign Trade of Vietnam - Thanh Cong Branch - Hanoi 
+* Account holder: VietnamBIZ Online Solution JSC
+* Transfer content: Purchase service for "Account ID" or "website" or "login email Subiz"
 
 {% hint style="info" %}
-The system will automatically display the corresponding Subscription information:
-
-* Amount of payment
-* Content of transfer
-* Amount number of payment
+If you have any questions and need further assistance, please send a request to Support@Subiz.com
 {% endhint %}
 
+  
 
 
