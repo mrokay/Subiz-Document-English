@@ -6,6 +6,8 @@ The information and instructions in the [Payment section](https://app.subiz.com/
 
 {% page-ref page="what-kind-of-pricing-packages-are-available.md" %}
 
+{% page-ref page="pay-service-plan-for-subiz.md" %}
+
 {% page-ref page="what-is-the-best-package.md" %}
 
 {% page-ref page="how-to-charge-subiz.md" %}
@@ -16,6 +18,5 @@ The information and instructions in the [Payment section](https://app.subiz.com/
 
 {% page-ref page="faqs.md" %}
 
-  
-
+{% page-ref page="manage-email-owner.md" %}
 
