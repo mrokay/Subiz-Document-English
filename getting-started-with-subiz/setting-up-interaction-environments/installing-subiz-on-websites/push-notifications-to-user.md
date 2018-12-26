@@ -10,6 +10,8 @@ description: >-
 
 When there is a new message on Subiz widget, Users will receive notifications on their browser even if they exited your website. When users click on the message notification, they will come back to your website again and from there, they can continue a conversation through Subiz chat widget. If users have turned off their browser, then the browser opens and the message notification will be displayed.
 
+![Destop notification on destop user](../../../.gitbook/assets/noti-user.png)
+
 Push Notification help Bussiness:
 
 * Keep users back when they have exited the website.
@@ -22,7 +24,7 @@ Push Notification help Bussiness:
 
 Subiz widget is designed with function Notification for users to subscribe to notifications.
 
-
+![User turns on Notification on Subiz widget](../../../.gitbook/assets/noti-widget-copy.jpg)
 
 Alternatively, you can use Subiz API Javascript to call users. This is the API Guide. You can optionally place on the Menu bar or ask visitors to subscribe to notifications as soon as they enters the website.
 
