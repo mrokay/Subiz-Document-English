@@ -6,7 +6,7 @@ description: >-
 
 # Push notifications to user
 
-### What is push notification?
+### What are Push Notifications?
 
 When there is a new message on Subiz widget, Users will receive notifications on their browser even if they exited your website. When users click on the message notification, they will come back to your website again and from there, they can continue a conversation through Subiz chat widget. If users have turned off their browser, then the browser opens and the message notification will be displayed.
 

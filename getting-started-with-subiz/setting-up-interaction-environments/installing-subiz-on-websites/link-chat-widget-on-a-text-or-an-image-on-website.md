@@ -23,7 +23,7 @@ Note: CSS just for hiding Subiz widget on mobile version
  `.widget_mobile .button-chat { display: none; }`
 {% endhint %}
 
-![CSS customize box of Subiz](../../../../.gitbook/assets/api-widget.jpg)
+![CSS customize box of Subiz](../../../.gitbook/assets/api-widget.jpg)
 
 ### Step 2: Link chat widget to a text or an image on website
 
