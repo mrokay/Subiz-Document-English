@@ -57,7 +57,7 @@ CSS stands for “Cascading Style Sheet”. It describes how HTML elements are t
 
 Firstly, log in app.subiz.com, come to [**Setting &gt; Account &gt; Message &gt; Widget &gt; Customize CSS**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
-![Customized CSS](../../../.gitbook/assets/3%20%283%29.png)
+![Customized CSS](../../../.gitbook/assets/3%20%284%29.png)
 
 Next, **Copy and Paste** the corresponding CSS to customize the component you want, then return to the chat widget settings screen and save the changes.
 

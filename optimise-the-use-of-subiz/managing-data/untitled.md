@@ -16,7 +16,7 @@ When you click on each user, you can check the activity history of that user \(i
 
 When you select a specific user, you will see the user's history of activities and interaction with the business, for example, viewing a page on your website and interacting with you via [Subiz Chat ](https://subiz.com/live-chat.html)or [Email](https://subiz.com/email.html).
 
-![Activities List ](../../.gitbook/assets/3%20%284%29.png)
+![Activities List ](../../.gitbook/assets/3%20%285%29.png)
 
 Conversations marked unread messages will display red notifications.
 
@@ -33,7 +33,7 @@ You can follow information's detail of each user including:
 
 To fill in information for the user, click on the arrow below the agent's avatar above the activities list, complete the information and select Save Changes.
 
-![User information](../../.gitbook/assets/4%20%283%29.png)
+![User information](../../.gitbook/assets/4%20%284%29.png)
 
 
 

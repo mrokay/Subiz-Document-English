@@ -4,7 +4,7 @@
 
 You can customize the Subiz widget on your website by going to [**Setting &gt; Account &gt; Message &gt; Widget​**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 
-![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%286%29.png)
+![Customizing Subiz Chat widget](../../../.gitbook/assets/3%20%287%29.png)
 
 At the dialog window, you can make custom components of the window to suit your needs:
 
@@ -23,7 +23,7 @@ Select where the widget will appear on your website: **Bottom Left/ Bottom Right
 
 **The position of the** [**Subiz widget**](https://app.subiz.com/settings/widget-setting) **should match the design of the website so that it is easy to identify, and not overlap other applications of the website.**Currently, a large percentage of business set up the Subiz widget at bottom right corner.
 
-![Widget position](../../../.gitbook/assets/5%20%283%29.png)
+![Widget position](../../../.gitbook/assets/5%20%284%29.png)
 
 {% hint style="info" %}
 **The position of the** [**Subiz widget** ](https://app.subiz.com/settings/widget-setting)**should match the design of the website so that it is easy to identify, and not overlap other applications of the website.** Currently, a large percentage of business set up the Subiz widget at bottom right corner.

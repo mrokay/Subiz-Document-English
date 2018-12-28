@@ -16,7 +16,7 @@ Creating an Agent account has two steps:
 {% tab title="1. Send Agent Invitations" %}
 _Agent Invitation Guide:_ [Login **App.subiz.com**&gt; Select **Settings**&gt; **Account**&gt; **Agent List**&gt; **Invite Agent**](https://app.subiz.com/settings/agents-list)\*\*\*\*
 
-![Invite Agent](../../../.gitbook/assets/1%20%283%29.png)
+![Invite Agent](../../../.gitbook/assets/1%20%284%29.png)
 
 Here, **fill in the agent's information and select the right**&gt; choose **Invite Agent**
 
@@ -32,7 +32,7 @@ The Invited Agent will receive a confirmation email confirming activation of the
 
 This agent needs to **login Email**&gt; **Check mail Subiz**&gt; Select **"Join your team"**
 
-![Confirmation email](../../../.gitbook/assets/3%20%285%29.png)
+![Confirmation email](../../../.gitbook/assets/3%20%286%29.png)
 
 {% hint style="danger" %}
 When an Agent is invited without activating the account, the Agent's status in the Agent list is "Pending".
@@ -52,7 +52,7 @@ When you are granted **Full access** to **Account Management** and **Account Set
 
 Instruction:[ Sign In **App.subiz.com**&gt; **Setting**&gt; **Account**&gt; **Agent List**](https://app.subiz.com/settings/agents-list)&gt; Select **Agent to Edit**/ **Delete**&gt; Select **Edit/ Delete Button**
 
-![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%285%29.png)
+![Edit Agent&apos;s information](../../../.gitbook/assets/4%20%286%29.png)
 
 Lock Agent as follows: Select the **Edit / Delete button**&gt; **Deactivate** Agent Status&gt; Select **Save**.
 
