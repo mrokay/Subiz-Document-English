@@ -38,9 +38,9 @@ Automation - Send automatic messages when agents are offline \(upcoming update\)
 
 | Browser | Operation system |
 | :--- | :--- |
-| Chrome phiên bản 42+ trở lên | Windows, Mac OS X, Linux and Android |
-| Firefox \(V 44+ cho desktop; 48+ cho mobile\) | Windows, Mac OS X, Linux và Android |
-| Opera \(v 42+ cho desktop; 37+ cho mobile\) | Windows, Mac OS X, Linux và Android |
+| Chrome \(version 42+\) | Windows, Mac OS X, Linux and Android |
+| Firefox \(V 44+ for desktop; 48+ for mobile\) | Windows, Mac OS X, Linux và Android |
+| Opera \(v 42+ for desktop; 37+ for mobile\) | Windows, Mac OS X, Linux và Android |
 | Safari \(version 7.1+\) | Mac OS Mavericks onwards desktops |
 | Edge \(version 42+\) | Windows 10 |
 
