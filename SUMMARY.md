@@ -5,6 +5,7 @@
 * [Getting Started](getting-started-with-subiz/README.md)
   * [Set up the interaction channel](getting-started-with-subiz/setting-up-interaction-environments/README.md)
     * [Installing Subiz on Websites](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/README.md)
+      * [Integrate Subiz on some website platforms](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/integrate-subiz-on-some-website-platforms.md)
       * [Customizing Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/setting-subiz-chat-widget.md)
       * [Creative on Subiz Chat widget](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget.md)
       * [Customize chat button](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customize-bubble-button.md)
