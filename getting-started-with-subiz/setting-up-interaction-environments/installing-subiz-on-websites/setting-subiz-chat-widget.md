@@ -1,6 +1,6 @@
 # Customizing Subiz Chat widget
 
-\*\*\*\*[**Subiz chat widget**](https://app.subiz.com/settings/widget-setting) **is a chat box which is integrated into your website, where visitors used to talk to Agents right on your website.** Not only where you interact with your customers, but also where you assert the brand, service and reputation quality of the business.
+\*\*\*\*[**Subiz chat widget**](https://app.subiz.com/settings/widget-setting) **is a chat windown which is integrated into your website, where visitors will talk to Agents right on your website.** Not only where you interact with your customers, but also where you assert the brand, service and reputation quality of the business.
 
 You can customize the Subiz widget on your website by going to [**Setting &gt; Account &gt; Message &gt; Widget​**](https://app.subiz.com/settings/widget-setting)\*\*\*\*
 

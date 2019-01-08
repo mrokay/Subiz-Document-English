@@ -6,16 +6,19 @@ description: How to integrate Subiz on some popular website platforms
 
 ### Using plugin on WordPress \(upcoming\)
 
-* **Install Plugin Subiz** [Log in](https://login.wordpress.org/?locale=en_US) to your Wordpress account &gt; Open Admin Panel &gt; Plugins &gt; Add New &gt; Find Subiz plugin and click on Install Now 
-*  **Add License ID**  \([see your Subiz License ID](https://app.subiz.com/settings/)\) ****After installing Subiz plugin &gt; Go to Settings &gt; Subiz &gt; Installations &gt; Enter your License ID &gt; Save Note: You can also change to new Subiz account by filling a new license ID &gt; Save changes 
-* **Customize Subiz widget** You can choose the widget color and the chat button that match your website &gt; Save changes ****
-* **Set up Push Notifications**  
-  Select the style of Push Notifications on the browser, there are 3 styles for you to choose &gt; Select Notification style &gt; Save changes
+* **Install Plugin Subiz** [Log in](https://login.wordpress.org/?locale=en_US) to your Wordpress account &gt; Open Admin Panel &gt; Plugins &gt; Add New &gt; Find Subiz plugin and click on Install Now
+
+![Installing Subiz plugin on WordPress ](../../../.gitbook/assets/plugin-subiz-copy.jpg)
+
+*  **Installations of Subiz widget**  After installing Subiz plugin &gt; Go to Settings &gt; Subiz &gt; Installations &gt; Enter License ID \([see your Subiz License ID](https://app.subiz.com/settings/)\) &gt; Click Install Subiz Widget Note: You can also change to new Subiz account by filling a new license ID &gt; Save changes 
+* **Widget Customize** You can choose Widget color and chat button that match your website &gt; Save changes ****
+* **Browser's Notification Options**   
+  Set up [Push Notifications](https://help-en.subiz.com/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/push-notifications-to-user) on browser of user, there are 3 styles for Notification Button &gt; Select the style &gt; Save
 
   Note:
 
-  * Style 1: you can change the logo image and content message to get more accepts
-  * Styles 2 and 3: you can choose the image type \(CTA notification icon\) that are appropriate for the website and your require.
+  * Style 1: you can change the logo image and content message for Notification invitation.
+  * Styles 2 and 3: you can choose an image to user as Notification button \(CTA notification button\) that are appropriate for the website and your require.
 
 ### Embedding code on WordPress
 
