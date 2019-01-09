@@ -2,7 +2,7 @@
 
 ## Creative introductions on the chat widget
 
-On special occasions or when there are promotions, you can change and create business introduction right on the Subizchat window to attract and impress your website visitors.
+On special occasions or when there are promotions, you can change and create business introduction right on the Subiz chat window to attract and impress your website visitors.
 
 ### Some popular HTML formats
 

@@ -25,7 +25,7 @@ You can use the Javascript Subiz API to update automatically your default user a
 
 Here is an example of Javascript API to update full-name attribute:
 
-```text
+```c
 <script>
 subiz('updateUserAttributes', [{ key: 'fullname',   text : 'David’ }]);
 </script>
@@ -64,7 +64,7 @@ subiz('updateUserAttributes', [{ key: 'emails’,   text :'example1@domain.com, 
 
 {% tabs %}
 {% tab title="Update simultaneously multiple default attributes" %}
-```text
+```c
 <script>
 subiz('updateUserAttributes', [{ key:'fullname',   text : 'David' },{ key:'phones',   text : '09123456789' } ]);
 </script>
@@ -90,17 +90,15 @@ subiz('updateUserAttributes', [{ key:'khach_hang',   boolean : true }]);
 {% endtab %}
 {% endtabs %}
 
-### 3. API deletes all user data
+### 3. API delete all user data
 
-API allows you to delete user data on Subiz. Deleted user data will be clear on client and on Subiz so that that Subiz agent cann't see these clients.
+API allows you to delete user data on Subiz. The deleted data includes all information on the visitor's browser in Subiz. Therefore, when you deleted, you can't see this user anymore.
 
-{% tabs %}
-{% tab title="API deletes all user data" %}
-`<script>  
-subiz('forgetMe');  
-</script>`
-{% endtab %}
-{% endtabs %}
+```c
+<script>
+subiz('forgetMe');
+</script>
+```
 
 ### 4. API synchronizes user data from Subiz to website
 
@@ -113,6 +111,93 @@ subiz('getUserAttributes', (attributes) => {console.log('user attributes', attri
 </script>`
 {% endtab %}
 {% endtabs %}
+
+### 5. Assign language for Subiz Widget
+
+The API allows the website to assign the display language of Subiz Widget. After that, you can decide which page displays Vietnamese or English.   
+This is an example of Javascript API to assign English for Subiz widget, inside "en" is the language code:
+
+```c
+<script>
+    subiz('setLanguage', 'en');
+</script>
+```
+
+Language code is the representation of names of languages according to [ISO 639-1 standard](https://en.wikipedia.org/wiki/ISO_639-1) \(two characters\) and the language that Subiz currently support. You could refer [the list of languages that Subiz supported](https://help-en.subiz.com/~/edit/drafts/-LVLioXxPNlgPtiVLUrl/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/how-to-customize-language-of-chat-widget).
+
+### 6. Expand / Shrink Subiz Widget
+
+The API allows you to expand Subiz Widget. For example, you can create a button on the website so that when visitors click on that button, the Subiz widget will expand.
+
+* The example bellow will show you API expand Subiz widget via Javascript function.
+
+```c
+<script type="text/javascript">
+    window.subiz('expandWidget')
+</script>
+```
+
+* API attach a link to order to Expand Subiz widget.
+
+```aspnet
+<a href="#nogo" onclick="subiz('expandWidget')">Text of </a>
+```
+
+* API Shrink Subiz widget.
+
+```aspnet
+<script type="text/javascript">
+    window.subiz('shrinkWidget')
+</script>
+```
+
+* API attach the link to shrink Subiz widget.
+
+```aspnet
+<a href="#nogo" onclick="subiz('shrinkWidget')">text của </a>
+```
+
+### 7. Customize CSS
+
+The API allows you use a CSS code to Customize the Subiz widget base on your idea. The function helps you to customize Subiz widget for each website with its own style. 
+
+```c
+<script type="text/javascript">
+    window.subiz('changeCss', '.widget_mini .widget_body {height: 750px !important; max-height: 800px !important;}')
+</script>
+```
+
+You could also refer to instruction [how to custom CSS Subiz chat widget](https://help-en.subiz.com/~/edit/drafts/-LVLioXxPNlgPtiVLUrl/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget).
+
+### 8. API Subscribe Push Notification
+
+The API allows you to actively ask the user if they were agree to receive a notification when their Subiz widget has a new message. You can Link chat widget to a text or an image on website or link to increase the number of people who agree to receive notifications.
+
+* API subscribe to receive notifications.
+
+```aspnet
+<script type="text/javascript">
+    subiz('subscribePushNotification')
+</script>
+```
+
+* API to unsubscribe to receive notifications.
+
+```aspnet
+<script type="text/javascript">
+    subiz('unsubscribePushNotification')
+</script>
+```
+
+* API to check if the user has agreed to receive notifications?
+
+```cpp
+<script type="text/javascript">
+  subiz('checkPushNotification', function(status) {
+    console.log(status)
+  })
+</script>
+```
 
 > Do you need help? Just click on [Subiz.com](https://subiz.com/en) and chat with us!
 
