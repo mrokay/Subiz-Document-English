@@ -10,7 +10,7 @@ Follow 4 steps to install Subiz by plugin on WordPress:
 
 ![4 steps to install Subiz on WordPress](../../../.gitbook/assets/subizplugin_3s-1.gif)
 
-* **Install Plugin Subiz** [Log in](https://login.wordpress.org/?locale=en_US) to your Wordpress account &gt; Open Admin Panel &gt; Plugins &gt; Add New &gt; Find Subiz plugin and click on Install Now
+* **Install Plugin Subiz** [Log in](https://login.wordpress.org/?locale=en_US) to your Wordpress account &gt; Open Admin Panel &gt; Plugins &gt; Add New &gt; Find Subiz plugin and click on Install Now 
 *  **Installations of Subiz widget**  After installing Subiz plugin &gt; Go to Settings &gt; Subiz &gt; Installations &gt; Enter License ID \([see your Subiz License ID](https://app.subiz.com/settings/)\) &gt; Click Install Subiz Widget Note: You can also change to new Subiz account by filling a new license ID &gt; Save changes 
 * **Widget Customize** You can choose Widget color and chat button that match your website &gt; Save changes ****
 * **Browser's Notification Options**   
