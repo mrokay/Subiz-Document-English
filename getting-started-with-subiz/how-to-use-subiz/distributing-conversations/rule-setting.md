@@ -13,7 +13,7 @@ Then start to set up a new rule.
 * **Rule Name:** Enter rule name so that you can easily manage in the rule list
 * **Description**: Describe the condition and purpose of the rule
 
-![Import the file and description of the rule](../../../.gitbook/assets/image%20%2816%29.png)
+![Import the file and description of the rule](../../../.gitbook/assets/image%20%2817%29.png)
 
 ### **Step 2: Select conditions for the rule**
 
