@@ -18,17 +18,17 @@ Please note that, this program applies to each agent individually and does not d
 
 ### **Commissions and payment process**
 
-**There are three commission levels as follows:**
+There are three commission levels as follows:
 
-* **Silver: 0 - 50 Referrals. 10%**
-* **Gold: 51 - 150 Referrals. 20%**
-* **Diamond: from 151 Referrals. 25%**
+* Silver: 0 - 50 Referrals. 10%
+* Gold: 51 - 150 Referrals. 20%
+* Diamond: from 151 Referrals. 25%
 
-**Silver is the default level. Subiz will automatically switch levels when you reach the next level.**
+Silver is the default level. Subiz will automatically switch levels when you reach the next level.
 
 ![](https://lh3.googleusercontent.com/jjfAmUXkpVvi7dllhTW85K4O-zogL7NNlO66p9PgKnRIiefdFlg7DJSbrdSjHlPLkvZR7MuH9txbaEnITMGIdENRavMyh6KFpExqlll-94MsOimKnf19aE81rs2g5EIl2ZEHSX6w)
 
-Your commission will be paid by Subiz on the 15th of every month when the commission amount you earn reaches the payment level you set in the Payment Tab. For example, if you set $ 50 commision, then the amount you earn from $ 50 or more Subiz will pay you on the 15th of the month. Subiz pays via bank transfer. If your bank account is in Vietnam, we will pay in Vietnamese Dong and convert according to Vietcombank's USD / VND exchange rate.
+Your commission will be paid by Subiz on the 15th of every month when the commission amount you earn reaches the payment level you set in the Payment Information Tab. For example, if you set $ 50 commision, then the amount you earn from $ 50 or more Subiz will pay you on the 15th of the month. Subiz pays via bank transfer. If your bank account is in Vietnam, we will pay in Vietnamese Dong and convert according to Vietcombank's USD / VND exchange rate.
 
 ### **Referral management**
 
