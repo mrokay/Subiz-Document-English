@@ -58,6 +58,7 @@
     * [User Attributes](optimise-the-use-of-subiz/managing-data/users-attributes.md)
     * [Synchronize users data with Subiz API](optimise-the-use-of-subiz/managing-data/subiz-api/README.md)
       * [How to use Js API with Google Tag Manager](optimise-the-use-of-subiz/managing-data/subiz-api/how-to-use-js-api-with-google-tag-manager.md)
+      * [Embed code subscribe push notification](optimise-the-use-of-subiz/managing-data/subiz-api/embed-code-subscribe-push-notification.md)
 * [Reports](general-reports/README.md)
   * [Report of conversations](general-reports/conversation-report.md)
   * [Report of users](general-reports/users-report.md)
