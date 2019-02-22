@@ -14,7 +14,7 @@ Subot or the Virtual Assistant on Subiz is an application on Subiz that helps au
 
 ### How to integration Subot?
 
-First of all, you need to integrate Subot into Subiz and set up the operation scripts for Subot as bellows: 
+First of all, you need integrate Subot into Subiz and set up the operation scripts for Subot as bellows: 
 
 * **Step 1:** Integrate Subot Access link [https://app.subiz.com/settings/bots&gt;](https://app.subiz.com/settings/bots>) select Integration&gt; select Subot
 
