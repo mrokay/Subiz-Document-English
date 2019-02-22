@@ -28,6 +28,7 @@
       * [Agent overview](getting-started-with-subiz/how-to-use-subiz/managing-agent/agent-profile.md)
       * [Invite Agent and manage](getting-started-with-subiz/how-to-use-subiz/managing-agent/invite-agent-and-manage.md)
       * [Agents Group](getting-started-with-subiz/how-to-use-subiz/managing-agent/agents-group.md)
+      * [Subot - Auto Reply Bot and Ask user’s Information](getting-started-with-subiz/how-to-use-subiz/managing-agent/subot-auto-reply-bot-and-ask-users-information.md)
       * [Referral Program](getting-started-with-subiz/how-to-use-subiz/managing-agent/referral-program.md)
     * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/README.md)
       * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
