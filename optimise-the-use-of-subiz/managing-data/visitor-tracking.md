@@ -19,7 +19,7 @@ You can gather basic information that will help you gain crucial insights about 
 * **NAME:** Default by visitor code or display the name of the customer if updated information. 
 * **LOCATION:** City / province is determined via IP address. 
 * **PAGE:** Title and link to the page you are viewing on your website. 
-* **REFER / CAMPAIGN:** The source of visitors like Direct access to the website, Organic into the web from the natural search results on the browser, Referring to access the web from the introduction page, Social is the visitor from the website Social, Advertising access web from advertising links, ... Subiz automatically recognizes the UTM campaign link and visitors from which campaign. 
+* **REFER / CAMPAIGN:** The source of visitors like Direct access into the website, Organic into the website from the natural search results on the browser, Referring to access the web from the introduction page, Social is the visitor from the website Social, Advertising access web from advertising links, ... Subiz automatically recognizes the UTM campaign link and visitors from which campaign. 
 * **CONVERSATION:** The total number of conversations with users including Automation sends messages 
 * **SESSIONS:** New user or Return users. 
 
