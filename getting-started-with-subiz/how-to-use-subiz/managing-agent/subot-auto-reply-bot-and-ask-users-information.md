@@ -1,14 +1,15 @@
 ---
 description: >-
-  This article explains how to integrate and use the Subot for Auto Answer and
-  Ask user information.
+  This article explains how to integrate and use the Subot to reply to users on
+  multiple channels and help your team acquire, engage and retain more customers
+  automatically.
 ---
 
-# Subot - Auto Reply Bot and Ask user’s Information
+# Subot - Auto Reply and Ask user’s Information
 
 ### What is Subot? 
 
-Subot or the Virtual Assistant on Subiz is an application on Subiz that helps automate reply and Ask users information. Therefore, businesses will increase interaction with users 24/7 without being dependent on people, converting potential users by asking for information and identifying specific requirements. You can build scripts available for Subot to act as: Automatically respond to customers; Show texting; invite user to receive browser notifications; Ask user contact information. 
+Subot or the Bots on Subiz is an application on Subiz that helps automate reply and Ask users information. Therefore, businesses will increase interaction with users 24/7 without being dependent on people, converting potential users by asking for information and identifying specific requirements. You can build scripts available for Subot to act as: Automatically respond to users; Show "typing..." for at least; invite user to subscribe browser notifications; Ask user contact information. 
 
 ![Subot - Auto Reply Bot and Ask user&#x2019;s Information](../../../.gitbook/assets/ezgif.com-gif-maker.gif)
 
@@ -20,13 +21,13 @@ First of all, you need integrate Subot into Subiz and set up the operation scrip
 
 ![Integration Subot](../../../.gitbook/assets/ezgif.com-gif-maker-2.gif)
 
-* **Step 2:** Set up the script for Subot Subot has been installed by default 4 actions:
+* **Step 2:** Set up the script for Subot. Subot has been installed by default 4 actions:
 
 + Automatic reply after 4s texting users.
 
-+ Show message after 2s.  
-+ Please receive notification on the browser and invite customers to leave contact information after the next 4s.  
-+ Display buttons Receive notifications and save information after the next 1s
++ Show typing after 2s.  
++ Please Subscribe notification on the browser and invite customers to leave contact information after the next 4s.  
++ Display buttons Subscribe Notification and Save Contact Info after the next 1s
 
 You can click on Subot to customize Subot actions, message content, runtime of each action or delete / add any action.
 
@@ -34,7 +35,7 @@ You can click on Subot to customize Subot actions, message content, runtime of e
 
 * **Step 3:** Distribute the conversation to Subot
 
-Go to Install Rule via [https://app.subiz.com/settings/rule-setting](https://app.subiz.com/settings/rule-setting) link to add Subot to receive conversation.
+Go to Install Rule via [https://app.subiz.com/settings/rule-setting](https://app.subiz.com/settings/rule-setting) to distribute the conversation to Subot.
 
 Subot is designed as an agent, only when customer conversations are distributed to Subot does Subot work.
 
@@ -46,7 +47,7 @@ Subot is designed as an agent, only when customer conversations are distributed 
 * Subot only works when you install Rule to distribute conversation for Subot or manually add Subot to the conversation.
 {% endhint %}
 
-### Some implementation script for Subot
+### Some application script for Subot
 
 #### **1.** Subot greet and ask user’s request automatically
 
