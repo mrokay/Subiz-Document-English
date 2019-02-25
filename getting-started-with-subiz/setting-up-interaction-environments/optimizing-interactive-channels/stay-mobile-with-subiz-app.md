@@ -19,13 +19,15 @@ Download Subiz app and sign in with your email and password.
 
 ### 1. Set up Notification
 
-Subiz notification help you stay on top of a new message or a new email of users.
+Subiz notification help you stay on top of users. Every new messages will be instantly notified on your phone screen. You will be in control of whenever there is a visitor willing to chat and respond in time without missing out on any customers interaction opportunities.
 
-Every new messages will be instantly notified on your phone screen. You will be in control of whenever there is a visitor willing to chat and respond in time without missing out on any customers interaction opportunities.
+* Set up notification on App Subiz: **Login, select notification -&gt; New message**. You can choose to receive Notification about a new message or a new conversation. Or if you are busy and just want to follow conversations and the way how agents’ work, you can select Nothing, at that time, you will not receive notification from Subiz.
 
 ![Set up Notification on Subiz app](../../../.gitbook/assets/image-from-ios-2.png)
 
-You can choose to receive Notification about a new message or a new conversation. Or if you are busy and just want to manage conversations and agents’ work, you can opt Nothing to not receive notification from Subiz.
+* Set up notification on the mobile phone: During the set up of notification on the App Subiz, your mobile phone may block notifications from Subiz. Therefore, you need set up permission to receive notifications from the App Subiz on your mobile phone as follows: **Settings -&gt; Notifications -&gt; Subiz -&gt; select On / Allow notification.**
+
+![Set up Notification on Mobile phone](../../../.gitbook/assets/app-mobile.png)
 
 ### 2. Manage and customize user infomation
 
