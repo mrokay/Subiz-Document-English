@@ -10,7 +10,7 @@ description: >-
 
 Referral program creates the opportunity of cooperating between Subiz and partners \(Agents\) based on introducing potential customers to Subiz. That is way to help Subiz develop and you could earn more extra money.
 
-When you are Agent who use Subiz, you will have a ****referral link on your Subiz account, please share the link to your friends via many ways: Facebook, Email, message… If they have not registered immediately, a 120-day storage cookie will be recorded on their computer and during this time if they return to register, you will still be counted as a referral. Subiz also has advertising programs to pull them back to Subiz website to register.
+When you are Agent on Subiz, you will have a ****referral link on your Subiz account, please share the link to your friends via many ways: Facebook, Email, message… If they have not registered immediately, a 120-day storage cookie will be recorded on their computer and during this time if they return to register, you will still be counted as a referral. Subiz also has advertising programs to pull them back to Subiz website to register.
 
 Next, all your introduced customer who have just registered a new Subiz account will be taken care by Subiz experts. We help them use Subiz effectively and proceed to pay. On each bill they pay, you will receive a commission - as a thank you from Subiz. Not only the first bill, the following bills will also receive commissions. Because Subiz customers are subscribers and long-term use.
 
