@@ -45,8 +45,8 @@ You can set one or more conditions based on **List of rule condition**.
     <tr>
       <td style="text-align:left"><b>Date Time</b>
       </td>
-      <td style="text-align:left">​</td>
-      <td style="text-align:left">​</td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left">&#x200B;</td>
     </tr>
     <tr>
       <td style="text-align:left">Hour of day</td>
@@ -60,7 +60,7 @@ You can set one or more conditions based on **List of rule condition**.
     <tr>
       <td style="text-align:left">Day of week</td>
       <td style="text-align:left">When you want to assign conversations to agents based on days in week.Note:
-        days of week are recorded as numbers from 2-8. Monday = 2, Tuesday = 3…,
+        days of week are recorded as numbers from 2-8. Monday = 2, Tuesday = 3&#x2026;,
         Sunday = 8.</td>
       <td style="text-align:left">You install 2 rules: the first 3 days for Agent A and 3 days for Agent
         B in the weekend.
@@ -70,8 +70,8 @@ You can set one or more conditions based on **List of rule condition**.
     <tr>
       <td style="text-align:left"><b>Conversation</b>
       </td>
-      <td style="text-align:left">​</td>
-      <td style="text-align:left">​</td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left">&#x200B;</td>
     </tr>
     <tr>
       <td style="text-align:left">Page URL</td>
@@ -79,7 +79,7 @@ You can set one or more conditions based on **List of rule condition**.
         identify which URL customers are viewing and assign the conversation to
         each Agent.</td>
       <td style="text-align:left">
-        <p>Visitors to Subiz's website will be distributed to Agent A</p>
+        <p>Visitors to Subiz&apos;s website will be distributed to Agent A</p>
         <p>Condition: Page URL - contains - Subiz.com</p>
       </td>
     </tr>
@@ -89,7 +89,7 @@ You can set one or more conditions based on **List of rule condition**.
         to assign conversations from specific pages to suitable agents.</td>
       <td
       style="text-align:left">
-        <p>Visitors to the page titled "Camera" will distribute the conversation
+        <p>Visitors to the page titled &quot;Camera&quot; will distribute the conversation
           to Agent A.</p>
         <p>Condition: Page Title - Contains - Camera</p>
         </td>
@@ -98,9 +98,9 @@ You can set one or more conditions based on **List of rule condition**.
       <td style="text-align:left">Message Content</td>
       <td style="text-align:left">When the first message of customer contains a certain content, you can
         assign the conversation to suitable agents.</td>
-      <td style="text-align:left">When the user's first message contains the word "price," the conversation
-        will be distributed to Agent A. Condition: Message content - contains -
-        price</td>
+      <td style="text-align:left">When the user&apos;s first message contains the word &quot;price,&quot;
+        the conversation will be distributed to Agent A. Condition: Message content
+        - contains - price</td>
     </tr>
     <tr>
       <td style="text-align:left">Browser language</td>
@@ -130,15 +130,16 @@ You can set one or more conditions based on **List of rule condition**.
     <tr>
       <td style="text-align:left"><b>User</b>
       </td>
-      <td style="text-align:left">​</td>
-      <td style="text-align:left">​</td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left">&#x200B;</td>
     </tr>
     <tr>
       <td style="text-align:left">Name</td>
       <td style="text-align:left">Identify name of customers and assign conversation to a specific agent.</td>
       <td
       style="text-align:left">
-        <p>The customer's conversation delivery has the name of the Service Agent</p>
+        <p>The customer&apos;s conversation delivery has the name of the Service
+          Agent</p>
         <p>Condition: Name - Not empty</p>
         </td>
     </tr>
@@ -146,22 +147,22 @@ You can set one or more conditions based on **List of rule condition**.
       <td style="text-align:left">Email</td>
       <td style="text-align:left">Identify email of customers and assign conversation to a specific agent.</td>
       <td
-      style="text-align:left">Deliver the user's conversation who has email address to consultant. Condition:
-        Email Address - Not empty</td>
+      style="text-align:left">Deliver the user&apos;s conversation who has email address to consultant.
+        Condition: Email Address - Not empty</td>
     </tr>
     <tr>
       <td style="text-align:left">Phone</td>
       <td style="text-align:left">Identify phone number of customers and assign conversation to a specific
         agent. Phone numbers are a set of numbers, not contain special characters</td>
       <td
-      style="text-align:left">Deliver the user's conversation with an email address to the Agent who
-        in charge Call Center. Condition: Phone number - Not empty</td>
+      style="text-align:left">Deliver the user&apos;s conversation with an email address to the Agent
+        who in charge Call Center. Condition: Phone number - Not empty</td>
     </tr>
     <tr>
       <td style="text-align:left">Country</td>
-      <td style="text-align:left">Use when you want to rely on the user's Country to distribute the conversation
-        to the agent. Country name by international standard, refer to the list
-        of countries. Example: Vietnam, United States</td>
+      <td style="text-align:left">Use when you want to rely on the user&apos;s Country to distribute the
+        conversation to the agent. Country name by international standard, refer
+        to the list of countries. Example: Vietnam, United States</td>
       <td style="text-align:left">User in Vietnam will distribute dialogues for local agents Condition:
         Country - is - Vietnam</td>
     </tr>
@@ -178,10 +179,10 @@ You can set one or more conditions based on **List of rule condition**.
     </tr>
     <tr>
       <td style="text-align:left">City</td>
-      <td style="text-align:left">Use when you want to rely on your city's address to distribute the conversation.
-        As the English name of the city, only capitalize the first letters of the
-        word. Refer to the name of each country. For example: Hanoi, Ho Chi Minh
-        City, New York, Hong Kong.</td>
+      <td style="text-align:left">Use when you want to rely on your city&apos;s address to distribute the
+        conversation. As the English name of the city, only capitalize the first
+        letters of the word. Refer to the name of each country. For example: Hanoi,
+        Ho Chi Minh City, New York, Hong Kong.</td>
       <td style="text-align:left">
         <p>Distributed dialogue for user from Hanoi for agent Hanoi</p>
         <p>Condition: City - is - Hanoi</p>
@@ -189,9 +190,9 @@ You can set one or more conditions based on **List of rule condition**.
     </tr>
     <tr>
       <td style="text-align:left">Timezone</td>
-      <td style="text-align:left">Deliver the conversation based on the user's time zone. Timezone code
-        is based on UTC. Refer to the timezone zone list. Example: Vietnam and
-        Southeast Asia - UTC +7 G</td>
+      <td style="text-align:left">Deliver the conversation based on the user&apos;s time zone. Timezone
+        code is based on UTC. Refer to the timezone zone list. Example: Vietnam
+        and Southeast Asia - UTC +7 G</td>
       <td style="text-align:left">Distributed dialogue for customers from South East Asia for Agent A South
         East Asia. Condition: Time zone - is - UTC +7 G</td>
     </tr>

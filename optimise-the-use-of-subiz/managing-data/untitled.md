@@ -4,40 +4,32 @@ User is the customer who interacted you via [Subiz](https://subiz.com/en), inclu
 
 On page [ACTIVITIES](https://app.subiz.com/activities), you can track and manage user list, activities list of user and edit user information.
 
-### User list
+### User list 
 
-The user list displayed is the user that has been assigned to you. Alternatively, you can use the filter to search for users by segment and check the list of unassigned conversations.
+The users list are all of users who have conversation via multiple channels with agent. Agent can search users base on information such as Full Name, Email Address, Phone Number. 
 
-A user will be displayed by name and avatar. The avatar of the user who is online \(blue dot\) or offline \(gray dot\). If there is a new conversation with the user, you will see the message and the time the message was sent.
+There are 4 segment of user lists for agent tracking and manage user. 
 
-When you click on each user, you can check the activity history of that user \(in List Activities\) and start the conversation with the user.
+* My user: Every agent will have a separate "My User" list who have a conversation with the agent before. Agent will follow the users who they supported.
+*  Connected users: All users have conversations with the agents in the account. Connected users help managers to manage user contact status and the way how to agent support them. 
+* Unassigned conversations: The user’s conversations that have not been assigned to the agent will be automatically transferred to "Unassigned conversations". Agent can check and answer users. See more Distributed Rule settings for conversation with agents. 
+* Tickets: The list of users that have tickets needs follow and processed. See more instructions how to use Ticket to Manage Customer Care. 
 
-### Activities List 
+![User list](../../.gitbook/assets/quan-ly-thong-tin.png)
 
-When you select a specific user, you will see the user's history of activities and interaction with the business, for example, viewing a page on your website and interacting with you via [Subiz Chat ](https://subiz.com/live-chat.html)or [Email](https://subiz.com/email.html).
+Conversations marked unread messages will display red notifications. The avatar of the user instate of online \(blue dot\), otherwise the user is offline.
 
-![Activities List ](../../.gitbook/assets/3%20%285%29.png)
+### User information 
 
-Conversations marked unread messages will display red notifications.
+**Agent can follow a new user base on their address of the City + user code and Country.** You can click to select user and change user information such as Full name, Email address, Phone number ..... In order to update and manage multiple user data such as Billing cycle, Account ID, Website, ... you can add USER ATTRIBUTES as instructed here.
 
-With activities that are conversations, clicking on each activity will display details in the interactive window in the third column.
+![Edit user information](../../.gitbook/assets/thong-tin-user.png)
 
-### User information
+### User’s activities list 
 
-You can follow information's detail of each user including:
+When agent click to any user, you can track the User's activity list including View page on website, conversation history via multiple channels like Subiz chat, Messenger, Email. Conversations marked unread messages will display red notifications. Agent can Note user information, their issues or overview situation of customer support.
 
-* Name
-* phone number
-* Email address
-* Address
-
-To fill in information for the user, click on the arrow below the agent's avatar above the activities list, complete the information and select Save Changes.
-
-![User information](../../.gitbook/assets/4%20%284%29.png)
-
-
-
-
+![User&#x2019;s activities list ](../../.gitbook/assets/lich-su-chat.png)
 
 
 
