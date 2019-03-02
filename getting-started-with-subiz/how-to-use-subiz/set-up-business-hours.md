@@ -56,7 +56,7 @@ Example: Distribute the work shift for the Agents in business Hours and out of b
 
 ### Subot automatically responds to customers outside working hours
 
-Refer to the instructions for Auto Reply and Ask user’s Information
+Refer to the instructions for  [Subot -  Auto Reply and Ask user’s Information](https://help-en.subiz.com/getting-started-with-subiz/how-to-use-subiz/managing-agent/subot-auto-reply-bot-and-ask-users-information)
 
 Example: When user send message out of business hours, Subot will automatically inform about the in state of agent and ask users their contact information.
 
