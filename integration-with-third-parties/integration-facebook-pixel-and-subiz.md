@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document describes how to integrate and read interactive data between
-  Subiz and Facebook Pixel.
+  This document describes how to integrate and read SUBIZ chat data on Facebook
+  Pixel.
 ---
 
 # Integration Facebook Pixel and Subiz
