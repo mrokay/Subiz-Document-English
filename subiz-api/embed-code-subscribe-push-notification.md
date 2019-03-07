@@ -13,7 +13,7 @@ Subscribe Push Notification is a powerful feature that helps you attract the Use
 
 The script is to set a popup to ask if the visitor agrees to receive the notification. When users click agree, Subiz API Javascript will call to receive notifications to activate the installation.
 
-![The screen asks the customer to agree to receive browser notifications](../../../.gitbook/assets/4.-browser-notification-option.png)
+![The screen asks the customer to agree to receive browser notifications](../.gitbook/assets/4.-browser-notification-option.png)
 
 ### How to installation in your website 
 
