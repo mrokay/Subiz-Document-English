@@ -63,5 +63,5 @@ From these data, you can use it to analyze visitor behavior on Google Analytics 
 ⏩ **When will Subiz send data to Google Analytics?** _At the time of the event._
 
 [How to view Subiz reports on Google Analytics.   
-](https://help-en.subiz.com/general-reports/google-analytics-and-subiz-chat-integration)Subiz works with Facebook Pixel.
+](https://help-en.subiz.com/general-reports/google-analytics-and-subiz-chat-integration)[Subiz works with Facebook Pixel.](https://help-en.subiz.com/integration-with-third-parties/untitled-1)
 
