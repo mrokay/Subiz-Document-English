@@ -60,7 +60,7 @@
     * [User Attributes](optimise-the-use-of-subiz/managing-data/users-attributes.md)
 * [Integration with third parties](integration-with-third-parties/README.md)
   * [Integration Google Analytics and Subiz](integration-with-third-parties/integration-google-analytics-and-subiz.md)
-  * [Untitled](integration-with-third-parties/untitled-1.md)
+  * [Integration Facebook Pixel and Subiz](integration-with-third-parties/untitled-1.md)
 * [Synchronize users data with Subiz API](subiz-api/README.md)
   * [How to use Js API with Google Tag Manager](subiz-api/how-to-use-js-api-with-google-tag-manager.md)
   * [Embed code subscribe push notification](subiz-api/embed-code-subscribe-push-notification.md)
