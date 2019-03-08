@@ -17,7 +17,7 @@ Subiz lets you create and generate new attributes about your users, based on cri
 
 To add a new attribute, you log in [App.subiz.com &gt; SETTING &gt; ACCOUNT &gt; User Attributes &gt; Select New Attribute](https://app.subiz.com/settings/user-attributes#)
 
-![Create new attribute on Subiz](../../../.gitbook/assets/123.png)
+![Create new attribute on Subiz](../../.gitbook/assets/123.png)
 
 ### 2. API updates user attributes on Subiz
 
