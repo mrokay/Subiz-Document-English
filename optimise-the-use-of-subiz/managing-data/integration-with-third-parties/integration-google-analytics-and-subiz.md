@@ -42,7 +42,7 @@ The user sends a message via the Subiz chat window
 {% endtab %}
 {% endtabs %}
 
-![Subiz data sent to Google Analytics](../.gitbook/assets/tich-hop.png)
+![Subiz data sent to Google Analytics](../../../.gitbook/assets/tich-hop.png)
 
 ### Data Mining 
 

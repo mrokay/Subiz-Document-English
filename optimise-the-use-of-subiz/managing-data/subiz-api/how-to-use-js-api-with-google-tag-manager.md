@@ -12,7 +12,7 @@ In this example, the scenario is when the visitor access a landing pages, after 
 
 **Step 1:** Login your Google Tag Manager account, select the website and your workspace. Next, create a new tag with the tag type "Custom HTML" and use the JavaScript API Open Subiz Widget. 
 
-![Create a new tag with Custom HTML and use the JavaScript API Open Subiz Widget](../.gitbook/assets/1%20%283%29.png)
+![Create a new tag with Custom HTML and use the JavaScript API Open Subiz Widget](../../../.gitbook/assets/1%20%283%29.png)
 
 **Step 2:** You create a Trigger for the tag as above.
 
@@ -23,7 +23,7 @@ In the "Percentages" box, select the percentage that you want when the visitor s
 In the "This trigger fires on" section, you can select All page - This means it works on every page; or Some Pages - specify a specific page.   
 I choose "Some Pages" and under I will choose the url containing the word "LandingPage". That means, it only works on URLs that contain "landingPage". 
 
-![](../.gitbook/assets/2%20%285%29.png)
+![](../../../.gitbook/assets/2%20%285%29.png)
 
   
 Then you **SAVE&gt; SUBMIT&gt; PUBLISH**. Use Previews to check if necessary. The Subiz widget will open automatically when the customer scrolls 60% of the screen.
@@ -54,7 +54,7 @@ function() {
 }
 ```
 
-![Create new Variable  identify Mobile devices. ](../.gitbook/assets/3%20%283%29.png)
+![Create new Variable  identify Mobile devices. ](../../../.gitbook/assets/3%20%283%29.png)
 
 **Step 2:** Create Tag to call Subiz API Javascript to change CSS.Create a new tag of type Custom HTML and enter the following code to hide the Subiz widget on mobile: 
 
@@ -64,12 +64,12 @@ function() {
 </script>
 ```
 
-![](../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5%20%283%29.png)
 
   
 **Step 3:** Create a trigger for the tag as below: At the trigger page, create a new trigger with the Page View type. Use Variables "is Mobile" to identify Page View with Mobile. You set it as below: 
 
-![Use Variables &quot;is Mobile&quot; to set up triggers.](../.gitbook/assets/4%20%283%29.png)
+![Use Variables &quot;is Mobile&quot; to set up triggers.](../../../.gitbook/assets/4%20%283%29.png)
 
 Now you can **SAVE&gt; SUBMIT&gt; PUBLISH** on the website. Use the Preview function to check the how it work.
 

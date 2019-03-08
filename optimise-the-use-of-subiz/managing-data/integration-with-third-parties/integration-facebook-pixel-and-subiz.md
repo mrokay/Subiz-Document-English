@@ -37,7 +37,7 @@ The user sends a message via the Subiz chat window
 {% endtab %}
 {% endtabs %}
 
-![Subiz data will be available in Facebook Pixel.](../.gitbook/assets/facebook-pixel.png)
+![Subiz data will be available in Facebook Pixel.](../../../.gitbook/assets/facebook-pixel.png)
 
 ### Data Mining 
 
