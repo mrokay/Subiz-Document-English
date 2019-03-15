@@ -52,7 +52,7 @@ You could refer Subiz data fields as bellows:
 | _Sale price_ | The price discounted. Example 980,000. |
 | _Fields_ | The other custom data you would like to upload. |
 
-### Frequently asked questions about 
+### Frequently asked questions
 
 1. **Products How to update a product data?** You can create a CSV file containing that product separately. Subiz will identify by ID \(product code\) to overwrite the data. 
 2. **Does Subiz have automatic data synchronization from the website?** We are developing this function.
