@@ -44,6 +44,7 @@
     * [Add Tags to a conversation](getting-started-with-subiz/working-on-subiz/add-tags-to-a-conversation.md)
     * [Ticket for professtional customer service on Subiz](getting-started-with-subiz/working-on-subiz/ticket-for-professional-customer-service-on-subiz.md)
 * [Using advanced Subiz](optimise-the-use-of-subiz/README.md)
+  * [Product](optimise-the-use-of-subiz/product.md)
   * [Automatic interaction](optimise-the-use-of-subiz/how-to-enhance-interactions/README.md)
     * [Automation setting](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled.md)
     * [Sending messages to user automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/untitled-1.md)
