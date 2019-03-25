@@ -1,20 +1,18 @@
-# How to change packages?
+# How to change Subscription information?
 
-When using [Subiz](https://subiz.com/en%20), depending on your business situation and development strategy, you can change your account information at any time to suit your needs.
+During your payment period, you can change your subscription information at any time in order to match your needs.
 
-### Upgrade/ Downgrade Account 
+### Upgrade your account plan
 
-#### Upgrade Account <a id="nang-cap-tai-khoan"></a>
+* **Upgrade from Free plan to Standard plan or Advanced plan**
 
-* **Free Plan to Paid Plan**
-
-If your account is free, and you want to upgrade to a paid plan, you need to log in your [Payments page](https://app.subiz.com/payment-home), then select the appropriate Agent number and cycle, and click on **Subscribe Now** 
+If your account is in free plan, to upgrade your account, go to page [PAYMENT](https://app.subiz.com/payment-home) &gt; Choose a plan that fits you as Standard or Advanced &gt; Choose the number of Agents &gt; Select Billing Cycle, either monthly or yearly &gt; Click SUBSCRIPTION NOW to provide your credit card for payment.
 
 ![Upgrade to Standard Plan](../.gitbook/assets/image-1.png)
 
-* **Standard Package to Advanced Package**
+* **Upgrade from a Standard plan to Advanced plan**
 
-If you want to upgrade the Basic package to the Advanced package, click on **Your Plan** 
+If you want to upgrade from Standard plan to Advanced plan, click More &gt; Change Plan &gt; Choose Advanced plan &gt; Select UPGRADE NOW
 
 ![Click on Your Plan](../.gitbook/assets/your-plan.png)
 

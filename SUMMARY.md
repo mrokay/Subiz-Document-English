@@ -75,7 +75,7 @@
   * [Pay Service Plan for Subiz](payment/pay-service-plan-for-subiz.md)
   * [Contracts and invoices for businesses](payment/what-is-the-best-package.md)
   * [Renewal Payment of Subiz](payment/how-to-charge-subiz.md)
-  * [How to change packages?](payment/how-to-change-pricing-packages.md)
+  * [How to change Subscription information?](payment/how-to-change-pricing-packages.md)
   * [FAQs](payment/faqs.md)
   * [Refund policy](payment/checking-current-account.md)
   * [Manage email owner](payment/manage-email-owner.md)
