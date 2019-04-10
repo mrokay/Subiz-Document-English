@@ -23,6 +23,7 @@
       * [FAQs](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/README.md)
         * [Problems with Dashboard logging](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/problems-with-dashboard-logging.md)
         * [I haven't received any Subiz Emails](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/i-dont-receive-any-subiz-emails.md)
+        * [The browser supports Subiz Widget and Dashboard](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/faqs/the-browser-supports-subiz-widget-and-dashboard.md)
   * [Operating Management](getting-started-with-subiz/how-to-use-subiz/README.md)
     * [Set up Business hours](getting-started-with-subiz/how-to-use-subiz/set-up-business-hours.md)
     * [Managing agent](getting-started-with-subiz/how-to-use-subiz/managing-agent/README.md)
