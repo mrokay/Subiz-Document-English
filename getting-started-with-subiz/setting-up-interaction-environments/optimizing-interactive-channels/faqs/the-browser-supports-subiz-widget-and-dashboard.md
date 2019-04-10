@@ -1,4 +1,4 @@
-# The browser supports Subiz Widget and Dashboard
+# The browser supports Subiz Widget and Dashboard logging
 
 Subiz currently supports displaying the chat widget and Dashboard page via App.subiz.com on most of the browsers as bellows:
 
