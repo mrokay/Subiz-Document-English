@@ -1,47 +1,37 @@
 ---
-description: See how many new users have access to your bussiness
+description: See how many new users have access to your bussiness.
 ---
 
-# Report of users
+# Users report
 
-Users report will tell you how many and which channels new users are from. It is a point for evaluation of your conversion rate.
+Users report shows the number of new users who have visited your website or had intersation via Subiz for a period of time. This is also the basis for marketers and managers to assess the overview of users and conversion rate of their Business.
 
-![Users report](../.gitbook/assets/report-copy.jpg)
+### How to filter data in Users report
 
-### Information of users report
+In Users report, you can calculate your users by filtering some fields as Users Segment, Channel, User's attribute, Time.
 
-On users report, you can check the total number of new users over a given time period according to such information as Segments, Channel, Attribute.
+1. All users are the total of users you have had since your Subiz account is activated.
+2. User segment consists of 3 different users groups: All users, My users, Connected users
+   * All users: are who have visited the website or had at least one conversations on Subiz.
+   * My users: are who had at least one conversation with you.
+   * Contacted users: are total of users who had at least one conversation with any agents.
+3.  Channel: There are 4 options to choose channel: 
+   * All channel
+   * Subiz chat
+   * Subiz Email
+   * Messenger
+4. Time: Choose a day or a period of time
 
-{% tabs %}
-{% tab title="Segments" %}
-There are 3 segments: All users, My users, Connected users.
+### How to read Users report
 
-* All users: All new visitors on your website or who had a conversation on Subiz.
-* My users: All new users had at least one conversation with you.
-* Connected users: All new users had a conversation with all agent of your account.
-{% endtab %}
+After selecting fields of users report, you can view a chart of users.
 
-{% tab title="Channel" %}
-There are 3 intersation channels on Subiz as: Subiz chat on website, Facebook messenger, Subiz Email.
-{% endtab %}
+* Vertical axis: Number of users
+* Horizontal axis: Time unit as a day or a period of time
 
-{% tab title="Attribute" %}
-Attribute of users that has been collected and updated by Capture Lead or Agent. You can create your owner [user attribute](https://app.subiz.com/settings/user-attributes#) optimize and enhance support process.
-{% endtab %}
-{% endtabs %}
+Through this users chart, you can evaluate the overall number of users who accessed you during time period.
 
-### How to read users report
-
-After selecting the criteria for report, you will see a chart. 
-
-* Vertical axis: Total number of users 
-* Horizontal axis: Time period. 
-
-This chart shows the number of new users with specific interactions over time period. From there, you can evaluate the total number of users who access, interact over each channel or have specific attribute.
-
-For example:  All new Users have Email Address attribute for the last 30 days
-
-![Users for last 20 days](../.gitbook/assets/user-report-copy.jpg)
-
+For example: Today, you have 329 new users. In the morning, users accessed you the most.  
+  
 
 

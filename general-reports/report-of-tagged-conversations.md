@@ -1,51 +1,26 @@
-# Report of Tagged conversations
+# Tagged conversations report
 
-Subiz Tag is a feature that allows users to tag the interactions on all channels integrated [Subiz](https://subiz.com/en%20). The purpose of this feature is to help agents easily manage and categorize customer interactions such as: Support, Sales, Promotions...
+Subiz tag allows agents to categorize content of conversations with users. Tags not only make it easy to organize conversation content but also are important to understand your users and their problems.
 
-Thanks to this function you can manage interactions according to their content and evaluate the effectiveness of the promotion. For example, your website is running a "Golden Week" promotion. After 7 days, you can statistically count how many interactions are tagged "quote a price", "successful deal"... These statistics will help you valuate the effectiveness of the promotion.
+For example: Tags such as Quote a price or Order will help you identify opportunities and promote sales.
 
-#### Report criteria
+### How to filter data in Tagged conversations report
 
-You can count the Tags according to Channels, Tags and Time
+At Tagged conversations report, you can filter according to some fields as Channel, Tag and Time.
 
-{% tabs %}
-{% tab title="Channels" %}
-Select the channels that you want to filter tagged messages:
+1. Channel: There are 4 options to choose channel: Subiz chat, Subiz Email, Messenger or All channels.
+2. Tag: all about your created Tags
+3. Time: A day or a period of time
 
-![Tags\_ Channels](../.gitbook/assets/tags_channels.png)
-{% endtab %}
+### How to read Tagged conversations report
 
-{% tab title="Tags" %}
-You can count tagged messages according to a specific tag or most used tags.
+After selecting fields of Tagged conversations report, you can view a chart of as followings:
 
-* According to most Used Tags: 5 tags
+* Vertical axis: Number of Tagged conversations
+* Horizontal axis: List of Tags
 
-![Most Used Tags](../.gitbook/assets/most-used-tags.png)
+You can use this report to get custom reports for specific categories of chats. 
 
-* According to a specific tag
-
-![Tag \_Feature Request](../.gitbook/assets/tag_-feature-request.png)
-{% endtab %}
-
-{% tab title="Time" %}
-You can select the time that you want to count tagged messages
-
-![Tags\_ Time](../.gitbook/assets/screenshot_29.png)
-{% endtab %}
-{% endtabs %}
-
-#### How to read report charts
-
-After selecting the report criteria, the data will be displayed as a chart
-
-* **Vertical axis:** Number of Tags
-* **Horizontal axis:** Time axis \(unit of time: date or hour depending on the time period you choose\)
-
-At each intersection, you can see the number of tagged messages  per specific tag at a given time. This will help you manage the interaction more conveniently
-
-For Example: 5 most used Tags in 19th April:
-
-![5 most used Tags](../.gitbook/assets/thong-ke-5-tag-duoc-su-dung-nhieu-nhat.png)
-
+For example: Today, there are 10 conversations that are tagged Quote a price.  
 
 
