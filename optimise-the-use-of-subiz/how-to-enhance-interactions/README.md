@@ -18,11 +18,13 @@ In this automatic Interaction Guide, [Subiz](https://subiz.com/en) has provided 
 
 {% page-ref page="overview-of-automation.md" %}
 
-* A Guide to Setting Conditions in Automation, Helps You Create Automation Actions.
+* Some common automations that you can apply:
 
-{% page-ref page="some-common-automations/untitled-1.md" %}
+{% page-ref page="some-common-automations/" %}
 
-* A guide to setting up an automated email address inquiry when your customers chat on your website.
+* Here are some automation applications that helps you to operate your business automatically
+
+{% page-ref page="automation-applications.md" %}
 
 
 
