@@ -1,4 +1,4 @@
-# Automation setting
+# Overview of Automation
 
 With Automation, now you can automate interaction with your customers, attract visitors’ attention and pursue your customers through multiple channels. You no longer need to rely much on the availability of agents.
 

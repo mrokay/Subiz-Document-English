@@ -12,17 +12,17 @@ When new customers visit your website, you need to send them a greeting so that 
 
 Example: Page URL - contains - abc.com.vn
 
-![Send a message based on URL page](../../.gitbook/assets/page-url.png)
+![Send a message based on URL page](../../../.gitbook/assets/page-url.png)
 
 ### Send a message to visitors who view a specific product on website
 
 If you want to send a promotional message to visitor on a specific product page, or would like to introduce a promotion to your customers on the payment page, you just need to set up Automation according to the page URL of the product 
 
-![Send a message based on Product URL page](../../.gitbook/assets/2018-08-21_14-24.png)
+![Send a message based on Product URL page](../../../.gitbook/assets/2018-08-21_14-24.png)
 
 Or based on the page tittle:
 
-![Send a message based on page tittle](../../.gitbook/assets/page-tittle.png)
+![Send a message based on page tittle](../../../.gitbook/assets/page-tittle.png)
 
 ### Send messages to visitors based on geographic area.
 
@@ -30,13 +30,13 @@ Subiz support you to send a specific message to each customer geographically by 
 
 Condition: Country - is - Vietnam
 
-![Send a message to Vietnamese visitors](../../.gitbook/assets/country.png)
+![Send a message to Vietnamese visitors](../../../.gitbook/assets/country.png)
 
 For foreign customers, you install the message in the English language.
 
 Condition: Country - not is - Vỉetnam
 
-![Send a message to foreign visitors](../../.gitbook/assets/foreign.png)
+![Send a message to foreign visitors](../../../.gitbook/assets/foreign.png)
 
 For National and National code conditions, check the standard at https://countrycode.org/. Where: Country Name is displayed in the COUNTRY and Country Code columns in the ISO CODES column, 2-character code area.
 
@@ -54,7 +54,7 @@ In case you want to send an automated message to a customer, but do not want to 
 
 Condition: User's IP address - not is -
 
-![Except from an IP address](../../.gitbook/assets/ip.png)
+![Except from an IP address](../../../.gitbook/assets/ip.png)
 
 ### Notes for creating Automation sending messages
 
@@ -64,11 +64,11 @@ Condition: User's IP address - not is -
 
 If the visitor does not "hide" this[ Subiz](https://subiz.com/en) widget, the next automated message will be announced in numbers, located at the top left of the chat window. When visitors click on that notification message, all messages will be displayed.
 
-![The message in the chat window is not hidden](../../.gitbook/assets/4%20%282%29.png)
+![The message in the chat window is not hidden](../../../.gitbook/assets/4%20%282%29.png)
 
 If the visitor "hide" the chat window and reads the next pages where you have setted up the automatic message, the message will display as a preview.
 
-![The message appears when the client hides the chat window](../../.gitbook/assets/5.png)
+![The message appears when the client hides the chat window](../../../.gitbook/assets/5.png)
 
 
 

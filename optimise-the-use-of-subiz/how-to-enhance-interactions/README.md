@@ -16,15 +16,13 @@ In this automatic Interaction Guide, [Subiz](https://subiz.com/en) has provided 
 
 * A guide to creating new automation, including conditions and actions.
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="overview-of-automation.md" %}
 
 * A Guide to Setting Conditions in Automation, Helps You Create Automation Actions.
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="some-common-automations/untitled-1.md" %}
 
 * A guide to setting up an automated email address inquiry when your customers chat on your website.
-
-{% page-ref page="untitled-2.md" %}
 
 
 
