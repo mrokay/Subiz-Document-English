@@ -169,6 +169,30 @@ The API allows you use a CSS code to Customize the Subiz widget base on your ide
 
 You could also refer to instruction [how to custom CSS Subiz chat widget](https://help-en.subiz.com/~/edit/drafts/-LVLioXxPNlgPtiVLUrl/getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/customizing-subiz-chat-widget).
 
+### 8. Customize Widget Position
+
+You can customize widget position by utilizing API code as follow:
+
+```text
+subiz('setPosition', 'left') . value left or right
+```
+
+### 9. Customize Widget Type
+
+Customizing widget type: standard or full height by using this API code:
+
+```text
+subiz('setWindowMode', 'full') . value full or mini
+```
+
+### 10. Customize Subiz tittle on header
+
+You can change the instruction on header by using by this API code:
+
+```text
+subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Type", joined_the_conversation: "joined"})
+```
+
 ### 8. API Subscribe Push Notification
 
 The API allows you to actively ask the user if they were agree to receive a notification when their Subiz widget has a new message. You can Link chat widget to a text or an image on website or link to increase the number of people who agree to receive notifications.
