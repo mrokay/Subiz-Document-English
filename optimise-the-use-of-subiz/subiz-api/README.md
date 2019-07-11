@@ -193,7 +193,7 @@ You can change the instruction on header by using by this API code:
 subiz('setLanguageData', {}) . VD subiz('setLanguageData', {message_input_help: "Type", joined_the_conversation: "joined"})
 ```
 
-### 8. API Subscribe Push Notification
+### 11. API Subscribe Push Notification
 
 The API allows you to actively ask the user if they were agree to receive a notification when their Subiz widget has a new message. You can Link chat widget to a text or an image on website or link to increase the number of people who agree to receive notifications.
 

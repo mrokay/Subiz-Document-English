@@ -1,108 +1,335 @@
 # Overview of Automation
 
-With Automation, now you can automate interaction with your customers, attract visitors’ attention and pursue your customers through multiple channels. You no longer need to rely much on the availability of agents.
+### What is Automation?
 
-To create a new Automation, go to the Create New Automation section and perform the following steps:
+Automation is an automatic interaction that is set up to attract customers' attention as soon as visitors come to the website, collect information and automatically pursue customers through channels on Subiz.
 
-### Enter a Name and Description for Automation
+Based on the customers data and the ways you want to take care of your customers, you can set up many different automation actions. Thereby,  you can operate your business automatically but still reach high efficiency.
 
-You can create Automation with one or more concurrent conditions.
+You can start with creating Automation to send promotional information to customers visiting the website: 
 
-![Add a name for Automation](../../.gitbook/assets/name%20%281%29.png)
+![Automation send message ](../../.gitbook/assets/sale.png)
 
-### Select the condition for Automation
+Moreover, you can also apply Automation to send emails to your potential customers:
 
-Select the condition to determine which Automation will target. To fill in the conditions, at first select the type of condition:
+![Send automation email](../../.gitbook/assets/email-sale.png)
 
-![Select the condition](../../.gitbook/assets/screenshot-from-2018-08-21-15-28-02.png)
+### Types of Automation
 
-Then you enter  the value for that condition to create a complete condition.
+You can set up 2 types of Automation concluding: **Creating conversations** and **Workflows**
 
-![](../../.gitbook/assets/screenshot-from-2018-08-21-15-33-39.png)
+* **Create conversation:** This Automation will be set up for proactive actions to reach customers such as: Send automatic greeting messages or automatic emails to customers.
+* **Workflows:** This Automation will be set up  for automatic processes. For example: capture leads, send email transcripts...
 
-Click **Add condition** when you want to add another condition. You can add more than 1 condition for an Automation.
+### Setting Automation
 
-![Add more conditions](../../.gitbook/assets/add-more.png)
+To set up an Automation, you need to complete 3 compulsory steps including: Create action, set up condition and save name. 
 
-You should **refer to the list of conditions**, with instructions on how to use it and the following specific examples:
+#### Step 1: Create Action 
 
-| **CONDITION** | **USAGE** | **EXAMPLES** |
-| :--- | :--- | :--- |
-| **User** | ​ | ​ |
-| Name | Execute automation with specific user’s name | Send a special greeting or promotional email to the user named DavidCondition: Name – contains – David |
-| Email | Execute automation with specific user’s email | Send a special greeting or email to all users whose email address contains subiz.comCondition: Email – Contains – subiz.com |
-| Phone | Execute automation with specific user’s phone number | Send greetings or emails to users whose phone number is unknownSend automatic SMS to users whose phone number is known \(only applicable when SMS channel is integrated into Subiz\) |
-| Country | Execute automation based on user’s country nameUse the country name in English, only capital first letter of the word. Example: Vietnam, United States[See detail in the list of country code](https://countrycode.org/)​ | Send greetings to customers in Vietnam with automation message in Vietnamese.Condition: Country – is – Vietnam |
-| Country Code | Execute automation based on user’s country codeLook up the country codes in [ISO Code](https://en.wikipedia.org/wiki/ISO_3166-2) \(2 characters\), Example: Viet Nam = VN, Australia = AU, China = CN… | Send greetings to customers in Vietnam with automation message in Vietnamese.Condition: Country code – is – VN |
-| City | Execute automation based on user’s cityUse the city name in English, only capital first letter of the word. For example, Hanoi, Ho Chi Minh City, New York, Hong Kong…See list [city code of each country](https://countrycode.org/) \(Click into each country to look up city name\) | Send greetings to customers in Hanoi.Condition: City – is – Hanoi |
-| **Event data** | ​ | ​ |
-| Page title | Each page typically focuses on a specific topic, you can set up an automation with each page to support customers at right time | Send greetings to customers who are viewing pages about “camera”.Condition: Page Title – Contains-Camera |
-| Page URL | Execute automation when customers visit a particular page URL | Send a message to the customers who are viewing the pricing pageCondition: Page URL – is – https://subiz.com/en/pricing.html |
+1. _**Create conversation:**_ \( [`Click here`](https://app.subiz.com/settings/automations/add-conversation) \)
 
-### Automation run in which channels?
+In this kind of Automation, you can select to action send message or send email to users
 
-You can select channels to run Automation. Each channel will have corresponding actions.
+* Automation send message
 
-![Automation&apos;s channel](../../.gitbook/assets/select-channel.png)
+![Automation send message](../../.gitbook/assets/automation-send-message.png)
 
-### The Action set for Automation
+* Automation send email
 
-{% hint style="info" %}
-Each Automation will take only one action.
-{% endhint %}
+![Automation send email](../../.gitbook/assets/send-email.png)
 
-{% tabs %}
-{% tab title="Action on Subiz Chat" %}
-With the [Subiz Chat ](https://subiz.com/live-chat.html)channel, you can take one of two actions:
+_**2. Create Workflows**_ \( [`Click here`](https://app.subiz.com/settings/automation-workflow) \) 
 
-* **Send message to user:** You can send an auto message as soon as customers enter your website, or send a specific message to specific customers.
-* **Ask for email address**: It can be used when you are not online or cannot answer immediately. Customers will enter their email address so that you can contact later.
+Firstly, you have to select the object to apply automation to including: **User**, **Conversation** and **Tickets**. 
 
-![Select action send message to user](../../.gitbook/assets/select-action.png)
+![Automation object](../../.gitbook/assets/workflow.png)
 
-Users will see auto messages/[emails](https://subiz.com/email.html) as a messages/ emails sent from that Agent.
+Then, you set up the action for your automation:
 
-![Auto messages sent from Agent.](../../.gitbook/assets/greeting.png)
+![Set up Action](../../.gitbook/assets/action.png)
 
-* **Capture leads:** Collect and store leads information with powerful Automation capture lead - Ask for customer information.
+You can read more about automation object and actions here:
 
-![Atomation Capture leads](../../.gitbook/assets/capture-lead.png)
-{% endtab %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Object</th>
+      <th style="text-align:left"><b>Actions</b>
+      </th>
+      <th style="text-align:left">How to use</th>
+      <th style="text-align:left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>User</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send email notification</td>
+      <td style="text-align:left">Send email notification when user visit a link page or update their name,
+        email, phones.</td>
+      <td style="text-align:left">Send email to agent when users update their phone number</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send webhook</td>
+      <td style="text-align:left">Send user data on Subiz to CRM system</td>
+      <td style="text-align:left">Send user data on Subiz to CRM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Update user</td>
+      <td style="text-align:left">Update users info when their action satisfy a condition.</td>
+      <td style="text-align:left">Update a user as potential when he chat from Price page</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Conversation</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Update Conversation</td>
+      <td style="text-align:left">Update conversation by adding tag, adding agents or changing status when
+        a conversation satisfy a condition</td>
+      <td style="text-align:left">Adding tag &quot; Asking price &quot; to a conversation when user chat
+        from Price Page</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send Email transcript</td>
+      <td style="text-align:left">Auto send email transcript to email</td>
+      <td style="text-align:left">Send email transcript when a conversation ends on Subiz</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Capture leads</td>
+      <td style="text-align:left">Ask users information right after their first message.</td>
+      <td style="text-align:left">Ask users information on Subiz chat channel.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send Email notification</td>
+      <td style="text-align:left">Send email notification to agent when a conversation is updated by adding
+        tags, agent or changing status.</td>
+      <td style="text-align:left">Send email notification to agent when adding Tag &quot; Potentials &quot;
+        to a conversation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Send</p>
+        <p>webhook</p>
+      </td>
+      <td style="text-align:left">Send conversation data to CRM</td>
+      <td style="text-align:left">Send data of conversations on Subiz Chat to CRM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ticket</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Update Ticket</td>
+      <td style="text-align:left">Auto update Ticket for a conversation</td>
+      <td style="text-align:left">Update a Ticket on Open status and Priority at &quot; High&quot; to a
+        conversation with tag &quot; Complaint&quot;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send webhook</td>
+      <td style="text-align:left">Send ticket to CRM</td>
+      <td style="text-align:left">Send ticket on Subiz chat to CRM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Send Email notification</td>
+      <td style="text-align:left">Send email notification to agent when ticket is updated.</td>
+      <td style="text-align:left">Send email to agent when a ticked is updated &quot; Open &quot;</td>
+    </tr>
+  </tbody>
+</table>After setting Action, you click " **Continue** " to the next step
 
-{% tab title="Action on Subiz Email" %}
-With [Email channel](https://subiz.com/email.html), you can take action **Send** [**email**](https://subiz.com/email.html) **to users**. 
+#### Step 2: Setting Condition
 
-{% hint style="info" %}
-This action only can be taken with users whom you have already got their [email](https://subiz.com/email.html).
-{% endhint %}
+You have to set up condition so that your automation can run. 
 
-Choose action **Send** [**email**](https://subiz.com/email.html) **to user** on [Email](https://subiz.com/email.html) channel
+There are two types of conditions that you you need to notice:
 
-![Select action send email to user](../../.gitbook/assets/email-channel.png)
+* _**Trigger this automation when**_: This is a compulsory condition that you need to set up to make sure your automation will run.
 
-Select agent to send [email](https://subiz.com/email.html), [email](https://subiz.com/email.html) title and fill in the [email](https://subiz.com/email.html)'s content
+![Select the condition](../../.gitbook/assets/conditions.png)
 
-![Select agent to send email, email title ](../../.gitbook/assets/email-title.png)
+For example: Send automation message when visitors come to Subiz.com
 
-Check [email](https://subiz.com/email.html) content preview
+![Send automation message when visitors come to Subiz.com](../../.gitbook/assets/condition-sample%20%281%29.png)
 
-![Email&apos;s preview](../../.gitbook/assets/email-content.png)
-{% endtab %}
-{% endtabs %}
+* _**On Users with these Attributes**_ : You do not need to set up this condition. It is used to add more information about users so that you can narrow the object receive automation.
 
-How are messages/[emails](https://subiz.com/email.html) sent automatically?
+![Additional condtitions](../../.gitbook/assets/more-attribute.png)
 
-{% hint style="info" %}
-* You can choose an agent to send messages and [emails](https://subiz.com/email.html).
+For example: Send email transcript of an ended conversation on Subiz chat
 
-![](../../.gitbook/assets/3%20%282%29.png)
+![Send email transcript of an ended conversation on Subiz chat](../../.gitbook/assets/more-conditions.png)
 
-* You can customize the message more vividly \(bold/italic/insert link /send image\) via custom text tool.
-{% endhint %}
+You can read more about Condition here: 
 
-### **Save Automation**
 
-After all, click **Create** to finish.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"><b>Conditions</b>
+      </th>
+      <th style="text-align:left">How to use</th>
+      <th style="text-align:left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Trigger this automation </b>
+      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">User view page</td>
+      <td style="text-align:left">When visitor come to websites or a specific link.</td>
+      <td style="text-align:left">Send message to users visit Subiz.com:
+        <br />Page URL- contains -Subiz.com</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Page title</td>
+      <td style="text-align:left">Websites often create page titles related to a certain topic. With each
+        t you can put an automation to support and guide customers in time.</td>
+      <td
+      style="text-align:left">
+        <p>Send message to users visit page title &quot; Camera&quot;:</p>
+        <p>Page title - contains - camera</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Channel</td>
+      <td style="text-align:left">Based on the channel of conversation: Subiz chat, Messenger, Email.</td>
+      <td
+      style="text-align:left">
+        <p>Send capture leads to conversations on Subiz chat:</p>
+        <p>Channel - is any of- Subiz Chat</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Channel Source</td>
+      <td style="text-align:left">Based on the channel source such as fanpage, email</td>
+      <td style="text-align:left">
+        <p>Send email transcript of conversation on Fanpage:</p>
+        <p>Channel Source - is any of - Subiz</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Ticket updated</td>
+      <td style="text-align:left">Based on the status or priority of tickets.</td>
+      <td style="text-align:left">
+        <p>Send email notification to agents when a ticked is updated at &quot; high
+          &quot; priority:</p>
+        <p>Priority - is any of - high</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Conversation updated</td>
+      <td style="text-align:left">
+        <p>Wen a conversation is updated by:</p>
+        <ul>
+          <li>Adding status:</li>
+          <li>Adding Agents</li>
+          <li>Adding Tags</li>
+        </ul>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Send email transcript of ended conversation:
+            <br />Status - is -</li>
+          <li>Send email transcript of a conversation when adding agents: Add agent
+            - is any of - Linh Le</li>
+          <li>Send email transcript of a conversations when adding Tag &quot; Price
+            &quot;. Add Tag - is any of - Price</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">User attribute updated</td>
+      <td style="text-align:left">When users update their attributes</td>
+      <td style="text-align:left">Send email notifications to agent when users update their phone number:
+        <br
+        />Phone - not empty
+        <br />
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>On Users with these attributes    </b>
+      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Attributes</td>
+      <td style="text-align:left">When Users update their attributes ( full name, phone, email...)</td>
+      <td
+      style="text-align:left">
+        <p>Send email transcript of an ended conversation on Subiz chat:
+          <br />Status - is - ended</p>
+        <p>Channel - is any of - Subiz Ch</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Trace</td>
+      <td style="text-align:left">
+        <p>Based on the Users&apos; traces ( IP, country code, City)</p>
+        <p>Note:</p>
+        <ul>
+          <li><a href="https://countrycode.org/">List of City Code </a>: You can click
+            to country to find city code</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p>Send email transcript of an ended conversation of users from Hanoi:</p>
+        <p>Status - is - ended</p>
+        <p>City - is - Hanoi</p>
+      </td>
+    </tr>
+  </tbody>
+</table>After finish this step, you can continue to the last step
+
+#### Step 3: Save Automation
+
+![Save automation](../../.gitbook/assets/save.png)
+
+
+
+ 
 
 
 
