@@ -16,7 +16,7 @@ Moreover, you can also apply Automation to send emails to your potential custome
 
 ### Types of Automation
 
-You can set up 2 types of Automation concluding: **Creating conversations** and **Workflows**
+You can set up 2 types of Automation concluding: **Creating conversation** and **Workflows**
 
 * **Create conversation:** This Automation will be set up for proactive actions to reach customers such as: Send automatic greeting messages or automatic emails to customers.
 * **Workflows:** This Automation will be set up  for automatic processes. For example: capture leads, send email transcripts...
@@ -29,7 +29,7 @@ To set up an Automation, you need to complete 3 compulsory steps including: Crea
 
 1. _**Create conversation:**_ \( [`Click here`](https://app.subiz.com/settings/automations/add-conversation) \)
 
-In this kind of Automation, you can select to action send message or send email to users
+In this kind of Automation, you can select action to send message or send email to users
 
 * Automation send message
 
@@ -72,7 +72,7 @@ You can read more about automation object and actions here:
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Send email notification</td>
-      <td style="text-align:left">Send email notification when user visit a link page or update their name,
+      <td style="text-align:left">Send email notification when users visit a page or update their name,
         email, phones.</td>
       <td style="text-align:left">Send email to agent when users update their phone number</td>
     </tr>
@@ -98,8 +98,8 @@ You can read more about automation object and actions here:
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Update Conversation</td>
-      <td style="text-align:left">Update conversation by adding tag, adding agents or changing status when
-        a conversation satisfy a condition</td>
+      <td style="text-align:left">Update a conversation by adding tag, adding agents or changing status
+        when it satisfy a condition</td>
       <td style="text-align:left">Adding tag &quot; Asking price &quot; to a conversation when user chat
         from Price Page</td>
     </tr>
@@ -156,7 +156,7 @@ You can read more about automation object and actions here:
       <td style="text-align:left"></td>
       <td style="text-align:left">Send Email notification</td>
       <td style="text-align:left">Send email notification to agent when ticket is updated.</td>
-      <td style="text-align:left">Send email to agent when a ticked is updated &quot; Open &quot;</td>
+      <td style="text-align:left">Send email to agent when a ticket is updated &quot; Open &quot;</td>
     </tr>
   </tbody>
 </table>After setting Action, you click " **Continue** " to the next step
@@ -300,7 +300,7 @@ You can read more about Condition here:
       style="text-align:left">
         <p>Send email transcript of an ended conversation on Subiz chat:
           <br />Status - is - ended</p>
-        <p>Channel - is any of - Subiz Ch</p>
+        <p>Channel - is any of - Subiz Chat</p>
         </td>
     </tr>
     <tr>
@@ -321,7 +321,7 @@ You can read more about Condition here:
       </td>
     </tr>
   </tbody>
-</table>After finish this step, you can continue to the last step
+</table>After finishing this step, you can continue to the last step
 
 #### Step 3: Save Automation
 
