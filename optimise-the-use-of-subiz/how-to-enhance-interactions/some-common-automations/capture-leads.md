@@ -2,6 +2,14 @@
 
 Potential customers are people who interest in products and services that you provide. Subiz will help you identify, collect and store potential customer information with powerful features Capture leads - Ask user information.
 
+### How will Capture Leads work? 
+
+Capture Leads will be displayed after the first user message. 
+
+Example: Send Automation to ask for information when users chat via the website.
+
+![Ask user&apos;s information after the first user message](../../../.gitbook/assets/replycaptureleads_en.png)
+
 ### Setup Capture Leads
 
 Sign in [App.subiz.com -&gt; Setting -&gt; Account -&gt; Automation -&gt; Work follow -&gt; Create](https://app.subiz.com/settings/automation-workflow).
@@ -55,10 +63,6 @@ Beyond the default information fields: Name, Phone number, Email, Address. You c
 [Settings -&gt; Account -&gt; User Attribute](https://app.subiz.com/settings/user-attributes) -&gt; New Attribute
 
 ![Add new Attribute ](../../../.gitbook/assets/truong-du-lieu-moi.png)
-
-* Capture leads will be displayed after the first user message.
-
-![](../../../.gitbook/assets/replycaptureleads_en.png)
 
 * You can either force user fill information before chat or not.
 
