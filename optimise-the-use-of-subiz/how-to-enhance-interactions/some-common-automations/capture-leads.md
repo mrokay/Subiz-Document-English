@@ -18,11 +18,11 @@ You will follow 3 steps as below:
 
 #### Step 1: Create Work follow
 
-![Create Workflow](../../../.gitbook/assets/tao-automation%20%281%29.png)
+![Create Workflow](../../../.gitbook/assets/tao-automation%20%282%29.png)
 
 After choosing Apply action to conversation and action Capture Leads, you could edit content of form for your own.
 
-![Edit Content](../../../.gitbook/assets/edit-form-hoi-thong-tin.png)
+![Edit Content](../../../.gitbook/assets/edit-form-hoi-thong-tin%20%281%29.png)
 
 **Note:** If you want to edit the message content, you can click on the edit button to change.
 

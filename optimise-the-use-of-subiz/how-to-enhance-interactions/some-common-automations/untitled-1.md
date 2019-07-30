@@ -9,7 +9,7 @@ A message that clearly, concise, full content with eye-catching design images wi
 First of all to be able to create automation you need to follow the steps below: [Setting / Account/Automation / Create conversation -&gt; Create](https://app.subiz.com/settings/automations/add-conversation).  
 Besides, you could also add attachments to create creative message templates. 
 
-![Create new automation](../../../.gitbook/assets/tao-automation.png)
+![Create new automation](../../../.gitbook/assets/tao-automation%20%281%29.png)
 
 #### Greeting users by name 
 

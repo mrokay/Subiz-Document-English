@@ -24,7 +24,7 @@ In this automatic Interaction Guide, [Subiz](https://subiz.com/en) has provided 
 
 * Here are some automation applications that helps you to operate your business automatically
 
-{% page-ref page="automation-applications.md" %}
+{% page-ref page="automation-applications/" %}
 
 
 
