@@ -53,7 +53,7 @@ Subot is designed as an agent, only when customer conversations are distributed 
 
 * **Step 1:** Install the Subot script to greet the user and display in a state of typing the message.
 
-![Set up implementation script for Subot](../../../.gitbook/assets/cai-dat-kich-ban-subot.jpg)
+![Set up implementation script for Subot](../../../.gitbook/assets/cai-dat-kich-ban-subot%20%281%29.jpg)
 
 * **Step 2:** Install Rule distribute all conversations for Subot and Agents
 
@@ -69,7 +69,7 @@ Subot is designed as an agent, only when customer conversations are distributed 
 
 + Invite users to receive notifications and leave contact information.
 
-![Set up implementation script for Subot](../../../.gitbook/assets/chinh-sua-thong-tin-subot.jpg)
+![Set up implementation script for Subot](../../../.gitbook/assets/chinh-sua-thong-tin-subot%20%281%29.jpg)
 
 * **Step 2:** Install 2 rules
 

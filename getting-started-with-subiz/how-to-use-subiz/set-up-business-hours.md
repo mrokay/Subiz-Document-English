@@ -26,7 +26,7 @@ For example: In Vietnam, you have to set up time zone to be GMT + 07:00
 * Choose Add Holidays in the year
 * Select Save to complete
 
-![Set up Business Hours](../../.gitbook/assets/business-hours.png)
+![Set up Business Hours](../../.gitbook/assets/business-hours%20%281%29.png)
 
 {% hint style="info" %}
 **Note:** Subiz system will save working time slot and automatically identify the time slot out of business hours or holidays.

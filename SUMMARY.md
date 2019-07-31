@@ -36,7 +36,7 @@
     * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/README.md)
       * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Create a new rule](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
-      * [Example about Rule distribution dialog](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/example-about-rule-distribution-dialog.md)
+      * [Some common assignment rule](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/example-about-rule-distribution-dialog.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)
   * [Working on Subiz](getting-started-with-subiz/working-on-subiz/README.md)
     * [Interact on Subiz Chat](getting-started-with-subiz/working-on-subiz/interact-on-subiz-chat.md)

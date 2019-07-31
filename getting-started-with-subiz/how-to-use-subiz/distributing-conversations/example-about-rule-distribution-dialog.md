@@ -1,54 +1,70 @@
-# Example about Rule distribution dialog
+# Some common assignment rule
 
-### Assign all conversations for an agent or multiple agents 
+### Assignment conversation base on business hours 
 
-You can use the default rule if you want to deliver the conversation to the agent owner. In case you want to transfer to another agent support that user, please following as belows:
+Along with applying the Subot and dividing the rule by the business hours of the business, you can automate response to their message and also ask their information. Therefore, you can contact the user the next day. 
 
-![Assign all conversations for multiple agents ](../../../.gitbook/assets/assign-to-specific-agent-s.png)
+#### Step 1: Set up Subot to automate response to the user in out of business hours \(See details\) 
 
-### Assign to Agents or Agent Groups 
+![](../../../.gitbook/assets/cai-dat-kich-ban-subot.jpg)
 
-When choosing to distribute to Agents or Agent Groups, any agent in the distributed group can join simultaneously in the conversation.
+#### Step 2: Set up business hours \(See details\) 
 
-You have to choose one of the following distribution types: 
+![Set up business hours](../../../.gitbook/assets/business-hours.png)
 
-* **Assign to all available agents:** Distribute the conversation to all agents who are logged in Subiz account.
+#### Step 3: Set up an assignment rule base on business hours You set up 2 rules as below: 
 
-![Assign to all available agents](../../../.gitbook/assets/assign-to-all-available-agents.png)
+* _**Rule 1:** Assignment rule to the agent during business hours_
 
-* **Assign to specific agent\(s\):** You would like to dialogue the conversation to agents also receive and support the users. Select the Distributed agent conditions and choose the agent you want to distribute the conversation
+![Assignment rule to the agent during business hours](../../../.gitbook/assets/phan-chat-trong-gio-lam-viec.png)
 
-![Assign to specific agent\(s\)](../../../.gitbook/assets/assign-to-specific-agent-s%20%281%29.png)
+* _**Rule 2:** Assignment rule to the agent out of business hours_
 
-* **Assign to groups:** When you want to distribute a conversation to a specific group, for example, ask the price of the product transferred to Sale, ask about the product warranty transferred to the technical department. 
+![Assignment rule to the agent out of business hours](../../../.gitbook/assets/phan-chat-ngoai-gio-lam-viec.png)
 
-![Assign to groups](../../../.gitbook/assets/assign-to-group-s.png)
+### 
 
-* **Assign to the agent the last interaction with the user:** Distributing the conversation to the Agent that interacts most closely with the user. 
+### Assignment conversation by agent's shift/working day of the week 
 
-![Assign to the agent the last interaction with the user](../../../.gitbook/assets/assign-to-agent-s-who-has-last-activity-with-user.png)
+You have multiple agents and divided by different shifts according to the working day of the week. You could set up the rule to distribute automatically according to Agent's fixed schedule. 
 
-### Round robins conversation assignment 
+For example, Agent Chi Trinh receives a chat on days 2, 4, 6 and Sunday and agent Linh Le receives a chat on days 3, 5, 7. You will install 2 Rules as follows:
 
-When assign according to this rule, new user dialogues will be allocated equally to several agents or groups of agents. When you have multiple conversations, dividing the conversation will help reduce the pressure and speed up the response of the agent. You can set up as bellow:
+* _**Rule 1:** Assignment conversation for agent Chi Trinh._
 
-![Round robins conversation assignment ](../../../.gitbook/assets/round-robin-conversation-assignment.png)
+![Assignment conversation for agent Chi Trinh](../../../.gitbook/assets/phan-chat-theo-thu-chan-cho-agent-chi-trinh.png)
 
-### Assign the conversation to the agent by interactive channels 
+* _**Rule 2:** Assignment conversation for agent Linh Le._
 
-You have multiple channels of interaction: Website, Email, Fanpage and want to distribute the agent's channel to each channel to categorize users but still manage the data centrally. You do the following:
+![Assignment conversation for agent Linh Le](../../../.gitbook/assets/phan-chat-theo-thu-le-cho-linh-le.png)
 
-![Assign the conversation to the agent by interactive channels ](../../../.gitbook/assets/assign-the-conversation-to-the-agent-by-interactive-channels.jpg)
+### Assignment conversation base on the website’s language
 
-### Assign conversations according to the product page
+Apart from support local customer, you also have an overseas customer. You also have an agent who supports for each website. You will set up 2 rules as below to assign to the agent who handles based on the website’s language.
 
- If you have a sales website that sells a lot of products, you can assign consultants to each item. This will make it easier for consultants to better understand customer needs and advice. You set the rule as follows: 
+* _**Rule 1:** Assignment conversation from Vietnamese website to agent Hoa Ta._
 
-![Assign conversations according to the product page](../../../.gitbook/assets/pricing.jpg)
+![Assignment conversation from Vietnamese website to agent Hoa Ta](../../../.gitbook/assets/phan-chat-web-tieng-viet-cho-hoa-ta.png)
+
+* _**Rule 2:** Assignment conversation from English website to agent Linh Le._
+
+![Assignment conversation from English website to agent Linh Le](../../../.gitbook/assets/phan-chat-web-tieng-anh-cho-hoa-ta.png)
+
+### Assignment conversation base on different channels 
+
+You integrate Subiz on Website, Fanpage, and Email and have Agent to take charge of each channel separately. You can use the Rule function to distribute conversations by channel: 
+
+* _**Rule 1:** Assignment conversation from website channel \(Subiz chat\)_ 
+
+![Assignment conversation from website channel](../../../.gitbook/assets/phan-chat-kenh-website-cho-agent-chi-trinh.png)
+
+* _**Rule 2:** Assignment conversation from Fanpage_ 
+
+![Assignment conversation from Fanpage](../../../.gitbook/assets/phan-chat-kenh-fanpage-cho-agent-linh-lepng.png)
 
 ### Assign conversations by geographic region 
 
 When your business has branches in different provinces and wants to distribute the dialogues to local agents that support a customer, Subiz will help you identify and deliver the conversations to the right agent.
 
-![Assign conversations by geographic region ](../../../.gitbook/assets/city.jpg)
+![Assign conversations by geographic region ](../../../.gitbook/assets/phan-cuoc-chat-tu-hn-cho-linh-le.png)
 
