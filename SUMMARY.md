@@ -56,6 +56,7 @@
       * [Email Transcript](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/email-transcript.md)
     * [Automation Applications](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/README.md)
       * [Capture leads base on business hour](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/capture-leads-base-on-business-hour.md)
+      * [Classify and follow up a potential user](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/classify-and-follow-up-a-potential-user.md)
   * [Managing user data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Users segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation/README.md)
       * [View Default Segments](optimise-the-use-of-subiz/managing-data/customer-segmentation/utilizing-default-segments.md)

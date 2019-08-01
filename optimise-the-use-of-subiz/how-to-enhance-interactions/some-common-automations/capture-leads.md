@@ -38,7 +38,7 @@ There are 2 conditions you have to consider:
 
 For example: Send Automation to ask for information when users chat via the website.
 
-![Setup Conditions](../../../.gitbook/assets/dk-automation.png)
+![Setup Conditions](../../../.gitbook/assets/dk-automation%20%281%29.png)
 
 In case you want to choose the time frame to ask for users information, you can choose to Add time conditions:
 
@@ -52,7 +52,7 @@ After finish set up the condition, click **Continue** to go to the last step.
 
 You fill the Automation name and add description about Automation, then Save settings.
 
-![Give a name to Automation](../../../.gitbook/assets/luu-ten-automation.png)
+![Give a name to Automation](../../../.gitbook/assets/luu-ten-automation%20%281%29.png)
 
 ### Notes 
 

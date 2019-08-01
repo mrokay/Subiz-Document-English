@@ -48,7 +48,7 @@ You will set up as below:
 
 #### Step 3: Fill the Automation name
 
-![Fill the Automation name](../../../.gitbook/assets/luu-ten-automation%20%281%29.png)
+![Fill the Automation name](../../../.gitbook/assets/luu-ten-automation%20%282%29.png)
 
 ### Some common Email Automation 
 
