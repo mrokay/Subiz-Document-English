@@ -4,11 +4,11 @@
 
 Along with applying the Subot and dividing the rule by the business hours of the business, you can automate response to their message and also ask their information. Therefore, you can contact the user the next day. 
 
-#### Step 1: Set up Subot to automate response to the user in out of business hours \(See details\) 
+#### Step 1: Set up Subot to automate response to the user in out of business hours \([See details](https://help-en.subiz.com/getting-started-with-subiz/how-to-use-subiz/managing-agent/subot-auto-reply-bot-and-ask-users-information)\) 
 
 ![](../../../.gitbook/assets/cai-dat-kich-ban-subot.jpg)
 
-#### Step 2: Set up business hours \(See details\) 
+#### Step 2: Set up business hours \([See details](https://help-en.subiz.com/getting-started-with-subiz/how-to-use-subiz/set-up-business-hours)\) 
 
 ![Set up business hours](../../../.gitbook/assets/business-hours.png)
 
