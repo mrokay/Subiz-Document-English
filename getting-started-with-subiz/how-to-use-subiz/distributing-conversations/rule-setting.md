@@ -20,7 +20,7 @@ Then start to set up a new rule.
 * Click **Add more condition** to combine multiple conditions in a rule.
 * Select **And / Or** to determine the relationship between the conditions.
 
-![Select conditions for the rule](../../../.gitbook/assets/condition%20%281%29.png)
+![Select conditions for the rule](../../../.gitbook/assets/condition%20%282%29.png)
 
 You can set one or more conditions based on **List of rule condition**.
 
