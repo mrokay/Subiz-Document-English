@@ -1,6 +1,24 @@
 # Create a new rule
 
-**Rules are used to automatically assign incoming messages to specific agent\(s\) or team.** You need to set up rules right after creating account so that you can get conversations from your customers.
+### **What is assignment rule ?**
+
+Rule is the hinge feature of Subiz - helping businesses to distribute customers. Instead of having to select departments manually and waiting to be connected, you can perform the process automatically, which helps to boost the productivity of the work by quickly connecting to agents.
+
+### How does Rule work ?
+
+Depending on the need for conversation division, you can set up one or many rules. The rule works in order from top to bottom. You can arrange the order of rule in " **Reorder** " part.
+
+For example, your business has 3 sale agents who word at the same time during office hours. Beyond working hours, if you want to inform customers that you are not online and invite them to leave messages and contacts, you can install 2 rules as follows:
+
+* During business hours: Apply competitive distribution - anyone who answers first will take care of that customer. 
+
+![In business hours](../../../.gitbook/assets/in-business-hour.png)
+
+* Out of business hours: Assign to one agent and Subot 
+
+![Out of business hours](../../../.gitbook/assets/out-of-business-hour.png)
+
+### Create a new rule
 
 To set up a new rule, [log into your account](https://app.subiz.com/login) and go to [**Setting&gt; Account&gt; Message&gt; Rule**](https://app.subiz.com/settings/rule-setting) **&gt;** Select **New rule.**
 
@@ -13,14 +31,18 @@ Then start to set up a new rule.
 * **Rule Name:** Enter rule name so that you can easily manage in the rule list
 * **Description**: Describe the condition and purpose of the rule
 
-![Import the file and description of the rule](../../../.gitbook/assets/image%20%2817%29.png)
+![Rule name and description](../../../.gitbook/assets/rule-name.png)
 
 ### **Step 2: Select conditions for the rule**
+
+You can set up one or more conditions:
 
 * Click **Add more condition** to combine multiple conditions in a rule.
 * Select **And / Or** to determine the relationship between the conditions.
 
-![Select conditions for the rule](../../../.gitbook/assets/condition%20%282%29.png)
+For example: Here is the rule to distribute conversations from customers in Vietnam or visit Subiz.com
+
+![Settin Condition](../../../.gitbook/assets/condition%20%282%29.png)
 
 You can set one or more conditions based on **List of rule condition**.
 
@@ -33,6 +55,7 @@ You can set one or more conditions based on **List of rule condition**.
       </th>
       <th style="text-align:left"><b>EXAMPLE</b>
       </th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -41,77 +64,66 @@ You can set one or more conditions based on **List of rule condition**.
       <td style="text-align:left">By selecting this condition, <b>all conversations</b> will always be assigned
         to agents set up in the rule.</td>
       <td style="text-align:left">Condition: Any condition</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Date Time</b>
+      <td style="text-align:left"><b>General Condition</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Non condition</td>
+      <td style="text-align:left">When you select this condition, all conversations will be distributed
+        to Agents</td>
+      <td style="text-align:left">You can select: Non condition</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Agent offline</td>
+      <td style="text-align:left">You can use this condition to distribute conversations when no Agent is
+        online.</td>
+      <td style="text-align:left">Select Agent Offline condition, distribute the conversation to Subot and
+        an Agent in charge of answering customers when he is online again.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Conversation  created time</b>
       </td>
       <td style="text-align:left">&#x200B;</td>
       <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Hour of day</td>
+      <td style="text-align:left">Time</td>
       <td style="text-align:left">When you want to assign conversations to agents based on time (hour) of
-        the day. Hour of day from 0 to 23.</td>
-      <td style="text-align:left">You set the two rules accordingly: Day shift for Agent A - Night shift
-        for Agent B.
-        <br />Condition: Hours of the day - more than or equal to 7 And Hours of the
-        day - less than - 12</td>
+        the day, business hours....</td>
+      <td style="text-align:left">After you have installed the Business Hours, you can create two rules
+        as follows:
+        <br />Rule 1: Time - during working hours
+        <br />Rule 2: Time - out of working hours</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Day of week</td>
-      <td style="text-align:left">When you want to assign conversations to agents based on days in week.Note:
-        days of week are recorded as numbers from 2-8. Monday = 2, Tuesday = 3&#x2026;,
-        Sunday = 8.</td>
-      <td style="text-align:left">You install 2 rules: the first 3 days for Agent A and 3 days for Agent
-        B in the weekend.
-        <br />Condition: Day of week - is - 2 Or Day of week - is - 3 Or Day of week
-        - is - 4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Conversation</b>
-      </td>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Page URL</td>
-      <td style="text-align:left">Each URL typically focuses on a specific product or service, Subiz can
-        identify which URL customers are viewing and assign the conversation to
-        each Agent.</td>
-      <td style="text-align:left">
-        <p>Visitors to Subiz&apos;s website will be distributed to Agent A</p>
-        <p>Condition: Page URL - contains - Subiz.com</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Page title</td>
-      <td style="text-align:left">Purpose of page title are almost the same as page URL. You can use it
-        to assign conversations from specific pages to suitable agents.</td>
+      <td style="text-align:left">When you want to assign conversations to agents based on days in week.</td>
       <td
-      style="text-align:left">
-        <p>Visitors to the page titled &quot;Camera&quot; will distribute the conversation
-          to Agent A.</p>
-        <p>Condition: Page Title - Contains - Camera</p>
-        </td>
+      style="text-align:left">You can create 2 Rules to distribute conversations according to Agent&apos;s
+        working days:
+        <br />Rule 1: Day of the week - is any oD &#x200B;&#x200B;- Monday, Wednesday,
+        Friday, Sunday.
+        <br />Rule 2: Day of the week - is any of &#x200B;&#x200B;- Tuesday, Thursday,
+        Saturday.</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Message Content</td>
-      <td style="text-align:left">When the first message of customer contains a certain content, you can
-        assign the conversation to suitable agents.</td>
-      <td style="text-align:left">When the user&apos;s first message contains the word &quot;price,&quot;
-        the conversation will be distributed to Agent A. Condition: Message content
-        - contains - price</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Browser language</td>
-      <td style="text-align:left">Look up codes of browser language in <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
-        for example, vi-VN, en-US. Assign the conversation to agents who can use
-        the language that customers use in their browser.</td>
-      <td style="text-align:left">
-        <p>Customers using the English language on the program will distribute the
-          dialogue to the international agent group.</p>
-        <p>Condition: Browser language - is - en - US</p>
+      <td style="text-align:left"><b>Channels</b>
       </td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Channel</td>
@@ -126,45 +138,46 @@ You can set one or more conditions based on **List of rule condition**.
         <p>2. Channel - is - Subiz Email</p>
         <p>3. Channel - is - Fanpage</p>
         </td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>User</b>
+      <td style="text-align:left">Page URL</td>
+      <td style="text-align:left">Each URL typically focuses on a specific product or service, Subiz can
+        identify which URL customers are viewing and assign the conversation to
+        each Agent.</td>
+      <td style="text-align:left">
+        <p>Visitors to Subiz&apos;s website will be distributed to Agent A</p>
+        <p>Condition: Page URL - contains - Subiz.com</p>
       </td>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Name</td>
-      <td style="text-align:left">Identify name of customers and assign conversation to a specific agent.</td>
+      <td style="text-align:left">Page title</td>
+      <td style="text-align:left">Purpose of page title are almost the same as page URL. You can use it
+        to assign conversations from specific pages to suitable agents.</td>
       <td
       style="text-align:left">
-        <p>The customer&apos;s conversation delivery has the name of the Service
-          Agent</p>
-        <p>Condition: Name - Not empty</p>
+        <p>Visitors to the page titled &quot;Camera&quot; will distribute the conversation
+          to Agent A.</p>
+        <p>Condition: Page Title - Contains - Camera</p>
         </td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Email</td>
-      <td style="text-align:left">Identify email of customers and assign conversation to a specific agent.</td>
+      <td style="text-align:left">Channel Source</td>
+      <td style="text-align:left">Use when you want to assign a conversation agent to a specific Fanpage
+        or email address</td>
+      <td style="text-align:left">Distribute conversations from specific Fanpage or Emails:
+        <br />Source of conversation - is any of &#x200B;&#x200B;- Subiz, support@subiz.com</td>
       <td
-      style="text-align:left">Deliver the user&apos;s conversation who has email address to consultant.
-        Condition: Email Address - Not empty</td>
+      style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Phone</td>
-      <td style="text-align:left">Identify phone number of customers and assign conversation to a specific
-        agent. Phone numbers are a set of numbers, not contain special characters</td>
-      <td
-      style="text-align:left">Deliver the user&apos;s conversation with an email address to the Agent
-        who in charge Call Center. Condition: Phone number - Not empty</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Country</td>
-      <td style="text-align:left">Use when you want to rely on the user&apos;s Country to distribute the
-        conversation to the agent. Country name by international standard, refer
-        to the list of countries. Example: Vietnam, United States</td>
-      <td style="text-align:left">User in Vietnam will distribute dialogues for local agents Condition:
-        Country - is - Vietnam</td>
+      <td style="text-align:left"><b>Location and Language</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Country code</td>
@@ -176,6 +189,7 @@ You can set one or more conditions based on **List of rule condition**.
         <p>Distributing foreign customer dialogue for international agents</p>
         <p>Condition: Country code - not is - VN</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">City</td>
@@ -187,6 +201,7 @@ You can set one or more conditions based on **List of rule condition**.
         <p>Distributed dialogue for user from Hanoi for agent Hanoi</p>
         <p>Condition: City - is - Hanoi</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Timezone</td>
@@ -195,33 +210,136 @@ You can set one or more conditions based on **List of rule condition**.
         and Southeast Asia - UTC +7 G</td>
       <td style="text-align:left">Distributed dialogue for customers from South East Asia for Agent A South
         East Asia. Condition: Time zone - is - UTC +7 G</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Browser language</td>
+      <td style="text-align:left">Look up codes of browser language in <a href="http://www.lingoes.net/en/translator/langcode.htm">ISO Language Code</a>,
+        for example, vi-VN, en-US. Assign the conversation to agents who can use
+        the language that customers use in their browser.</td>
+      <td style="text-align:left">
+        <p>Customers using the English language on the program will distribute the
+          dialogue to the international agent group.</p>
+        <p>Condition: Browser language - is - en - US</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Traffic</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Device</td>
+      <td style="text-align:left">Use when you want to rely on customer access device: Personal Computer,
+        Phone, Tablet</td>
+      <td style="text-align:left">Assign conversations of customers using personal computers Condition:
+        Device - is any of &#x200B;&#x200B;- Personal computer</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Number of Sessions</td>
+      <td style="text-align:left">Use when you want to base on the number of visits to your website.</td>
+      <td
+      style="text-align:left">Distributing conversations of customers who have visited the site more
+        than 3 times Condition: Number of sessions - is greater than - 3</td>
+        <td
+        style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Total conversations</td>
+      <td style="text-align:left">This condition will be based on the total number of customers&apos; conversations
+        taking place on Subiz</td>
+      <td style="text-align:left">You want customers who have chat to more than 3 times will be supported
+        by support department Condition: Total conversations - is greater than
+        - 3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>User</b>
+      </td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left">&#x200B;</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Name</td>
+      <td style="text-align:left">Identify name of customers and assign conversation to a specific agent.</td>
+      <td
+      style="text-align:left">
+        <p>The customer&apos;s conversation delivery has the name of the Service
+          Agent</p>
+        <p>Condition: Name - Not empty</p>
+        </td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Email</td>
+      <td style="text-align:left">Identify email of customers and assign conversation to a specific agent.</td>
+      <td
+      style="text-align:left">Deliver the user&apos;s conversation who has email address to consultant.
+        Condition: Email Address - Not empty</td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Phone</td>
+      <td style="text-align:left">Identify phone number of customers and assign conversation to a specific
+        agent. Phone numbers are a set of numbers, not contain special characters</td>
+      <td
+      style="text-align:left">Deliver the user&apos;s conversation with an email address to the Agent
+        who in charge Call Center. Condition: Phone number - Not empty</td>
+        <td
+        style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Address</td>
+      <td style="text-align:left">Use when you want to rely on the visitor&apos;s address to distribute
+        the conversation</td>
+      <td style="text-align:left">Distribute of Hanoi customer conversations for Hanoi branch Conditions:
+        Address - contains - Hanoi</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time on page</td>
+      <td style="text-align:left">Use when you want to rely on customer time on your website</td>
+      <td style="text-align:left">
+        <p>Distribute conversations of customers who have been on the web more than
+          15s for Sale Agent</p>
+        <p>Condition: Time on page - isgreater than - 15</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Website</td>
+      <td style="text-align:left">Use when you want to rely on visitors&apos; website to distribute conversations</td>
+      <td
+      style="text-align:left">
+        <p>Your business manages customers based on websites. To distribute the conversation
+          according to the website of the guest you create the following conditions:</p>
+        <p>Condition: Website - is - Subiz.com</p>
+        </td>
+        <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>### **Step 3: Set up how to assign conversations to agents**
 
 Select Agent\(s\) who will receive and take over conversations that meet the conditions set above.
 
-![Assign conversations to agents](../../../.gitbook/assets/tao-rule-moi.png)
+![Assign to Agents](../../../.gitbook/assets/assign-to-agent.png)
 
-**1. Assign to Agent\(s\) or a group:**
-
-Any agent in the assigned group can participate in conversations simultaneously.
-
-Select one of the methods below:
-
-* _**Assign to all available agents:**_ Available agents are the one who that directly connected to Subiz on a computer or mobile app. When the agents do not connect to Subiz, the conversation to the conversation is not distribute. Agents can view and respond to users after reconnecting Subiz.
-* _**Assign to specific agent\(s\):**_ assign conversations to one or several agents. Click \(+\), \(-\) to select/deselect Agent. As the example below, 2 Agent has been selected.
-* _**Assign to group\(s\):**_ assign conversations to a group which is created before. As the example below, conversations are assigned to group Sale.
+* _**Assign to all available agents:**_ Available agents are the one who that directly connected to Subiz on a computer or mobile app. When the agents do not connect to Subiz, the conversation to the agents is not distribute. 
+* _**Assign to specific agent\(s\):**_ assign conversations to one or several agents. Click \(+\), \(-\) to select/deselect Agent. 
+* _**Assign to the first res-ponder:**_ This rule aims to promote competitiveness for businesses that have multiple agents. All selected agents will receive notifications of new conversation, and the one who respond first will join this conversation.
+* _**Assign to group\(s\):**_ assign conversations to a group which is created before. 
 * _**Assign to agent\(s\) who has last activity with user:**_ assign conversation to agent\(s\) who have the latest conversation with user
-* **Assign to agent\(s\) round robins:** You have multiple agents and want to divide conversation equally of user for agents.
+*  **Assign to agent\(s\) round robins:** You have multiple agents and want to divide conversations equally to agents.
 
-![Assign Rule from Subiz.com to Chi Trinh](../../../.gitbook/assets/chuyen-cuoc-chat-tu-subiz.com-cho-chi-trinh.png)
+**Note:**
 
-{% hint style="info" %}
-The rule is a **mandatory** setting for an agent to receive a conversations. When you delete the default rule while do not create a new rule, all agents will not receive the user's interaction. At that time, all conversations will be in the **Unassigned Conversions** segment in the Activities section. You can create multiple rules and change rules over time, to match the number of agents and how to divide the work of the business.
-{% endhint %}
-
-
+* Rule is a necessary setting for each account to distribute conversations to the right agents to reduce the time customers have to wait and improve interaction efficiency. In case you do not set up any Rule, the system will by default distribute the conversation to all agents in the account. 
+* You can create multiple rules and change rules over time to suit the number of agents and how your business works.
 
 
 

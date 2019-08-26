@@ -34,7 +34,6 @@
       * [End chatbot](getting-started-with-subiz/how-to-use-subiz/managing-agent/end-chatbot.md)
       * [Referral Program](getting-started-with-subiz/how-to-use-subiz/managing-agent/referral-program.md)
     * [Distributing conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/README.md)
-      * [How to distribute conversations](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-distributing-conversations.md)
       * [Create a new rule](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/rule-setting.md)
       * [Some common assignment rule](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/example-about-rule-distribution-dialog.md)
       * [Managing rule's lists](getting-started-with-subiz/how-to-use-subiz/distributing-conversations/managing-rules-lists.md)

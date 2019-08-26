@@ -8,8 +8,6 @@ Then:
 
 * You will learn about the default rules and how to use the existing Rule Library:
 
-{% page-ref page="rule-distributing-conversations.md" %}
-
 * You will know how to create new rules:
 
 {% page-ref page="rule-setting.md" %}
