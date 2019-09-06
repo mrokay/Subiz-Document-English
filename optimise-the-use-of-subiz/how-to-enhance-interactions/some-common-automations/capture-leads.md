@@ -18,7 +18,7 @@ You will follow 3 steps as below:
 
 #### Step 1: Create Work follow
 
-![Create Workflow](../../../.gitbook/assets/tao-automation%20%282%29.png)
+![Create Workflow](../../../.gitbook/assets/tao-automation%20%283%29.png)
 
 After choosing Apply action to conversation and action Capture Leads, you could edit content of form for your own.
 
