@@ -15,6 +15,7 @@
       * [Push notifications to user](getting-started-with-subiz/setting-up-interaction-environments/installing-subiz-on-websites/push-notifications-to-user.md)
     * [Integrating Email on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-email-on-subiz.md)
     * [Integrating Messenger Facebook on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-fanpage-facebook-on-subiz.md)
+    * [Integrating Facebook Comment on Subiz](getting-started-with-subiz/setting-up-interaction-environments/integrating-facebook-comment-on-subiz.md)
     * [Optimizing interactive enviroment](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/README.md)
       * [Business information](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/untitled.md)
       * [New message notification settings](getting-started-with-subiz/setting-up-interaction-environments/optimizing-interactive-channels/new-message-notification-settings.md)
