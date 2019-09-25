@@ -1,4 +1,4 @@
-# Email Automation to send email to users
+# Automation send email to users
 
 Email gives the great opportunity to re-engage users and increase purchase frequency. You can send emails to build a relationship with users before or after purchasing, promote a product or service, introduce new products, announce incentive programs. 
 

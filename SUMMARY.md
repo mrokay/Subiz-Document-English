@@ -52,7 +52,7 @@
     * [Some common Automations](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/README.md)
       * [Sending messages to user automatically](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/untitled-1.md)
       * [Capture Leads](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/capture-leads.md)
-      * [Email Automation to send email to users](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/untitled-3.md)
+      * [Automation send email to users](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/untitled-3.md)
       * [Email Transcript](optimise-the-use-of-subiz/how-to-enhance-interactions/some-common-automations/email-transcript.md)
     * [Automation Applications](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/README.md)
       * [Capture leads base on business hour](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/capture-leads-base-on-business-hour.md)
