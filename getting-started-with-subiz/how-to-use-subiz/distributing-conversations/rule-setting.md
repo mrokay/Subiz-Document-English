@@ -2,7 +2,7 @@
 
 ### **What is assignment rule ?**
 
-Rule is the hinge feature of Subiz - helping businesses to distribute customers. Instead of having to select departments manually and waiting to be connected, you can perform the process automatically, which helps to boost the productivity of the work by quickly connecting to agents.
+Rule is the important feature of Subiz - helping businesses to distribute customers' conversations. Instead of having to select departments manually and waiting to be connected, you can perform the process automatically, which helps to boost the productivity of the work by quickly connecting to agents.
 
 ### How does Rule work ?
 
