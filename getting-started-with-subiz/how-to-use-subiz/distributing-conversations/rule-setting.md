@@ -330,7 +330,7 @@ Select Agent\(s\) who will receive and take over conversations that meet the con
 ![The ways to distribute conversations](../../../.gitbook/assets/assign-to.png)
 
 * _**Assign to specific agent\(s\):**_ assign conversations to one or several agents. Click \(+\), \(-\) to select/deselect Agent. 
-* **Assign to all agents\(s\)**: assign to all  agents in the agent list of your 
+* **Assign to all agents\(s\)**: assign to all  agents in the agent list of your account 
 * _**Assign to the first res-ponder:**_ This rule aims to promote competitiveness for businesses that have multiple agents. All selected agents will receive notifications of new conversation, and the one who respond first will join this conversation.
 * _**Assign to group:**_ assign conversations to a group which is created before. 
 * _**Assign to agent\(s\) who has last activity with user:**_ assign conversation to agent\(s\) who have the latest conversation with user
