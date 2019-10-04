@@ -12,11 +12,11 @@ For example, your business has 3 sale agents who word at the same time during of
 
 * During business hours: Apply competitive distribution - anyone who answers first will take care of that customer. 
 
-![In business hours](../../../.gitbook/assets/in-business-hour.png)
+![Assign to the first responder in business hour](../../../.gitbook/assets/first-responder.png)
 
 * Out of business hours: Assign to one agent and Subot 
 
-![Out of business hours](../../../.gitbook/assets/out-of-business-hour.png)
+![Assign out of business hour](../../../.gitbook/assets/out-of-business-hour-2.png)
 
 ### Create a new rule
 
@@ -327,7 +327,7 @@ You can set one or more conditions based on **List of rule condition**.
 
 Select Agent\(s\) who will receive and take over conversations that meet the conditions set above.
 
-![Assign to Agents](../../../.gitbook/assets/assign-to-agent.png)
+![The ways to distribute conversations](../../../.gitbook/assets/assign-to.png)
 
 * _**Assign to all available agents:**_ Available agents are the one who that directly connected to Subiz on a computer or mobile app. When the agents do not connect to Subiz, the conversation to the agents is not distribute. 
 * _**Assign to specific agent\(s\):**_ assign conversations to one or several agents. Click \(+\), \(-\) to select/deselect Agent. 
@@ -335,6 +335,14 @@ Select Agent\(s\) who will receive and take over conversations that meet the con
 * _**Assign to group\(s\):**_ assign conversations to a group which is created before. 
 * _**Assign to agent\(s\) who has last activity with user:**_ assign conversation to agent\(s\) who have the latest conversation with user
 *  **Assign to agent\(s\) round robins:** You have multiple agents and want to divide conversations equally to agents.
+
+{% hint style="info" %}
+**Note**: In addition, with each of the above distribution ways, you can also select option assign to **Only available Agents**. The purpose of this option is to support businesses with many agents and work in fixed shifts. Agents who are not online will not be distributed and receive notifications for the conversation
+{% endhint %}
+
+For example: Assign round robin conversation to all online agents:
+
+![Assign round robin conversation to all online agents:](../../../.gitbook/assets/round-robin.png)
 
 **Note:**
 
