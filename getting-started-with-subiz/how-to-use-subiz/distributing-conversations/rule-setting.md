@@ -8,7 +8,7 @@ Rule is the hinge feature of Subiz - helping businesses to distribute customers.
 
 Depending on the need for conversation division, you can set up one or many rules. The rule works in order from top to bottom. You can arrange the order of rule in " **Reorder** " part.
 
-For example, your business has 3 sale agents who word at the same time during office hours. Beyond working hours, if you want to inform customers that you are not online and invite them to leave messages and contacts, you can install 2 rules as follows:
+For example, your business has 2 sale agents who word at the same time during office hours. Beyond working hours, if you want to inform customers that you are not online and invite them to leave messages and contacts, you can install 2 rules as follows:
 
 * During business hours: Apply competitive distribution - anyone who answers first will take care of that customer. 
 
