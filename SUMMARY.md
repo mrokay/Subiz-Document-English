@@ -66,6 +66,7 @@
     * [Visitor Tracking](optimise-the-use-of-subiz/managing-data/visitor-tracking.md)
     * [Block a User](optimise-the-use-of-subiz/managing-data/how-to-block-an-user.md)
     * [User Attributes](optimise-the-use-of-subiz/managing-data/users-attributes.md)
+    * [Export user's data](optimise-the-use-of-subiz/managing-data/export-users-data.md)
   * [Integration with third parties](optimise-the-use-of-subiz/integration-with-third-parties/README.md)
     * [Integration Google Analytics and Subiz](optimise-the-use-of-subiz/integration-with-third-parties/integration-google-analytics-and-subiz.md)
     * [Integration Facebook Pixel and Subiz](optimise-the-use-of-subiz/integration-with-third-parties/integration-facebook-pixel-and-subiz.md)
