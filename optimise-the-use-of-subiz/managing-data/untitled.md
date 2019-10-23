@@ -23,7 +23,7 @@ Conversations marked unread messages will display red notifications. The avatar 
 
 **Agent can follow a new user base on their address of the City + user code and Country.** You can click to select user and change user information such as Full name, Email address, Phone number ..... In order to update and manage multiple user data such as Billing cycle, Account ID, Website, ... you can add USER ATTRIBUTES as instructed here.
 
-![Edit user information](../../.gitbook/assets/thong-tin-user.png)
+![Edit user information](../../.gitbook/assets/thong-tin-user%20%281%29.png)
 
 ### User’s activities list 
 
