@@ -17,7 +17,7 @@ Kindly note:
 
 Login [App.subiz.com &gt; Settings &gt; Channels &gt; Messenger &gt; Connect to a Fan page](https://app.subiz.com/settings/messenger)
 
-![Connect to a Fanpage](../../.gitbook/assets/1.-ket-noi.png)
+![](../../.gitbook/assets/me4%20%281%29.png)
 
 ## Step 2: Login your Facebook account
 
@@ -39,7 +39,7 @@ You are granted to integrate some or all fan pages with Subiz:
 
 ![Choose what you allow Subiz](../../.gitbook/assets/3.-choose-page.png)
 
-* To connect some out of your pages with Subiz, you click “Choose what you allow” &gt; All pages &gt; Tick the ones you want to integrate with Subiz &lt; then Save
+* To connect some out of your pages with Subiz, you click **What Pages do you want to use with Subiz?** &gt; All pages &gt; Tick the ones you want to integrate with Subiz &lt; then Save
 
 ![Choose Pages connected on Subiz](../../.gitbook/assets/4.-pages.png)
 
