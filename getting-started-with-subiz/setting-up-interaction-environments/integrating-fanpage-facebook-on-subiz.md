@@ -47,7 +47,7 @@ You are granted to integrate some or all fan pages with Subiz:
 
 Once Messenger has been successfully integrated, the list of Fan Pages connected to Subiz will display as below:
 
-![List of Fanpages on Subiz](../../.gitbook/assets/5.-success.png)
+![](../../.gitbook/assets/me6.png)
 
 ## Some tips using Facebook Messenger on Subiz
 
@@ -74,7 +74,7 @@ You have 2 options to completely remove the fan pages which have been added to S
 
 Option 1: Remove Facebook page\(s\) from Subiz
 
-![Delete Fanpage on Subiz](../../.gitbook/assets/4.-delete%20%281%29.png)
+![](../../.gitbook/assets/me7.png)
 
 Option 2: Remove Subiz from Facebook page
 
