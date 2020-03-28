@@ -1,79 +1,100 @@
-# Integrating Messenger Facebook on Subiz
+# Integrating Facebook Messenger with Subiz
 
-Facebook Messenger is one of channels of Subiz communication platform. When integrating Messenger into Subiz, you can receive and reply to users messages from Fanpage\(s\) right on Subiz Dashboard.
+Facebook Messenger is one of the channels of Subiz. After integrating Messenger with Subiz, you can receive and reply to messages from Fan Page\(s\) right on Subiz Dashboard..
 
 {% hint style="info" %}
-Notes:
+Kindly note:
 
-* Connect to multiple-Fanpages into Subiz, conveniently reply users messages and easily manage users data.
-* Actively select a single Fanpage or many Fanpage of your own Fanpages, which you want to work and manage on Subiz.
+* You can add **multiple fan pages** to Subiz at the same time, which is convenient to reply to users’ messages and manage the data. 
+* You can choose one or any fan pages to integrate with Subiz.
 {% endhint %}
 
-## **3 Steps to integrate Messenger on Subiz :**
 
-### **Step 1: Connect to Fanpape**
 
-[Log in App.subiz.com &gt; Setting &gt; Acount &gt; Messenger &gt; Connect to a Fanpage](https://app.subiz.com/settings/messenger)\*\*\*\*
+## 3 Steps to integrate Messenger with Subiz**:**
+
+### **Step 1: Connect to a Fan page**
+
+Login [App.subiz.com &gt; Settings &gt; Channels &gt; Messenger &gt; Connect to a Fan page](https://app.subiz.com/settings/messenger)
 
 ![Connect to a Fanpage](../../.gitbook/assets/1.-ket-noi.png)
 
-### **Step 2: Log in your Facebook account to use with Subiz.**
+## Step 2: Login your Facebook account
 
-Pop-up appears. You can log in to use your Facebook account with Subiz. 
+Log in your Facebook account in which you are the admin of the fan pages.
 
 {% hint style="info" %}
-Note: Person with page roles as Admin, Editor, Moderator is allowed to connect to Fanpage on Subiz
+Kindly Note: Only those who play the role as Admin, Moderator or Writer are allowed to connect to the Fan page with Subiz.
 {% endhint %}
 
 ![Pop-up to log in your Facebook account with Subiz](../../.gitbook/assets/2.-login.png)
 
-### **Step 3: Choose Fanpage you want to connect on Subiz**
+## Step 3: Choose the Fan page you want to integrate with Subiz
 
-Subiz would like to manage your Pages, send messages from Pages you manage, send messages from Pages you manage at any time after the first user interaction and show a list of the Pages you manage.
+Subiz is allowed to manage your pages, send messages from your pages at any time since the first message and show the page lists you manage. 
+
+You are granted to integrate some or all fan pages with Subiz:
+
+* To connect all pages with Subiz, you just need to select OK
 
 ![Choose what you allow Subiz](../../.gitbook/assets/3.-choose-page.png)
 
-Choose to connect a single Fanpage or all Fanpage  on Subiz  
-****
+* To connect some out of your pages with Subiz, you click “Choose what you allow” &gt; All pages &gt; Tick the ones you want to integrate with Subiz &lt; then Save
 
 ![Choose Pages connected on Subiz](../../.gitbook/assets/4.-pages.png)
 
-#### **Successful Messenger integration**
+#### Integrate Facebook messenger successfully
 
-Once Messenger has been successfully integrated, the list of Fanpages connected to Subiz will display as follows:
+Once Messenger has been successfully integrated, the list of Fan Pages connected to Subiz will display as below:
 
 ![List of Fanpages on Subiz](../../.gitbook/assets/5.-success.png)
 
-## Some tips with Facebook Messenger on Subiz
+## Some tips using Facebook Messenger on Subiz
 
-### 1. **How to reply users messages from a Fanpage**
+### **1. How to receive and reply to messages from the Fan page.**
 
-To reply to a new income message from a user, go to tab [ACTIVITIES](https://app.subiz.com/activities) and see where your user is from.
+You will receive and reply to messages from the Fan page on the [**CONVERSATIONS**](https://app.subiz.com/convo).
 
-![To reply new income messages from Fanpage](../../.gitbook/assets/28.-mess-type.jpg)
+Rapidly, you will see a couple of information including the first message, the fan page name and conversation history \(if have\).
 
-### 2. **Connect to new Fanpage on Subiz**
+See more at [Instruction of managing Facebook messenger on Subiz](https://help.subiz.com/bat-dau-voi-subiz/lam-viec-tren-subiz/quan-ly-tin-nhan-messenger-va-binh-luan-fanpage)
 
-To add a new Fanpage on Subiz, you need to remove Subiz on Business Integrations on your Facebook account, then follow 3 steps of Messenger integration as above.
+![](../../.gitbook/assets/me1.png)
 
-![Remove Subiz on Business Integrations](../../.gitbook/assets/6.-delete%20%281%29.png)
+### 2. **Connect to a new Fanpage on Subiz**
 
-### **3. Delete the fanpage you have connected to Subiz**
+To integrate more Fan pages with Subiz, you go to [Messenger](https://app.subiz.com/settings/messenger) Settings &gt; click **Connect to a fan page** &gt; **Continue** &gt; **Edit Settings** to select the fan pages connected to Subiz &gt; **Continue** to complete.
 
-You need to take two steps to completely remove Fanpage connection on Subiz and not to receive new messages from that Fanpage.  
+![](../../.gitbook/assets/me3%20%281%29.png)
+
+### **3. Remove Fan pages connected to Subiz**
+
+You have 2 options to completely remove the fan pages which have been added to Subiz and you will no longer receive any new messages from those pages.  
 
 
-**Step 1**: Delete Fanpage on Subiz
+Option 1: Remove Facebook page\(s\) from Subiz
 
 ![Delete Fanpage on Subiz](../../.gitbook/assets/4.-delete%20%281%29.png)
 
-**Step 2**: Delete Subiz on Fanpage
+Option 2: Remove Subiz from Facebook page
 
-* If you want to delete all Fanpages on Subiz, you should do as followings: Log in your Facebook account &gt; Settings &gt; click Business Integrations &gt; select Remove Subiz 
+* Case 1: If you want to delete all Facebook Pages on Subiz, please follow these steps: 
+
+   &gt; Log in your Facebook account 
+
+   &gt; Settings &gt; click Business Integrations &gt; Remove Subiz.
 
 ![Remove Subiz on Business Integrations](../../.gitbook/assets/6.-delete.png)
 
-* If you want to delete only one of Fanpages on Subiz, you do as followings: Log in your Facebook account &gt; Go to your Fanpage you want to delele on Subiz &gt; Click Settings of Fanpage &gt; Click Messenger Platform &gt; Select "Uninstall" Subiz &gt; Confirm for done.
+* Case 2: If you just want to delete some the Fan pages on Subiz, please follow these steps: 
+
+    &gt; Log in your Facebook account 
+
+     &gt; Go to the Fan page you want to delete 
+
+     &gt; Settings &gt; Messenger Platform 
+
+     &gt; Uninstall Subiz &gt; Confirm
 
 ![Uninstall Subiz on Messenger Platform of Page](../../.gitbook/assets/7.-uninsstall.png)
 
