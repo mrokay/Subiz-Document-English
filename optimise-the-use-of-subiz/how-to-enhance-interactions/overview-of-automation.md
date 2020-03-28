@@ -312,6 +312,11 @@ You can read more about Condition here:
         <ul>
           <li><a href="https://countrycode.org/">List of City Code </a>: You can click
             to country to find city code</li>
+          <li>
+            <p><a href="https://en.wikipedia.org/wiki/ISO_3166-2">List of Country code </a>
+            </p>
+            <p></p>
+          </li>
         </ul>
       </td>
       <td style="text-align:left">

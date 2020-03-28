@@ -2,63 +2,55 @@
 
 ### What is Subiz Chat?
 
-[Subiz Chat](https://subiz.com/live-chat.html) is a channel for you to interact with visitors on your website.  After integrating Subiz widget into your web, you can **interact, follow and convert visitors into customers.**
+[Subiz Chat](https://subiz.com/live-chat.html) is a live chat platform that allows you to reach your customers directly from your website. After integrating [Subiz](https://subiz.com/vi/live-chat.html) with your website, you can successfully **communicate, follow** and **convert** visitors into customers. 
 
-### How to integrate Subiz on your website
+### How to integrate Subiz with your website
 
-To integrate Subiz widget into your website, please follow these three steps below:
+To add [Subiz](https://subiz.com/vi/live-chat.html) Widget to your website, **you copy the embed code** and **paste it before the closing &lt;body&gt; tag** on the website code. Please carefully follow the 3 steps below:
 
-#### **Step 1: Get Subiz’s embed code**
+#### **Step 1: Get the embed code.**
 
-To integrate [Subiz chat](https://subiz.com/live-chat.html) widget into website, you just need to copy the embed code \(mustn’t change any part of it\) and paste into pages you want to place the chat widget.
+To get the embed code, you sign in Subiz via [**App.subiz.com**](https://app.subiz.com/) &gt; Settings &gt; Channels &gt; Subiz chat &gt; [**Set up website**](https://app.subiz.com/settings/widget-setting/setting-website)**.**
 
-To get embed code, follow steps below:
+Here you choose **"Copy code**" to place on your website
 
-1. Sign in to [app.subiz.com](https://app.subiz.com/)
-2. Click **Settings &gt; Account &gt; Installation**
-3. At Subiz Chat Widget &gt; **Subiz Embed Code**, click **Copy code** to copy the embed code quickly.
-
-![Embed code](../../../.gitbook/assets/embed-code.png)
+![](../../../.gitbook/assets/anh-1-1.png)
 
 {% hint style="info" %}
-Every single account has different embed code so when you change the account you have to re-install embed code.
+_**Kindly note**: Should you change your Subiz account, please replace the corresponding embed code  on your website as well._ 
 {% endhint %}
 
-#### **Step 2: Place embed code into website**
+**Step 2: Add the embed code to the website**
 
-[Subiz ](https://subiz.com/en)supports almost all platforms so the installation is very simple. Copy the code and Embed into every pages you want to place the chat widget. Subiz code must be pasted before &lt;/body**&gt;** tag.
+You can integrate Subiz easily with most platforms such as Shopify, Wix or Magento.
+
+After copying the code, you place it on any pages where you want the Subiz Widget to display. Subiz code must be pasted before **&lt;/body&gt;** tag.
 
 ![Place embed code into website](../../../.gitbook/assets/anigif.gif)
 
-#### **Step 3: Check Subiz’s widget on website**
+_**Kindly note:** In case you are not familiar with this, you are recommended to ask for the designer’s support. Simply, you just need to put their email address into **“Send this code to your webmaster”**. Subiz will automatically send them a detailed guide on how to integrate with your website._ 
 
-After finishing integration, come back to your website and see if the chat widget displays at the bottom of the right corner or not.
+![](../../../.gitbook/assets/anh-3.png)
 
-If you still don’t see the chat widget, you can take some more steps to check it in Dashboard:
+**Step 3: Check out the widget on your website**
 
-1. Sign in **app.subiz.com**
-2. Click into **Settings &gt; Account &gt;** **Installation**
-3. Paste your **website’s URL** and click **Check**
+After finishing integration, return to your home page, the Subiz widget will display in the right-hand corner**.**
 
-![Check the embed code in your website](../../../.gitbook/assets/check-code.png)
-
-{% hint style="info" %}
-If not successfully, check the code again or contact Subiz support center.
-{% endhint %}
+In case you cannot see the Subiz widget, please double check if the code has been placed in the right position or contact us at **Support@subiz.com.**
 
 ### Integrate Subiz via Google Tag Manager
 
-Subiz works with Google Tag Manager 
+Subiz works closely with Google Tag Manage 
 
-When you use Google Tag Manager on your website, you can integrate Subiz chat into your website through Google Tag Manager according to the following steps: 
+An easy way to add the service to your website is through Google Tag Manager according to the steps below:  
 
-* **Sign in** [Tagmanager.google.com](https://tagmanager.google.com)
-* **Select website account** will integrate Subiz chat at All account
+* **Sign in** at [Tagmanager.google.com](https://tagmanager.google.com)
+* **Select website account** which will integrate Subiz chat at All account
 * **Create new Tag**: At WORKSPACE, select Tags&gt; NEW
 
 ![Create new Tag](../../../.gitbook/assets/2-tags-copy.jpg)
 
-* **Untitled Tag**: Edit Tag name to understand Tag function
+* **Untitled Tag**: Label the tag to understand how it works
 * **Tag Configuration**: Select tag type: Custom HTML&gt; Copy the embed code Subiz and paste it into the HTML box
 * **Tick \(choose\) Support document.write**
 * **Triggering**: Select All Pages if you want to display the Subiz chat window on all pages of the website
@@ -66,16 +58,18 @@ When you use Google Tag Manager on your website, you can integrate Subiz chat in
 ![Tag Subiz chat on Google Tag Manager](../../../.gitbook/assets/1-subiz-chat-copy.jpg)
 
 {% hint style="info" %}
-Note:  The trigger tells the tag to fire when the specified event like form submissions, button clicks, or page views is detected. For examples:
 
-* All Pages will display the Subiz chat window.
-* Only some pages will display the Subiz chat window.
-* Visitors have a specific event such as a pageview, a click on a button, a form submission, .... will display the Subiz chat window.
+
+_**Kindly note:** The Trigger aims to show how the Subiz Tag works. You can customize the Trigger according to your own needs. For examples:_
+
+* _All Pages will display the Subiz chat window._
+* _Only some pages will display the Subiz chat window._
+* _When visitors have a specific event such as a pageview, a click on a button, a form submission, .... the Subiz chat will be displayed._
 {% endhint %}
 
-* Select SAVE &gt; select SUBMIT in the right corner of the screen &gt; Enter the description in Publish and Create Version &gt; select PUBLISH to complete.
+* Select **SAVE** &gt; select **SUBMIT** in the right corner &gt; Enter the description in Publish and Create Version &gt; select **PUBLISH** to complete.
 
-Now, go to the website and select F5 reload the page, check the display of Subiz chat window Subiz on your website.
+Now, go to the website and reload the page \(F5\), then check the display of Subiz chat on your website**.**
 
 > We are here for you help. Let us know if you have any questions via email Support@Subiz.com
 
