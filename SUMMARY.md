@@ -59,6 +59,8 @@
       * [Classify and follow up a potential user](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/classify-and-follow-up-a-potential-user.md)
       * [Manage Customer Support with Email Transcript](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/manage-customer-support-with-email-transcript.md)
       * [Setting up to receive an email notification when users update information](optimise-the-use-of-subiz/how-to-enhance-interactions/automation-applications/setting-up-to-receive-an-email-notification-when-users-update-information.md)
+  * [High converting pop-ups](optimise-the-use-of-subiz/high-converting-pop-ups.md)
+  * [Create a Pop-up campaign](optimise-the-use-of-subiz/create-a-pop-up-campaign.md)
   * [Managing user data](optimise-the-use-of-subiz/managing-data/README.md)
     * [Users segmentation](optimise-the-use-of-subiz/managing-data/customer-segmentation/README.md)
       * [View Default Segments](optimise-the-use-of-subiz/managing-data/customer-segmentation/utilizing-default-segments.md)
