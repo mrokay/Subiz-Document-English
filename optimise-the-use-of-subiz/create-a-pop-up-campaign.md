@@ -32,13 +32,13 @@ Customers tend to respond \(sign-up for your list or complete their purchase, et
 
 * **Collect customers’ data**
 
-By using the information form, you can collect customers’ data. Here, you can add more fields such as phone number, email address or feedback.
+By using the information form, you can collect customer data. Here, you can add more fields such as phone number, email address or feedback.
 
 Kindly note: Keep your form simple. 1 or 2 fields are good enough to boost those conversions further.
 
 * **Call customer to do action** 
 
-To keep your customers staying on the Pop-up, you should create a highlighted action button that engages them to click on it. importantly, to keep your customers engaged with the Pop-up, we recommend creating a highlighted action button.
+Importantly, to keep your customers engaged with the Pop-up, we recommend creating a highlighted action button.
 
 On Subiz Pop-up, there are 2 action buttons including the primary button and second button. With each button, you can add more functions to run in the background as below:
 
@@ -66,7 +66,7 @@ Specifically, adding Popup animation will bring a new impression to customers.
 
 You can create ****a Pop-up with 3 targets:
 
-* **Timing:** Depending on customers’ behavior on the website, you can set up the target at “When to show**”**
+* **Timing:** Depending on customer behavior on the website, you can set up the target at “When to show**”**
 
 Subiz automatically identifies 4 customer behaviors on your website
 
