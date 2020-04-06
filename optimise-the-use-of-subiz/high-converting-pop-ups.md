@@ -34,7 +34,7 @@ Customers’ opinions are the standard measure of satisfaction within a business
 
 Pop-ups offer to engage customers to chat online right on the Subiz widget, Facebook chat or Zalo. From there, you can understand the needs of the targeted customers.
 
-### **3.  Frequently Asked Questions about Pop-ups** 
+### **3.  Frequently Asked Questions about Pop-ups**
 
 * _**Is it easy to install Pop-ups?**_
 
