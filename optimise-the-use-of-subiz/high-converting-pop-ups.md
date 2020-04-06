@@ -16,7 +16,7 @@ Businesses can convey promotional messages, products or service advertising and 
 
 ### **2. 4 considerable benefits to use Pop-ups**
 
-Pop-ups are an effective advertising tool for businesses thanks to 4 considerable advantages below:
+Pop-ups are an effective advertising tool for businesses due to 4 considerable advantages below:
 
 * **Creating impressive advertisements and impulse purchases**
 
