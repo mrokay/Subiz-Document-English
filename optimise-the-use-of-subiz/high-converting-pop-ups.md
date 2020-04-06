@@ -54,7 +54,7 @@ Yes, you can choose the available background from Subiz Pop-ups library or creat
 
 * _**Can I send emails to customers filling out information on Pop-ups?**_
 
-Yes, when the customer has entered the email address into the Pop-ups, an automated email will be delivered to the customer when set up is completed.
+Yes, as soon as the customer has entered the email address into the Pop-ups, an automated email will be delivered to the customer when set up is completed.
 
 * _**Can I analyze the conversion and customer information from Pop-ups?**_
 
