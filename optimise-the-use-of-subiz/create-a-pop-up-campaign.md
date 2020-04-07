@@ -30,7 +30,7 @@ This is a very important first step. Visitors will be drawn to the content of yo
 
 Customers tend to respond \(sign-up for your list or complete their purchase, etc\) when they see something urgent such as time limits or product limits
 
-* **Collect customers’ data**
+* **Collect customer data**
 
 By using the information form, you can collect customer data. Here, you can add more fields such as phone number, email address or feedback.
 
@@ -68,7 +68,7 @@ You can create ****a Pop-up with 3 targets:
 
 * **Timing:** Depending on customer behavior on the website, you can set up the target at “When to show**”**
 
-Subiz automatically identifies 4 customer behaviors on your website
+With Subiz, we automatically pick out customers based on 4 main behavioral patterns on our website.
 
 + When a visitor is about to exit the page: On exit-intent
 
