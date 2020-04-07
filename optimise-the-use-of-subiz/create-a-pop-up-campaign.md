@@ -68,7 +68,7 @@ You can create ****a Pop-up with 3 targets:
 
 * **Timing:** Depending on customer behavior on the website, you can set up the target at “When to show**”**
 
-With Subiz, we automatically pick out customers based on 4 main behavioral patterns on our website.
+With Subiz, we automatically pick out customers based on 4 main behavioral patterns on the website.
 
 + When a visitor is about to exit the page: On exit-intent
 
